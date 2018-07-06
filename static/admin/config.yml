@@ -21,14 +21,6 @@ collections:
       - {label: "Description", name: "description", required: true, widget: "list"}
       - {label: "Thumbnail Image", name: "thumbnail", required: false, widget: "image"}
       - {label: "Image", name: "image", required: false, widget: "image"}
-      - label: "Gallery"
-        name: "galleria"
-        widget: "list"
-        required: false
-        fields:
-          - {label: "Title", name: "imgTitle", widget: "string"}
-          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
-          - {label: "Description", name: "imgDesc", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
 

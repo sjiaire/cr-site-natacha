@@ -7,12 +7,5 @@
         <p>Posted {{ .Date.Format "2 Jan 2006" }}</p>
         {{ end }}
     </header>
-    {{ if isset .Params "galleria" }}
-    <div class="galleria">
-    {{ range .Params.galleria}}
-    <img src="{{ .imgSrc }}" alt="{{ .imgTitle }}" data-title="{{ .imgTitle }}" data-description="{{ .imgDesc }}">
-    {{ end }}
-    </div>
-    {{ end }}
     {{ .Content }}
 </article>
