@@ -9,11 +9,10 @@ image: /images/uploads/0001.jpg
 ---
 This is the galleria I'm talking about
 
-
-
 {{< gallery >}}
   {{< figure src="/images/uploads/0002.jpg" >}}
   {{< figure src="/images/uploads/0003.jpg" >}}
   {{< figure src="/images/uploads/0004.jpg" >}}
+  {{< figure src="/images/uploads/0005.jpg" >}}
 {{< /gallery >}}
 {{< load-photoswipe >}}
