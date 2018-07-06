@@ -6,7 +6,7 @@ theme = "dopetrope"
 [params.portfolio]
     title = "Appartments"
     foldername = "appartments"
-    findoutmoretext = "Find out more"
+    findoutmoretext = "View Detailed Appartment"
 
 [params.blog]
     title = "Houses"
