@@ -4,7 +4,7 @@ date: '2018-07-06T11:10:10+02:00'
 draft: false
 description:
   - Example Description
-thumbnail: /images/uploads/0001.jpg
+thumbnail: images/pic09.jpg
 image: /images/uploads/0004.jpg
 bedrooms:
   - '4'
