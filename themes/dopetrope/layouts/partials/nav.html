@@ -12,11 +12,7 @@
         {{ if $blogPosts }}
         <li>
             <a href="{{ .Site.BaseURL }}{{ .Site.Params.Blog.foldername }}">{{ .Site.Params.Blog.title }}</a>
-            <ul>
-                {{ range $blogPosts }}
-                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-                {{ end }}
-            </ul>
+
         </li>
         {{ end }}
         <li><a href="{{ .Site.BaseURL }}#contact">Contact</a></li>
