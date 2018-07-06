@@ -11,4 +11,9 @@ This is the galleria I'm talking about
 
 
 
-{{< gallery dir="/img/cities" />}} {{< load-photoswipe >}}
+{{< gallery >}}
+  {{< figure src="/images/uploads/0002.jpg" >}}
+  {{< figure src="/images/uploads/0003.jpg" >}}
+  {{< figure src="/images/uploads/0004.jpg" >}}
+{{< /gallery >}}
+{{< load-photoswipe >}}
