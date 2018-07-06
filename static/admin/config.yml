@@ -21,6 +21,11 @@ collections:
       - {label: "Description", name: "description", required: true, widget: "list"}
       - {label: "Thumbnail Image", name: "thumbnail", required: false, widget: "image"}
       - {label: "Image", name: "image", required: false, widget: "image"}
+      - {label: "Bedrooms", name: "bedrooms", required: true, widget: "list"}
+      - {label: "Rooms (total)", name: "rooms", required: true, widget: "list"}
+      - {label: "Land Size (m²)", name: "landsize", required: true, widget: "list"}
+      - {label: "Baths", name: "baths", required: true, widget: "list"}
+      - {label: "Fully furnished", name: "fullyFurnished", required: true, widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
 
 
