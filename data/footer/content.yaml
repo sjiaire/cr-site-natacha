@@ -1,0 +1,17 @@
+#
+sections:
+- title: 'New Appartments & Houses'
+
+- title: "What's this all about?"
+  imagelink: '#'
+  imageurl: "images/pic10.jpg"
+  description: "This is your dream house during your stay in Rwanda"
+  buttonlink: "#"
+  buttontext: "Find out more"
+
+- title: 'Tempus consequat'
+
+- title: 'Ipsum et phasellus'
+
+- title: 'Vitae tempor lorem'
+

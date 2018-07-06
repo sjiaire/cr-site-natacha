@@ -1,0 +1,7 @@
+title = "3rd post Test on July 6th"
+date = "2018-07-06T01:50:26+02:00"
+draft = false
+description = ["This is the 3rd test post on July 6th"]
+thumbnail = "/images/uploads/housetolet_468x428.jpg"
+image = "/images/uploads/housetolet_468x428.jpg"
+body = "3rd post to see if the generated article is correct."

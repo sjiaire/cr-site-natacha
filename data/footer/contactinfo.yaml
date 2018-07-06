@@ -1,0 +1,10 @@
+addresslines:
+- line: 'Cocoon Rwanda Ltd'
+
+- line: '1234 Somewhere Road '
+
+- line: 'Kigali, Rwanda'
+
+email: 'someone@cocoonrwanda.tld'
+
+phone: '(+250) 777 777 777'

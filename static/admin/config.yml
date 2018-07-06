@@ -1,0 +1,47 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+publish_mode: editorial_workflow
+
+media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+
+  - name: "houses" # Used in routes, e.g., /admin/collections/posts
+    label: "Houses" # Used in the UI
+    folder: "content/houses" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", required: false, widget: "datetime"}
+      - {label: "Draft", name: "draft", required: false, widget: "boolean", default: false}
+      - {label: "Description", name: "description", required: true, widget: "list"}
+      - {label: "Thumbnail Image", name: "thumbnail", required: false, widget: "image"}
+      - {label: "Image", name: "image", required: false, widget: "image"}
+      - label: "Gallery"
+        name: "galleria"
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+
+  - name: "appartments" # Used in routes, e.g., /admin/collections/posts
+    label: "Appartments" # Used in the UI
+    folder: "content/appartments" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", required: false, widget: "datetime"}
+      - {label: "Draft", name: "draft", required: false, widget: "boolean", default: false}
+      - {label: "Description", name: "description", required: true, widget: "list"}
+      - {label: "Thumbnail Image", name: "thumbnail", required: false, widget: "image"}
+      - {label: "Image", name: "image", required: false, widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}

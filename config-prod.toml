@@ -1,0 +1,17 @@
+languageCode = "en-us"
+title = "Cocoon Rwanda"
+baseURL = "https://wonderful-morse-8be60f.netlify.com/"
+theme = "dopetrope"
+
+[params.portfolio]
+    title = "Current"
+    foldername = "appartments"
+    findoutmoretext = "Find out more"
+
+[params.blog]
+    title = "All Houses"
+    viewalltext = "View All"
+    foldername = "houses"
+
+[params.settings]
+    googleanalytics = "UA-XXXXXXXXX-X"

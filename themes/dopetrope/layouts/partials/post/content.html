@@ -1,0 +1,19 @@
+<!-- Content -->
+<article class="box post">
+    <a href="#" class="image featured"><img src="{{ .Site.BaseURL }}{{ .Params.image }}" alt="" /></a>
+    <header>
+        <h2>{{ .Title }}</h2>
+        {{ if not .Date.IsZero }}
+        <p>Posted {{ .Date.Format "2 Jan 2006" }}</p>
+        {{ end }}
+    </header>
+    {{ if isset .Params "galleria" }}
+    <div class="galleria">
+    {{ range .Params.galleria}}
+    <img src="{{ .imgSrc }}" alt="{{ .imgTitle }}" data-title="{{ .imgTitle }}" data-description="{{ .imgDesc }}">
+    {{ end }}
+    </div>
+    {{ end }}
+    {{< load-photoswipe >}}
+    {{ .Content }}
+</article>
