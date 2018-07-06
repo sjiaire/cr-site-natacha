@@ -23,7 +23,8 @@ galleria:
     imgSrc: /images/uploads/0005.jpg
     imgTitle: image 5
 ---
-
 A suite of 5 images to test out Galleria super well powered!!
 
 check this out.
+
+{{< gallery dir="/img/cities" />}} {{< load-photoswipe >}}
