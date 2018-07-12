@@ -11,7 +11,7 @@ thumbnail: /images/uploads/housetolet_468x428.jpg
 image: /images/uploads/0001.jpg
 bedrooms: '3'
 baths: Ground
-furnished: 'Yes'
+furnished: 'No'
 sleeps: '4'
 garden: 'Yes'
 maid: 'No'
