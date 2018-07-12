@@ -10,7 +10,22 @@
                 <a href="{{ .Permalink }}" class="image featured"><img src="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" alt="" /></a>
                 <header>
                     <h3>{{ .Title }}</h3>
-                    <p>Posted {{ .Date.Format "2 Jan 2006" }}</p>
+                    <p>Posted {{ .Date.Format "2 Jan 2006" }}
+                    </br>N° of Bedrooms: {{ .Params.bedrooms }}</br>
+                    N° of Bathsrooms: {{ .Params.baths }}</br>
+                    Furnished: {{ .Params.furnished }}</br>
+                    N° of Floors: {{ .Params.floors }}</br>
+                    N° of Sleeps: {{ .Params.sleeps }}</br>
+                    Garden: {{ .Params.garden }}</br>
+                    Maid Service: {{ .Params.maid }}</br>
+                    TV: {{ .Params.tv }}</br>
+                    Wifi: {{ .Params.wifi }}</br>
+                    Hot Water: {{ .Params.hotwater }}</br>
+                    Water Pump: {{ .Params.waterpump }}</br>
+                    Pets Allowed: {{ .Params.pets }}</br>
+                    N° of Parking spots: {{ .Params.parking }}</br>
+                    Security: {{ .Params.security }}</br>
+                    Price: {{ .Params.price }}</p>
                 </header>
                 <p>{{ .Description }}</p>
                 <footer>
