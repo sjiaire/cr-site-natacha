@@ -1,4 +1,5 @@
 ---
+property: Appartment
 title: Chic Gacuriro
 date: '2018-07-13T01:33:05+02:00'
 draft: false
