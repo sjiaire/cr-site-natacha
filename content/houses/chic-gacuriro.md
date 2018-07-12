@@ -2,11 +2,12 @@
 title: Chic Gacuriro
 date: '2018-07-13T01:33:05+02:00'
 draft: false
+hidesidebar: true
 description: >-
   Stay in this beautiful 5 bedroom house located in the a residential area in
   Gacuriro.   ​  This elegant 2-story residence is cosy and functional with
   several appliances. Outside, its large porch overlooks a vast flowery front
-  yard and garden ! 
+  yard and garden !
 thumbnail: /images/uploads/0003.jpg
 image: /images/uploads/0003.jpg
 bedrooms: '3'
