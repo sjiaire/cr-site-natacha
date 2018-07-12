@@ -20,11 +20,11 @@ collections:
     folder: "content/houses" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    hidesidebar: "true"
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", required: false, widget: "datetime"}
       - {label: "Draft", name: "draft", required: false, widget: "hidden", default: false}
+      - {label: "Hide sidebar", name: "hidesidebar", required: false, widget: "hidden", default: true}
       - {label: "Short Description", name: "description", required: true, widget: "string"}
       - {label: "Thumbnail Image", name: "thumbnail", required: false, widget: "image"}
       - {label: "Image", name: "image", required: false, widget: "image"}
