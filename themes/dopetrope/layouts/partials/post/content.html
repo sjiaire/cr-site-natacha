@@ -7,5 +7,6 @@
         <p>Posted {{ .Date.Format "2 Jan 2006" }}</p>
         {{ end }}
     </header>
+    {{ .Params.bedrooms }}
     {{ .Content }}
 </article>
