@@ -9,6 +9,7 @@
             <section class="box">
                 <a href="{{ .Permalink }}" class="image featured"><img src="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" alt="" /></a>
                 <header>
+                    <h4>{{ .Params.property }}</h4>
                     <h3>{{ .Title }}</h3>
                     <p>Posted {{ .Date.Format "2 Jan 2006" }}
                     </br>N° of Bedrooms: {{ .Params.bedrooms }}</br>
