@@ -12,6 +12,7 @@ image: /images/uploads/0005.jpg
 bedrooms: '2'
 baths: '1'
 furnished: 'Yes'
+floors: Ground Floor
 sleeps: '4'
 garden: 'Yes'
 maid: 'No'
