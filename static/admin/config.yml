@@ -38,7 +38,7 @@ collections:
       - {label: "Wifi", name: "wifi", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "Hot Water", name: "hotwater", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "Water Pump", name: "waterpump", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Pets", name: "pets", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Pets Allowed", name: "pets", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "N° of Parking spots", name: "parking", required: true, widget: "select", options: ["0", "1", "2", "3", "4", "5", "6+"]}
       - {label: "Security", name: "security", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "Price", name: "price", required: true, widget: "string"}
