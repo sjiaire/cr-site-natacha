@@ -3,11 +3,6 @@ title = "Cocoon Rwanda"
 baseURL = "https://cocoonrwanda.101experiments.com/"
 theme = "dopetrope"
 
-[params.portfolio]
-    title = "Appartments"
-    foldername = "appartments"
-    findoutmoretext = "View Detailed Appartment"
-
 [params.blog]
     title = "Properties"
     viewalltext = "All Properties"
