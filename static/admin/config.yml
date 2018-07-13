@@ -14,7 +14,7 @@ display_url: https://cocoonrwanda.101experiments.com
 
 collections:
 
-  - name: "houses" # Used in routes, e.g., /admin/collections/posts
+  - name: "properties" # Used in routes, e.g., /admin/collections/posts
     label: "Properties" # Used in the UI
     label_singular: "Property"
     folder: "content/properties" # The path to the folder where the documents are stored
