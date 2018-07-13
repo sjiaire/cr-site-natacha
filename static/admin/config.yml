@@ -15,8 +15,8 @@ display_url: https://cocoonrwanda.101experiments.com
 collections:
 
   - name: "houses" # Used in routes, e.g., /admin/collections/posts
-    label: "Houses" # Used in the UI
-    label_singular: "House"
+    label: "Properties" # Used in the UI
+    label_singular: "Property"
     folder: "content/houses" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md

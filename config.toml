@@ -9,8 +9,8 @@ theme = "dopetrope"
     findoutmoretext = "View Detailed Appartment"
 
 [params.blog]
-    title = "Houses"
-    viewalltext = "All Houses"
+    title = "Properties"
+    viewalltext = "All Properties"
     foldername = "houses"
 
 [params.settings]
