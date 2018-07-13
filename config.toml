@@ -11,7 +11,7 @@ theme = "dopetrope"
 [params.blog]
     title = "Properties"
     viewalltext = "All Properties"
-    foldername = "houses"
+    foldername = "properties"
 
 [params.settings]
     googleanalytics = "UA-119431851-1"
