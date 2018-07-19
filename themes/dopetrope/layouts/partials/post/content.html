@@ -23,14 +23,18 @@
     <p>N° of Parking spots: {{ .Params.parking }}</p>
     <p>Security: {{ .Params.security }}</p>
     <p>Price: {{ .Params.price }}</p>
-    <p> {{ .URL }}</p>
+
     {{ .Content }}
     <br/>
     <form name="Request Availability" method="POST" netlify>
-        <input type="hidden" name="Request Property on page" value={{ .Params.slug }}/>
+        <input id= "pageURL" type="hidden" name="Request Property on page" value=""/>
         <p><label>Your Name: <input type="text" name="name" /></label></p>
         <p><label>Your Email: <input type="email" name="email" /></label></p>
         <p><label>Message: <textarea name="message"></textarea></label></p>
         <p><button type="submit">Send</button></p>
     </form>
+    <script type="text/javascript">
+        var currentPageURL = "https://cocoonrwanda.101experiments.com" + {{ .URL }};
+        document.getElementById("pageURL").value=currentPageURL;
+    </script>
 </article>
