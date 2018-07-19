@@ -19,11 +19,11 @@ collections:
     label_singular: "Property"
     folder: "content/properties" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Property Type", name: "property", required: true, widget: "select", options: ["House", "Appartment", "Short Term"]}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Reference", name: "reference", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Publish Date", name: "date", required: false, widget: "datetime"}
       - {label: "Draft", name: "draft", required: false, widget: "hidden", default: false}
       - {label: "Hide sidebar", name: "hidesidebar", required: false, widget: "hidden", default: true}
