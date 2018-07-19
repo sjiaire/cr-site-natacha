@@ -5,7 +5,7 @@
         <h3>{{ .Params.property }}</h3>
         <h2>{{ .Title }}</h2>
         {{ if not .Date.IsZero }}
-        <p>Posted {{ .Date.Format "2 Jan 2006" }}</p>
+        <!-- <p>Posted {{ .Date.Format "2 Jan 2006" }}</p> -->
         {{ end }}
     </header>
     <p>N° of Bedrooms: {{ .Params.bedrooms }}</p>
@@ -36,7 +36,7 @@
         <p><button type="submit">Send</button></p>
     </form>
     <script type="text/javascript">
-        var currentPageURL = "https://cocoonrwanda.101experiments.com" + {{ .URL }};
+        var currentPageURL = "https://cocoonrwanda.101experiments.com" + {{.URL}};
         document.getElementById("pageURL").value=currentPageURL;
     </script>
 </article>

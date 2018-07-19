@@ -1,7 +1,7 @@
 <!-- Blog -->
 <section id="blog">
     <header class="major">
-        <h2>{{ .title }}</h2>
+        <!-- <h2>{{ .title }}</h2> -->
     </header>
     <div class="row">
         {{ range .paginator.Pages }}
@@ -11,7 +11,8 @@
                 <header>
                     <h4>{{ .Params.property }}</h4>
                     <h3>{{ .Title }}</h3>
-                    <p>Posted {{ .Date.Format "2 Jan 2006" }}
+                    <!-- <p>Posted {{ .Date.Format "2 Jan 2006" }}</p> -->
+                    <p>
                     </br>N° of Bedrooms: {{ .Params.bedrooms }}</br>
                     N° of Bathsrooms: {{ .Params.baths }}</br>
                     Furnished: {{ .Params.furnished }}</br>
@@ -28,7 +29,7 @@
                     Security: {{ .Params.security }}</br>
                     Price: {{ .Params.price }}</p>
                 </header>
-                <p>{{ .Description }}</p>
+
                 <footer>
                     <ul class="actions">
                         <li><a href="{{ .Permalink }}" class="button icon fa-file-text">View Detailed Property</a></li>
