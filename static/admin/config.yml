@@ -23,7 +23,7 @@ collections:
       - {label: "Property Type", name: "property", required: true, widget: "select", options: ["House", "Appartment", "Short Term"]}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Reference", name: "reference", widget: "string"}
-      - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Slug (i.e: xxx-xxx-xxx in small letters)", name: "slug", widget: "string"}
       - {label: "Publish Date", name: "date", required: false, widget: "datetime"}
       - {label: "Draft", name: "draft", required: false, widget: "hidden", default: false}
       - {label: "Hide sidebar", name: "hidesidebar", required: false, widget: "hidden", default: true}
