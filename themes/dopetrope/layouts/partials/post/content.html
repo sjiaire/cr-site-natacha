@@ -26,7 +26,7 @@
     {{ .Content }}
     <br/>
     <form name="contact" method="POST" netlify>
-        <p class="hidden"> <label>Page URL where message was sent from: <input name="slug" type="text" value="{{ .Params.slug }}"/> </label></p>
+        <p class="hidden" type="hidden"> <label type="hidden">Page URL where message was sent from: <input name="slug" type="hidden" value="{{ .Params.slug }}"/> </label></p>
         <p><label>Your Name: <input type="text" name="name" /></label></p>
         <p><label>Your Email: <input type="email" name="email" /></label></p>
         <p><label>Message: <textarea name="message"></textarea></label></p>
