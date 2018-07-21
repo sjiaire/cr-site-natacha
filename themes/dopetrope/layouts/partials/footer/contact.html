@@ -3,11 +3,9 @@
     <li>
         <h3>Address</h3>
         <p>
-            
             {{ range $i, $e := .Site.Data.footer.contactinfo.addresslines }}
             {{ if $i }} <br/> {{ end }} {{ .line }}
             {{ end }}
-
         </p>
     </li>
     {{ end }}

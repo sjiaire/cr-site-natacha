@@ -1,10 +1,6 @@
 addresslines:
 - line: 'Cocoon Rwanda Ltd'
-
-- line: '1234 Somewhere Road '
-
-- line: 'Kigali, Rwanda'
-
-email: 'someone@cocoonrwanda.tld'
-
-phone: '(+250) 777 777 777'
+- line: 'Centre Pastoral Saint Paul'
+- line: 'Nyarugenge, Kigali, Rwanda'
+email: 'team@cocoonrwanda.com'
+phone: '+250 784 445 226'

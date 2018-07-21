@@ -7,7 +7,7 @@
         {{ range .paginator.Pages }}
         <div class="6u 12u(mobile)">
             <section class="box">
-                <a href="{{ .Permalink }}" class="image featured"><img style="width:580px; height:272px;"  src="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" alt="" /></a>
+                <a href="{{ .Permalink }}" class="image featured"><img  src="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" alt="" /></a>
                 <header>
                     <h4>{{ .Params.property }}</h4>
                     <h3>{{ .Title }}</h3>
