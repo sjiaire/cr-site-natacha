@@ -10,9 +10,8 @@
 /* CSS Grid*/
 .img-grid {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(4, 1fr);
 	grid-row-gap: 5px;
-
 }
 
 
@@ -1808,7 +1807,7 @@
 		/* Box */
 
 			.box {
-				padding: 2.75em 1.75em 2.75em 1.75em;
+				padding: 2.75em 1.75em 2em 1.75em;
 			}
 
 				.box .image.featured {
