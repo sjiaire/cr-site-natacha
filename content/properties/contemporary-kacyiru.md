@@ -1,6 +1,8 @@
 ---
 property: House
 title: Contemporary Kacyiru
+reference: '8787878787'
+slug: contemporary-kacyiru-8787878787
 date: '2018-07-13T09:44:04+02:00'
 draft: false
 hidesidebar: true
@@ -14,7 +16,6 @@ image: /images/uploads/1.-entrance.jpg
 bedrooms: '3'
 baths: '2'
 furnished: 'Yes'
-floors: Ground Floor
 sleeps: '2'
 garden: 'Yes'
 maid: 'No'
@@ -25,6 +26,8 @@ waterpump: 'No'
 pets: 'Yes'
 parking: '3'
 security: 'No'
+shortterm: 'No'
+minimumstay: 1 Year
 price: 'Rwf 450,000 / month'
 ---
 {{< gallery >}}
