@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,300italic");
+@import url("https://fonts.googleapis.com/css?family=Spectral:300,400,700,900,300italic");
 
 /*
 	Dopetrope by HTML5 UP
@@ -14,7 +14,11 @@
 	grid-row-gap: 5px;
 }
 
-
+.list-features {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+	grid-row-gap: 2px;
+}
 
 
 
@@ -1079,7 +1083,7 @@
 
 	body {
 		background: #252122;
-		font-family: 'Source Sans Pro';
+		font-family: 'Spectral';
 		font-weight: 300;
 		color: #5d5d5d;
 	}
@@ -1096,7 +1100,7 @@
 		}
 
 	input, textarea, select {
-		font-family: 'Source Sans Pro';
+		font-family: 'Spectral';
 		font-weight: 300;
 		color: #5d5d5d;
 	}
@@ -1274,7 +1278,6 @@
 	header.major {
 		position: relative;
 		text-align: center;
-		border-top: solid 1px #ccc;
 		top: 1em;
 	}
 
@@ -1942,7 +1945,7 @@
 						border-radius: 5px;
 						color: #fff;
 						text-decoration: none;
-						padding: 0.6em 1em 0.7em 1em;
+						padding: 0.45em 1em 0em 1em;
 						-moz-transition: background-color .25s ease-in-out;
 						-webkit-transition: background-color .25s ease-in-out;
 						-ms-transition: background-color .25s ease-in-out;

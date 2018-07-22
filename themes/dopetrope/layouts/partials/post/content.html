@@ -8,25 +8,30 @@
         <!-- <p>Posted {{ .Date.Format "2 Jan 2006" }}</p> -->
         {{ end }}
     </header>
-    <p>N° of Bedrooms: {{ .Params.bedrooms }}</p>
-    <p>N° of Bathsrooms: {{ .Params.baths }}</p>
-    <p>Furnished: {{ .Params.furnished }}</p>
-    <p>N° of Sleeps: {{ .Params.sleeps }}</p>
-    <p>Garden: {{ .Params.garden }}</p>
-    <p>Maid Service: {{ .Params.maid }}</p>
-    <p>TV: {{ .Params.tv }}</p>
-    <p>Wifi: {{ .Params.wifi }}</p>
-    <p>Hot Water: {{ .Params.hotwater }}</p>
-    <p>Water Pump: {{ .Params.waterpump }}</p>
-    <p>Pets Allowed: {{ .Params.pets }}</p>
-    <p>N° of Parking spots: {{ .Params.parking }}</p>
-    <p>Security: {{ .Params.security }}</p>
-    <p>Short Term: {{ .Params.shortterm }}</p>
-    <p>Minimum Stay: {{ .Params.minimumstay }}</p>
-    <p>Price: {{ .Params.price }}</p>
+    <div class="list-features">
+        <p>N° of Bedrooms: {{ .Params.bedrooms }}</p>
+        <p>N° of Bathsrooms: {{ .Params.baths }}</p>
+        <p>Furnished: {{ .Params.furnished }}</p>
+        <p>N° of Sleeps: {{ .Params.sleeps }}</p>
+        <p>Garden: {{ .Params.garden }}</p>
+        <p>Maid Service: {{ .Params.maid }}</p>
+        <p>TV: {{ .Params.tv }}</p>
+        <p>Wifi: {{ .Params.wifi }}</p>
+        <p>Hot Water: {{ .Params.hotwater }}</p>
+        <p>Water Pump: {{ .Params.waterpump }}</p>
+        <p>Pets Allowed: {{ .Params.pets }}</p>
+        <p>N° of Parking spots: {{ .Params.parking }}</p>
+        <p>Security: {{ .Params.security }}</p>
+        <p>Short Term: {{ .Params.shortterm }}</p>
+        <p>Minimum Stay: {{ .Params.minimumstay }}</p>
+        <h6>Price: {{ .Params.price }}</h6>
+    </div>
+    <br/>
     {{ .Content }}
     <br/>
-    <form name="Request Availability" method="POST" netlify>
+    <h3>Request Availability of This Property</h3>
+    <br/>
+    <form style="width: 70%" name="Request Availability" method="POST" netlify>
         <input id= "pageURL" type="hidden" name="Request Property on page" value=""/>
         <p><label>Your Name: <input type="text" name="name" /></label></p>
         <p><label>Your Email: <input type="email" name="email" /></label></p>
