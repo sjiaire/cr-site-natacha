@@ -1663,10 +1663,9 @@
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/pic01.jpg");
-		background-position: center center;
-		background-size: auto 100%;
+		background: url("/images/pic01.jpg");
 		background-repeat: no-repeat;
+		background-size: 100% 100%;
 		text-align: center;
 	}
 
@@ -1923,6 +1922,8 @@
 
 			#nav > ul {
 				margin: 0;
+				background: #DCDCDC;
+				padding: 1em;
 			}
 
 				#nav > ul > li {
@@ -1936,10 +1937,12 @@
 					}
 
 					#nav > ul > li > a {
+						background: #DCDCDC;
+						font-size: 1.5em;
 						border-radius: 5px;
-						color: #5d5d5d;
+						color: #fff;
 						text-decoration: none;
-						padding: 0.6em 1.2em 0.6em 1.2em;
+						padding: 0.6em 1em 0.7em 1em;
 						-moz-transition: background-color .25s ease-in-out;
 						-webkit-transition: background-color .25s ease-in-out;
 						-ms-transition: background-color .25s ease-in-out;
@@ -1948,7 +1951,8 @@
 					}
 
 					#nav > ul > li:hover > a, #nav > ul > li.active > a {
-						background: #f3f3f3;
+						color: #fff;
+						background: #d52349;
 					}
 
 					#nav > ul > li.current > a {

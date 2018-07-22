@@ -12,7 +12,7 @@
                     <h4>{{ .Params.property }}</h4>
                     <h3>{{ .Title }}</h3>
                     <!-- <p>Posted {{ .Date.Format "2 Jan 2006" }}</p> -->
-                    <p></p>
+                </br>
                     <div class="img-grid">
                     {{ if ne 0 .Params.bedrooms}}
                     <h6>{{ .Params.bedrooms }}
@@ -84,12 +84,12 @@
                     </h6>
                     {{ end }}
                 </div>
-                <p>{{ .Params.price }}</p>
-                </header>
 
+                </header>
+                <p style="color:#252122;"><h4>{{ .Params.price }}</h4></p>
                 <footer>
                     <ul class="actions">
-                        <li><a href="{{ .Permalink }}" class="button icon fa-file-text">View Detailed Property</a></li>
+                        <li><a href="{{ .Permalink }}" class="button icon fa-file-text">View Details</a></li>
                     </ul>
                 </footer>
             </section>

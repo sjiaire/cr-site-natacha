@@ -4,8 +4,8 @@ baseURL = "https://cocoonrwanda.101experiments.com/"
 theme = "dopetrope"
 
 [params.blog]
-    title = "Properties"
-    viewalltext = "All Properties"
+    title = "Rentals"
+    viewalltext = "All Rentals"
     foldername = "properties"
 
 [params.settings]
