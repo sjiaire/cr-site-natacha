@@ -26,7 +26,37 @@ shortterm: 'No'
 minimumstay: 1 year
 price: '$ 2,100/month'
 ---
-**3 Bedroom Apartment for Rent in Kiyovu**
+{{< gallery >}}
+
+  {{< figure src="/images/uploads/056-01.jpg" >}}
+
+  {{< figure src="/images/uploads/056-02.jpg" >}}
+
+  {{< figure src="/images/uploads/056-03.jpg" >}}
+
+  {{< figure src="/images/uploads/056-04.jpg" >}}
+
+ {{< figure src="/images/uploads/056-05.jpg" >}}
+
+  {{< figure src="/images/uploads/056-06.jpg" >}}
+
+  {{< figure src="/images/uploads/056-07.jpg" >}}
+
+  {{< figure src="/images/uploads/056-08.jpg" >}}
+
+ {{< figure src="/images/uploads/056-09.jpg" >}}
+
+  {{< figure src="/images/uploads/056-10.jpg" >}}
+
+  {{< figure src="/images/uploads/056-11.jpg" >}}
+
+{{< /gallery >}}
+
+{{< load-photoswipe >}}
+
+
+
+**3 Bedroom Apartment for Rent in Kiyovu**
 
 Stay in this exclusive 3-bedroom apartment centrally located in Kiyovu well-known for its leafy and tranquil atmosphere. Kiyovu is in walking distance from the city center hosting several shops, restaurants and schools.
 
@@ -42,9 +72,10 @@ In addition, it has a private garden as well as a private parking space.
 
 This apartment is a perfect family home!
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-**Appartement 3 chambres à louer à Kiyovu**
+**Appartement 3 chambres à louer à Kiyovu
+**
 
 Séjournez dans cet appartement 2 chambres exclusif situé dans le quartier central de Kiyovu, célèbre pour son aspect verdoyant et tranquille. Kiyovu est à quelques minutes à pied du centre-ville, à proximité des magasins, restaurants, écoles et autres services. 
 
