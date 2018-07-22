@@ -1,22 +1,29 @@
 ---
+property: Appartment
 title: Kicukiro Nest
+reference: Kicukiro Nest
+slug: 015-kicukiro-nest
 date: '2018-07-06T12:50:38+02:00'
 draft: false
-description:
-  - >-
-    Stay in this cosy 2 bedroom apartment in Kicukiro near Sonatubes and Simba
-    supermarket.  ​ This apartment is clean
-  - >-
-    neatly finished and fully furnished with modern appliances.  Rent includes
-    24/7 security guard services.
-thumbnail: /images/uploads/1.-front.jpg
-image: /images/uploads/1.-front.jpg
-bedrooms:
-  - '2'
-baths:
-  - '2'
-furnished:
-  - 'Y'
+thumbnail: /images/uploads/015-01.jpg
+image: ''
+location: Kicukiro
+bedrooms: '2'
+baths: '2'
+furnished: 'Yes'
+sleeps: '4'
+garden: 'Yes'
+maid: 'No'
+tv: 'Yes'
+wifi: 'No'
+hotwater: 'Yes'
+waterpump: 'Yes'
+pets: 'No'
+parking: '1'
+security: 'Yes'
+shortterm: 'Yes'
+minimumstay: 1 week
+price: from $650/month
 ---
 {{< gallery >}}
 
