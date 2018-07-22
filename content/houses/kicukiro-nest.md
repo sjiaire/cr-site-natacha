@@ -1,36 +1,57 @@
 ---
+property: Appartment
 title: Kicukiro Nest
+reference: Kicukiro Nest
+slug: 015-kicukiro-nest
 date: '2018-07-06T12:50:38+02:00'
 draft: false
-description:
-  - >-
-    Stay in this cosy 2 bedroom apartment in Kicukiro near Sonatubes and Simba
-    supermarket.  ​ This apartment is clean
-  - >-
-    neatly finished and fully furnished with modern appliances.  Rent includes
-    24/7 security guard services.
-thumbnail: /images/uploads/1.-front.jpg
-image: /images/uploads/1.-front.jpg
-bedrooms:
-  - '2'
-baths:
-  - '2'
-furnished:
-  - 'Y'
+thumbnail: /images/uploads/015-01.jpg
+image: /images/uploads/015-01.jpg
+location: Kicukiro
+bedrooms: '2'
+baths: '2'
+furnished: 'Yes'
+sleeps: '4'
+garden: 'Yes'
+maid: 'No'
+tv: 'Yes'
+wifi: 'No'
+hotwater: 'Yes'
+waterpump: 'Yes'
+pets: 'No'
+parking: '1'
+security: 'Yes'
+shortterm: 'Yes'
+minimumstay: 1 week
+price: from $650/month
 ---
 {{< gallery >}}
 
-  {{< figure src="/images/uploads/0002.jpg" >}}
+  {{< figure src="/images/uploads/015-01.jpg" >}}
 
-  {{< figure src="/images/uploads/0003.jpg" >}}
+  {{< figure src="/images/uploads/015-02.jpg" >}}
 
-  {{< figure src="/images/uploads/0004.jpg" >}}
+  {{< figure src="/images/uploads/015-03.jpg" >}}
 
-  {{< figure src="/images/uploads/0005.jpg" >}}
+  {{< figure src="/images/uploads/015-04.jpg" >}}
+
+{{< figure src="/images/uploads/015-05.jpg" >}}
+
+  {{< figure src="/images/uploads/015-06.jpg" >}}
+
+{{< figure src="/images/uploads/015-07.jpg" >}}
+
+  {{< figure src="/images/uploads/015-08.jpg" >}}
+
+{{< figure src="/images/uploads/015-09.jpg" >}}
+
+  {{< figure src="/images/uploads/015-10.jpg" >}}
 
 {{< /gallery >}}
 
 {{< load-photoswipe >}}
+
+Furnished 2 Bedroom Apartment in Kicukiro
 
 Stay in this splendid 2 bedrooms furnished apartment located in Kicukiro near Sonatubes and Simba supermarket. Kicukiro is easily accessible from the airport, Remera and Magerwa. 
 
@@ -40,7 +61,7 @@ It is available for both short and long term rentals with minimum stay of 1 mont
 
 Short-term rentals: (1-3 months): $ 800                              
 
-\    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 Appartement meublé 2 chambres à Kicukiro
 
@@ -50,4 +71,4 @@ Cet appartement est propre, soigneusement fini et entièrement meublé d'apparei
 
 Cet appartement est disponible pour des locations à long et à court terme (Séjour minimum de 1 mois) est idéale pour les personnes seules, les couples, ou les petites familles!
 
- Locations à court terme : (1-3 mois) : $800
+ Location à court terme : (1-3 mois) : $800
