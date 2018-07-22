@@ -10,14 +10,27 @@
 /* CSS Grid*/
 .img-grid {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(3, 1fr);
 	grid-row-gap: 5px;
+}
+
+.title-price-flex {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.content-title-price-flex {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
 }
 
 .list-features {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-	grid-row-gap: 2px;
+	grid-row-gap: 20px;
+	justify-content: stretch;
 }
 
 
