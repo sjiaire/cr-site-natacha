@@ -2,7 +2,7 @@
 <article class="box post">
     <a href="#" class="image featured"><img src="{{ .Site.BaseURL }}{{ .Params.image }}" alt="" /></a>
     <header>
-        <h3>{{ .Params.property }}</h3>
+        <h3>{{ .Params.property }} in {{ .Params.location}}</h3>
         <br/>
         <div class="content-title-price-flex" >
             <h2>{{ .Title }}</h2>
@@ -88,9 +88,8 @@
         <input id= "pageURL" type="hidden" name="Page URL" value=""/>
         <p><label>Your Name: <input type="text" name="name" /></label></p>
         <p><label>Your Email: <input type="email" name="email" /></label></p>
-        <p><label>Arrival Date: <input type="date" name="arrival" value="2019-06-01" /></label></p>
-        <p><label>Departure Date: <input type="date" name="departure" value="2020-06-01"/></label></p>
-        <p><label>Number of Bedrooms: <input type="text" name="bedrooms" /></label></p>
+        <p><label>Arrival Date: <input type="date" name="arrival" value="01-07-2018" /></label></p>
+        <p><label>Departure Date: <input type="date" name="departure" value="30-07-2018"/></label></p>
         <p><label>Message: <textarea name="message"></textarea></label></p>
         <p><button type="submit">Send</button></p>
     </form>
