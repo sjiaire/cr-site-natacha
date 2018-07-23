@@ -6,9 +6,9 @@ slug: 056-green-kiyovu
 date: '2018-07-22T11:31:41+02:00'
 draft: false
 hidesidebar: true
-description: N/A
 thumbnail: /images/uploads/056-01.jpg
 image: /images/uploads/056-01.jpg
+location: Kiyovu
 bedrooms: '3'
 baths: '2'
 furnished: 'No'
@@ -22,7 +22,6 @@ waterpump: 'Yes'
 pets: 'No'
 parking: '2'
 security: 'Yes'
-shortterm: 'No'
 minimumstay: 1 year
 price: '$ 2,100/month'
 ---

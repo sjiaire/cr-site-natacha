@@ -3,7 +3,7 @@ property: Appartment
 title: Kicukiro Nest
 reference: 15. Kicukiro Nest
 slug: 15-kicukiro-nest
-date: '2018-07-22T13:48:30+02:00'
+date: '2018-07-24T08:00:00+02:00'
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/015-01.jpg
@@ -23,7 +23,7 @@ pets: 'No'
 parking: '1'
 security: 'Yes'
 minimumstay: 1 Week
-price: from $650/month
+price: from $ 650/month
 ---
 {{< gallery >}}
 
@@ -51,13 +51,13 @@ price: from $650/month
 
 {{< load-photoswipe >}}
 
-**Furnished 2 Bedroom Apartment in Kicukiro**
+Furnished 2 Bedroom Apartment in Kicukiro
 
 Stay in this splendid 2 bedrooms furnished apartment located in Kicukiro near Sonatubes and Simba supermarket. Kicukiro is easily accessible from the airport, Remera and Magerwa. 
 
  This apartment is clean, neatly finished and fully furnished with modern appliances. It has 2 bedrooms, 2 bathrooms, a living and dining room with TV, and an American kitchen equipped with stove/ oven, microwave, a washing machine and more. The rent includes the services of a 24/7 guard.
 
-It is available for both short and long term rentals with minimum stay of 1 month and it is suitable for singles, couples and small families.                                                                                                                       
+It is available for both short and long term rentals with minimum stay of 1 month and it is suitable for singles, couples and small families.                                                                                                                        
 
 Short-term rentals: (1-3 months): $ 800                              
 
