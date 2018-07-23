@@ -51,21 +51,21 @@ price: from $ 650/month
 
 {{< load-photoswipe >}}
 
-Furnished 2 Bedroom Apartment in Kicukiro
+**Furnished 2 Bedroom Apartment in Kicukiro**
 
-Stay in this splendid 2 bedrooms furnished apartment located in Kicukiro near Sonatubes and Simba supermarket. Kicukiro is easily accessible from the airport, Remera and Magerwa. 
+Stay in this splendid 2 bedrooms furnished apartment located in Kicukiro near Sonatubes and Simba supermarket. Kicukiro is easily accessible from the airport, Remera and Magerwa.
 
  This apartment is clean, neatly finished and fully furnished with modern appliances. It has 2 bedrooms, 2 bathrooms, a living and dining room with TV, and an American kitchen equipped with stove/ oven, microwave, a washing machine and more. The rent includes the services of a 24/7 guard.
 
-It is available for both short and long term rentals with minimum stay of 1 month and it is suitable for singles, couples and small families.                                                                                                                        
+It is available for both short and long term rentals with minimum stay of 1 month and it is suitable for singles, couples and small families.
 
-Short-term rentals: (1-3 months): $ 800                              
+Short-term rentals: (1-3 months): $ 800
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-Appartement meublé 2 chambres à Kicukiro
+**Appartement meublé 2 chambres à Kicukiro**
 
-Séjournez dans ce splendide appartement meublé de 2 chambres situé dans Kicukiro près de Sonatubes et supermarché Simba. Kicukiro est un quartier facilement accessible à partir de l'aéroport, de Remera et de Magerwa. 
+Séjournez dans ce splendide appartement meublé de 2 chambres situé dans Kicukiro près de Sonatubes et supermarché Simba. Kicukiro est un quartier facilement accessible à partir de l'aéroport, de Remera et de Magerwa.
 
 Cet appartement est propre, soigneusement fini et entièrement meublé d'appareils modernes. Il a 2 chambres à coucher, 2 salles de bains, un salon et une salle à manger avec une TV et une cuisine américaine équipée d'une cuisinière, un micro-ondes, une machine à laver et plus. Le loyer inclut les services d'un gardien permanent.
 
