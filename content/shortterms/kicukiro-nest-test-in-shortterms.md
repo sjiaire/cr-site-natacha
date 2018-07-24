@@ -1,6 +1,6 @@
 ---
 property: Short Term
-title: Kicukiro Nest
+title: Kicukiro Nest test in Short terms
 reference: 15. Kicukiro Nest
 slug: 15-kicukiro-nest-test-in-shortterms
 date: '2018-07-24T08:00:00+02:00'
