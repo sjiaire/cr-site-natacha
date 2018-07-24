@@ -15,8 +15,8 @@
 			<div id="main-wrapper">
 				<div class="container">
 
-					{{ $paginator := .Paginate (where .Data.Pages "Type" .Site.Params.Blog.foldername) }}
-					{{ partial "blog.html" (dict "title" .Site.Params.Blog.title "paginator" $paginator) }}
+					{{ $paginator := .Paginate (where .Data.Pages "Type" .Site.Params.Houze.foldername) }}
+					{{ partial "blog.html" (dict "title" .Site.Params.Houze.title "paginator" $paginator) }}
 
 					<footer>
 						<ul class="actions" style="text-align: center">

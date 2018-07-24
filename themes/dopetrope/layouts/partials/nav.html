@@ -2,22 +2,22 @@
 <nav id="nav">
     <ul>
         <!-- <li class="current"><a href="{{ .Site.BaseURL }}">Home</a></li> -->
-        {{ $portfolioItems := where .Site.Pages "Type" .Site.Params.Portfolio.foldername }}
+{{/*          {{ $portfolioItems := where .Site.Pages "Type" .Site.Params.Portfolio.foldername }}
 		{{ if $portfolioItems }}
         <li>
             <a href="{{ .Site.BaseURL }}#portfolio">{{ .Site.Params.Portfolio.title }}</a>
         </li>
         {{ end }}
-        {{ $blogPosts := first 5 (where .Site.Pages "Type" .Site.Params.Blog.foldername) }}
+        {{ $blogPosts := first 5 (where .Site.Pages "Type" .Site.Params.Houze.foldername) }}
         {{ if $blogPosts }}
         <li>
-            <a href="{{ .Site.BaseURL }}{{ .Site.Params.Blog.foldername }}">{{ .Site.Params.Blog.title }}</a>
+            <a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a>
 
         </li>
-        {{ end }}
-        <li><a href="{{ .Site.BaseURL }}#contact">Houses</a></li>
-        <li><a href="{{ .Site.BaseURL }}#contact">Appartments</a></li>
-        <li><a href="{{ .Site.BaseURL }}#contact">Short Terms</a></li>
+        {{ end }}  */}}
+        <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
+        <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>
+        <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Shortzterm.foldername }}">{{ .Site.Params.Shortzterm.title }}</a></li>
         <li><a href="{{ .Site.BaseURL }}#contact">Service</a></li>
     </ul>
 </nav>

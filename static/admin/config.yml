@@ -16,13 +16,82 @@ display_url: https://cocoonrwanda.101experiments.com
 
 collections:
 
-  - name: "properties" # Used in routes, e.g., /admin/collections/posts
-    label: "Properties" # Used in the UI
-    label_singular: "Property"
-    folder: "content/properties" # The path to the folder where the documents are stored
+  - name: "houses" # Used in routes, e.g., /admin/collections/posts
+    label: "Houses" # Used in the UI
+    label_singular: "House"
+    folder: "content/houses" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
-      - {label: "Property Type", name: "property", required: true, widget: "select", options: ["House", "Appartment", "Short Term"]}
+      - {label: "Property Type", name: "property", required: true, widget: "hidden", default: "House"}
+      - {label: "Type", name: "type", required: true, widget: "hidden", default: "House"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Reference", name: "reference", widget: "string"}
+      - {label: "Slug (i.e: xxx-title in small letters)", name: "slug", widget: "string"}
+      - {label: "Publish Date", name: "date", required: false, widget: "datetime"}
+      - {label: "Draft", name: "draft", required: false, widget: "hidden", default: false}
+      - {label: "Hide sidebar", name: "hidesidebar", required: false, widget: "hidden", default: true}
+      - {label: "Thumbnail Image", name: "thumbnail", required: false, widget: "image"}
+      - {label: "Image", name: "image", required: false, widget: "image"}
+      - {label: "Location", name: "location", required: true, widget: "string"}
+      - {label: "N° of Bedrooms", name: "bedrooms", required: true, widget: "select", options: ["0", "1", "2", "3", "4", "5", "6+"]}
+      - {label: "N° of Bathsrooms", name: "baths", required: true, widget: "select", options: ["0", "1", "2", "3", "4+"]}
+      - {label: "Furnished", name: "furnished", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "N° of Sleeps", name: "sleeps", required: true, widget: "select", options: ["0", "1", "2", "3", "4", "5", "6+"]}
+      - {label: "Garden", name: "garden", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Maid Service", name: "maid", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "TV", name: "tv", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Wifi", name: "wifi", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Hot Water", name: "hotwater", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Water Pump", name: "waterpump", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Pets Allowed", name: "pets", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "N° of Parking spots", name: "parking", required: true, widget: "select", options: ["0", "1", "2", "3", "4", "5", "6+"]}
+      - {label: "Security", name: "security", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Minimum Stay", name: "minimumstay", required: true, widget: "select", options: ["1 Week", "1 Month", "3 Months", "6 Months", "1 Year"]}
+      - {label: "Price", name: "price", required: true, widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "appartments" # Used in routes, e.g., /admin/collections/posts
+    label: "Appartments" # Used in the UI
+    label_singular: "Appartment"
+    folder: "content/appartments" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Property Type", name: "property", required: true, widget: "hidden", default: "Appartment"}
+      - {label: "Type", name: "type", required: true, widget: "hidden", default: "Appartment"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Reference", name: "reference", widget: "string"}
+      - {label: "Slug (i.e: xxx-title in small letters)", name: "slug", widget: "string"}
+      - {label: "Publish Date", name: "date", required: false, widget: "datetime"}
+      - {label: "Draft", name: "draft", required: false, widget: "hidden", default: false}
+      - {label: "Hide sidebar", name: "hidesidebar", required: false, widget: "hidden", default: true}
+      - {label: "Thumbnail Image", name: "thumbnail", required: false, widget: "image"}
+      - {label: "Image", name: "image", required: false, widget: "image"}
+      - {label: "Location", name: "location", required: true, widget: "string"}
+      - {label: "N° of Bedrooms", name: "bedrooms", required: true, widget: "select", options: ["0", "1", "2", "3", "4", "5", "6+"]}
+      - {label: "N° of Bathsrooms", name: "baths", required: true, widget: "select", options: ["0", "1", "2", "3", "4+"]}
+      - {label: "Furnished", name: "furnished", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "N° of Sleeps", name: "sleeps", required: true, widget: "select", options: ["0", "1", "2", "3", "4", "5", "6+"]}
+      - {label: "Garden", name: "garden", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Maid Service", name: "maid", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "TV", name: "tv", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Wifi", name: "wifi", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Hot Water", name: "hotwater", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Water Pump", name: "waterpump", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Pets Allowed", name: "pets", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "N° of Parking spots", name: "parking", required: true, widget: "select", options: ["0", "1", "2", "3", "4", "5", "6+"]}
+      - {label: "Security", name: "security", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Minimum Stay", name: "minimumstay", required: true, widget: "select", options: ["1 Week", "1 Month", "3 Months", "6 Months", "1 Year"]}
+      - {label: "Price", name: "price", required: true, widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "shortterms" # Used in routes, e.g., /admin/collections/posts
+    label: "Short Term" # Used in the UI
+    label_singular: "Short Term"
+    folder: "content/shourtterms" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Property Type", name: "property", required: true, widget: "hidden", default: "Short Term"}
+      - {label: "Type", name: "type", required: true, widget: "hidden", default: "Short Term"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Reference", name: "reference", widget: "string"}
       - {label: "Slug (i.e: xxx-title in small letters)", name: "slug", widget: "string"}

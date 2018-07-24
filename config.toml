@@ -4,10 +4,20 @@ title = "Cocoon Rwanda"
 baseURL = "https://cocoonrwanda.101experiments.com/"
 theme = "dopetrope"
 
-[params.blog]
-    title = "Rentals"
-    viewalltext = "All Rentals"
-    foldername = "properties"
+[params.houze]
+    title = "Houses"
+    viewalltext = "All Houses"
+    foldername = "houses"
+
+[params.appartzment]
+    title = "Appartments"
+    viewalltext = "All Appartments"
+    foldername = "appartments"
+
+[params.shortzterm]
+    title = "Short Terms"
+    viewalltext = "All Short Terms"
+    foldername = "shortterms"
 
 [params.settings]
     googleanalytics = "UA-119431851-1"

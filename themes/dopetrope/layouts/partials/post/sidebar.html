@@ -20,7 +20,7 @@
     </header>
     <p>{{ $sidebarsection2.description }}</p>
     <ul class="divided">
-        {{ range first 4 (where .Site.Pages "Type" .Site.Params.Blog.foldername) }}
+        {{ range first 4 (where .Site.Pages "Type" .Site.Params.Houze.foldername) }}
         <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ end }}
     </ul>

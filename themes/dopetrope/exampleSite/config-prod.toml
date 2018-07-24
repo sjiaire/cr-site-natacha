@@ -8,7 +8,7 @@ theme = "../.."
     foldername = "portfolio"
     findoutmoretext = "Find out more"
 
-[params.blog]
+[params.house]
     title = "The Blog"
     viewalltext = "View All"
     foldername = "blog"

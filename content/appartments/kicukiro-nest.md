@@ -2,7 +2,7 @@
 property: Appartment
 title: Kicukiro Nest
 reference: 15. Kicukiro Nest
-slug: 15-kicukiro-nest
+slug: 15-kicukiro-nest-test-in-appartments
 date: '2018-07-24T08:00:00+02:00'
 draft: false
 hidesidebar: true

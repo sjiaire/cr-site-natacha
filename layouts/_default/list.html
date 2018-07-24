@@ -1,0 +1,79 @@
+{{ define "main" }}
+	<div id="page-wrapper">
+
+		<!-- Header -->
+			<div id="header-wrapper">
+				<div id="header">
+
+					{{ partial "logo.html" . }}
+					{{ partial "nav.html" . }}
+
+				</div>
+			</div>
+
+						<!-- Main -->
+			<div id="main-wrapper">
+				<div class="container">
+
+            {{ if eq .URL "/houses/" }}
+              {{ $paginator := .Paginate (where .Data.Pages "Type" .Site.Params.Houze.foldername) }}
+              {{ partial "blog.html" (dict "title" .Site.Params.Houze.title "paginator" $paginator) }}
+
+              <footer>
+                <ul class="actions" style="text-align: center">
+                  {{ if $paginator.HasPrev }}
+                  <li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
+                  {{ end }}
+                  {{ if $paginator.HasNext }}
+                  <li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
+                  {{ end }}
+                </ul>
+              </footer>
+            {{ end }}
+
+
+          {{ if eq .URL "/appartments/" }}
+            {{ $paginator := .Paginate (where .Data.Pages "Type" .Site.Params.Appartzment.foldername) }}
+            {{ partial "blog.html" (dict "title" .Site.Params.Appartzment.title "paginator" $paginator) }}
+
+            <footer>
+              <ul class="actions" style="text-align: center">
+                {{ if $paginator.HasPrev }}
+                <li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
+                {{ end }}
+                {{ if $paginator.HasNext }}
+                <li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
+                {{ end }}
+              </ul>
+            </footer>
+          {{ end }}
+
+
+          {{ if eq .URL "/shortterms/" }}
+            {{ $paginator := .Paginate (where .Data.Pages "Type" .Site.Params.Shortzterm.foldername) }}
+            {{ partial "blog.html" (dict "title" .Site.Params.Shortzterm.title "paginator" $paginator) }}
+
+            <footer>
+              <ul class="actions" style="text-align: center">
+                {{ if $paginator.HasPrev }}
+                <li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
+                {{ end }}
+                {{ if $paginator.HasNext }}
+                <li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
+                {{ end }}
+              </ul>
+            </footer>
+          {{ end }}
+
+
+
+				</div>
+			</div>
+
+			{{ partial "footer/index.html" . }}
+
+	</div>
+
+	{{ partial "scripts/index.html" . }}
+
+{{ end }}
