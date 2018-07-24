@@ -3,7 +3,7 @@ property: Short Term
 type: Short Term
 title: Test Short Term
 reference: '1001'
-slug: test-short-term-imqge content
+slug: test-short-term-image-content
 date: '2018-07-24T17:05:24+02:00'
 draft: false
 hidesidebar: true
