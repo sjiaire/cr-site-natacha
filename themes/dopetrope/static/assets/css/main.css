@@ -1714,7 +1714,8 @@
 
 	#main-wrapper {
 		position: relative;
-		background: #f7f7f7;
+		/* background: #f7f7f7; */
+		background: lightgrey;
 	}
 
 		#main-wrapper:before {
@@ -1728,7 +1729,8 @@
 		}
 
 		#main-wrapper .major h2 {
-			background: #f7f7f7;
+			/* background: #f7f7f7; */
+			background: lightgrey;
 		}
 
 	#footer-wrapper {
