@@ -1,6 +1,5 @@
 ---
 property: Short Stay
-type: Short Term
 title: Short stay Test
 reference: '100011111'
 slug: short-stay-test-100011111
