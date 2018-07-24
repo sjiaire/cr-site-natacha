@@ -15,8 +15,8 @@ theme = "dopetrope"
     foldername = "appartments"
 
 [params.shortzterm]
-    title = "Short Terms"
-    viewalltext = "All Short Terms"
+    title = "Short Stay"
+    viewalltext = "All Short Stays"
     foldername = "shortterms"
 
 [params.settings]
