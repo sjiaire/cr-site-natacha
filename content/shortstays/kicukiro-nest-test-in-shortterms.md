@@ -1,7 +1,7 @@
 ---
 property: Short Stay
 title: Kicukiro Nest test in Short terms
-reference: 15. Kicukiro Nest
+reference: 15. Kicukiro Nest Short Stay
 slug: 15-kicukiro-nest-test-in-shortterms
 date: '2018-07-24T08:00:00+02:00'
 draft: false
