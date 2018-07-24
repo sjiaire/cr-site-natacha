@@ -1,5 +1,5 @@
 ---
-property: Short Stays
+property: Short Stay
 type: Short Term
 title: Short stay Test
 reference: '100011111'
