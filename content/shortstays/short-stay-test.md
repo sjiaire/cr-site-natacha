@@ -26,7 +26,7 @@ security: 'Yes'
 minimumstay: 3 Months
 price: '$1,000,000/week'
 ---
-{< gallery >}}
+{{{< gallery >}}
 
 
 
