@@ -50,8 +50,8 @@
 
 
           {{ if eq .URL "/shortterms/" }}
-            {{ $paginator := .Paginate (where .Data.Pages "Type" .Site.Params.Shortzterm.foldername) }}
-            {{ partial "blog.html" (dict "title" .Site.Params.Shortzterm.title "paginator" $paginator) }}
+            {{ $paginator := .Paginate (where .Data.Pages "Type" .Site.Params.Shortzstay.foldername) }}
+            {{ partial "blog.html" (dict "title" .Site.Params.Shortzstay.title "paginator" $paginator) }}
 
             <footer>
               <ul class="actions" style="text-align: center">

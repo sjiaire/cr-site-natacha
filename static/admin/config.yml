@@ -84,7 +84,7 @@ collections:
       - {label: "Price", name: "price", required: true, widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "shortterms" # Used in routes, e.g., /admin/collections/posts
+  - name: "shortstays" # Used in routes, e.g., /admin/collections/posts
     label: "Short Stays" # Used in the UI
     label_singular: "Short Stay"
     folder: "content/shortterms" # The path to the folder where the documents are stored

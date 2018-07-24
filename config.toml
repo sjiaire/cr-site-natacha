@@ -14,10 +14,10 @@ theme = "dopetrope"
     viewalltext = "All Appartments"
     foldername = "appartments"
 
-[params.shortzterm]
+[params.shortzstay]
     title = "Short Stay"
     viewalltext = "All Short Stays"
-    foldername = "shortterms"
+    foldername = "shortstays"
 
 [params.settings]
     googleanalytics = "UA-119431851-1"

@@ -1,5 +1,5 @@
 ---
-property: Short Term
+property: Short Stay
 title: Kicukiro Nest test in Short terms
 reference: 15. Kicukiro Nest
 slug: 15-kicukiro-nest-test-in-shortterms
