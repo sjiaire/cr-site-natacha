@@ -3,7 +3,7 @@ property: Short Stays
 type: Short Term
 title: Short stay Test
 reference: '100011111'
-slug: short-stay-test-100011111
+slug: short-stay-test-1000111111
 date: '2018-07-24T18:00:53+02:00'
 draft: false
 hidesidebar: true
