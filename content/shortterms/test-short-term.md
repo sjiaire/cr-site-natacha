@@ -9,7 +9,7 @@ draft: false
 hidesidebar: true
 thumbnail: /images/uploads/015-01.jpg
 image: /images/uploads/015-02.jpg
-location: Kicukiro
+location: Gikondo
 bedrooms: '2'
 baths: '2'
 furnished: 'No'
