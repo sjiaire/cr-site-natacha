@@ -28,7 +28,7 @@
 
 .list-features {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
 	grid-row-gap: 20px;
 	justify-content: stretch;
 }
@@ -1714,8 +1714,7 @@
 
 	#main-wrapper {
 		position: relative;
-		/* background: #f7f7f7; */
-		background: lightgrey;
+		background: #f7f7f7;
 	}
 
 		#main-wrapper:before {
@@ -1729,8 +1728,7 @@
 		}
 
 		#main-wrapper .major h2 {
-			/* background: #f7f7f7; */
-			background: lightgrey;
+			background: #f7f7f7;
 		}
 
 	#footer-wrapper {
@@ -1942,7 +1940,6 @@
 
 			#nav > ul {
 				margin: 0;
-				background: #DCDCDC;
 				padding: 1em;
 			}
 
