@@ -1,5 +1,6 @@
 ---
 property: Appartment
+type: ''
 title: Test Post 26 July 2018
 reference: '0001111'
 slug: test-post-26-july-2018
