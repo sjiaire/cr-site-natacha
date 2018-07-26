@@ -1,8 +1,8 @@
 ---
 property: House
-title: 55. Contemporary Kacyiru
+title: Contemporary Kacyiru
 reference: Kacyiru Police
-slug: 55. contemporary kacyiru
+slug: 055. contemporary kacyiru
 date: '2018-07-24T14:53:46+02:00'
 draft: false
 hidesidebar: true
