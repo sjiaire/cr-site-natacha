@@ -28,9 +28,16 @@
 
 .list-features {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-	grid-row-gap: 20px;
-	justify-content: stretch;
+  grid-template-columns: repeat(2, 1fr);
+	grid-row-gap: 10px;
+	padding-top: 2em;
+}
+
+.request-box {
+	width: 90%;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	padding: 15px;
+	background: #f7f7f7;
 }
 
 
@@ -1324,6 +1331,7 @@
 	input[type="reset"],
 	button,
 	.button {
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 		-webkit-appearance: none;
 		display: inline-block;
 		text-decoration: none;
@@ -1825,6 +1833,7 @@
 
 			.box {
 				padding: 2.75em 1.75em 2em 1.75em;
+				box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 			}
 
 				.box .image.featured {
