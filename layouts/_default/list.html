@@ -16,7 +16,7 @@
 				<div class="container">
 
             {{ if eq .URL "/houses/" }}
-              {{ $paginator := .Paginate (where .Data.Pages "Type" .Site.Params.Houze.foldername) }}
+              {{ $paginator := .Paginate (where .Data.Pages "Date" .Site.Params.Houze.foldername) }}
               {{ partial "blog.html" (dict "title" .Site.Params.Houze.title "paginator" $paginator) }}
 
               <footer>
@@ -33,7 +33,7 @@
 
 
           {{ if eq .URL "/appartments/" }}
-            {{ $paginator := .Paginate (where .Data.Pages "Type" .Site.Params.Appartzment.foldername) }}
+            {{ $paginator := .Paginate (where .Data.Pages "Date" .Site.Params.Appartzment.foldername) }}
             {{ partial "blog.html" (dict "title" .Site.Params.Appartzment.title "paginator" $paginator) }}
 
             <footer>
@@ -50,7 +50,7 @@
 
 
           {{ if eq .URL "/shortstays/" }}
-            {{ $paginator := .Paginate (where .Data.Pages "Type" .Site.Params.Shortzstay.foldername) }}
+            {{ $paginator := .Paginate (where .Data.Pages "Date" .Site.Params.Shortzstay.foldername) }}
             {{ partial "blog.html" (dict "title" .Site.Params.Shortzstay.title "paginator" $paginator) }}
 
             <footer>

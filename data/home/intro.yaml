@@ -8,13 +8,11 @@ sections:
   description: 'Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.'
 
 - icon: 'fa-calendar'
-  title: 'Short Term Rentals'
+  title: 'Short Stay Rentals'
   description: 'Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.'
 
 buttons:
 - link: '#'
   text: 'Get Started'
 
-#- link: '#'
-# text: 'Learn More'
 
