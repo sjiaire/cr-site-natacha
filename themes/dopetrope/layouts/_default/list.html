@@ -15,19 +15,56 @@
 			<div id="main-wrapper">
 				<div class="container">
 
-					{{ $paginator := .Paginate (where .Data.Pages "Type" .Site.Params.Houze.foldername) }}
-					{{ partial "blog.html" (dict "title" .Site.Params.Houze.title "paginator" $paginator) }}
+            {{ if eq .URL "/houses/" }}
+              {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.Houze.foldername) }}
+              {{ partial "blog.html" (dict "title" .Site.Params.Houze.title "paginator" $paginator) }}
 
-					<footer>
-						<ul class="actions" style="text-align: center">
-							{{ if $paginator.HasPrev }}
-							<li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
-							{{ end }}
-							{{ if $paginator.HasNext }}
-							<li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
-							{{ end }}
-						</ul>
-					</footer>
+              <footer>
+                <ul class="actions" style="text-align: center">
+                  {{ if $paginator.HasPrev }}
+                  <li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
+                  {{ end }}
+                  {{ if $paginator.HasNext }}
+                  <li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
+                  {{ end }}
+                </ul>
+              </footer>
+            {{ end }}
+
+
+          {{ if eq .URL "/appartments/" }}
+            {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.Appartzment.foldername) }}
+            {{ partial "blog.html" (dict "title" .Site.Params.Appartzment.title "paginator" $paginator) }}
+
+            <footer>
+              <ul class="actions" style="text-align: center">
+                {{ if $paginator.HasPrev }}
+                <li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
+                {{ end }}
+                {{ if $paginator.HasNext }}
+                <li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
+                {{ end }}
+              </ul>
+            </footer>
+          {{ end }}
+
+
+          {{ if eq .URL "/shortstays/" }}
+            {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.Shortzstay.foldername) }}
+            {{ partial "blog.html" (dict "title" .Site.Params.Shortzstay.title "paginator" $paginator) }}
+
+            <footer>
+              <ul class="actions" style="text-align: center">
+                {{ if $paginator.HasPrev }}
+                <li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
+                {{ end }}
+                {{ if $paginator.HasNext }}
+                <li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
+                {{ end }}
+              </ul>
+            </footer>
+          {{ end }}
+
 
 				</div>
 			</div>

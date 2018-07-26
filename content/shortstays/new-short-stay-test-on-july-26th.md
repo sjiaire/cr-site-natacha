@@ -1,6 +1,6 @@
 ---
 property: Short Stays
-type: Short Term
+type: shortstay
 title: New Short Stay Test on July 26th
 reference: '8785565'
 slug: new-short-stay-test-on-july-26th

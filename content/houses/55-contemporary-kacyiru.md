@@ -37,7 +37,7 @@ price: 'RWF 450,000'
 
    Maison meublée 3 chambres à Kacyiru
 
-   Séjournez dans cette chaleureuse maison meublée de 3 chambres situé dans la zone centrale de Kacyiru. Kacyiru est un quartier résidentiel authentique avec plusieurs magasins et restaurants at à proximité du Kigali Heights, du centre-ville ainsi que de Remera. La maison est à quelques pas de la route principale et du Commissariat de Police.  
+   Séjournez dans cette chaleureuse maison meublée de 3 chambres situé dans la zone centrale de Kacyiru. Kacyiru est un quartier résidentiel authentique avec plusieurs magasins et restaurants at à proximité du Kigali Heights, du centre-ville ainsi que de Remera. La maison est à quelques pas de la route principale et du Commissariat de Police.
 
    Cette  residence accueillante est fonctionnelle avec une large salle de séjour  s'ouvrant sur une terrasse, une petite cuisine équipée moderne, 2 chambres principale spacieuse avec salle de bains privative et une baignoire!
 
