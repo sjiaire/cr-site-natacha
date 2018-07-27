@@ -23,7 +23,7 @@ pets: 'Yes'
 parking: '3'
 security: 'No'
 minimumstay: 6 Months
-price: 'RWF 450,000'
+price: 'RWF 450,000/month'
 ---
    Stay in this warm 3 bedroom furnished house located in the conveniently central area of Kacyiru. Kacyiru is an authentic residential neighborhood with several shops and restaurants located only a few minutes' drive away Kigali Heights, the city center and Remera areas. The house is located in walking distance from the main road and Police headquarters.
 
