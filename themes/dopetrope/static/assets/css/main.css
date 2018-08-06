@@ -1,7 +1,6 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Spectral:300,400,700,900,300italic");
 
-
 /* CSS Grid*/
 .img-grid {
   display: grid;
@@ -2098,10 +2097,11 @@
 				margin: 4em 0 0 0;
 			}
 
-				#banner header {
+			#banner header {
 					display: inline-block;
 					padding: 2.5em 5em;
 					border-radius: 5px;
+					background: #665A5A;
 				}
 
 					#banner header h2 {
