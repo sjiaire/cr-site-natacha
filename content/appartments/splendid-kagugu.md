@@ -26,6 +26,36 @@ security: 'Yes'
 minimumstay: 1 Week
 price: 'from $ 1,600/month'
 ---
+{{< gallery >}}
+
+  {{< figure src="/images/uploads/017-01.jpg" >}}
+
+  {{< figure src="/images/uploads/017-02.jpg" >}}
+
+  {{< figure src="/images/uploads/017-03.jpg" >}}
+
+  {{< figure src="/images/uploads/017-04.jpg" >}}
+
+{{< figure src="/images/uploads/017-05.jpg" >}}
+
+  {{< figure src="/images/uploads/017-06.jpg" >}}
+
+  {{< figure src="/images/uploads/017-07.jpg" >}}
+
+  {{< figure src="/images/uploads/017-08.jpg" >}}
+
+{{< figure src="/images/uploads/017-09.jpg" >}}
+
+  {{< figure src="/images/uploads/017-10.jpg" >}}
+
+  {{< figure src="/images/uploads/017-11.jpg" >}}
+
+  {{< figure src="/images/uploads/017-12.jpg" >}}
+
+{{< /gallery >}}
+
+{{< load-photoswipe >}}
+
 Furnished 3 Bedroom Apartment for Rent in Kagugu
 
 Stay in this splendid 3 bedroom furnished apartment located in Kagugu, a quiet residential neighborhood nearby Woodlands Supermarket in walking distance from Aberdeen Hotel. 
