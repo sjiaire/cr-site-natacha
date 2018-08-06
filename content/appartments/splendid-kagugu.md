@@ -48,4 +48,4 @@ Cette belle résidence a un large salon ouvrant sur une salle à manger chic et 
 
 Cet appartement qui est situé dans un immeuble tranquille de 4 appartements avec un service de société de surveillance 24h/24h. Il est parfait pour un célibataire, un couple ou une petite famille.
 
-L'appartement est disponible pour des locations à court terme avec un séjour minimal de 3 mois.
+Taux à court terme (jusqu'à 6 mois): 2,000$ par mois
