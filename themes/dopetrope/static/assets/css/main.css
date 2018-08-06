@@ -29,10 +29,13 @@
 }
 
 .request-box {
-	width: 90%;
+	width: 100%;
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 	padding: 15px;
-	background: #f7f7f7;
+	background: white;
+	border-color: #FAB300;
+	border-style: solid;
+	border-width: 5px;
 }
 
 /* Paginator css styling*/
@@ -1203,7 +1206,7 @@
 	}
 
 	a {
-		color: #d52349;
+		color: #fab300;
 		text-decoration: underline;
 	}
 
@@ -1378,7 +1381,7 @@
 		cursor: pointer;
 		border: 0;
 		border-radius: 5px;
-		background: #d52349;
+		background: #FAB300;
 		color: #fff !important;
 		font-weight: 700;
 		outline: 0;
@@ -1393,7 +1396,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #e53359;
+			background: #ae7c00;
 		}
 
 		input[type="button"]:active,
@@ -1520,7 +1523,7 @@
 		position: absolute;
 		left: 0;
 		top: 1.3em;
-		background-color: #d52349;
+		background-color: #fab300;
 		height: 3.5em;
 		text-align: center;
 		color: #fff;
@@ -1535,7 +1538,7 @@
 			position: absolute;
 			bottom: 0;
 			right: -1.2em;
-			border-left: solid 1.25em #d52349;
+			border-left: solid 1.25em #fab300;
 			border-top: solid 1.8em transparent;
 			border-bottom: solid 1.8em transparent;
 		}
@@ -1685,7 +1688,7 @@
 		.icon.featured {
 			position: relative;
 			display: inline-block;
-			background-color: #d52349;
+			background-color: #fab300;
 			width: 9em;
 			padding: 1.75em 0 0.75em 0;
 			border-top-left-radius: 5px;
@@ -1705,7 +1708,7 @@
 				position: absolute;
 				bottom: -1.95em;
 				left: 0;
-				border-top: solid 2em #d52349;
+				border-top: solid 2em #fab300;
 				border-left: solid 4.5em transparent;
 				border-right: solid 4.5em transparent;
 			}
@@ -1746,7 +1749,7 @@
 			}
 
 			#banner header p {
-				color: #d52349;
+				color: #fab300;
 				padding: 0;
 				font-style: normal;
 				margin: 0;
@@ -1762,8 +1765,10 @@
 
 	#main-wrapper {
 		position: relative;
-		background: #f7f7f7;
+		background: #665A5A;
+		/* background: #f7f7f7; */
 	}
+
 
 		#main-wrapper:before {
 			content: '';
@@ -1874,6 +1879,17 @@
 			.box {
 				padding: 2.75em 1.75em 2em 1.75em;
 				box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+				background: #F7F7F7;
+			}
+
+			#blog .box {
+				padding: 2.75em 1.75em 2em 1.75em;
+				box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+				background: #F7F7F7;
+			}
+
+			.box h3,h4,h6 {
+				color: #FAB300;
 			}
 
 				.box .image.featured {
@@ -2018,11 +2034,11 @@
 
 					#nav > ul > li:hover > a, #nav > ul > li.active > a {
 						color: #fff;
-						background: #d52349;
+						background: #fab300;
 					}
 
 					#nav > ul > li.current > a {
-						background: #d52349;
+						background: #fab300;
 						color: #fff !important;
 						font-weight: 700;
 					}

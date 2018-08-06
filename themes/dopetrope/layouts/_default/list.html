@@ -49,7 +49,7 @@
           {{ end }}
           <!-- End Appartments -->
           <!-- Start ShortStays -->
-          {{ if eq .URL "/shortstays/" }}
+{{/*            {{ if eq .URL "/shortstays/" }}
             {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.Shortzstay.foldername) }}
             {{ partial "blog.html" (dict "title" .Site.Params.Shortzstay.title "paginator" $paginator) }}
 
@@ -63,7 +63,7 @@
                 {{ end }}
               </ul>
             </footer>
-          {{ end }}
+          {{ end }}  */}}
           <!-- End ShortStays -->
 				</div>
 			</div>

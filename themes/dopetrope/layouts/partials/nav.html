@@ -20,27 +20,29 @@
         {{ if findRE .URL "/houses/"}}
             <li class="current"><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Shortzstay.foldername }}">{{ .Site.Params.Shortzstay.title }}</a></li>
+            {{/*  <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Shortzstay.foldername }}">{{ .Site.Params.Shortzstay.title }}</a></li>  */}}
             <li><a href="{{ .Site.BaseURL }}services/">Service</a></li>
         {{ else if findRE .URL "/appartments/"}}
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
             <li class="current"><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Shortzstay.foldername }}">{{ .Site.Params.Shortzstay.title }}</a></li>
+            {{/*  <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Shortzstay.foldername }}">{{ .Site.Params.Shortzstay.title }}</a></li>  */}}
             <li><a href="{{ .Site.BaseURL }}services/">Service</a></li>
-        {{ else if findRE .URL "/shortstays/"}}
+
+{{/*          {{ else if findRE .URL "/shortstays/"}}
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>
             <li class="current"><a href="{{ .Site.BaseURL }}{{ .Site.Params.Shortzstay.foldername }}">{{ .Site.Params.Shortzstay.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}services/">Service</a></li>
+            <li><a href="{{ .Site.BaseURL }}services/">Service</a></li>  */}}
+
         {{ else if findRE .URL "/services/"}}
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Shortzstay.foldername }}">{{ .Site.Params.Shortzstay.title }}</a></li>
+            {{/*  <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Shortzstay.foldername }}">{{ .Site.Params.Shortzstay.title }}</a></li>  */}}
             <li class="current"><a href="{{ .Site.BaseURL }}services/">Service</a></li>
         {{ else }}
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Shortzstay.foldername }}">{{ .Site.Params.Shortzstay.title }}</a></li>
+            {{/*  <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Shortzstay.foldername }}">{{ .Site.Params.Shortzstay.title }}</a></li>  */}}
             <li><a href="{{ .Site.BaseURL }}services/">Service</a></li>
         {{ end }}
     </ul>
