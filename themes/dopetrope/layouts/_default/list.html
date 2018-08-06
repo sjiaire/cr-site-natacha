@@ -11,10 +11,10 @@
 				</div>
 			</div>
 
-						<!-- Main -->
+			<!-- Main -->
 			<div id="main-wrapper">
 				<div class="container">
-
+          <!-- Start Houses -->
             {{ if eq .URL "/houses/" }}
               {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.Houze.foldername) }}
               {{ partial "blog.html" (dict "title" .Site.Params.Houze.title "paginator" $paginator) }}
@@ -30,8 +30,8 @@
                 </ul>
               </footer>
             {{ end }}
-
-
+          <!-- End Houses -->
+          <!-- Start Appartments -->
           {{ if eq .URL "/appartments/" }}
             {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.Appartzment.foldername) }}
             {{ partial "blog.html" (dict "title" .Site.Params.Appartzment.title "paginator" $paginator) }}
@@ -47,8 +47,8 @@
               </ul>
             </footer>
           {{ end }}
-
-
+          <!-- End Appartments -->
+          <!-- Start ShortStays -->
           {{ if eq .URL "/shortstays/" }}
             {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.Shortzstay.foldername) }}
             {{ partial "blog.html" (dict "title" .Site.Params.Shortzstay.title "paginator" $paginator) }}
@@ -64,8 +64,7 @@
               </ul>
             </footer>
           {{ end }}
-
-
+          <!-- End ShortStays -->
 				</div>
 			</div>
 
