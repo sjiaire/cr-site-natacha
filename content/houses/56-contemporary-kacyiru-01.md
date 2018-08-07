@@ -3,7 +3,7 @@ property: House
 title: Contemporary Kacyiru 01
 reference: Kacyiru Police
 slug: 055-contemporary-kacyiru-01
-date: '2018-07-24T14:53:46+02:00'
+date: '2018-08-06T14:15:48+02:00'
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/1.-entrance.jpg
