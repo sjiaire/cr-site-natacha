@@ -12,7 +12,7 @@ image: /images/uploads/015-01.jpg
 location: Kicukiro
 bedrooms: '2'
 baths: '2'
-furnished: 'Yes'
+furnished: 'Furnished'
 sleeps: '4'
 garden: 'Yes'
 maid: 'No'

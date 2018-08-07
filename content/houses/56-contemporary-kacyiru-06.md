@@ -11,7 +11,7 @@ image: /images/uploads/55-01.webp
 location: Kacyiru
 bedrooms: '3'
 baths: '2'
-furnished: 'Yes'
+furnished: 'Unfurnished'
 sleeps: '2'
 garden: 'No'
 maid: 'No'

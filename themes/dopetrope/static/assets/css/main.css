@@ -1381,7 +1381,7 @@
 		cursor: pointer;
 		border: 0;
 		border-radius: 5px;
-		background: #FAB300;
+		background: #ae7c00;
 		color: #fff !important;
 		font-weight: 700;
 		outline: 0;
@@ -1396,7 +1396,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #ae7c00;
+			background: #fab300;
 		}
 
 		input[type="button"]:active,
@@ -1404,7 +1404,7 @@
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #c51349;
+			background: #fab300;
 		}
 
 		input[type="button"].alt,

@@ -11,7 +11,7 @@ image: /images/uploads/006-01.jpg
 location: Rusororo
 bedrooms: '4'
 baths: '3'
-furnished: 'Yes'
+furnished: 'Furnished'
 sleeps: 6+
 garden: 'Yes'
 maid: 'Yes'
@@ -79,7 +79,7 @@ RENTAL RATES
 
 EXTRA: Chauffeured-car rental $ 50 / day.
 
-With all comfort inside and nature outside, this house is a perfect spot for holidays, work trips, or simply resting near Kigali! 
+With all comfort inside and nature outside, this house is a perfect spot for holidays, work trips, or simply resting near Kigali!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
