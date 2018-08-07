@@ -1144,7 +1144,8 @@
 /* Basic */
 
 	body {
-		background: #252122;
+		/* background: #252122; */
+		background: #FFF;
 		font-family: 'Spectral';
 		font-weight: 300;
 		color: #5d5d5d;
@@ -1497,11 +1498,12 @@
 			position: absolute;
 			left: 0;
 			top: 1.3em;
-			font-size: 1.1em;
+			font-size: 1.2em;
 		}
 
 		ul.contact li p {
 			margin: 0;
+			font-size: 1.2em;
 		}
 
 		ul.contact li:first-child {
@@ -1787,7 +1789,7 @@
 
 	#footer-wrapper {
 		position: relative;
-		color: #858484;
+		color: #665a5a;
 	}
 
 		#footer-wrapper:before {
@@ -1801,11 +1803,11 @@
 		}
 
 		#footer-wrapper a {
-			color: #c5c4c4;
+			color: #665a5a;
 		}
 
 		#footer-wrapper h2, #footer-wrapper h3, #footer-wrapper h4, #footer-wrapper h5, #footer-wrapper h6, #footer-wrapper strong, #footer-wrapper b {
-			color: #fff;
+			color: #665a5a;
 		}
 
 			#footer-wrapper h2 a, #footer-wrapper h3 a, #footer-wrapper h4 a, #footer-wrapper h5 a, #footer-wrapper h6 a, #footer-wrapper strong a, #footer-wrapper b a {
@@ -1813,7 +1815,8 @@
 			}
 
 		#footer-wrapper ul.contact li, #footer-wrapper ul.dates li, #footer-wrapper ul.divided li {
-			border-top-color: #353434;
+			/* border-top-color: #353434; */
+			border-top-color: #dcdcdc;
 			border-top-color: rgba(255, 255, 255, 0.05);
 		}
 
@@ -1831,7 +1834,7 @@
 
 		#copyright .links {
 			display: inline-block;
-			background: #2C2929;
+			background: #665a5a;
 			background: rgba(255, 255, 255, 0.05);
 			border-radius: 5px;
 			margin: 0;
