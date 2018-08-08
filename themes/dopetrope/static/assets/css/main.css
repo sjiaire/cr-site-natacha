@@ -18,10 +18,15 @@
 }
 
 /* CSS Grid Image */
-.img-grid {
+.img-grid-box {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
 	justify-content: space-around;
+}
+
+.img-grid-box > h6 {
+	font-weight: bold;
+	font-size: small;
 }
 
 .title-price-flex {
