@@ -74,7 +74,7 @@ This house is a perfect family home!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-Maison de 5 chambres à louer à Kiyovu 
+Maison de 5 chambres à louer à Kiyovu
 
 Séjournez dans cette vaste maison de 5 chambres à coucher située dans le quartier chic de Kiyovu. Kiyovu est une zone calme et verdoyante du centre-ville à proximité de magasins, écoles, et restaurants.
 
