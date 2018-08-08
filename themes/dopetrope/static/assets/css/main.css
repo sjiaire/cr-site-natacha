@@ -1,7 +1,23 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Spectral:300,400,700,900,300italic");
 
-/* CSS Grid*/
+/* Top Contact*/
+
+.topContact {
+	display: flex;
+	flex: 1;
+	flex-direction: column-reverse;
+	align-content: flex-end;
+	align-items: flex-end;
+	padding-right: 2em;
+	justify-content: left;
+}
+
+.topContact > li > a {
+	color: #3d3636;
+}
+
+/* CSS Grid Image */
 .img-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
