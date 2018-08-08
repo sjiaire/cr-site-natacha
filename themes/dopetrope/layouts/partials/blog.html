@@ -9,10 +9,10 @@
             <section class="box">
                 <a href="{{ .Permalink }}" class="image featured"><img  src="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" alt="" /></a>
                 <header>
-                    <h3>{{ .Title }}</h3>
+                    <h3 style="color: #665a5a;">{{ .Title }}</h3>
                     <div class="title-price-flex">
-                        <h4>{{ .Params.furnished}} {{ .Params.property }}</h4>
-                        <h3 style="color:#FAB300;">{{ .Params.price }}</h3>
+                        <h4 style="color: #665a5a;">{{ .Params.furnished}} {{ .Params.property }}</h4>
+                        <h3 style="color:#FAB300; border-color: #fab300; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; ">{{ .Params.price }}</h3>
                     </div>
                 </br>
                     <div class="img-grid-box">
