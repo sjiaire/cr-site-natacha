@@ -38,10 +38,8 @@ galleria:
 ---
 test test test
 
-
-
 **Hopefully this is bold**
 
-
-
 This isn't bold at all, it's normal!
+
+![null](/images/uploads/006-10.jpg)
