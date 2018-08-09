@@ -85,9 +85,9 @@
 
         {{ if isset .Params "galleria" }}
             <div class="galleria">
-                <gallery>
+                <figure>
                     {{ range .Params.galleria}}
-                        <figure src="{{ .imageGallery }}">
+                        <figure src="{{ .imageGallery }}" />
                     {{ end }}
                 </gallery>
                 <load-photoswipe>
