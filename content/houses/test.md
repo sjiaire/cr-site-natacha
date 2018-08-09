@@ -42,4 +42,4 @@ test test test
 
 This isn't bold at all, it's normal!
 
-![](/images/uploads/006-10.jpg)
+![null](/images/uploads/006-10.jpg)
