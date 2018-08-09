@@ -83,6 +83,17 @@
         </div>
         {{ end }}
 
+        {{ if isset .Params "galleria" }}
+            <div class="galleria">
+            {{< gallery >}}
+            {{ range .Params.galleria}}
+                {{< figure src="{{ .imgSrc }}" >}}
+            {{ end }}
+            {{< /gallery >}}
+            {{< load-photoswipe >}}
+            </div>
+        {{ end }}
+
         {{ .Content }}
         <br/>
         {{ if ne .URL "/services/"}}
