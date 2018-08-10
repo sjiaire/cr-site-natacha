@@ -1,5 +1,6 @@
 <head>
     <title>{{ .Site.Title }}</title>
+    <meta name="description" content="We make you feel at home during your stay in Kigali, Rwanda" />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!--[if lte IE 8]><script src="{{ .Site.BaseURL }}assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -42,14 +43,15 @@
     {{ end }}
     <!-- End of Open Graph -->
     <!-- Start of Twitter -->
-    <meta property="twitter:card" content="{{ .Params.twitter_summary }}">
-        {{ if .Description }}
-    <meta property="twitter:card" content="{{ .Description }}">
-        {{ else }}
-    <meta property="twitter:card" content="{{ .Title }}">
-        {{ end }}
-    <meta property="twitter:description" content="{{ .Description }}">
-    <meta property="twitter:title" content="{{ .Title }}">
+    {{ if .IsPage }}
+    <meta property="twitter:card" content="{{ .Params.Description }}">
+    <meta property="twitter:description" content="{{ .Params.Description }}">
+    <meta property="twitter:title" content="{{ .Params.Title }}">
+    {{ else }}
+    <meta property="twitter:card" content="We make you feel at home during your stay in Kigali, Rwanda with easy and comfort">
+    <meta property="twitter:description" content="We'll help you find the best place for you">
+    <meta property="twitter:title" content="{{ .Site.Title }}">
+    {{ end }}
     {{ if .Params.thumbnail }}
     <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail }}">
     {{ end }}
