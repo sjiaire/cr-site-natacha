@@ -14,7 +14,7 @@
                         <h4 style="color: #665a5a;">{{ .Params.furnished}} {{ .Params.property }}</h4>
 
                         {{ if eq "Not Available" .Params.availability }}
-                        <h3 style="color:#fa0000; border-color: #fa0000; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; margin-right: 2px;">{{ .Params.availability }}</h3>
+                        <h3 style="background:#fa0000 ;color:#FFF; border-color: #fa0000; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; margin-right: 2px;">{{ .Params.availability }}</h3>
                         {{ end }}
 
                         <h3 style="color:#fab300; border-color: #fab300; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; ">{{ .Params.price }}</h3>
