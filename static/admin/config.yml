@@ -48,12 +48,6 @@ collections:
       - {label: "Security", name: "security", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "Minimum Stay", name: "minimumstay", required: true, widget: "select", options: ["1 Week", "1 Month", "3 Months", "6 Months", "1 Year"]}
       - {label: "Price", name: "price", required: true, widget: "string"}
-      # - label: "Gallery"
-      #   name: "galleria"
-      #   widget: "list"
-      #   required: false
-      #   fields:
-      #     - {label: "Select Image", name: "imageGallery", required: true, widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "appartments" # Used in routes, e.g., /admin/collections/posts
