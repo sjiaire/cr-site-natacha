@@ -83,16 +83,22 @@
         </div>
         {{ end }}
 
-        {{ if isset .Params "galleria" }}
+{{/*  *************************************************  */}}
+
+
+{{/*          {{ if isset .Params "galleria" }}
             <div class="galleria">
-                <figure>
+                <gallery>
                     {{ range .Params.galleria}}
                         <image src="{{ .imageGallery }}" >
                     {{ end }}
                 </gallery>
                 <load-photoswipe>
             </div>
-        {{ end }}
+        {{ end }}  */}}
+
+{{/*  *************************************************  */}}
+
 
         {{ .Content }}
 
