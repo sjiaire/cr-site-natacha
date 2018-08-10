@@ -4,11 +4,11 @@ type: ''
 title: Stunning Gacuriro
 reference: 41. Stunning Gacuriro
 slug: 041-stunning-gacuriro
-date: '2018-08-09T08:28:14+02:00'
+date: 2018-08-10T03:51:35.653Z
 draft: false
 hidesidebar: true
-thumbnail: /images/uploads/041-02.jpg
-image: /images/uploads/041-02.jpg
+thumbnail: /images/uploads/041-01.jpg
+image: /images/uploads/041-01.jpg
 location: Gacuriro
 bedrooms: '3'
 baths: '3'
@@ -27,6 +27,8 @@ minimumstay: 1 Year
 price: '$ 1,800/month'
 ---
 {{< gallery >}}
+
+  {{< figure src="/images/uploads/041-01.jpg" >}}
 
   {{< figure src="/images/uploads/041-02.jpg" >}}
 
@@ -52,7 +54,7 @@ price: '$ 1,800/month'
 
 {{< figure src="/images/uploads/041-13.jpg" >}}
 
- {{< /gallery >}}
+{{< /gallery >}}
 
 {{< load-photoswipe >}}
 
@@ -70,7 +72,7 @@ This house is a perfect family home!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-Maison meublée de 3 chambres à louer - Gacuriro
+Maison meublée de 3 chambres à louer - Gacuriro
 
 Séjournez dans cette élégante maison meublée de 3 chambres à coucher située dans un tout nouvel quartier résidentiel de Gacuriro à proximité du quartier Vision 2020 et du siège social de Tigo.
 
@@ -78,6 +80,6 @@ Sa salle de séjour moderne avec télévision à écran plat s'ouvre à une bell
 
 À l'extérieur, elle a jardin paisible, une terrasse couverte, plusieurs balcons ainsi qu’un garage.
 
-La télévision câblée et l’internet par fibre optique sont disponibles.
+La télévision câblée et l’internet par fibre optique sont disponibles.
 
 Cette maison est une maison familiale parfaite !
