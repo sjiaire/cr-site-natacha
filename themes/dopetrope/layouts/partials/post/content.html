@@ -141,6 +141,7 @@
 
         <br/>
         {{ if ne .URL "/services/"}}
+        {{ if ne "Not Available" .Params.availability }}
         <div class="request-box">
             <h3>Request Availability of This Property</h3>
             <br/>
@@ -158,5 +159,6 @@
                 document.getElementById("pageURL").value=currentPageURL;
             </script>
         </div>
+        {{ end }}
         {{ end }}
 </article>
