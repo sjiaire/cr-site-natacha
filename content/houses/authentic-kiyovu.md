@@ -6,6 +6,7 @@ reference: 57. Authentic Kiyovu
 slug: 057-authentic-kiyovu
 date: '2018-08-08T06:12:38+02:00'
 draft: false
+description: 'Authentic Kiyovu House, 1 Year minimum stay'
 hidesidebar: true
 thumbnail: /images/uploads/057-01.jpg
 image: /images/uploads/057-01.jpg
