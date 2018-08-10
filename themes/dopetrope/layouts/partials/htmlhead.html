@@ -32,10 +32,12 @@
     {{ if .IsPage }}
     <meta property="og:type" content="article">
     <meta property="article:published_time" content="{{ .Date.Format "2006-01-02" }}">
+    <meta property="og:description" content="{{ .Params.description }}">
     {{ else }}
     <meta property="og:type" content="website">
+    <meta property="og:description" content="Rentals which make you feel at home during your stay in Kigali, Rwanda">
     {{ end }}
-    <meta property="og:description" content="{{ .Description }}">
+
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:site_name" content="{{ .Site.Title }}">
     {{ if .Params.thumbnail }}
