@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Not Available
+availability: Available
 title: Spotless Kicukiro
 reference: 59. Spotless Kicukiro
 slug: 059-spotless-kicukiro
