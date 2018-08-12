@@ -1,6 +1,7 @@
 ---
 property: House
 type: ''
+availability: Available
 title: Authentic Kiyovu
 reference: 57. Authentic Kiyovu
 slug: 057-authentic-kiyovu
