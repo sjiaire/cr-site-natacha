@@ -1810,13 +1810,13 @@
 	#header-wrapper {
 		position: relative;
 		background: #ffffff;
-		border-bottom: solid 1px #ccc;
+		/* border-bottom: solid 1px #ccc; */
 	}
 
 	#main-wrapper {
 		position: relative;
 		/* background: #665A5A; */
-		background: #f7f7f7;
+		/* background: #f7f7f7; */
 	}
 
 
@@ -1930,16 +1930,16 @@
 			.box {
 				padding: 2.75em 1.75em 2em 1.75em;
 				box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-				background: #F7F7F7;
+				/* background: #F7F7F7; */
 			}
 
 			#blog .box {
 				padding: 2.75em 1.75em 2em 1.75em;
 				box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-				background: #F7F7F7;
+				/* background: #F7F7F7; */
 				border-color: #665a5A;
 				border-style: solid;
-				border-width: 3px;
+				border-width: 8px;
 				border-radius: 4px;
 			}
 
@@ -2030,7 +2030,7 @@
 		/* Wrappers */
 
 			#header-wrapper {
-				padding: 0em 0 4em 0;
+				padding: 0em 0 0em 0;
 			}
 
 			#main-wrapper {
@@ -2067,7 +2067,7 @@
 
 			#nav > ul {
 				margin: 0;
-				padding: 1em;
+				padding: 1.5em;
 			}
 
 				#nav > ul > li {
@@ -2081,7 +2081,7 @@
 					}
 
 					#nav > ul > li > a {
-						background: #DCDCDC;
+						background: #665a5a;
 						font-size: 1.5em;
 						border-radius: 5px;
 						color: #fff;
