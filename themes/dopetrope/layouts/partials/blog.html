@@ -14,15 +14,16 @@
                         <div class="">
                             <h3 style="color: #665a5a;">{{ .Title }}</h3>
                             <h4 style="color: #665a5a;">{{ .Params.furnished}} {{ .Params.property }}</h4>
+                            {{ if eq "Rented" .Params.availability }}
+                                <h3 style="color:#fa0000;">{{ .Params.availability }}</h3>
+                            {{ end }}
                         </div>
 
 
-                        {{ if eq "Rented" .Params.availability }}
-                        <h3 style="color:#fa0000; border-color: #fff; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; ">{{ .Params.availability }}</h3>
-                        {{ end }}
+
                         <div class="">
                             <h3 style="color:#fab300; border-color: #fab300; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; ">{{ .Params.price }}</h3>
-                            <h3 href="{{ .Permalink }}" style=" margin-top:3px;background: #665a5a;color:#fff; border-color: #665a5a; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; "><center href="{{ .Permalink }}">Details</center></h3>
+                            <h3 href="{{ .Permalink }}" style=" margin-top:3px;background: #665a5a;color:#fff; border-color: #665a5a; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; box-shadow: 0px 4px 1px 0 rgba(0,0,0,0.2); "><center><a href="{{ .Permalink }}" class="">Details</a></center></h3>
                         </div>
 
                     </div>

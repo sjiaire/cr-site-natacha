@@ -51,10 +51,11 @@
                         <h2>{{ (index .Site.Data.footer.content.sections 4).title }}</h2>
                     </header>
                     {{ partial "footer/social.html" . }}
-                    {{ partial "footer/contact.html" . }}
+
                 </section>
             </div>
         </div>
+        {{ partial "footer/contact.html" . }}
         {{ partial "footer/copyright.html" . }}
     </section>
 </div>
