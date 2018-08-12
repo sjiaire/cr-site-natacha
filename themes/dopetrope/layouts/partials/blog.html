@@ -12,7 +12,9 @@
                         <img  src="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" />
                     </a>
                     {{ if eq "Rented" .Params.availability }}
-                    <h3 style="font-size: 3em;background: #fa0000;color:#fff; position: absolute; top: 40px; border-color: #fa0000; border-style: solid; border-width: 5px; border-radius: 4px; padding: 8px;">{{ .Params.availability }}</h3>
+                    <center>
+                        <h3 style="font-size: 3em;background: #fa0000;color:#fff; position: absolute; top: 40px; border-color: #fa0000; border-style: solid; border-width: 5px; border-radius: 4px; padding: 10px;">{{ .Params.availability }}</h3>
+                    </center>
                     {{ end }}
                 </div>
                 <header>
