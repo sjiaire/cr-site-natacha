@@ -9,7 +9,7 @@ date: 2018-08-12T04:36:58.880Z
 draft: false
 description: "Stay in this beautiful\_4\_bedroom house located in the lively neighbourhood of Gikondo. ​ This colourful\_home is functional and\_conveniently furnished. It\_has plenty\_of natural light and lots of outdoor space!\_"
 hidesidebar: true
-thumbnail: /images/uploads/061-01.png
+thumbnail: /images/uploads/061-01.jpg
 image: /images/uploads/061-01.png
 location: Gikondo
 bedrooms: '4'
