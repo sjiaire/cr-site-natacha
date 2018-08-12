@@ -32,8 +32,8 @@ collections:
       - {label: "Draft", name: "draft", required: false, widget: "hidden", default: false}
       - {label: "Short Description", name: "description", widget: "string"}
       - {label: "Hide sidebar", name: "hidesidebar", required: false, widget: "hidden", default: true}
-      - {label: "Thumbnail Image", name: "thumbnail", required: false, widget: "image"}
-      - {label: "Image", name: "image", required: false, widget: "image"}
+      - {label: "Thumbnail Image", name: "thumbnail", required: true, widget: "image"}
+      - {label: "Image", name: "image", required: true, widget: "image"}
       - {label: "Location", name: "location", required: true, widget: "string"}
       - {label: "N° of Bedrooms", name: "bedrooms", required: true, widget: "select", options: ["0", "1", "2", "3", "4", "5", "6+"]}
       - {label: "N° of Bathsrooms", name: "baths", required: true, widget: "select", options: ["0", "1", "2", "3", "4+"]}
