@@ -1,20 +1,37 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Spectral:300,400,700,900,300italic");
 
+
+
+/* Logo Block*/
+.topLogoContactBlock {
+	display: flex;
+	flex-direction: row;
+
+}
+
+.logo {
+	padding-left: 1em;
+	padding-top: 1em;
+}
+
 /* Top Contact*/
 
 .topContact {
 	display: flex;
 	flex: 1;
-	flex-direction: column-reverse;
+	flex-direction: column;
 	align-content: flex-end;
 	align-items: flex-end;
 	padding-right: 2em;
-	justify-content: left;
+	justify-content: center;
+	margin-bottom: 2em;
 }
 
 .topContact > li > a {
 	color: #3d3636;
+	font-size: 1.3em;
+	text-decoration:none;
 }
 
 /* CSS Grid Image */

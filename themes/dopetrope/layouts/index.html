@@ -5,12 +5,12 @@
 			<div id="header-wrapper">
 				<div id="header">
 
-					{{ partial "topContact.html" . }}
-
-					{{ partial "logo.html" . }}
+						<div class="topLogoContactBlock">
+								{{ partial "logo.html" . }}
+								{{ partial "topContact.html" . }}
+						</div>
 
 					{{ partial "nav.html" . }}
-
 					{{ partial "banner.html" . }}
 
 					{{/*  {{ partial "intro.html" . }}  */}}
