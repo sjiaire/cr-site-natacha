@@ -9,8 +9,8 @@ date: 2018-08-12T04:36:58.880Z
 draft: false
 description: "Stay in this beautiful\_4\_bedroom house located in the lively neighbourhood of Gikondo. ​ This colourful\_home is functional and\_conveniently furnished. It\_has plenty\_of natural light and lots of outdoor space!\_"
 hidesidebar: true
-thumbnail: /images/uploads/061-01.jpg
-image: /images/uploads/061-01.jpg
+thumbnail: /images/uploads/061-01.png
+image: /images/uploads/061-01.png
 location: Gikondo
 bedrooms: '4'
 baths: '3'
@@ -56,7 +56,7 @@ price: $ 800/month
 
 {{< load-photoswipe >}}
 
-Furnished 4 Bedroom House for Rent - Gikondo
+**Furnished 4 Bedroom House for Rent - Gikondo**
 
 Stay in this beautiful 4 bedroom house located in a residential area of Gikondo. Gikondo is a lively neighborhood easily accessible from the city center and Remera area. This house is conveniently located on a paved road, a few steps away from moto and bus stops.
 
@@ -68,7 +68,9 @@ The rent includes the services of a 24/7 guard. This home is available for short
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-Maison meublée 4 chambres à louer - Gikondo Séjournez dans cette belle maison de 4 chambres à coucher située dans une zone résidentielle de Gikondo. Gikondo est un quartier animé facilement accessible du centre- ville et de la zone de Remera. Cette maison se trouve sur une route macadamisée à quelques pas des arrêts de bus/moto.
+**Maison meublée 4 chambres à louer - Gikondo **
+
+Séjournez dans cette belle maison de 4 chambres à coucher située dans une zone résidentielle de Gikondo. Gikondo est un quartier animé facilement accessible du centre- ville et de la zone de Remera. Cette maison se trouve sur une route macadamisée à quelques pas des arrêts de bus/moto.
 
 Cette maison chaleureuse a un salon confortable et lumineux ouvrant à une salle à manger colorée à côté de sa cuisine moderne entièrement équipée. Elle a 3 chambres à coucher spacieuses avec garde-robes et 3 salles de bains et une chambre principale autonome.
 
