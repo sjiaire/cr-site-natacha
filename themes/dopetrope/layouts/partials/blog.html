@@ -7,16 +7,19 @@
         {{ range .paginator.Pages }}
         <div class="6u 12u(mobile)">
             <section class="box">
-                <a href="{{ .Permalink }}" class="image featured"><img  src="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" alt="" /></a>
+                <div style="position: relative;">
+                    <a href="{{ .Permalink }}" class="image featured"><img  src="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" alt="" /></a>
+                    {{ if eq "Rented" .Params.availability }}
+                    <h3 style=" background: #fa0000;color:#fff; position: absolute; top: 40px; border-color: #fa0000; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px;">{{ .Params.availability }}</h3>
+                    {{ end }}
+                </div>
                 <header>
                     <div class="title-price-flex">
 
                         <div class="">
                             <h3 style="color: #665a5a;">{{ .Title }}</h3>
                             <h4 style="color: #665a5a;">{{ .Params.furnished}} {{ .Params.property }}</h4>
-                            {{ if eq "Rented" .Params.availability }}
-                                <h3 style="color:#fa0000;">{{ .Params.availability }}</h3>
-                            {{ end }}
+
                         </div>
 
 
