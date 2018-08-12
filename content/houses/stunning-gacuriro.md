@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Not Available
+availability: Rented
 title: Stunning Gacuriro
 reference: 41. Stunning Gacuriro
 slug: 041-stunning-gacuriro

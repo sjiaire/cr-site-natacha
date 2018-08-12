@@ -6,7 +6,7 @@
         <div class="content-title-price-flex" >
             <h2 style="color: #665a5a;">{{ .Title }}</h2>
 
-            {{ if eq "Not Available" .Params.availability }}
+            {{ if eq "Rented" .Params.availability }}
             <h3 style="background:#fa0000 ;color:#FFF; border-color: #fa0000; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; margin-right: 2px;">{{ .Params.availability }}</h3>
             {{ end }}
 
@@ -141,7 +141,7 @@
 
         <br/>
         {{ if ne .URL "/services/"}}
-        {{ if ne "Not Available" .Params.availability }}
+        {{ if ne "Rented" .Params.availability }}
         <div class="request-box">
             <h3>Request Availability of This Property</h3>
             <br/>

@@ -36,9 +36,11 @@
 
 /* CSS Grid Image */
 .img-grid-box {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
 	justify-content: space-around;
+	justify-items: center;
+	align-content: center;
 }
 
 .img-grid-box > h6 {
@@ -1429,7 +1431,7 @@
 		cursor: pointer;
 		border: 0;
 		border-radius: 5px;
-		background: #ae7c00;
+		background: #665a5a;
 		color: #fff !important;
 		font-weight: 700;
 		outline: 0;
