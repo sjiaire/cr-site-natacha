@@ -211,11 +211,6 @@
 
 	@media screen and (min-width: 737px) {
 
-		.box.post {
-			font-size: 2em;
-    	line-height: 1.6;
-		}
-
 		.container.\31 25\25 {
 			width: 100%;
 			max-width: 1500px;
@@ -2407,6 +2402,11 @@
 					left: 15px;
 					top: 15px;
 					margin: -40px 0 40px -30px;
+				}
+
+				.box .post {
+					font-size: 2em;
+					line-height: 1.6;
 				}
 
 		/* Button */
