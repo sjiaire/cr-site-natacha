@@ -64,11 +64,11 @@ This welcoming home has a cosy lounge with plenty of natural light opening to a 
 
 Outdoor space includes a relaxing terrace, a wide garden with a scenic hill view, parking space, servants’ quarters, and a vegetable garden.
 
-The rent includes the services of a 24/7 guard. This home is available for short term rentals with minimum stay of 1 month. 
+The rent includes the services of a 24/7 guard. This home is available for short term rentals with minimum stay of 1 month.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-**Maison meublée 4 chambres à louer - Gikondo **
+**Maison meublée 4 chambres à louer - Gikondo**
 
 Séjournez dans cette belle maison de 4 chambres à coucher située dans une zone résidentielle de Gikondo. Gikondo est un quartier animé facilement accessible du centre- ville et de la zone de Remera. Cette maison se trouve sur une route macadamisée à quelques pas des arrêts de bus/moto.
 

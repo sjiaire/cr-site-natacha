@@ -51,7 +51,7 @@ price: 'from $ 1,200 / month'
 
 {{< load-photoswipe >}}
 
-4 Bedroom Furnished House in Rusororo
+**4 Bedroom Furnished House in Rusororo**
 
 Stay in a welcoming 4-bedroom house in a beautiful estate of Rusororo! Rusororo is a beautiful hill at the crossroads between modernity and authenticity. It is surrounded by green hills and water points and located at 15 min drive from the Airport, on the road to Akagera National Park.
 
@@ -83,7 +83,7 @@ With all comfort inside and nature outside, this house is a perfect spot for hol
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-Maison meublée de 4 chambres à Rusororo
+**Maison meublée de 4 chambres à Rusororo**
 
 Séjournez dans une charmante maison à 4 chambres dans le quartier résidentiel de Rusororo! Rusororo est une belle colline située à 15 minutes de l'Aéroport international sur la route vers le Parc national de l'Akagera. Avec ses larges espaces verts et ses quelques points d'eau, elle est à la croisée des chemins entre modernité et authenticité.
 

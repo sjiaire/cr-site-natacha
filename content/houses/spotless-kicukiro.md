@@ -56,7 +56,7 @@ price: $ 700/month
 
 {{< load-photoswipe >}}
 
-4 Bedroom House for Rent - Kicukiro
+**4 Bedroom House for Rent - Kicukiro**
 
 Stay in this spotless 4 bedroom house located in Kicukiro, nearby St Joseph Church. Kicukiro is an authentic residential neighborhood with several shops and restaurants. The house is located in a very quiet area overlooking green hills. It is easily accessible from the city center, Remera and the Airport.
 
@@ -64,11 +64,11 @@ This brand-new 2-storey residence is spacious and well-designed. On the ground f
 
 Outdoor, it has a pleasant garden, a patio and parking space.
 
-This is a perfect family home! 
+This is a perfect family home!
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__ 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-Maison 4 chambres à louer - Kicukiro 
+**Maison 4 chambres à louer - Kicukiro**
 
 Séjournez dans cette impeccable maison de 4 chambres à coucher située à Kicukiro, à proximité de l’église St Joseph. Kicukiro est un quartier résidentiel authentique disposant de plusieurs magasins et restaurants. La maison se trouve dans un domaine très calme dominant les collines. Elle est facilement accessible du centre-ville, de Remera et de l'Aéroport. Cette résidence neuve de 2 étages est spacieuse et bien conçue. Au rez-de-chaussée, elle a une large salle de séjour, une grande cuisine américaine ouvrant sur un coin-repas tout près d’une chambre à coucher. En haut, elle a 3 chambres à coucher spacieuses dont une chambre principale autonome. En plus, chaque pièce dispose d’une garde-robe et de son propre balcon.
 

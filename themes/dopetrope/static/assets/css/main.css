@@ -2405,8 +2405,8 @@
 					margin: -40px 0 40px -30px;
 				}
 
-				.box .post {
-					font-size: 2em;
+				.box.post {
+					font-size: 1.5em;
 					line-height: 1.6;
 				}
 

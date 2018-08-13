@@ -56,7 +56,7 @@ price: 'from $ 1,600/month'
 
 {{< load-photoswipe >}}
 
-Furnished 3 Bedroom Apartment for Rent in Kagugu
+**Furnished 3 Bedroom Apartment for Rent in Kagugu**
 
 Stay in this splendid 3 bedroom furnished apartment located in Kagugu, a quiet residential neighborhood nearby Woodlands Supermarket in walking distance from Aberdeen Hotel.
 
@@ -70,7 +70,7 @@ Short-term rate (up to 6 months): $ 2,000 per month.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-Appartement meublé de 3 chambres à louer à Kagugu
+**Appartement meublé de 3 chambres à louer à Kagugu**
 
 Séjournez dans ce splendide appartement meublé de 3 chambres situé à Kagugu, un quartier résidentiel calme près du supermarché Woodlands et à quelques minutes à pied de l’hôtel Aberdeen.
 
