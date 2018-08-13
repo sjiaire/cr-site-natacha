@@ -13,7 +13,7 @@
                     </a>
                     {{ if eq "Rented" .Params.availability }}
                     <center>
-                        <h3 style="font-size: 3em;background: #fa0000;color:#fff; position: absolute; top: 40px; border-color: #fa0000; border-style: solid; border-width: 5px; border-radius: 4px; padding: 10px;">{{ .Params.availability }}</h3>
+                        <h3 style="font-size: 3em;background: #665a5a;color:#fab300; position: absolute; top: 40px; border-color: #665a5a; border-style: solid; border-width: 5px; border-radius: 4px; padding: 10px;">{{ upper .Params.availability }}</h3>
                     </center>
                     {{ end }}
                 </div>

@@ -9,7 +9,7 @@
         <div>
             <h3 style="color: #665a5a; padding: 5px;">{{ .Params.furnished}} {{ .Params.property }}</h3>
             {{ if eq "Rented" .Params.availability }}
-            <h3 style="padding: 3px; color: #fa0000;">{{ .Params.availability }}</h3>
+            <h3 style="padding: 3px; color: #fab300;">{{ upper .Params.availability }}</h3>
             {{ end }}
             {{ if ne .URL "/services/"}}
             <h3 style="padding: 3px;" >{{ .Params.price }}</h3>
