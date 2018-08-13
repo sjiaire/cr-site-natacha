@@ -211,7 +211,7 @@
 
 	@media screen and (min-width: 737px) {
 
-		.box post {
+		.box.post {
 			font-size: 2em;
     	line-height: 1.6;
 		}
