@@ -211,6 +211,11 @@
 
 	@media screen and (min-width: 737px) {
 
+		.box post {
+			font-size: 2em;
+    	line-height: 1.6;
+		}
+
 		.container.\31 25\25 {
 			width: 100%;
 			max-width: 1500px;
@@ -1952,8 +1957,7 @@
 				border-style: solid;
 				border-width: 8px;
 				border-radius: 4px;
-				font-size: 2em;
-    		line-height: 1.6;
+
 }
 			}
 
