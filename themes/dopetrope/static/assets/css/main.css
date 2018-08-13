@@ -2603,10 +2603,11 @@
 					color: #fab300;
 					text-decoration: none;
 					height: 74px;
-					line-height: 44px;
+					line-height: 74px;
 					border-top: solid 1px rgba(255, 255, 255, 0.05);
 					padding: 0 1em 0 1em;
 					font-style: italic;
+					font-weight: 600;
 				}
 
 					#navPanel .link:first-child {
