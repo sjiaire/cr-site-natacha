@@ -2399,34 +2399,48 @@
 				border-radius: 6px;
 			}
 
-				.box .image.featured {
-					left: 15px;
-					top: 15px;
-					margin: -40px 0 40px -30px;
-				}
-
-				.box.post {
-					font-size: 1.5em;
-					line-height: 1.6;
-				}
-
-				.topLogoContactBlock {
-					display: flex;
-					flex-direction: column;
-					align-items: center;
+			.box .image.featured {
+				left: 15px;
+				top: 15px;
+				margin: -40px 0 40px -30px;
 			}
 
-				.topContact {
-					display: flex;
-					flex: 1;
-					flex-direction: column;
-					align-items: center;
-					padding-right: 0em;
+			.box.post {
+				font-size: 1.5em;
+				line-height: 1.6;
+			}
+
+			.topLogoContactBlock {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+			}
+
+			.topContact {
+				display: flex;
+				flex: 1;
+				flex-direction: column;
+				align-items: center;
+				padding-right: 0em;
 			}
 
 			.logo {
 				padding-left: 0em;
-		}
+			}
+
+			.list-features {
+				display: grid;
+				grid-template-columns: repeat(1, 1fr);
+				grid-row-gap: 10px;
+				padding-top: 2em;
+				font-size: 0.8em;
+			}
+			.content-title-price-flex {
+				display: flex;
+				flex-direction: row;
+				justify-content: space-between;
+				font-size: 0.8em;
+			}
 
 		/* Button */
 
