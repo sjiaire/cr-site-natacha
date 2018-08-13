@@ -2594,13 +2594,13 @@
 				top: 0;
 				width: 275px;
 				z-index: 10002;
-				color: #858484;
+				color: #fab300;
 				box-shadow: inset -3px 0px 5px 0px rgba(0, 0, 0, 0.35);
 			}
 
 				#navPanel .link {
 					display: block;
-					color: #888;
+					color: #fab300;
 					text-decoration: none;
 					height: 44px;
 					line-height: 44px;
@@ -2639,7 +2639,7 @@
 				}
 
 				#navPanel .depth-0 {
-					color: #fff;
+					color: #fab300;
 				}
 
 			body.navPanel-visible #page-wrapper {
