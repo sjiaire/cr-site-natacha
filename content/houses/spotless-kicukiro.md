@@ -14,11 +14,11 @@ image: /images/uploads/059-01.jpg
 location: Kicukiro
 bedrooms: '4'
 baths: '3'
-furnished: Furnished
-sleeps: 6+
+furnished: Unfurnished
+sleeps: '0'
 garden: 'Yes'
 maid: 'No'
-tv: 'Yes'
+tv: 'No'
 wifi: 'No'
 hotwater: 'Yes'
 waterpump: 'Yes'
