@@ -66,7 +66,7 @@ Outdoor space includes a relaxing terrace, a wide garden with a scenic hill view
 
 The rent includes the services of a 24/7 guard. This home is available for short term rentals with minimum stay of 1 month.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+---
 
 **Maison meublée 4 chambres à louer - Gikondo**
 

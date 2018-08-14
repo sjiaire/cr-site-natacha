@@ -74,7 +74,7 @@ Outdoor, this home has several servants ‘quarters, a green front garden and a 
 
 This house is a perfect family home!
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+---
 
 **Maison de 5 chambres à louer à Kiyovu**
 

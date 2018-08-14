@@ -66,7 +66,7 @@ Outdoor, it has a pleasant garden, a patio and parking space.
 
 This is a perfect family home!
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+---
 
 **Maison 4 chambres à louer - Kicukiro**
 

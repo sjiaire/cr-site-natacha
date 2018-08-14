@@ -68,7 +68,7 @@ The apartment is available for short term rentals with a minimum stay of 3 month
 
 Short-term rate (up to 6 months): $ 2,000 per month.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+---
 
 **Appartement meublé de 3 chambres à louer à Kagugu**
 

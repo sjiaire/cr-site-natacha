@@ -81,7 +81,7 @@ EXTRA: Chauffeured-car rental $ 50 / day.
 
 With all comfort inside and nature outside, this house is a perfect spot for holidays, work trips, or simply resting near Kigali!
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+---
 
 **Maison meublée de 4 chambres à Rusororo**
 

@@ -62,7 +62,7 @@ It is available for both short and long term rentals with minimum stay of 1 mont
 
 Short-term rentals: (1-3 months): $ 800
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+---
 
 **Appartement meublé 2 chambres à Kicukiro**
 

@@ -61,7 +61,7 @@ Stay in this luxurious 3 bedroom furnished apartment in the chic residential nei
 
 Downstairs, there is a secured covered parking as well as boys’ quarters. In addition, the building has a 24/7 security guard. Short-term rental rates (up to 3 months): $ 1,500 per month
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+---
 
 **Appartement meublé de 3 chambres à louer à Kagugu**
 

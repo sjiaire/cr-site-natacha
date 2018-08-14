@@ -68,7 +68,7 @@ Outdoor, it has a pleasant patio, parking space and a flat backyard safe for kid
 
 This family-sized home is available for short term rentals with minimum stay of 1 week.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+---
 
 **Maison meublée 4 chambres à louer à Kicukiro**
 

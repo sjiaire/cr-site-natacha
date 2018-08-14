@@ -74,8 +74,7 @@ Short-term rental rate (up to 3 months): $ 2,000/month.
 
 This residence guarantees international lifestyle!
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
+---
 
 **Appartement meublé 2 chambres à louer - Kiyovu**
 

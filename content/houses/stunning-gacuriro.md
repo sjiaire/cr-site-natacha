@@ -71,8 +71,7 @@ Cable TV and optic fiber internet are available.
 
 This house is a perfect family home!
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
+---
 
 **Maison meublée de 3 chambres à louer - Gacuriro**
 
