@@ -13,8 +13,8 @@ description: >-
   shops, restaurants and schools.
 draft: false
 hidesidebar: true
-thumbnail: /images/uploads/046-01.jpg
-image: /images/uploads/046-01.jpg
+thumbnail: /images/uploads/046-12.jpg
+image: /images/uploads/046-12.jpg
 location: Kiyovu
 bedrooms: '2'
 baths: '2'
@@ -30,7 +30,7 @@ pets: 'No'
 parking: '2'
 security: 'Yes'
 minimumstay: 1 Year
-price: '$ 1,800'
+price: '$ 1,800/month'
 ---
 {{< gallery >}}
 
