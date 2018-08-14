@@ -38,7 +38,7 @@ collections:
       - {label: "N° of Beds", name: "bedrooms", required: true, widget: "select", options: ["0", "1", "2", "3", "4", "5", "6+"]}
       - {label: "N° of Bathsrooms", name: "baths", required: true, widget: "select", options: ["0", "1", "2", "3", "4+"]}
       - {label: "Furnished", name: "furnished", required: true, widget: "select", options: ["Furnished", "Unfurnished"]}
-      - {label: "N° of Sleeps", name: "sleeps", required: true, widget: "select", options: ["0", "1", "2", "3", "4", "5", "6+"]}
+      - {label: "N° of Sleeps", name: "sleeps", required: true, widget: "select", options: ["None", "1", "2", "3", "4", "5", "6+"]}
       - {label: "Garden", name: "garden", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "Maid Service", name: "maid", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "TV", name: "tv", required: true, widget: "select", options: ["Yes", "No"]}
