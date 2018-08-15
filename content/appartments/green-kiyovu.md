@@ -7,10 +7,8 @@ reference: 46. Green Kiyovu
 slug: 046-green-kiyovu
 date: 2018-08-14T03:51:41.465Z
 description: >-
-  2 Bedroom Apartment for Rent in Kiyovu Stay in this exclusive 2-bedroom
-  apartment centrally located in Kiyovu well-known for its leafy and tranquil
-  atmosphere. Kiyovu is in walking distance from the city center hosting several
-  shops, restaurants and schools.
+  Stay in this exclusive 2 Bedroom Apartment for Rent in Kiyovu, Kigali,
+  Rwanda. 
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/046-01.jpg
