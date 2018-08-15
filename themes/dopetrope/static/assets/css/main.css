@@ -1307,6 +1307,7 @@
 	form input[type=date],
 	form input[type=email],
 	form input[type=password],
+	form input[type=reason],
 	form select,
 	form textarea {
 		-webkit-appearance: none;
@@ -1324,6 +1325,7 @@
 		form input[type=date]:focus,
 		form input[type=email]:focus,
 		form input[type=password]:focus,
+		form input[type=reason]:focus,
 		form select:focus,
 		form textarea:focus {
 			box-shadow: inset 0px 0px 1px 1px #43bff0;
@@ -1797,7 +1799,28 @@
 					border-top-color: #827a7c;
 				}
 
+ /* Service images */
+
+
 /* Banner */
+	#service-01 {
+  	top: 0;
+  	left: 0;
+  	min-width: 100%;
+  	min-height: 100%;
+	}
+	#service-02 {
+  	top: 0;
+  	left: 0;
+  	min-width: 100%;
+  	min-height: 100%;
+	}
+	#service-03 {
+  	top: 0;
+  	left: 0;
+  	min-width: 100%;
+  	min-height: 100%;
+	}
 
 	#banner {
 		background: url("/images/pic01.jpg");

@@ -6,7 +6,9 @@ hidesidebar: true
 ---
 
 
-![Cocoon Rwanda Rent House 1](https://cocoonrwanda.101experiments.com/images/uploads/0000-01.jpg)
+
+
+<img src="/images/uploads/0000-01.jpg" id="service-01">
 
  **About Us**
 
@@ -18,7 +20,7 @@ hidesidebar: true
   * - Provide good value for money accomodations
   * - Make our tenants feel at home
 
-![Cocoon Rwanda Rent House 2](https://cocoonrwanda.101experiments.com/images/uploads/0000-02.jpg)
+<img src="/images/uploads/0000-02.jpg" id="service-02">
 
 **Looking for a home?**
 
@@ -31,7 +33,7 @@ We offer one stop shop for rental properties in Kigali:
 
  **Interested?**
 
-![Cocoon Rwanda Rent House 3](https://cocoonrwanda.101experiments.com/images/uploads/0000-03.jpg)
+<img src="/images/uploads/0000-03.jpg" id="service-03">
 
 **Do you own a rental property?**
 
@@ -47,3 +49,19 @@ We always clients looking for stunning rental properties through Kigali.
 
 Once your property is added to our portfolio, we match it with our requests.
 
+<div class="request-box">
+            <h3>Contact Us about Anything</h3>
+            <br/>
+            <form style="width: 70%; " name="Request Availability" method="POST" netlify>
+                <input id= "pageURL" type="hidden" name="Page URL" value=""/>
+                <p><label>Your Name: <input type="text" name="name" /></label></p>
+                <p><label>Your Email: <input type="email" name="email" /></label></p>
+                <p><label>Need to know about: <input type="reason" name="reason" /></label></p>
+                <p><label>Message: <textarea name="message"></textarea></label></p>
+                <p><button type="submit">Send</button></p>
+            </form>
+            <script type="text/javascript">
+                var currentPageURL = "https://cocoonrwanda.101experiments.com"+{{.URL}};
+                document.getElementById("pageURL").value=currentPageURL;
+            </script>
+  </div>
