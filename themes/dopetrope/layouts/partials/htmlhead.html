@@ -41,7 +41,7 @@
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:site_name" content="{{ .Site.Title }}">
     {{ if .Params.image }}
-    <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.image }}">
+    <meta property="og:image" content="{{ .Site.BaseURL }}{{ replace .Params.image "/image" "image" }}">
     {{ else }}
     <meta property="og:image" content="{{ .Site.BaseURL }}/images/cocoonrwanda-logo.jpg">
     {{ end }}
@@ -55,7 +55,7 @@
     <meta property="twitter:title" content="{{ .Site.Title }}">
     {{ end }}
     {{ if .Params.thumbnail }}
-    <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail }}">
+    <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ replace .Params.thumbnail "/image" "image" }}">
     {{ else }}
     <meta property="twitter:image" content="{{ .Site.BaseURL }}/images/cocoonrwanda-logo.jpg">
     {{ end }}
