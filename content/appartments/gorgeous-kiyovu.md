@@ -1,10 +1,12 @@
 ---
 property: Appartment
 type: ''
+availability: Available
 title: Gorgeous Kiyovu
 reference: 60. Gorgeous Kiyovu
 slug: 060-gorgeous-kiyovu
 date: 2018-08-10T05:05:30.104Z
+description: 'Gorgeous Kiyovu, Kigali'
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/060-01.jpg
@@ -12,7 +14,7 @@ image: /images/uploads/060-01.jpg
 location: Kiyovu
 bedrooms: '2'
 baths: '2'
-furnished: 'Furnished'
+furnished: Furnished
 sleeps: '4'
 garden: 'No'
 maid: 'No'
