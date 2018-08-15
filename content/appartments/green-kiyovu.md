@@ -15,11 +15,11 @@ draft: false
 hidesidebar: true
 thumbnail: /images/uploads/046-01.jpg
 image: /images/uploads/046-01.jpg
-location: Kiyovu - Présidence
+location: Kiyovu
 bedrooms: '2'
 baths: '2'
 furnished: Unfurnished
-sleeps: '0'
+sleeps: None
 garden: 'No'
 maid: 'No'
 tv: 'No'
