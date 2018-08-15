@@ -19,7 +19,7 @@ location: Kiyovu
 bedrooms: '2'
 baths: '2'
 furnished: Unfurnished
-sleeps: '0'
+sleeps: None
 garden: 'No'
 maid: 'No'
 tv: 'No'
