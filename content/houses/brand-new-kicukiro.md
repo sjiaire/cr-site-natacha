@@ -1,18 +1,20 @@
 ---
 property: House
 type: ''
+availability: Available
 title: Brand-new Kicukiro
 reference: 58. Brand-new Kicukiro
 slug: 058-brand-new-kicukiro
 date: '2018-08-03T08:37:23+02:00'
 draft: false
+description: Brand New Kiyovu
 hidesidebar: true
 thumbnail: /images/uploads/058-01.jpg
 image: /images/uploads/058-01.jpg
 location: Kicukiro
 bedrooms: '4'
 baths: '3'
-furnished: 'Furnished'
+furnished: Furnished
 sleeps: 6+
 garden: 'Yes'
 maid: 'No'
