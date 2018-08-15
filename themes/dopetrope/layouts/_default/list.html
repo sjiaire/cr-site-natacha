@@ -36,8 +36,8 @@
               </footer>
             {{ end }}
           <!-- End Houses -->
-          <!-- Start Appartments -->
-          {{ if eq .URL "/appartments/" }}
+          <!-- Start Apartments -->
+          {{ if eq .URL "/apartments/" }}
             {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.Appartzment.foldername) }}
             {{ partial "blog.html" (dict "title" .Site.Params.Appartzment.title "paginator" $paginator) }}
 
@@ -52,7 +52,7 @@
               </ul>
             </footer>
           {{ end }}
-          <!-- End Appartments -->
+          <!-- End Apartments -->
           <!-- Start ShortStays -->
 {{/*            {{ if eq .URL "/shortstays/" }}
             {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.Shortzstay.foldername) }}

@@ -10,9 +10,9 @@ theme = "dopetrope"
     foldername = "houses"
 
 [params.appartzment]
-    title = "Appartments"
-    viewalltext = "All Appartments"
-    foldername = "appartments"
+    title = "Apartments"
+    viewalltext = "All Apartments"
+    foldername = "apartments"
 
 [params.settings]
     googleanalytics = "UA-119431851-1"

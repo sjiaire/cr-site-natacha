@@ -14,7 +14,7 @@
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>
             {{/*  <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Shortzstay.foldername }}">{{ .Site.Params.Shortzstay.title }}</a></li>  */}}
             <li><a href="{{ .Site.BaseURL }}services/">Service</a></li>
-        {{ else if findRE .URL "/appartments/"}}
+        {{ else if findRE .URL "/apartments/"}}
             <li><a href="{{ .Site.BaseURL }}">Latest</a></li>
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
             <li class="current"><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>

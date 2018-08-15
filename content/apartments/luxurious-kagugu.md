@@ -1,5 +1,5 @@
 ---
-property: Appartment
+property: Apartment
 title: Luxurious Kagugu
 reference: 12. Luxurious Kagugu
 slug: 012-luxurious-kagugu

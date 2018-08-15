@@ -1,5 +1,5 @@
 ---
-property: Appartment
+property: Apartment
 type: ''
 title: Kicukiro Nest
 reference: 15. Kicukiro Nest

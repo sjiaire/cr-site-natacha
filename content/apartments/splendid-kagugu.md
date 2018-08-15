@@ -1,5 +1,5 @@
 ---
-property: Appartment
+property: Apartment
 type: ''
 title: Splendid Kagugu
 reference: 17. Splendid Kagugu

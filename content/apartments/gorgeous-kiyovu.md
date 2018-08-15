@@ -1,5 +1,5 @@
 ---
-property: Appartment
+property: Apartment
 type: ''
 availability: Available
 title: Gorgeous Kiyovu

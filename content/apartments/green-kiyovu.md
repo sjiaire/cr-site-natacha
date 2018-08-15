@@ -1,5 +1,5 @@
 ---
-property: Appartment
+property: Apartment
 type: ''
 availability: Available
 title: Green Kiyovu
@@ -8,7 +8,7 @@ slug: 046-green-kiyovu
 date: 2018-08-14T03:51:41.465Z
 description: >-
   Stay in this exclusive 2 Bedroom Apartment for Rent in Kiyovu, Kigali,
-  Rwanda. 
+  Rwanda.
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/046-01.jpg
