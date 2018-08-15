@@ -64,8 +64,7 @@ price: '$ 1,800/month'
 
 {{< load-photoswipe >}}
 
-**2 Bedroom Apartment for Rent - Kiyovu
-**
+**2 Bedroom Apartment for Rent - Kiyovu**
 
 Stay in this exclusive 2-bedroom apartment centrally located in Kiyovu well-known for its leafy and tranquil atmosphere. Kiyovu is in walking distance from the city center hosting several shops, restaurants and schools.
 
@@ -81,8 +80,7 @@ This apartment is a perfect family home!
 
 ---
 
-**Appartement 2 chambres à louer - Kiyovu
-**
+**Appartement 2 chambres à louer - Kiyovu**
 
 Séjournez dans cet appartement 2 chambres exclusif situé dans le quartier central de Kiyovu, célèbre pour son aspect verdoyant et tranquille. Kiyovu est à quelques minutes à pied du centre-ville, à proximité des magasins, restaurants, écoles et autres services.
 

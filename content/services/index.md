@@ -37,7 +37,7 @@ We offer one stop shop for rental properties in Kigali:
 
 **Do you own a rental property?**
 
-We offer profesional and time effective property management services such as:
+We offer professionnal and time effective property management services such as:
 
   * - Property parking
   * - Brokerage services
@@ -49,10 +49,11 @@ We always clients looking for stunning rental properties through Kigali.
 
 Once your property is added to our portfolio, we match it with our requests.
 
+<br/>
 <div class="request-box">
             <h3>Contact Us about Anything</h3>
             <br/>
-            <form style="width: 70%; " name="Request Availability" method="POST" netlify>
+            <form style="width: 100%; " name="Request Availability" method="POST" netlify>
                 <input id= "pageURL" type="hidden" name="Page URL" value=""/>
                 <p><label>Your Name: <input type="text" name="name" /></label></p>
                 <p><label>Your Email: <input type="email" name="email" /></label></p>
