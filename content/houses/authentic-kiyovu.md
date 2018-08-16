@@ -23,8 +23,8 @@ garden: 'Yes'
 maid: 'No'
 tv: 'No'
 wifi: 'No'
-hotwater: 'Yes'
-waterpump: 'Yes'
+washingmachine: 'Yes'
+closets: 'Yes'
 pets: 'Yes'
 parking: 6+
 security: 'No'
@@ -61,7 +61,8 @@ price: '$ 1,500/month'
 
 {{< load-photoswipe >}}
 
-**5 Bedroom House for Rent in Kiyovu**
+**5 Bedroom House for Rent in Kiyovu
+**
 
 Stay in this vast 5 bedroom house located in chic area of Kiyovu. Kiyovu is a green and quiet area of the city center in walking distance from several shops, schools and restaurants.
 

@@ -43,8 +43,8 @@ collections:
       - {label: "Maid Service", name: "maid", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "TV", name: "tv", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "Wifi", name: "wifi", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Hot Water", name: "hotwater", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Water Pump", name: "waterpump", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Washing machine", name: "washingmachine", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Closets", name: "closets", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "Pets Allowed", name: "pets", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "N° of Parking spots", name: "parking", required: true, widget: "select", options: ["None", "1", "2", "3", "4", "5", "6+"]}
       - {label: "Security", name: "security", required: true, widget: "select", options: ["Yes", "No"]}
@@ -79,8 +79,8 @@ collections:
       - {label: "Maid Service", name: "maid", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "TV", name: "tv", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "Wifi", name: "wifi", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Hot Water", name: "hotwater", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Water Pump", name: "waterpump", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Washing machine", name: "washingmachine", required: true, widget: "select", options: ["Yes", "No"]}
+      - {label: "Closets", name: "closets", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "Pets Allowed", name: "pets", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "N° of Parking spots", name: "parking", required: true, widget: "select", options: ["None", "1", "2", "3", "4", "5", "6+"]}
       - {label: "Security", name: "security", required: true, widget: "select", options: ["Yes", "No"]}
