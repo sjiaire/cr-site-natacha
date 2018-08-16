@@ -2016,7 +2016,7 @@
 
 			.box.post header > p {
 				margin-top: 1.25em;
-				font-size: 1.25em;
+				font-size: 1.1em;
 			}
 
 		/* Button */
@@ -2078,11 +2078,11 @@
 			}
 
 			#main-wrapper {
-				padding: 4em 0 4em 0;
+				/* padding: 4em 0 4em 0; */
 			}
 
 			#footer-wrapper {
-				padding: 2em 0 2em 0;
+				/* padding: 2em 0 2em 0; */
 			}
 
 				#footer-wrapper header {
@@ -2201,7 +2201,8 @@
 			#banner {
 				position: relative;
 				padding: 8em 0;
-				margin: 4em 0 0 0;
+				/* margin: 4em 0 0 0; */
+				margin: 1em 0 0 0;
 			}
 
 			#banner header {
