@@ -43,7 +43,7 @@
     {{ if .Params.image }}
     <meta property="og:image" content="{{ .Site.BaseURL }}{{ replace .Params.image "/image" "image" }}">
     {{ else }}
-    <meta property="og:image" content="{{ .Site.BaseURL }}/images/cocoonrwanda-logo.jpg">
+    <meta property="og:image" content="{{ .Site.BaseURL }}/images/social-logo-300x200.jpg">
     {{ end }}
     <!-- End of Open Graph -->
     <!-- Start of Twitter -->
@@ -57,7 +57,7 @@
     {{ if .Params.thumbnail }}
     <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ replace .Params.thumbnail "/image" "image" }}">
     {{ else }}
-    <meta property="twitter:image" content="{{ .Site.BaseURL }}/images/cocoonrwanda-logo.jpg">
+    <meta property="twitter:image" content="{{ .Site.BaseURL }}/images/social-logo-300x200.jpg">
     {{ end }}
     <!-- End of Twitter -->
     {{ partial "htmlheadcustom.html" . }}
