@@ -93,6 +93,12 @@
 	border-width: 5px;
 }
 
+/*css on price on page detail (content.html)*/
+.price-on-detail-page {
+	display: flex;
+
+}
+
 /* Paginator css styling*/
 .pagination {
 	display: flex;
