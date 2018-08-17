@@ -8,7 +8,7 @@
         <div class="6u 12u(mobile)">
             <section class="box">
                 <div style="position: relative;">
-                    <a href="{{ .Permalink }}" class="image featured">
+                    <a href="{{ .Permalink }}#listing-details" class="image featured">
                         <img  src="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" />
                     </a>
                     {{ if eq "Rented" .Params.availability }}
@@ -30,7 +30,7 @@
 
                         <div>
                             <h3 style="color:#fab300; border-color: #fab300; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; ">{{ .Params.price }}</h3>
-                            <h3 href="{{ .Permalink }}" style=" margin-top:3px;background: #665a5a;color:#fff; border-color: #665a5a; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; box-shadow: 0px 4px 1px 0 rgba(0,0,0,0.2); "><center><a href="{{ .Permalink }}" class="">Details</a></center></h3>
+                            <h3 href="{{ .Permalink }}#listing-details" style=" margin-top:3px;background: #665a5a;color:#fff; border-color: #665a5a; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; box-shadow: 0px 4px 1px 0 rgba(0,0,0,0.2); "><center><a href="{{ .Permalink }}#listing-details" class="">Details</a></center></h3>
                         </div>
 
                     </div>
@@ -45,13 +45,7 @@
                     <h6 style="color: #665a5a;">Baths: {{ .Params.baths}}</h6>
                     <h6 style="color: #665a5a;">From {{ .Params.minimumstay}}</h6>
                 </div>
-
                 </header>
-                {{/*  <footer>
-                    <ul class="actions">
-                        <li><a href="{{ .Permalink }}" class="button icon fa-file-text">View Details</a></li>
-                    </ul>
-                </footer>  */}}
             </section>
         </div>
         {{ end }}

@@ -96,7 +96,12 @@
 /*css on price on page detail (content.html)*/
 .price-on-detail-page {
 	display: flex;
+	padding: 2px;
+}
 
+/*item icons detailed page (content.html)*/
+.item-icon-detailed-page {
+	display: flex;
 }
 
 /* Paginator css styling*/
@@ -1410,7 +1415,7 @@
 
 	header > p {
 		display: block;
-		font-style: italic;
+		/* font-style: italic; */
 	}
 
 	header.major {
@@ -2000,7 +2005,7 @@
 			.box .image.featured {
 				left: 1.75em;
 				top: 1.75em;
-				margin: -4.5em 0 4.25em -3.5em;
+				margin: -4.5em 0 3.25em -3.5em;
 			}
 
 			.box.post {
