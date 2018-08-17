@@ -1814,23 +1814,25 @@
 
 
 /* Banner */
-	#service-01 {
-  	top: 0;
-  	left: 0;
-  	min-width: 100%;
-  	min-height: 100%;
+
+	.container-service-01 > img {
+		margin: 0;
+		background-position: center;
+		background-size: cover;
+		width: 100%;
 	}
-	#service-02 {
-  	top: 0;
-  	left: 0;
-  	min-width: 100%;
-  	min-height: 100%;
+	.container-service-02 > img {
+			margin: 0;
+			background-position: center;
+			background-size: cover;
+			width: 100%;
 	}
-	#service-03 {
-  	top: 0;
-  	left: 0;
-  	min-width: 100%;
-  	min-height: 100%;
+
+	.container-service-03 > img {
+		margin: 0;
+		background-position: center;
+		background-size: cover;
+		width: 100%;
 	}
 
 	#banner {

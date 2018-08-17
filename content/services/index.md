@@ -6,9 +6,11 @@ hidesidebar: true
 ---
 
 
-
-
-<img src="/images/uploads/0000-01.jpg" id="service-01">
+<section>
+  <div class=container-service-01>
+    <img src="/images/uploads/0000-01.jpg">
+  </div>
+</section>
 
  **About Us**
 
@@ -20,7 +22,11 @@ hidesidebar: true
   * - Provide good value for money accomodations
   * - Make our tenants feel at home
 
-<img src="/images/uploads/0000-02.jpg" id="service-02">
+<section>
+  <div class=container-service-02>
+    <img src="/images/uploads/0000-02.jpg">
+  </div>
+</section>
 
 **Looking for a home?**
 
@@ -33,7 +39,11 @@ We offer one stop shop for rental properties in Kigali:
 
  **Interested?**
 
-<img src="/images/uploads/0000-03.jpg" id="service-03">
+ <section>
+  <div class=container-service-03>
+    <img src="/images/uploads/0000-03.jpg">
+  </div>
+</section>
 
 **Do you own a rental property?**
 
