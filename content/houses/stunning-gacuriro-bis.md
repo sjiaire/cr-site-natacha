@@ -33,7 +33,7 @@ price: '$ 1,900/month'
 ---
 {{< gallery >}}
 
-{{< figure src="/images/uploads/0041-01.jpg" >}}
+{{< figure src="/images/uploads/00041-01.jpg" >}}
 
 {{< figure src="/images/uploads/0041-02.jpg" >}}
 
@@ -77,9 +77,7 @@ This house is a perfect family home!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-\*\*Maison meublée de 3 chambres à louer - Gacuriro
-
-\*\*
+**Maison meublée de 3 chambres à louer - Gacuriro**
 
 Séjournez dans cette élégante maison meublée de 3 chambres à coucher située dans un tout nouvel quartier résidentiel de Gacuriro à proximité du quartier Vision 2020 et du siège social de Tigo.
 
