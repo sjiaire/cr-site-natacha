@@ -63,7 +63,7 @@ price: '$ 1,900/month'
 
 {{< load-photoswipe >}}
 
-**3 Bedroom Furnished House for Rent - Gacuriro **
+**3 Bedroom Furnished House for Rent - Gacuriro**
 
 Stay in this classy 3-bedroom furnished house located in a brand new residential estate of Gacuriro nearby Vision 2020 estate and Tigo Headquarters. 
 
@@ -77,7 +77,7 @@ This house is a perfect family home!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-**Maison meublée de 3 chambres à louer - Gacuriro**
+**Maison meublée de 3 chambres à louer - Gacuriro**
 
 Séjournez dans cette élégante maison meublée de 3 chambres à coucher située dans un tout nouvel quartier résidentiel de Gacuriro à proximité du quartier Vision 2020 et du siège social de Tigo.
 
