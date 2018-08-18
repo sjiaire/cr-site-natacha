@@ -1,12 +1,16 @@
 ---
 property: House
 type: ''
-availability: Rented
+availability: Available
 title: Stunning Gacuriro
 reference: 41. Stunning Gacuriro
 slug: 041-stunning-gacuriro
 date: 2018-08-10T03:51:35.653Z
 draft: false
+description: >-
+  3 Bedroom Furnished House for Rent - Gacuriro  Stay in this classy 3-bedroom
+  furnished house located in a brand new residential estate of Gacuriro nearby
+  Vision 2020 estate and Airtel Headquarters. 
 hidesidebar: true
 thumbnail: /images/uploads/041-01.jpg
 image: /images/uploads/041-01.jpg
