@@ -64,7 +64,7 @@ price: 'from $ 1,600/month'
 
 {{< load-photoswipe >}}
 
-Furnished 2 Bedroom Apartment for Rent - Kiyovu
+**Furnished 2 Bedroom Apartment for Rent - Kiyovu**
 
 Stay in this luxurious 2 bedroom apartment located in chic area of Kiyovu. Kiyovu is a green and quiet area of the city center in walking distance from several shops, schools and restaurants.
 
@@ -82,7 +82,7 @@ This residence guarantees international lifestyle!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-Appartement meublé 2 chambres à louer - Kiyovu
+**Appartement meublé 2 chambres à louer - Kiyovu**
 
 Séjournez dans ce luxueux appartement de 2 chambres à coucher situé dans le quartier chic de Kiyovu. Kiyovu est une zone calme et verdoyante du centre-ville à proximité de magasins, écoles, et restaurants.
 
