@@ -11,7 +11,7 @@ description: >-
   easily accessible from the airport, Remera and Magerwa.
 draft: false
 hidesidebar: true
-thumbnail: ''
+thumbnail: /images/uploads/015-01.jpg
 image: /images/uploads/015-01.jpg
 location: Kicukiro
 bedrooms: '2'
