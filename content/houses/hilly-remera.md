@@ -60,7 +60,7 @@ price: '$ 1,000/month'
 
 {{< load-photoswipe >}}
 
-**4 Bedroom Furnished House for Rent - Remera**
+**4 Bedroom Furnished House for Rent - Remera**
 
 Stay in this lovely 4 bedroom furnished house located in Remera, a quiet residential neighborhood nearby RDB, Nyarutarama and Kacyiru business area. 
 
@@ -70,7 +70,7 @@ This residence has a spacious compound with amazing views. In addition, it has a
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-**Maison meublée de 4 chambres à louer - Remera**
+**Maison meublée de 4 chambres à louer - Remera**
 
 Séjournez dans cette charmante maison meublée de 4 chambres située dans un quartier calme et résidentiel de Remera à proximité de RDB, Nyarutarama et du quartier d’affaires de Kacyiru. 
 
