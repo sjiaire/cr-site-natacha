@@ -78,7 +78,7 @@ In addition, its garage is converted into a functional home office!
 
 This is a perfect family home! 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+---
 
 **Maison meublée de 4 chambres à louer - Remera**
 
