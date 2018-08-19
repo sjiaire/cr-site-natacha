@@ -1879,6 +1879,7 @@
 
 	#main-wrapper {
 		position: relative;
+		/* margin-top: -80px; */
 		/* background: #665A5A; */
 		/* background: #f7f7f7; */
 	}
@@ -1982,7 +1983,7 @@
 				}
 
 				header.major {
-					margin: 0 0 3em 0;
+					margin: 0 0 1em 0;
 				}
 
 			footer {
@@ -2024,6 +2025,7 @@
 				border-style: solid;
 				border-width: 8px;
 				border-radius: 4px;
+				margin-top: 1em;
 			}
 
 			.box.post header {
