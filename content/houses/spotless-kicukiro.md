@@ -3,7 +3,6 @@ property: House
 type: ''
 availability: Available
 title: Spotless Kicukiro
-reference: 59. Spotless Kicukiro
 slug: 059-spotless-kicukiro
 date: 2018-08-11T14:05:21.517Z
 draft: false

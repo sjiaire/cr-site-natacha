@@ -2,7 +2,6 @@
 property: House
 availability: Available
 title: Rusororo Rest
-reference: 6. Rusororo Rest
 slug: 006-rusororo-rest
 date: '2018-07-25T15:24:43+02:00'
 draft: false

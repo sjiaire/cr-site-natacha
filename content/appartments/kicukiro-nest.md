@@ -1,13 +1,9 @@
 ---
 property: Apartment
 type: ''
-availability: Available
 title: Kicukiro Nest
 slug: 015-kicukiro-nest
 date: '2018-08-01T20:30:11+02:00'
-description: >-
-  partment located in Kicukiro near Sonatubes and Simba supermarket. Kicukiro is
-  easily accessible from the airport, Remera and Magerwa.
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/015-01.jpg
@@ -15,7 +11,7 @@ image: /images/uploads/015-01.jpg
 location: Kicukiro
 bedrooms: '2'
 baths: '2'
-furnished: Furnished
+furnished: 'Furnished'
 sleeps: '4'
 garden: 'Yes'
 maid: 'No'

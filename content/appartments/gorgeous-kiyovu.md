@@ -4,12 +4,8 @@ type: ''
 availability: Available
 title: Gorgeous Kiyovu
 slug: 060-gorgeous-kiyovu
-date: 2018-08-18T04:02:31.151Z
-description: >-
-  Furnished 2 Bedroom Apartment for Rent - Kiyovu Stay in this luxurious 2
-  bedroom apartment located in chic area of Kiyovu. Kiyovu is a green and quiet
-  area of the city center in walking distance from several shops, schools and
-  restaurants.
+date: 2018-08-10T05:05:30.104Z
+description: 'Gorgeous Kiyovu, Kigali'
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/060-01.jpg
@@ -26,10 +22,10 @@ wifi: 'Yes'
 washingmachine: 'Yes'
 closets: 'Yes'
 pets: 'No'
-parking: '2'
+parking: '1'
 security: 'Yes'
 minimumstay: 1 Month
-price: 'from $1,600/month'
+price: from $ 1600/month
 ---
 {{< gallery >}}
 
@@ -79,13 +75,13 @@ Short-term rental rate (up to 3 months): $ 2,000/month.
 
 This residence guarantees international lifestyle!
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+---
 
 **Appartement meublé 2 chambres à louer - Kiyovu**
 
-Séjournez dans ce luxueux appartement de 2 chambres à coucher situé dans le quartier chic de Kiyovu. Kiyovu est une zone calme et verdoyante du centre-ville à proximité de magasins, écoles, et restaurants.
+Séjournez dans ce luxueux appartement de 2 chambres à coucher situé située dans le quartier chic de Kiyovu. Kiyovu est une zone calme et verdoyante du centre-ville à proximité de magasins, écoles, et restaurants.
 
-Cette résidence moderne a un salon et une salle à manger élégants ouvrant sur une cuisine spacieuse entièrement équipée disposant d’une machine à laver. Il a 2 chambres à coucher confortables joliment meublées dont une chambre autonome. Chaque chambre a son propre balcon!
+Cette résidence moderne a un salon et une salle à manger élégants ouvrant sur une cuisine spacieuse entièrement équipée disposant d’une machine à laver. Il a 2 chambres à coucher confortables joliment meublées dont une chambre autonome. Chaque chambre a un balcon privatif!
 
 Ce magnifique appartement offre autant d'espace que de confort avec son internet haut débit et son service de sécurité 24h/24h.
 

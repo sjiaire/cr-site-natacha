@@ -1,13 +1,8 @@
 ---
 property: Apartment
-availability: Available
 title: Luxurious Kagugu
 slug: 012-luxurious-kagugu
 date: '2018-07-25T16:29:37+02:00'
-description: >-
-  Stay in this luxurious 3 bedroom furnished apartment in the chic residential
-  neighborhood of Kagugu. This apartment is located in 5 minutes’ drive from the
-  main road nearby Tigo Headquarters and Woodlands Supermarket.
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/012-01.jpg
@@ -15,7 +10,7 @@ image: /images/uploads/012-01.jpg
 location: Kagugu
 bedrooms: '3'
 baths: '3'
-furnished: Furnished
+furnished: 'Furnished'
 sleeps: 6+
 garden: 'Yes'
 maid: 'No'

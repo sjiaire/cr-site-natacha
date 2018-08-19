@@ -1,14 +1,9 @@
 ---
 property: Apartment
 type: ''
-availability: Available
 title: Splendid Kagugu
 slug: 017-splendid-kagugu
 date: '2018-08-06T13:15:48+02:00'
-description: >-
-  Stay in this splendid 3 bedroom furnished apartment located in Kagugu, a quiet
-  residential neighborhood nearby Woodlands Supermarket in walking distance from
-  Aberdeen Hotel.
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/017-01.jpg
@@ -16,7 +11,7 @@ image: /images/uploads/017-01.jpg
 location: Kagugu
 bedrooms: '3'
 baths: '3'
-furnished: Furnished
+furnished: 'Furnished'
 sleeps: 6+
 garden: 'Yes'
 maid: 'No'

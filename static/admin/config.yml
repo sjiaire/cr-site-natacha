@@ -26,7 +26,6 @@ collections:
       - {label: "Type", name: "type", required: true, widget: "hidden", default: ""}
       - {label: "Availability", name: "availability", required: true, widget: "select", options: ["Available", "Rented"]}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Reference", name: "reference", widget: "string"}
       - {label: "Slug (i.e: xxx-title in small letters)", name: "slug", widget: "string"}
       - {label: "Publish Date", name: "date", required: false, widget: "datetime"}
       - {label: "Draft", name: "draft", required: false, widget: "hidden", default: false}
@@ -62,7 +61,6 @@ collections:
       - {label: "Type", name: "type", required: true, widget: "hidden", default: ""}
       - {label: "Availability", name: "availability", required: true, widget: "select", options: ["Available", "Rented"]}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Reference", name: "reference", widget: "string"}
       - {label: "Slug (i.e: xxx-title in small letters)", name: "slug", widget: "string"}
       - {label: "Publish Date", name: "date", required: false, widget: "datetime"}
       - {label: "Short Description 50 characters max", name: "description", widget: "string"}

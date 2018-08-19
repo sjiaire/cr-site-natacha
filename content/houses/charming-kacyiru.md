@@ -3,7 +3,6 @@ property: House
 type: ''
 availability: Available
 title: Charming Kacyiru
-reference: 38. Charming Kacyiru
 slug: 038-charming-kacyiru
 date: 2018-08-19T11:01:44.532Z
 draft: false
@@ -61,15 +60,15 @@ price: $ 700/month
 
 **6 Bedroom House for Rent - Kacyiru**
 
-Stay in this charming house located in Kacyiru, a lively and an authentic neighborhood nearby Kinamba. Kacyiru is a very central location close in 10-minute drive from town or Remera. 
+Stay in this charming house located in Kacyiru, a lively and an authentic neighborhood nearby Kinamba. Kacyiru is a very central location close in 10-minute drive from town or Remera.
 
-This 2-storey residence is very spacious and has a lot of natural light. On the ground floor, there is a wide living and dining room, 5 bedrooms including an en suite and a modern kitchen with cabinets. 
+This 2-storey residence is very spacious and has a lot of natural light. On the ground floor, there is a wide living and dining room, 5 bedrooms including an en suite and a modern kitchen with cabinets.
 
 Upstairs, there is an independent apartment including a lounge and an en suite bedroom. The apartment has a large balcony with an amazing view on the city center.
 
 Its outside space is warm and welcoming with a small garden, an open parking spaces and boy’s quarters.
 
-This house is a perfect family home! 
+This house is a perfect family home!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
@@ -77,9 +76,9 @@ This house is a perfect family home!
 
 Séjournez dans cette maison charmante située à Kacyiru, un quartier animé et authentique à proximité de Kinamba. Kacyiru est un quartier central de Kigali à 10 minutes en voiture du village ou de Remera.
 
-Cette résidence en étage est très spacieuse et jouit de beaucoup de lumière naturelle. Au rez- de-chaussée, il y a un grand salon et salle à manger, 5 chambres dont une chambre principale avec salle de bains autonomes et une cuisine moderne avec placards. 
+Cette résidence en étage est très spacieuse et jouit de beaucoup de lumière naturelle. Au rez- de-chaussée, il y a un grand salon et salle à manger, 5 chambres dont une chambre principale avec salle de bains autonomes et une cuisine moderne avec placards.
 
-A l'étage, il y a un appartement indépendant comprenant un salon et une chambre à coucher avec sa propre salle de bains. L’appartement dispose d’un grand balcon avec une vue imprenable sur le centre-ville. 
+A l'étage, il y a un appartement indépendant comprenant un salon et une chambre à coucher avec sa propre salle de bains. L’appartement dispose d’un grand balcon avec une vue imprenable sur le centre-ville.
 
 Son espace extérieur est chaleureux et accueillant avec un petit jardin, un espace de stationnement et des annexes à l’arrière-cour.
 

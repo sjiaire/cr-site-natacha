@@ -3,7 +3,6 @@ property: House
 type: ''
 availability: Available
 title: Authentic Kiyovu
-reference: 57. Authentic Kiyovu
 slug: 057-authentic-kiyovu
 date: 2018-08-15T15:58:36.951Z
 draft: false

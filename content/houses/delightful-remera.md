@@ -3,7 +3,6 @@ property: House
 type: ''
 availability: Available
 title: Delightful Remera
-reference: 48. Delightful Remera
 slug: 048-delightful-remera
 date: 2018-08-19T11:28:30.132Z
 draft: false
@@ -62,7 +61,7 @@ price: $800 / month
 
 {{< load-photoswipe >}}
 
-**Furnished 4 Bedroom House for Rent - Remera** 
+**Furnished 4 Bedroom House for Rent - Remera**
 
 Stay in this stylish 4 bedroom furnished house located in a quiet side of Remera nearby Amahoro Stadium. Remera is a safe and lively neighborhood nearby the Airport, Kacyiru business area and Kimironko market. The area hosts several shops,
 
@@ -76,7 +75,7 @@ Outside, it has a wide traditional kitchen, green front and back yards, a mature
 
 In addition, its garage is converted into a functional home office!
 
-This is a perfect family home! 
+This is a perfect family home!
 
 ---
 

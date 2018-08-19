@@ -3,7 +3,6 @@ property: House
 type: ''
 availability: Available
 title: Lovely Gikondo
-reference: 61. Lovely Gikondo
 slug: 061-lovely-gikondo
 date: 2018-08-12T04:36:58.880Z
 draft: false
