@@ -2,9 +2,9 @@
 property: House
 type: ''
 availability: Available
-title: Stunning Gacuriro bis
-reference: Stunning Gacuriro bis
-slug: 0041-stunning-gacuriro-bis
+title: Stunning Gacuriro
+reference: 41. Stunning Gacuriro
+slug: 0041-stunning-gacuriro
 date: 2018-08-18T07:03:13.348Z
 draft: false
 description: >-
@@ -33,31 +33,31 @@ price: '$ 1,900/month'
 ---
 {{< gallery >}}
 
-{{< figure src="/images/uploads/00041-01.jpg" >}}
+{{< figure src="/images/uploads/041-01.jpg" >}}
 
-{{< figure src="/images/uploads/0041-02.jpg" >}}
+{{< figure src="/images/uploads/041-02.jpg" >}}
 
-{{< figure src="/images/uploads/0041-03.jpg" >}}
+{{< figure src="/images/uploads/041-03.jpg" >}}
 
-{{< figure src="/images/uploads/0041-04.jpg" >}}
+{{< figure src="/images/uploads/041-04.jpg" >}}
 
-{{< figure src="/images/uploads/0041-05.jpg" >}}
+{{< figure src="/images/uploads/041-05.jpg" >}}
 
-{{< figure src="/images/uploads/0041-06.jpg" >}}
+{{< figure src="/images/uploads/041-06.jpg" >}}
 
-{{< figure src="/images/uploads/0041-07.jpg" >}}
+{{< figure src="/images/uploads/041-07.jpg" >}}
 
-{{< figure src="/images/uploads/0041-08.jpg" >}}
+{{< figure src="/images/uploads/041-08.jpg" >}}
 
-{{< figure src="/images/uploads/0041-09.jpg" >}}
+{{< figure src="/images/uploads/041-09.jpg" >}}
 
-{{< figure src="/images/uploads/0041-10.jpg" >}}
+{{< figure src="/images/uploads/041-10.jpg" >}}
 
-{{< figure src="/images/uploads/0041-11.jpg" >}}
+{{< figure src="/images/uploads/041-11.jpg" >}}
 
-{{< figure src="/images/uploads/0041-12.jpg" >}}
+{{< figure src="/images/uploads/041-12.jpg" >}}
 
-{{< figure src="/images/uploads/0041-13.jpg" >}}
+{{< figure src="/images/uploads/041-13.jpg" >}}
 
 {{< /gallery >}}
 
