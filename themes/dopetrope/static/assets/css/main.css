@@ -15,6 +15,10 @@
 	padding-top: 1em;
 }
 
+.logo > a >img {
+	width: 250px;
+}
+
 /* Top Contact*/
 
 .topContact {
@@ -25,7 +29,7 @@
 	align-items: flex-end;
 	padding-right: 2em;
 	justify-content: center;
-	margin-bottom: 2em;
+	/* margin-bottom: 2em; */
 }
 
 .topContact > li > a {
@@ -91,6 +95,11 @@
 	border-color: #FAB300;
 	border-style: solid;
 	border-width: 5px;
+}
+
+/* Footer */
+.centerFooter {
+	padding: 2em;
 }
 
 /*css on price on page detail (content.html)*/
@@ -2472,8 +2481,17 @@
 				padding-right: 0em;
 			}
 
+			.topContact > li > a {
+				color: #3d3636;
+				font-size: 1.1em;
+				text-decoration:none;
+			}
+
 			.logo {
 				padding-left: 0em;
+			}
+			.logo > a >img {
+				width: 200px;
 			}
 
 			.list-features {
@@ -2770,7 +2788,7 @@
 		/* Banner */
 
 			#banner {
-				margin: 2em 0 4em 0 !important;
+				/* margin: 2em 0 4em 0 !important; */
 				padding: 6em 0;
 			}
 
