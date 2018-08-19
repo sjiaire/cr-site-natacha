@@ -30,7 +30,7 @@ pets: 'No'
 parking: '2'
 security: 'Yes'
 minimumstay: 1 Month
-price: 'from $ 1,600/month'
+price: 'from $1,600/month'
 ---
 {{< gallery >}}
 
