@@ -38,12 +38,6 @@
 	text-decoration:none;
 }
 
-/* Nav Bar*/
-
-/* #nav {
-	flex: 4;
-	padding-top: 4em;
-} */
 
 /*Bottom Contact*/
 
@@ -67,8 +61,17 @@
 
 .title-price-flex {
 	display: flex;
+	flex: 4;
 	flex-direction: row;
 	justify-content: space-between;
+}
+
+.flex-price-detail-button-in-box {
+	flex: 2;
+}
+
+.flex-title-in-box {
+	flex: 2;
 }
 
 .content-title-price-flex {
