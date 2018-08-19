@@ -1,17 +1,22 @@
 ---
 property: House
+availability: Available
 title: Rusororo Rest
 reference: 6. Rusororo Rest
 slug: 006-rusororo-rest
 date: '2018-07-25T15:24:43+02:00'
 draft: false
+description: >-
+  Rusororo! Rusororo is a beautiful hill at the crossroads between modernity and
+  authenticity. It is surrounded by green hills and water points and located at
+  15 min drive from the Airport, on the road to Akagera National Park.
 hidesidebar: true
 thumbnail: /images/uploads/006-01.jpg
 image: /images/uploads/006-01.jpg
 location: Rusororo
 bedrooms: '4'
 baths: '3'
-furnished: 'Furnished'
+furnished: Furnished
 sleeps: 6+
 garden: 'Yes'
 maid: 'Yes'
