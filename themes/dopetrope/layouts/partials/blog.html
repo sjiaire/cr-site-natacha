@@ -8,7 +8,7 @@
         <div class="6u 12u(mobile)">
             <section class="box">
                 <div style="position: relative;">
-                    <a href="{{ .Permalink }}#listing-details" class="image featured">
+                    <a href="{{ .Permalink }}" class="image featured">
                         <img  src="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" />
                     </a>
                     {{ if eq "Rented" .Params.availability }}
@@ -27,11 +27,11 @@
                         </div>
                         <div class="flex-price-detail-button-in-box">
                             <center>
-                                <h3 style="color:#fab300; border-color: #fab300; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; ">{{ .Params.price }}</h3>
+                                <h3 style="color:#fab300; border-color: #fab300; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; font-size: 1em; ">{{ .Params.price }}</h3>
                             </center>
                             <center>
-                                <a href="{{ .Permalink }}#listing-details" style="text-decoration:none;">
-                                        <h3 href="{{ .Permalink }}#listing-details" style=" margin-top:3px;background: #665a5a;color:#fff; border-color: #665a5a; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; box-shadow: 0px 4px 1px 0 rgba(0,0,0,0.2); ">Details</h3>
+                                <a href="{{ .Permalink }}" style="text-decoration:none;">
+                                        <h3 href="{{ .Permalink }}" style=" margin-top:3px;background: #665a5a;color:#fff; border-color: #665a5a; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; box-shadow: 0px 4px 1px 0 rgba(0,0,0,0.2); ">Details</h3>
                                 </a>
                             </center>
 

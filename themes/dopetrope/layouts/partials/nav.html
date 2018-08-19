@@ -5,18 +5,18 @@
             <li class="current"><a href="{{ .Site.BaseURL }}">Latest</a></li>
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}services/">Service</a></li>
+            <li><a href="{{ .Site.BaseURL }}services/">Services</a></li>
 
         {{ else if findRE .URL "/houses/"}}
             <li><a href="{{ .Site.BaseURL }}">Latest</a></li>
             <li class="current"><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}services/">Service</a></li>
+            <li><a href="{{ .Site.BaseURL }}services/">Services</a></li>
         {{ else if findRE .URL "/apartments/"}}
             <li><a href="{{ .Site.BaseURL }}">Latest</a></li>
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
             <li class="current"><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}services/">Service</a></li>
+            <li><a href="{{ .Site.BaseURL }}services/">Services</a></li>
         {{ else if findRE .URL "/services/"}}
             <li><a href="{{ .Site.BaseURL }}">Latest</a></li>
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
@@ -26,7 +26,7 @@
             <li><a href="{{ .Site.BaseURL }}">Latest</a></li>
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
             <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}services/">Service</a></li>
+            <li><a href="{{ .Site.BaseURL }}services/">Services</a></li>
         {{ end }}
     </ul>
 </nav>
