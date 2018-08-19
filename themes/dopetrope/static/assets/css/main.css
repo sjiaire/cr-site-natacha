@@ -61,7 +61,7 @@
 
 .title-price-flex {
 	display: flex;
-	flex: 4;
+	flex: 5;
 	flex-direction: row;
 	justify-content: space-between;
 }
@@ -71,7 +71,7 @@
 }
 
 .flex-title-in-box {
-	flex: 2;
+	flex: 3;
 }
 
 .content-title-price-flex {
