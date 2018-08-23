@@ -99,7 +99,8 @@
 	grid-template-areas:
     "a b"
     "c d"
-    "e f";
+		"e f"
+		"g g";
 }
 .itema {
   grid-area: a;
@@ -119,13 +120,12 @@
 .itemf {
   grid-area: f;
 }
+.itemg {
+  grid-area: g;
+}
 
 .services-page-box {
-	/* border-color: #FAB300; */
-	/* border-style: solid; */
-	/* border-width: 5px; */
 	padding: 5px;
-	height: 400px;
 }
 
 .request-box {
@@ -2467,7 +2467,10 @@
 				"c"
 				"d"
 				"e"
-				"f";
+				"f"
+				"g";
+			padding-bottom: 5px;
+			padding-top: 15px;
 		}
 
 		/* Basic */

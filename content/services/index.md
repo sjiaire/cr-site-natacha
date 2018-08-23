@@ -57,20 +57,21 @@ hidesidebar: true
       </br>
       Once your property is added to our portfolio, we match it with our requests.
   </div>
-</div>
-<div class="request-box">
-    <h3>Submit Your Request</h3>
-    <br/>
-        <form style="width: 100%; " name="Request Availability" method="POST" netlify>
-            <input id= "pageURL" type="hidden" name="Page URL" value=""/>
-            <p><label>Your Name: <input type="text" name="name" /></label></p>
-            <p><label>Your Email: <input type="email" name="email" /></label></p>
-            <p><label>Your Question: <input type="reason" name="reason" /></label></p>
-            <p><label>Message: <textarea name="message"></textarea></label></p>
-            <p><button type="submit">Send</button></p>
-        </form>
-        <script type="text/javascript">
-            var currentPageURL = "https://cocoonrwanda.101experiments.com"+{{.URL}};
-            document.getElementById("pageURL").value=currentPageURL;
-        </script>
+
+  <div class="request-box itemg">
+      <h3>Submit Your Request</h3>
+      <br/>
+          <form style="width: 100%; " name="Request Availability" method="POST" netlify>
+              <input id= "pageURL" type="hidden" name="Page URL" value=""/>
+              <p><label>Your Name: <input type="text" name="name" /></label></p>
+              <p><label>Your Email: <input type="email" name="email" /></label></p>
+              <p><label>Your Question: <input type="reason" name="reason" /></label></p>
+              <p><label>Message: <textarea name="message"></textarea></label></p>
+              <p><button type="submit">Send</button></p>
+          </form>
+          <script type="text/javascript">
+              var currentPageURL = "https://cocoonrwanda.101experiments.com"+{{.URL}};
+              document.getElementById("pageURL").value=currentPageURL;
+          </script>
+    </div>
   </div>
