@@ -82,7 +82,7 @@
 
 .list-features {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(6, 1fr);
 	grid-row-gap: 10px;
 	padding-top: 2em;
 	justify-content: center;
@@ -111,10 +111,6 @@
 	padding: 2px;
 }
 
-/*item icons detailed page (content.html)*/
-.item-icon-detailed-page {
-	display: flex;
-}
 
 /* Paginator css styling*/
 .pagination {
