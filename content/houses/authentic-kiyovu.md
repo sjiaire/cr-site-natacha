@@ -56,14 +56,11 @@ price: '$ 1,500/month'
 
 {{< figure src="/images/uploads/057-12.jpg" >}}
 
-{{< figure src="/images/uploads/057-13.jpg" >}}
-
 {{< /gallery >}}
 
 {{< load-photoswipe >}}
 
-**5 Bedroom House for Rent in Kiyovu
-**
+**5 Bedroom House for Rent in Kiyovu**
 
 Stay in this vast 5 bedroom house located in chic area of Kiyovu. Kiyovu is a green and quiet area of the city center in walking distance from several shops, schools and restaurants.
 
@@ -73,7 +70,7 @@ Outdoor, this home has several servants ‘quarters, a green front garden and a 
 
 This house is a perfect family home!
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+---
 
 **Maison de 5 chambres à louer à Kiyovu**
 
