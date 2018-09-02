@@ -65,7 +65,7 @@ hidesidebar: true
               <p><button type="submit">Send</button></p>
           </form>
           <script type="text/javascript">
-              var currentPageURL = "https://cocoonrwanda.101experiments.com"+{{.URL}};
+              var currentPageURL = "https://www.cocoonrwanda.com"+{{.URL}};
               document.getElementById("pageURL").value=currentPageURL;
           </script>
     </div>
