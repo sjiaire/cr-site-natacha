@@ -1,7 +1,7 @@
 ---
 property: Apartment
 type: ''
-availability: Available
+availability: Rented
 title: Splendid Kagugu
 slug: 017-splendid-kagugu
 date: '2018-08-06T13:15:48+02:00'
