@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Available
+availability: Rented
 title: Hilly Remera
 slug: 047-hilly-remera
 date: 2018-08-19T10:09:39.329Z
