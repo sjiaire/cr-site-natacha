@@ -1,5 +1,5 @@
 ---
-title: Our Services
+title: Services
 date: '2018-07-24T14:53:46+02:00'
 draft: false
 hidesidebar: true
@@ -13,13 +13,14 @@ hidesidebar: true
   </section>
   <div class="services-page-box itemb">
       <h4 style="color:#665a5a;">About Us</h4>
-      Cocoon Rwanda real estate agency offers transparent and time effective property management services for <b>rental properties</b>.</br></br>
-      Our commitment is to:
+      Cocoon Rwanda Real Estate agency offers transparent and time effective property management services for <b>rental properties</b> such as:</br>
+
       <ul>
-        <li>- Showcase teh diversity of our rental property market</li>
-        <li>- Provide good value for money accomodations</li>
-        <li>- Make our tenants feel at home</li->
+        <li>&#10003; Property marketing</li>
+        <li>&#10003; Brokerage services</li>
+        <li>&#10003; Property management</li>
       </ul>
+
   </div>
   <section class="services-page-box itemc">
     <div class=container-service-02>
@@ -28,16 +29,16 @@ hidesidebar: true
   </section>
   <div class="services-page-box itemd">
       <h4 style="color:#665a5a;">Looking for a home?</h4>
-      We offer one stop shop for rental properties in Kigali:
+      We offer one-stop shop for rental properties in Kigali by:
       </br>
       <ul>
-        <li>- We collect your request and pre-select best matches from our portfolio</li>
-        <li>- We provide matches details including pictures and full descriptions</li>
-        <li>- You select your preferred matches</li>
-        <li>- We organize viewings and take you through lease process</li>
+        <li>&#10003; Collecting your request</li>
+        <li>&#10003; Suggesting best matches from our properties</li>
+        <li>&#10003; Providing properties details with pictures and full descriptions</li>
+        <li>&#10003; Organizing properties viewings</li>
+        <li>&#10003; Taking you through lease process!</li>
       </ul>
-      <h4 style="color:#665a5a;">Interested?</h4>
-      Contact us, send us your request in the form down below
+
   </div>
   <section class="services-page-box iteme">
     <div class=container-service-03>
@@ -45,17 +46,11 @@ hidesidebar: true
     </div>
   </section>
   <div class="services-page-box itemf">
-    <h4 style="color:#665a5a;">Do you own a rental property?</h4>
-      We offer professionnal and time effective property management services such as:
-      <ul>
-        <li>- Property parking</li>
-        <li>- Brokerage services</li>
-        <li>- Property management</li>
-      </ul>
     <h4 style="color:#665a5a;">Looking for a tenant?</h4>
-      We always clients looking for stunning rental properties through Kigali.
-      </br>
-      Once your property is added to our portfolio, we match it with our requests.
+      We always have clients looking for stunning rental properties throughout Kigali.
+      Once your property is added to our portfolio, we match it with current requests.<br/><br/><br/>
+      <h4 style="color:#665a5a;">Interested?</h4>
+      Contact us, send us your request in the form down below
   </div>
 
   <div class="request-box itemg">
