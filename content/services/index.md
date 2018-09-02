@@ -50,11 +50,11 @@ hidesidebar: true
       We always have clients looking for stunning rental properties throughout Kigali.
       Once your property is added to our portfolio, we match it with current requests.<br/><br/><br/>
       <h4 style="color:#665a5a;">Interested?</h4>
-      Contact us, send us your request in the form down below
+      Send your request using the form below!
   </div>
 
   <div class="request-box itemg">
-      <h3>Submit Your Request</h3>
+      <h3>Your Request</h3>
       <br/>
           <form style="width: 100%; " name="Request Availability" method="POST" netlify>
               <input id= "pageURL" type="hidden" name="Page URL" value=""/>
