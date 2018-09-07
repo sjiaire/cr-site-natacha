@@ -35,23 +35,23 @@ price: $ 800/month
 ---
 {{< gallery >}} 
 
-{{< figure src="/images/uploads/062-1.jpg" >}} 
+{{< figure src="/images/uploads/062-01.jpg" >}} 
 
-{{< figure src="/images/uploads/062-2.jpg" >}}
+{{< figure src="/images/uploads/062-02.jpg" >}}
 
- {{< figure src="/images/uploads/062-3.jpg" >}} 
+ {{< figure src="/images/uploads/062-03.jpg" >}} 
 
-{{< figure src="/images/uploads/062-4.jpg" >}}
+{{< figure src="/images/uploads/062-04.jpg" >}}
 
-{{< figure src="/images/uploads/062-5.jpg" >}}
+{{< figure src="/images/uploads/062-05.jpg" >}}
 
- {{< figure src="/images/uploads/062-6.jpg" >}}
+ {{< figure src="/images/uploads/062-06.jpg" >}}
 
- {{< figure src="/images/uploads/062-7.jpg" >}}
+ {{< figure src="/images/uploads/062-07.jpg" >}}
 
- {{< figure src="/images/uploads/062-8.jpg" >}}
+ {{< figure src="/images/uploads/062-08.jpg" >}}
 
-{{< figure src="/images/uploads/062-9.jpg" >}} 
+{{< figure src="/images/uploads/062-09.jpg" >}} 
 
 {{< figure src="/images/uploads/062-10.jpg" >}}
 
