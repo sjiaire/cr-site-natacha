@@ -69,8 +69,9 @@ price: $ 800/month
 
 - - -
 
-**Furnished 4 Bedroom House for Rent - Kanombe
-**Stay in this comfortable 4-bedroom furnished house located in an welcoming gated estate of Kanombe. Kanombe is a residential neighborhood with several shops and easily accessible from Kigali International Airport and Free Trade Zone. The house is located a couple steps away from the paved road nearby Rwanda Art Museum (former Presidential Palace Museum).
+**Furnished 4 Bedroom House for Rent - Kanombe**
+
+Stay in this comfortable 4-bedroom furnished house located in an welcoming gated estate of Kanombe. Kanombe is a residential neighborhood with several shops and easily accessible from Kigali International Airport and Free Trade Zone. The house is located a couple steps away from the paved road nearby Rwanda Art Museum (former Presidential Palace Museum).
 
 This pleasant 2-storey home is a high-end family-sized house. On the ground floor, it has a stylish lounge and dining room nearby its western-style kitchen and an en suite bedroom. Upstairs, it has large colourful lounge with TV, a spacious master en suite bedroom with bath tub and 2 regular bedrooms with large closets, private balconies and a neat bathroom with shower.
 
