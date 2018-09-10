@@ -66,8 +66,7 @@ price: '$ 2,200 / month'
 
 {{< load-photoswipe >}}
 
-**Furnished 3 Bedroom House for Rent - Kiyovu
-**
+**Furnished 3 Bedroom House for Rent - Kiyovu**
 
 Stay in this stylish 3 bedroom house located in a prime location of the distinguished neighborhood of Kiyovu. Kiyovu is a green and quiet area of the city center in walking distance from several shops, schools and restaurants. 
 
