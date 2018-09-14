@@ -71,10 +71,9 @@ In addition, its garage is converted into a functional home office!
 
 This is a perfect family home!
 
-\- - - 
+- - - 
 
-**Maison meublée de 4 chambres à louer à Remera
-**
+**Maison meublée de 4 chambres à louer à Remera**
 
 Séjournez dans cette élégante maison meublée de 4 chambres située dans une zone paisible de Remera à quelques minutes à pied du Stade Amahoro. Remera est un quartier sûr et animé à proximité de l'Aéroport, de Kacyiru ainsi que du marché de Kimironko. On y trouve plusieurs magasins, restaurants, banques et autres services.
 
