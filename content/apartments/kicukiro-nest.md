@@ -55,7 +55,7 @@ price: from $ 650/month
 
 {{< load-photoswipe >}}
 
-**Furnished 2 Bedroom Apartment in Kicukiro**
+**Furnished 2 Bedroom Apartment - Kicukiro**
 
 Stay in this splendid 2 bedrooms furnished apartment located in Kicukiro near Sonatubes and Simba supermarket. Kicukiro is easily accessible from the airport, Remera and Magerwa.
 
@@ -65,9 +65,9 @@ It is available for both short and long term rentals with minimum stay of 1 mont
 
 Short-term rentals: (1-3 months): $ 800
 
----
+- - -
 
-**Appartement meublé 2 chambres à Kicukiro**
+**Appartement meublé 2 chambres - Kicukiro**
 
 Séjournez dans ce splendide appartement meublé de 2 chambres situé dans Kicukiro près de Sonatubes et supermarché Simba. Kicukiro est un quartier facilement accessible à partir de l'aéroport, de Remera et de Magerwa.
 
