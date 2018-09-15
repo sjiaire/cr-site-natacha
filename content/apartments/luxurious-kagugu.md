@@ -28,7 +28,7 @@ pets: 'No'
 parking: '2'
 security: 'Yes'
 minimumstay: 1 Week
-price: $ 900 / per month
+price: from $ 900/per month
 ---
 {{< gallery >}} 
 
@@ -58,7 +58,7 @@ price: $ 900 / per month
 
  {{< /gallery >}} {{< load-photoswipe >}}
 
-**Furnished 3 Bedroom Apartment for Rent at Kagugu**
+**Furnished 3 Bedroom Apartment for Rent - Kagugu**
 
 Stay in this luxurious 3 bedroom furnished apartment in the chic residential neighborhood of Kagugu. This apartment is located in 5 minutes’ drive from the main road nearby Tigo Headquarters and Woodlands Supermarket.
 
@@ -70,7 +70,7 @@ Short-term rental rates (up to 3 months): $ 1,500 per month
 
 - - -
 
-**Appartement meublé de 3 chambres à louer à Kagugu**
+**Appartement meublé de 3 chambres à louer - Kagugu**
 
 Séjournez dans ce luxueux appartement meublé de 3 chambres situé dans le quartier résidentiel chic de Kagugu à 5 minutes de la route principale à quelques minutes à pied du siège de Tigo et du supermarché de Woodlands.
 
