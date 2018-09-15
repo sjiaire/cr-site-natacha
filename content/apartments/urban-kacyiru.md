@@ -58,7 +58,7 @@ price: from $ 600/per month
 
  {{< /gallery >}} {{< load-photoswipe >}}
 
-**Furnished 2 Bedroom Apartment for Rent at Kacyiru**
+**Furnished 2 Bedroom Apartment for Rent - Kacyiru**
 
 Stay in this functional 2 bedroom apartment located in Kacyiru, an authentic and quiet neighborhood nearby La Colombière School. Kacyiru is a conveniently central location in a few minutes’ drive from town, Kimihurura or Remera. 
 
@@ -72,7 +72,7 @@ Short term rental (up to 3 months): $800 per month
 
 - - -
 
-**Appartement meublé de 2 chambres à louer à Kacyiru**
+**Appartement meublé de 2 chambres à louer - Kacyiru**
 
 Séjournez dans cet appartement fonctionnel de 2 chambres situé à Kacyiru, un quartier calme et authentique à proximité de l’école La Colombière. Kacyiru est un emplacement très central dans à quelques minutes du centre-ville, de Kimihurura ou de Remera. 
 
