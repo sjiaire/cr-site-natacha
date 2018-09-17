@@ -55,6 +55,10 @@ price: '$ 1,800/month'
 
 {{< figure src="/images/uploads/046-13.jpg" >}}
 
+{{< figure src="/images/uploads/046-14.jpg" >}}
+
+{{< figure src="/images/uploads/046-15.jpg" >}}
+
 {{< /gallery >}}
 
 {{< load-photoswipe >}}
@@ -73,7 +77,7 @@ This residence guarantees international lifestyle with a local touch. The ecolog
 
 This apartment is a perfect family home!
 
----
+- - -
 
 **Appartement 2 chambres à louer - Kiyovu**
 
