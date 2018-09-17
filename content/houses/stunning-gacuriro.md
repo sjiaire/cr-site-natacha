@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Available
+availability: Rented
 title: Stunning Gacuriro
 slug: 041-stunning-gacuriro
 date: 2018-08-19T06:29:15.209Z
