@@ -73,7 +73,9 @@ Its 2nd floor hosts a large master en suite bedroom with large walk-in closet an
 
 This amazing family home has a vast mature front garden, a backyard with servants’ quarters and a wide parking area with carport. 
 
-This house is available for short-term rentals with a minimum stay of 1 month.
+It is available for short stays with a minimum stay of 1 month.
+
+Short-term rental rate (up to 3 months): $ 1,500/month.
 
 - - -
 
@@ -87,4 +89,4 @@ Au premier étage, il y a un salon élégant avec des sièges en cuir et une té
 
 Cette maison familiale étonnante a un beau jardin verdoyant, une arrière-cour avec des annexes ainsi qu’un large parking avec auvent. 
 
-Cette maison est disponible pour des locations à court terme avec un séjour minimal de 1 mois.
+La maison est disponible pour des courts séjours avec une durée minimale de 1 mois. Tarif de location à court terme (jusqu'à 3 mois) : 1,500$/mois.
