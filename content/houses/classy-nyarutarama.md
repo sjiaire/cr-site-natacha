@@ -63,8 +63,7 @@ price: '$ 1,200 / per month '
 
 **Furnished 4 Bedroom House for Rent - Nyarutarama**
 
-**
-**Stay in this elegant 4 bedroom house located in the distinguished neighborhood of Nyarutarama. Nyarutarama is a calm and fancy area hosting several international schools, bars and restaurants. This house is located 2 minutes away from the main road. 
+Stay in this elegant 4 bedroom house located in the distinguished neighborhood of Nyarutarama. Nyarutarama is a calm and fancy area hosting several international schools, bars and restaurants. This house is located 2 minutes away from the main road. 
 
 This 3-storey mansion is airy and bright. On the ground floor, it has a cosy lounge and self-contained bedroom: it can be used as an autonomous apartment! 
 
@@ -80,8 +79,7 @@ This house is available for short-term rentals with a minimum stay of 1 month.
 
 **Maison meublée à 4 chambres à louer - Nyarutarama**
 
-**
-**Séjournez dans cette maison à 4 chambres à coucher élégante située dans le quartier distingué de Nyarutarama. Nyarutarama est un voisinage calme et chic ayant plusieurs écoles internationales, bars et restaurants. Cette maison est située à 2 minutes de la route principale. 
+Séjournez dans cette maison à 4 chambres à coucher élégante située dans le quartier distingué de Nyarutarama. Nyarutarama est un voisinage calme et chic ayant plusieurs écoles internationales, bars et restaurants. Cette maison est située à 2 minutes de la route principale. 
 
 Cette villa de 3 étages est aérée et lumineuse. Au rez-de-chaussée, elle a un salon confortable et une chambre à coucher indépendante: ce niveau peut être utilisé comme un appartement autonome!
 
