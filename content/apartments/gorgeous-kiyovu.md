@@ -1,7 +1,7 @@
 ---
 property: Apartment
 type: ''
-availability: Available
+availability: Rented
 title: Gorgeous Kiyovu
 slug: 060-gorgeous-kiyovu
 date: 2018-08-18T04:02:31.151Z
