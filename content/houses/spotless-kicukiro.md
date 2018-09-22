@@ -33,31 +33,31 @@ price: $ 700/month
 ---
 {{< gallery >}}
 
-{{< figure src="/images/uploads/058-01.jpg" >}}
+{{< figure src="/images/uploads/059-01.jpg" >}}
 
-{{< figure src="/images/uploads/058-02.jpg" >}}
+{{< figure src="/images/uploads/059-02.jpg" >}}
 
-{{< figure src="/images/uploads/058-03.jpg" >}}
+{{< figure src="/images/uploads/059-03.jpg" >}}
 
-{{< figure src="/images/uploads/058-04.jpg" >}}
+{{< figure src="/images/uploads/059-04.jpg" >}}
 
-{{< figure src="/images/uploads/058-05.jpg" >}}
+{{< figure src="/images/uploads/059-05.jpg" >}}
 
-{{< figure src="/images/uploads/058-06.jpg" >}}
+{{< figure src="/images/uploads/059-06.jpg" >}}
 
-{{< figure src="/images/uploads/058-07.jpg" >}}
+{{< figure src="/images/uploads/059-07.jpg" >}}
 
-{{< figure src="/images/uploads/058-08.jpg" >}}
+{{< figure src="/images/uploads/059-08.jpg" >}}
 
-{{< figure src="/images/uploads/058-09.jpg" >}}
+{{< figure src="/images/uploads/059-09.jpg" >}}
 
-{{< figure src="/images/uploads/058-10.jpg" >}}
+{{< figure src="/images/uploads/059-10.jpg" >}}
 
-{{< figure src="/images/uploads/058-11.jpg" >}}
+{{< figure src="/images/uploads/059-11.jpg" >}}
 
-{{< figure src="/images/uploads/058-12.jpg" >}}
+{{< figure src="/images/uploads/059-12.jpg" >}}
 
-{{< figure src="/images/uploads/058-13.jpg" >}}
+{{< figure src="/images/uploads/059-13.jpg" >}}
 
 {{< /gallery >}}
 
@@ -73,7 +73,7 @@ Outdoor, it has a pleasant garden, a patio and parking space.
 
 This is a perfect family home! 
 
---- 
+- - -
 
 **Maison 4 chambres à louer - Kicukiro** 
 
