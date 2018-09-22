@@ -57,7 +57,7 @@ Upstairs, it has 2 regular bedrooms and an en suite master bedroom with a vanity
 
 Outdoor, it has a pleasant patio, parking space and a flat backyard safe for kids’ play.  
 
-This family-sized home is available for short term rentals with minimum stay of 1 week.                           
+This family-sized home is available for short term rentals with minimum stay of 1 month.                           
 
 - - -
 
