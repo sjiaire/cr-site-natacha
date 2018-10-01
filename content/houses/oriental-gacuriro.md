@@ -28,7 +28,7 @@ pets: 'Yes'
 parking: '4'
 security: 'Yes'
 minimumstay: 1 Year
-price: '$ 2,200'
+price: '$ 2,200/month'
 ---
 {{< gallery >}}
 
@@ -88,6 +88,6 @@ Sa salle de séjour chic avec une touche orientale s'ouvre à une belle salle à
 
 Extérieur, elle a une annexe, d’un petit jardin, de plusieurs terrasses spacieuses et un garage.
 
-En plus, la télévision câblée et la fibre optique Internet sont disponibles.
+En plus, la télévision câblée et l'internet par fibre optique sont disponibles.
 
 C’est une maison familiale parfaite!
