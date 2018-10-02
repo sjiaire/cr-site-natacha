@@ -65,8 +65,7 @@ price: '$ 1,200/month'
 
 {{< load-photoswipe >}}
 
-**4 Bedroom House for Rent - Kiyovu
-**
+**4 Bedroom House for Rent - Kiyovu**
 
 Stay in this charming 4 bedroom house located in the exclusive area of Kiyovu well-known for its leafy and tranquil atmosphere. This house is conveniently located on a paved road nearby the city center, in walking distance from Cercle Sportif and La Gardienne supermarket. 
 
