@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Available
+availability: Rented
 title: Classy Nyarutarama
 slug: 063-classy-nyarutarama
 date: 2018-09-18T06:59:17.816Z
