@@ -12,7 +12,7 @@ description: >-
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/012-01.jpg
-image: /images/uploads/012-02.jpg
+image: /images/uploads/012-01.jpg
 location: Kagugu
 bedrooms: '3'
 baths: '3'
@@ -28,7 +28,7 @@ pets: 'No'
 parking: '2'
 security: 'Yes'
 minimumstay: 1 Week
-price: from $ 900/per month
+price: from $ 900/month
 ---
 {{< gallery >}} 
 
