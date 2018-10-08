@@ -12,7 +12,7 @@ description: >-
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/051-01.jpg
-image: /images/uploads/051-02.jpg
+image: /images/uploads/051-01.jpg
 location: Kacyiru
 bedrooms: '2'
 baths: '2'
@@ -28,7 +28,7 @@ pets: 'No'
 parking: '1'
 security: 'Yes'
 minimumstay: 1 Month
-price: from $ 600/per month
+price: from $ 600/month
 ---
 {{< gallery >}} 
 
