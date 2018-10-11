@@ -14,7 +14,7 @@ description: >-
 hidesidebar: true
 thumbnail: /images/uploads/071-01.jpg
 image: /images/uploads/071-01.jpg
-location: Gisozi-Kiyovu
+location: Gisozi
 bedrooms: '4'
 baths: '3'
 furnished: Unfurnished
