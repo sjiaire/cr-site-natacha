@@ -67,8 +67,7 @@ price: '$ 1,000/month'
 
 
 
-**4 Bedroom House for Rent - Gisozi
-**
+**4 Bedroom House for Rent - Gisozi**
 
 Stay in this brand-new 3 bedroom house located in a gated estate of Gisozi. Nearby the famous commercial hub of Gakinjro, Gisozi residential neighborhood hosts several international schools and is only 10 minutes’ drive from the City Center.
 
@@ -80,8 +79,7 @@ The estate offers a quiet environment which makes it a perfect fit for families!
 
 - - -
 
-**Maison à  4 chambres à louer - Gisozi
-**
+**Maison à  4 chambres à louer - Gisozi**
 
 Séjournez dans cette maison de 3 chambres toute neuve située dans un lotissement privé de Gisozi. A proximité du centre commercial de Gakinjro, le quartier résidentiel de Gisozi accueille plusieurs écoles internationales et est facilement accessible du centre-ville (à 10 minutes en voiture).
 
