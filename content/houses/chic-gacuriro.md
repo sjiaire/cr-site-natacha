@@ -7,7 +7,7 @@ slug: 053-chic-gacuriro
 date: 2018-09-18T14:03:24.002Z
 draft: false
 description: >-
-  Stay in this beautiful furnished 5 bedroom house located in the Vision 2020
+  Stay in this beautiful furnished 4 bedroom house located in the Vision 2020
   estate of Gacuriro.  Gacuriro is a nice residential area with good roads,
   parks and beautiful views. 
 hidesidebar: true
@@ -56,9 +56,9 @@ price: 'from $ 1,500/month'
 
  {{< /gallery >}} {{< load-photoswipe >}}
 
-**Furnished 5 Bedroom House for Rent in Gacuriro**
+**Furnished 4 Bedroom House for Rent in Gacuriro**
 
-Stay in this beautiful furnished 5 bedroom house located in the Vision 2020 estate of Gacuriro.  Gacuriro is a nice residential area with good roads, parks and beautiful views. 
+Stay in this beautiful furnished 4 bedroom house located in the Vision 2020 estate of Gacuriro.  Gacuriro is a nice residential area with good roads, parks and beautiful views. 
 
 This chic 2-storey residence enjoys vast living spaces. On the ground floor, it has comfortable living / dining room, a fully equipped kitchen with large fridge and cabinets as well as an en suite guest room. Upstairs, there are 3 conveniently furnished en suite bedrooms including a master bedroom enjoying a walk-in closet, study and a private balcony. 
 
@@ -68,9 +68,9 @@ This home is a must-see!
 
 - - -
 
-**Maison meublée 5 chambres à louer à Gacuriro**
+**Maison meublée 4 chambres à louer à Gacuriro**
 
-Séjournez dans cette belle maison meublée de 5 chambres située dans le quartier de Vision 2020 à Gacuriro. Gacuriro est un quartier résidentiel agréable avec de bonnes routes, des parcs et de belles vues. 
+Séjournez dans cette belle maison meublée de 4 chambres située dans le quartier de Vision 2020 à Gacuriro. Gacuriro est un quartier résidentiel agréable avec de bonnes routes, des parcs et de belles vues. 
 
 Cette résidence chic de 2 étages jouit de pièces spacieuses. Au rez-de-chaussée, elle a un salon confortable avec salle à manger, une cuisine entièrement équipée avec un grand réfrigérateur et de nombreux placards, ainsi qu’une chambre à coucher avec salle de bains. A l’étage, il y a 3 chambres à coucher autonomes bien meublées et la chambre principale qui dispose d’un dressing, d’un bureau et un balcon. 
 
