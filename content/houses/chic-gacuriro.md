@@ -14,7 +14,7 @@ hidesidebar: true
 thumbnail: /images/uploads/053-01.jpg
 image: /images/uploads/053-01.jpg
 location: Gacuriro
-bedrooms: '5'
+bedrooms: '4'
 baths: 4+
 furnished: Furnished
 sleeps: 6+
@@ -27,8 +27,8 @@ closets: 'Yes'
 pets: 'Yes'
 parking: '4'
 security: 'No'
-minimumstay: 1 Year
-price: '$ 1,500/month'
+minimumstay: 1 Month
+price: 'from $ 1,500/month'
 ---
 {{< gallery >}} 
 
