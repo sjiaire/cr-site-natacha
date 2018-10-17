@@ -73,7 +73,7 @@ This apartment is perfect for singles and couples!
 
 - - -
 
-**Appartement meublé à  2 chambres à louer - Gacuriro**
+**Appartement meublé à  2 chambres à louer - Gacuriro**
 
 Séjournez dans cet appartement à 2 chambres à coucher, confortable situé près de Vision City, bien connu pour avoir des hébergements magnifiques, tout près de Vision 2020.
 
