@@ -61,7 +61,8 @@ price: '$ 1,000/month'
 
  {{< /gallery >}} {{< load-photoswipe >}}
 
-**Furnished 2 Bedroom Apartment for Rent – Gacuriro **
+**Furnished 2 Bedroom Apartment for Rent – Gacuriro**
+
 Stay in this cosy 2 bedroom apartment located near Vision City Estate, well known for hosting nice accommodations, nearby Vision 2020 estate.
 
 This cosy apartment has a modern living room with nice sofas, which opens to a pristine dining room and a stunning American kitchen. It has 2 warm bedrooms opening to the estate’s view. At the rooftop, it has a spacious balcony with amazing open hill view. 
@@ -73,6 +74,7 @@ This apartment is perfect for singles and couples!
 - - -
 
 **Appartement meublé à  2 chambres à louer - Gacuriro**
+
 Séjournez dans cet appartement à 2 chambres à coucher, confortable situé près de Vision City, bien connu pour avoir des hébergements magnifiques, tout près de Vision 2020.
 
 Cet appartement confortable a un salon moderne avec des sofas agréables, qui s'ouvre à une salle à manger accueillante et une cuisine américaine stupéfiante. Il a 2 chambres à coucher confortable s'ouvrant à la vue de la région. Au toit, il a un balcon spacieux avec 
