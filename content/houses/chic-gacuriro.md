@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Available
+availability: Rented
 title: Chic Gacuriro
 slug: 053-chic-gacuriro
 date: 2018-09-18T14:03:24.002Z
