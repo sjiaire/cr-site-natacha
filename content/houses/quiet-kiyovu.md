@@ -2,8 +2,8 @@
 property: House
 type: ''
 availability: Available
-title: Quiet Kiyovu
-slug: 070-quiet-kiyovu
+title: Leafy Kiyovu
+slug: 070-leafy-kiyovu
 date: 2018-10-02T20:44:20.701Z
 draft: false
 description: >-
