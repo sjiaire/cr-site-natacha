@@ -3,7 +3,7 @@ property: Apartment
 type: ''
 availability: Available
 title: Gacuriro Nest
-slug: 073-gacuriro-nest
+slug: ' 073-gacuriro-nest'
 date: 2018-10-17T06:54:43.395Z
 description: >-
   Furnished 2 Bedroom Apartment for Rent – Gacuriro  Stay in this brand-new 2
