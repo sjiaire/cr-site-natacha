@@ -63,8 +63,7 @@ price: '$ 1,000/month'
 
  {{< /gallery >}} {{< load-photoswipe >}}
 
-**Furnished 2 Bedroom Apartment for Rent – Gacuriro 
-**
+**Furnished 2 Bedroom Apartment for Rent – Gacuriro **
 
 Stay in this brand-new 2 bedroom apartment located in an exclusive estate of Gacuriro nearby Vision 2020 estate and Airtel Headquarters. Gacuriro is a quiet residential area with parks and beautiful views.
 
