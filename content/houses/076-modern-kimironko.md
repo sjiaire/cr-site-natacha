@@ -2,7 +2,7 @@
 property: House
 type: ''
 availability: Available
-title: 076- Modern Kimironko
+title: Modern Kimironko
 slug: 076-modern-kimironko
 date: 2018-10-31T16:21:21.018Z
 draft: false
