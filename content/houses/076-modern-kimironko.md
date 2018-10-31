@@ -51,7 +51,7 @@ price: 'RWF 500,000/month'
 {{< /gallery >}}
 {{< load-photoswipe >}}
 
-4 Bedroom House for Rent - Kimironko
+**4 Bedroom House for Rent - Kimironko**
 
 Stay in this brand-new 4-bedroom house located in a residential area of Kimironko. Kimironko is a lively neighborhood hosting several amenities such as central market and bus station easing transportation and shopping.  
 
@@ -61,17 +61,14 @@ Outdoor, it has a colorful patio, parking space for 2 cars and a small garden. I
 
 This house can be furnished upon request!
 
+----
 
-
-Maison 4 chambres à louer - Kimironko
+**Maison 4 chambres à louer - Kimironko**
 
 Séjournez dans cette maison neuve de 4 chambres située dans une zone résidentielle de Kimironko. Kimironko est un quartier pratique et facile d’accès grâce à la proximité du marché central et de la gare routière. 
 
-
 Cette résidence moderne de 2 étages à une dimension familiale. Au rez-de-chaussée, elle a un séjour lumineux, une grande cuisine avec des placards et une chambre à coucher. A l’étage, Elle a une chambre principale autonome avec un balcon offrant une vue agréable ainsi bien que 2 autres chambres à coucher partageant une salle de bains. Chaque chambre à coucher dispose de garde-robes!
 
-
 Extérieur, elle a une terrasse colorée, un parking pour 2 voitures et un petit jardin. Elle a aussi des annexes et de l’espace pour une cuisine extérieure. 
-
 
 Cette maison peut être meublée sur demande!
