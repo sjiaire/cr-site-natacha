@@ -29,7 +29,7 @@ pets: 'No'
 parking: 6+
 security: 'Yes'
 minimumstay: 1 Month
-price: $ 700
+price: $ 700/month
 ---
 {{< gallery >}} 
 
