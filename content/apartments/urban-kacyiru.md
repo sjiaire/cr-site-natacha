@@ -68,7 +68,7 @@ Its outside space is warm and welcoming with a colorful garden and an open parki
 
 This is simply a perfect home!
 
-Short term rental (up to 3 months): $800 per month
+Short term rental (up to 3 months): $650 per month
 
 - - -
 
@@ -82,4 +82,4 @@ Son espace extérieur est chaleureux et accueillant avec un jardin coloré et un
 
 C'est simplement une maison parfaite!
 
-Location à court terme (jusqu'à 3 mois): 800 $ par mois
+Location à court terme (jusqu'à 3 mois): 650 $ par mois
