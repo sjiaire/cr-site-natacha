@@ -27,7 +27,7 @@ washingmachine: 'No'
 closets: 'Yes'
 pets: 'No'
 parking: 6+
-security: 'Yes'
+security: 'No'
 minimumstay: 1 Month
 price: $ 700/month
 ---
