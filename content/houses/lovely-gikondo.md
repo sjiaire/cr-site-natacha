@@ -65,8 +65,6 @@ This welcoming home has a cosy lounge with plenty of natural light opening to a 
 
 Outdoor space includes a relaxing terrace, a wide garden with a scenic hill view, parking space, servants’ quarters, and a vegetable garden. 
 
-The rent includes the services of a 24/7 guard. 
-
 This home is available for short term rentals with minimum stay of 1 month.     
 
 - - -
@@ -78,7 +76,5 @@ Séjournez dans cette belle maison de 4 chambres à coucher située dans une zon
 Cette maison chaleureuse a un salon confortable et lumineux ouvrant à une salle à manger colorée à côté de sa cuisine moderne entièrement équipée. Elle a 3 chambres à coucher spacieuses avec garde-robes et 3 salles de bains et une chambre principale autonome. 
 
 L'espace extérieur inclut une terrasse relaxante, un grand jardin avec une vue scénique sur les collines, un parking, des annexes et un potager. 
-
-Le loyer inclut les services d'un gardien permanent. 
 
 Cette maison est disponible pour des locations à court terme avec un séjour minimum de 1 mois.
