@@ -30,7 +30,7 @@ closets: 'Yes'
 pets: 'Yes'
 parking: '2'
 security: 'Yes'
-minimumstay: 6 Months
+minimumstay: 1 Month
 price: $ 800/month
 ---
 {{< gallery >}} 
