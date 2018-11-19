@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Available
+availability: Rented
 title: Lovely Gikondo
 slug: 061-lovely-gikondo
 date: 2018-11-06T14:30:17.485Z
