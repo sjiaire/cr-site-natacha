@@ -78,6 +78,8 @@ In addition, cable TV and optic fiber internet are available.
 
 This house is a perfect family home!
 
+It  is also available for short term rentals with minimum stay of 1 month.
+
 - - -
 
 **Maison meublée 3 chambres à louer - Gacuriro**
@@ -91,3 +93,5 @@ Extérieur, elle a une annexe, d’un petit jardin, de plusieurs terrasses spaci
 En plus, la télévision câblée et l'internet par fibre optique sont disponibles.
 
 C’est une maison familiale parfaite!
+
+Elle est aussi disponible pour des locations à court terme avec un séjour minimum de 1 mois.
