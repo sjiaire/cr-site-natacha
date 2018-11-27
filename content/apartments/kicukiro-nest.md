@@ -1,7 +1,7 @@
 ---
 property: Apartment
 type: ''
-availability: Available
+availability: Rented
 title: Kicukiro Nest
 slug: 015-kicukiro-nest
 date: 2018-10-15T12:38:31.096Z
