@@ -30,6 +30,40 @@ security: 'No'
 minimumstay: 1 Week
 price: $ 600/month
 ---
+{{< gallery >}} 
+
+{{< figure src="/images/uploads/018-01.jpg" >}} 
+
+{{< figure src="/images/uploads/018-02.jpg" >}}
+
+ {{< figure src="/images/uploads/018-03.jpg" >}} 
+
+{{< figure src="/images/uploads/018-04.jpg" >}}
+
+{{< figure src="/images/uploads/018-05.jpg" >}}
+
+ {{< figure src="/images/uploads/018-06.jpg" >}}
+
+ {{< figure src="/images/uploads/018-07.jpg" >}}
+
+ {{< figure src="/images/uploads/018-08.jpg" >}}
+
+{{< figure src="/images/uploads/018-09.jpg" >}} 
+
+{{< figure src="/images/uploads/018-10.jpg" >}}
+
+ {{< figure src="/images/uploads/018-11.jpg" >}} 
+
+{{< figure src="/images/uploads/018-18.jpg" >}}
+
+{{< figure src="/images/uploads/018-13.jpg" >}}
+
+{{< figure src="/images/uploads/018-14.jpg" >}}
+
+{{< figure src="/images/uploads/018-15.jpg" >}}
+
+ {{< /gallery >}} {{< load-photoswipe >}}
+
 **Furnished 3 Bedroom House for Rent - Kibagabaga**
 
 Stay in this cosy furnished house located in Kibagabaga, a safe and calm neighborhood. This house is very close from the main road in walking distance from several shops, nearby Kibagabaga Hospital and Nyarutarama area.
@@ -42,7 +76,7 @@ This house is available for long and short-term rentals with minimum stay of 1 w
 
 - - -
 
-**Maison équipée de 3 chambres à louer à Kibagabaga **
+**Maison équipée de 3 chambres à louer à Kibagabaga**
 
 Séjournez dans cette maison confortable et entièrement meublée située dans Kibagabaga, un quartier sûr et calme. Cette maison est très proche de la route principale à quelques minutes à pied de plusieurs magasins, à proximité de l'Hôpital de Kibagabaga et de Nyarutarama. 
 
