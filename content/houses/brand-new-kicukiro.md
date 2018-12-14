@@ -30,7 +30,7 @@ pets: 'Yes'
 parking: '2'
 security: 'No'
 minimumstay: 1 Week
-price: 'RWF 800,000/per month'
+price: 'RWF 800,000/month'
 ---
 {{< gallery >}} 
 
