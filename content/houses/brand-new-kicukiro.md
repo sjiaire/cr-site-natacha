@@ -29,7 +29,7 @@ closets: 'Yes'
 pets: 'Yes'
 parking: '2'
 security: 'No'
-minimumstay: 1 Week
+minimumstay: 1 Month
 price: 'RWF 800,000/month'
 ---
 {{< gallery >}} 
