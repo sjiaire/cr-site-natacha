@@ -68,7 +68,7 @@ Upstairs, it has 2 regular bedrooms and an en suite master bedroom with a vanity
 
 Outdoor, it has a pleasant patio, parking space and a flat backyard safe for kids’ play.  
 
-This family-sized home is available for short term rentals with minimum stay of 1 week.                           
+This family-sized home is available for short term rentals with minimum stay of 1 month.                           
 
 - - -
 
@@ -82,4 +82,4 @@ A l’étage, elle a 2 chambres à coucher simples et une chambre principale ave
 
 A l’extérieur, elle a une agréable terrasse, un parking et un petit de jardin accueillant pour les jeux d’enfants.
 
-Cette maison à dimension familiale est disponible pour des locations à court terme avec un séjour minimum d’une semaine.
+Cette maison à dimension familiale est disponible pour des locations à court terme avec un séjour minimum d’un mois.
