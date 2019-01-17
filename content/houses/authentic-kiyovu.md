@@ -32,29 +32,29 @@ price: '$ 1,300/month'
 ---
 {{< gallery >}} 
 
-{{< figure src="/images/uploads/061-01.jpg" >}} 
+{{< figure src="/images/uploads/057-01.jpg" >}} 
 
-{{< figure src="/images/uploads/061-02.jpg" >}}
+{{< figure src="/images/uploads/057-02.jpg" >}}
 
- {{< figure src="/images/uploads/061-03.jpg" >}} 
+ {{< figure src="/images/uploads/057-03.jpg" >}} 
 
-{{< figure src="/images/uploads/061-04.jpg" >}}
+{{< figure src="/images/uploads/057-04.jpg" >}}
 
-{{< figure src="/images/uploads/061-05.jpg" >}}
+{{< figure src="/images/uploads/057-05.jpg" >}}
 
- {{< figure src="/images/uploads/061-06.jpg" >}}
+ {{< figure src="/images/uploads/057-06.jpg" >}}
 
- {{< figure src="/images/uploads/061-07.jpg" >}}
+ {{< figure src="/images/uploads/057-07.jpg" >}}
 
- {{< figure src="/images/uploads/061-08.jpg" >}}
+ {{< figure src="/images/uploads/057-08.jpg" >}}
 
-{{< figure src="/images/uploads/061-09.jpg" >}} 
+{{< figure src="/images/uploads/057-09.jpg" >}} 
 
-{{< figure src="/images/uploads/061-10.jpg" >}}
+{{< figure src="/images/uploads/057-10.jpg" >}}
 
- {{< figure src="/images/uploads/061-11.jpg" >}} 
+ {{< figure src="/images/uploads/057-11.jpg" >}} 
 
-{{< figure src="/images/uploads/061-12.jpg" >}}
+{{< figure src="/images/uploads/057-12.jpg" >}}
 
  {{< /gallery >}} {{< load-photoswipe >}}
 
