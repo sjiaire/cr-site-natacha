@@ -54,9 +54,9 @@ price: '$ 1,500/month'
 
  {{< figure src="/images/uploads/080-11.jpg" >}} 
 
-{{< figure src="/images/uploads/080-12.jpg" >}}
-
 {{< figure src="/images/uploads/080-13.jpg" >}}
+
+{{< figure src="/images/uploads/080-12.jpg" >}}
 
 {{< figure src="/images/uploads/080-14.jpg" >}}
 
