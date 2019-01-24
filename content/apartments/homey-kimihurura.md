@@ -20,7 +20,7 @@ baths: '1'
 furnished: Furnished
 sleeps: 6+
 garden: 'Yes'
-maid: 'Yes'
+maid: 'No'
 tv: 'Yes'
 wifi: 'No'
 washingmachine: 'No'
