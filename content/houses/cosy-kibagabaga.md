@@ -17,7 +17,7 @@ location: Kibagabaga
 bedrooms: '3'
 baths: '3'
 furnished: Furnished
-sleeps: '5'
+sleeps: 6+
 garden: 'No'
 maid: 'No'
 tv: 'Yes'
@@ -66,22 +66,22 @@ price: $ 600/month
 
 **Furnished 3 Bedroom House for Rent - Kibagabaga**
 
-Stay in this cosy furnished house located in Kibagabaga, a safe and calm neighborhood. This house is very close from the main road in walking distance from several shops, nearby Kibagabaga Hospital and Nyarutarama area.
+Stay in this cosy furnished house located in Kibagabaga, a safe and calm neighborhood. Located only a couple steps away from paved road, this house is in walking distance from Kibagabaga Hospital.
 
-It has 3 bedrooms and 3 bathrooms: the master bedroom is self-contained. It has a spacious living room with a TV opening to a dining room and a wide kitchen. Its outside spaces include a porch, open car parking space, outside kitchen and spacious boys’ quarters.
+This home has 3 bedrooms and 3 bathrooms including an ensuite master bedroom. It has a spacious lounge with a TV opening and a wide kitchen. Its outside spaces include a large porch, open parking space, outside kitchen and spacious staff’ quarters.
 
 This house is perfect for singles, couples and families. 
 
-This house is available for long and short-term rentals with minimum stay of 1 week.
+This house is available for long and short-term rentals with minimum stay of 1 month.
 
 - - -
 
 **Maison équipée de 3 chambres à louer à Kibagabaga**
 
-Séjournez dans cette maison confortable et entièrement meublée située dans Kibagabaga, un quartier sûr et calme. Cette maison est très proche de la route principale à quelques minutes à pied de plusieurs magasins, à proximité de l'Hôpital de Kibagabaga et de Nyarutarama. 
+Séjournez dans cette maison confortable et entièrement meublée située dans Kibagabaga, un quartier sûr et calme. Cette maison est à proximité de la route principale et à quelques minutes à pied de l'Hôpital de Kibagabaga. 
 
-La maison a 3 chambres à coucher et 3 salles de bains : la chambre principale est indépendante. Sa salle de séjour spacieuse a une télévision et s'ouvre sur la salle à manger à côté d’une spacieuse cuisine. Ses espaces extérieurs comportent un porche, un parking, une cuisine extérieure ainsi que plusieurs annexes.
+La maison a 3 chambres à coucher et 3 salles de bains dont une chambre principale est indépendante. Sa salle de séjour spacieuse a une télévision et s'ouvre sur la salle à manger à côté d’une spacieuse cuisine. Ses espaces extérieurs comportent un porche, un parking, une cuisine extérieure ainsi que plusieurs annexes.
 
 Cette maison est parfaite pour un(e) célibataire, un couple ou une famille. 
 
-Elle est disponible pour des locations longues et à court terme avec un séjour minimal d’une semaine.
+Elle est également disponible pour les locations court terme avec un séjour minimal d’un mois.
