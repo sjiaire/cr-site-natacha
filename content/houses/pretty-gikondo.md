@@ -65,7 +65,7 @@ price: '$ 1,000/month'
 
  {{< /gallery >}} {{< load-photoswipe >}}
 
-**Furnished 3 Bedroom House for Rent - Gikondo **
+**Furnished 3 Bedroom House for Rent - Gikondo**
 
 Stay in this classy 3 bedroom house located in the residential area of Gikondo. Gikondo is a lively neighborhood easily accessible from the city center and Remera area. This house is conveniently located on a paved road, a few steps away from moto and bus stops.
 
