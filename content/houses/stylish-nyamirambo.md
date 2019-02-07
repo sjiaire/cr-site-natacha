@@ -66,7 +66,7 @@ price: 'RWF 750,000/month'
 
  {{< /gallery >}} {{< load-photoswipe >}}
 
-** 4 Bedroom House for Rent - Nyamirambo**
+**4 Bedroom House for Rent - Nyamirambo**
 
 Stay in this beautiful 4 bedroom house located in the authentic area of Nyamirambo at the bottom of Mount Kigali. Nyamirambo is a popular neighborhood well-known for its lively boutiques, tasty food and night life. Easily accessible from town (10 min drive), this house is located nearby buses and moto stops.
 
