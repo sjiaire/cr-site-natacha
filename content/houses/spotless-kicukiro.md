@@ -29,7 +29,7 @@ pets: 'No'
 parking: '2'
 security: 'No'
 minimumstay: 1 Year
-price: 'RWF 500,000/month'
+price: 'Rwf 500,000/month'
 ---
 {{< gallery >}} 
 
