@@ -78,7 +78,7 @@ This is a perfect family home!
 
 **Maison 5 chambres à louer - Kibagabaga**
 
-Séjournez dans cette magnifique maison de 5 chambres située dans un quartier paisible de Kibagabaga à proximité de son site commémoratif. Kibagabaga un quartier résidentiel moderne avec plusieurs écoles et à proximité du marché de Kimironko.
+Séjournez dans cette magnifique maison de 5 chambres située dans un quartier paisible de Kibagabaga à proximité de son site commémoratif. Kibagabaga est un quartier résidentiel moderne avec plusieurs écoles et à proximité du marché de Kimironko.
 
 Cette magnifique résidence de 2 étages est fraîche et aérée. Au rez-de-chaussée, elle dispose d’un salon spacieux une grande cuisine ouverte sur sa salle à manger et une chambre privative. A l’étage, il dispose de 4 belles chambres avec de grands placards dont 2 en suite avec balcon ouvrant sur une vue imprenable sur les collines!
 
