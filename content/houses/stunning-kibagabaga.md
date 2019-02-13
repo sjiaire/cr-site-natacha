@@ -26,7 +26,7 @@ washingmachine: 'No'
 closets: 'Yes'
 pets: 'Yes'
 parking: '4'
-security: 'Yes'
+security: 'No'
 minimumstay: 1 Year
 price: '$ 1,300/month'
 ---
