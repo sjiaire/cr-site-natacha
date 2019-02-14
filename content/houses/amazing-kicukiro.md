@@ -31,8 +31,6 @@ security: 'No'
 minimumstay: 1 Year
 price: 'Rwf 500,000/month'
 ---
-
-
 {{< gallery >}} 
 
 {{< figure src="/images/uploads/086-01.jpg" >}} 
@@ -67,7 +65,7 @@ price: 'Rwf 500,000/month'
 
  {{< /gallery >}} {{< load-photoswipe >}}
 
-**Unfurnished 4 Bedroom House for Rent - Kicukiro**
+**4 Bedroom House for Rent - Kicukiro**
 
 Stay in this gorgeous 4-bedroom house located in a quiet residential area of Kicukiro. Kicukiro is an authentic neighborhood with several shops, schools, hospitals. Kicukiro is easily accessible from the airport, Remera and Magerwa. This house is only 2 minutes away from Kagarama stone road. 
 
