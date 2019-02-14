@@ -69,7 +69,7 @@ price: 'Rwf 500,000/month'
 
 Stay in this gorgeous 4-bedroom house located in a quiet residential area of Kicukiro. Kicukiro is an authentic neighborhood with several shops, schools, hospitals. Kicukiro is easily accessible from the airport, Remera and Magerwa. This house is only 2 minutes away from Kagarama stone road. 
 
-This amazing semi-detached 2-storey residence is brand-new and neatly finished with a stylish wooden touch. On the ground floor, it has a spacious lounge and dining, an equipped kitchen and an ensuite bedroom. Upstairs, it has 2 beautiful bedrooms sharing 1 bathroom and a master en suite that has a large bathroom with a shower and a bath tub. In addition, it has a large balcony overlooking green hills! 
+This amazing semi-detached 2-storey residence is brand-new and neatly finished with a stylish wooden touch. On the ground floor, it has a spacious lounge and dining, an equipped kitchen and an en suite bedroom. Upstairs, it has 2 beautiful bedrooms sharing 1 bathroom and a master en suite that has a large bathroom with a shower and a bath tub. In addition, it has a large balcony overlooking green hills! 
 
 Its outdoor space includes a vast flowery garden, a parking and self-contained staff quarters.
 
