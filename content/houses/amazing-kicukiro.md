@@ -69,7 +69,7 @@ price: 'Rwf 500,000/month'
 
 Stay in this gorgeous 4-bedroom house located in a quiet residential area of Kicukiro. Kicukiro is an authentic neighborhood with several shops, schools, hospitals. Kicukiro is easily accessible from the airport, Remera and Magerwa. This house is only 2 minutes away from Kagarama stone road. 
 
-This amazing semi-detached 2-storey residence is brand-new and neatly finished with a stylish wooden touch. On the ground floor, it has a spacious lounge and dining, an equipped kitchen and en-suite bedroom. Upstairs, it has 2 beautiful bedrooms sharing 1 bathroom and a master en suite that has a large bathroom with a shower and a bath tub. In addition, it has a large balcony overlooking green hills! 
+This amazing semi-detached 2-storey residence is brand-new and neatly finished with a stylish wooden touch. On the ground floor, it has a spacious lounge and dining, an equipped kitchen and an ensuite bedroom. Upstairs, it has 2 beautiful bedrooms sharing 1 bathroom and a master en suite that has a large bathroom with a shower and a bath tub. In addition, it has a large balcony overlooking green hills! 
 
 Its outdoor space includes a vast flowery garden, a parking and self-contained staff quarters.
 
@@ -79,10 +79,10 @@ This house makes you feel at home!
 
 **Maison 4 chambres à louer - Kicukiro**
 
-Séjournez dans cette magnifique maison de 4 chambres située dans un quartier résidentiel calme de Kicukiro. Kicukiro est un quartier authentique avec plusieurs magasins, écoles, hôpitaux. Kicukiro est facilement accessible depuis l’aéroport, Remera et Magerwa. Cette maison est à seulement 2 minutes de la route de pierres de Kagarama.
+Séjournez dans cette magnifique maison de 4 chambres située dans un quartier résidentiel calme de Kicukiro. Kicukiro est un quartier authentique avec plusieurs magasins, écoles, hôpitaux. Kicukiro est facilement accessible depuis l’aéroport, Remera et Magerwa. Cette maison est à seulement 2 minutes de la route en pierres de Kagarama.
 
-Cette étourdissante résidence semi-individuelle de 2 étages est moderne et bien finie avec une touche de bois élégant. Au rez-de-chaussée, elle dispose d’un salon spacieux et une salle à manger, une cuisine équipée et une suite. A l’étage, elle dispose de 2 belles chambres partageant 1 salle de bains et la chambre principale qui dispose d’une grande salle de bains avec douche et une baignoire. En outre, elle a un grand balcon avec vue sur les collines vertes!
+Cette étonnante résidence jumelée de 2 étages est moderne et bien finie avec une touche de bois élégante. Au rez-de-chaussée, elle dispose d’un salon spacieux et d’une salle à manger, d’une cuisine équipée et d’une chambre avec salle de bain privative. A l’étage, elle a de 2 belles chambres partageant 1 salle de bains et sa chambre principale qui dispose d’une grande salle de bains avec douche et baignoire. En plus, elle a un grand balcon surplombant les collines vertes!
 
-Son espace extérieur comprend un vaste jardin fleuri, un parking et des logements autonomes pour le personnel.
+A l’extérieur, elle a un vaste jardin, un parking et des annexes.
 
-Cette maison te fait te sentir chez toi !
+On s’y sent chez soi !
