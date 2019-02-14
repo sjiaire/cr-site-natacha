@@ -81,7 +81,7 @@ This house makes you feel at home!
 
 Séjournez dans cette magnifique maison de 4 chambres située dans un quartier résidentiel calme de Kicukiro. Kicukiro est un quartier authentique avec plusieurs magasins, écoles, hôpitaux. Kicukiro est facilement accessible depuis l’aéroport, Remera et Magerwa. Cette maison est à seulement 2 minutes de la route en pierres de Kagarama.
 
-Cette étonnante résidence jumelée de 2 étages est moderne et bien finie avec une touche de bois élégante. Au rez-de-chaussée, elle dispose d’un salon spacieux et d’une salle à manger, d’une cuisine équipée et d’une chambre avec salle de bain privative. A l’étage, elle a de 2 belles chambres partageant 1 salle de bains et sa chambre principale qui dispose d’une grande salle de bains avec douche et baignoire. En plus, elle a un grand balcon surplombant les collines vertes!
+Cette étonnante résidence jumelée de 2 étages est moderne et bien finie avec une touche de bois élégante. Au rez-de-chaussée, elle dispose d’un salon spacieux et d’une salle à manger, d’une cuisine équipée et d’une chambre avec salle de bain privative. A l’étage, elle a de 2 belles chambres partageant 1 salle de bains et sa chambre principale qui dispose d’une grande salle de bains avec douche et baignoire. En plus, elle a un grand balcon surplombant les collines!
 
 A l’extérieur, elle a un vaste jardin, un parking et des annexes.
 
