@@ -30,8 +30,6 @@ security: 'No'
 minimumstay: 1 Month
 price: '$ 1,500/month'
 ---
-
-
 {{< gallery >}} 
 
 {{< figure src="/images/uploads/087-01.jpg" >}} 
@@ -80,7 +78,7 @@ This is home is a must see!
 
 **Maison meublée 4 chambres à louer – Kagugu**
 
-Séjournez dans cette confortable maison de 4 chambres située dans un quartier international de Kagugu. Le quartier offre un environnement convivial pour les familles et est situé à seulement 5 minutes de la route principale à proximité du supermarché Woodlands.
+Séjournez dans cette confortable maison de 4 chambres située dans un quartier international de Kagugu. Le quartier offre un environnement convivial pour les familles et est situé à seulement 5 minutes en voiture de la route principale à proximité du supermarché Woodlands.
 
 Cette jolie résidence de 2 étages est fraîche et aérée. Elle dispose d’un grand rez-de-chaussée dégagé avec un salon spacieux, une salle à manger, une grande cuisine américaine, et une chambre à coucher autonome. A l’étage, il y a 3 chambres accueillantes avec salles de bains privatives dont une suite principale élégante avec balcon privé offrant une vue magnifique sur les collines!
 
