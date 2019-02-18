@@ -67,6 +67,8 @@ Outdoor space includes a relaxing terrace, a wide garden with a scenic hill view
 
 This home is available for short term rentals with minimum stay of 1 month.     
 
+It can be rented unfurnished at $ 600/month.
+
 - - -
 
 **Maison meublée 4 chambres à louer - Gikondo**
@@ -78,3 +80,5 @@ Cette maison chaleureuse a un salon confortable et lumineux ouvrant à une salle
 L'espace extérieur inclut une terrasse relaxante, un grand jardin avec une vue scénique sur les collines, un parking, des annexes et un potager. 
 
 Cette maison est disponible pour des locations à court terme avec un séjour minimum de 1 mois.
+
+Elle est disponible sans équipements à $ 600/mois.
