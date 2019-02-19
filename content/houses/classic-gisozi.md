@@ -55,7 +55,7 @@ price: $ 800/month
 
  {{< figure src="/images/uploads/071-11.jpg" >}} 
 
-{{< figure src="/images/uploads/071-71.jpg" >}}
+{{< figure src="/images/uploads/071-12.jpg" >}}
 
 {{< figure src="/images/uploads/071-13.jpg" >}}
 
