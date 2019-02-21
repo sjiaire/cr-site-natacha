@@ -63,13 +63,13 @@ price: 'Rwf 350,000/month'
 
  {{< /gallery >}} {{< load-photoswipe >}}
 
-**Furnished 2 Bedroom House for Rent - Kabeza**
+**Furnished 2 Bedroom House for Rent - Kabeza**
 
 Stay in this cosy furnished 2 bedroom house located in a lively area of Kabeza. Kabeza is an authentic neighborhood nearby Kigali Airport, Kicukiro and Remera. Conveniently located on a main road, this house is easily accessible from public transportation and close to several shops. 
 
 This brand-new home is perfectly functional with a comfortable lounge, 2 bedrooms, 1 bathroom and a modern fully-equipped kitchen. 
 
-Outdoor, it has a vast mature garden than can host large gatherings such as weddings. All facilities for such ceremonies are available, including separate men and women bathrooms and parking space for over 30 cars. In addition, the garden offers a wonderful view!
+Outdoor, it has a vast mature garden that can host large gatherings such as weddings. All facilities for such ceremonies are available, including separate men and women bathrooms and parking space for over 30 cars. In addition, the garden offers a wonderful view!
 
 This house is perfect for short stays and ceremonies. 
 
