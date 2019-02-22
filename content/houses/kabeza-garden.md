@@ -83,7 +83,7 @@ Séjournez dans cette maison meublée confortable de 2 chambres située dans un 
 
 Cette maison neuve est parfaitement fonctionnelle avec un salon confortable, 2 chambres, 1 salle de bains et une cuisine moderne entièrement équipée.
 
-À l’extérieur, elle a un vaste jardin verdoyant qui peut accueillir de grands rassemblements tels que les mariages. Toutes les installations pour ces cérémonies sont disponibles, y compris des salles de bains séparées pour hommes et femmes et un parking pour plus de 30 voitures. En outre, le jardin offre une vue magnifique!
+À l’extérieur, elle a un vaste jardin verdoyant qui peut accueillir de grands rassemblements tels que les mariages. Toutes les installations pour ces cérémonies sont disponibles, y compris des toilettes séparées pour hommes et femmes et un parking pour plus de 30 voitures. En plus, le jardin offre une vue magnifique!
 
 Cette maison est parfaite pour les courts séjours et les cérémonies.
 
