@@ -63,7 +63,7 @@ Stay in this pleasant 2-bedroom apartment conveniently located in a lively area 
 
 This cosy apartment is on the ground floor of a building of 6 apartments. It has a nice living room with comfortable sofas, 2 pleasant bedrooms sharing a bathroom with a shower and a stunning fully-equipped kitchen.
 
-The compound is private and secured. Outdoor, there is a parking, a backyard and a shared garden. 
+The compound is private and secured. Outdoor, there is a shared parking, a backyard and a garden. 
 
 This apartment is available for short rentals with a minimum stay of 1 month. 
 
@@ -75,6 +75,6 @@ Séjournez dans cet agréable appartement de 2 chambres situé dans une zone ani
 
 Cet appartement intime est au rez-de-chaussée d’un immeuble de 6 appartements. Il a un confortable salon, 2 chambres à coucher agréables partageant une salle de bains avec une douche et une cuisine moderne entièrement équipée.
 
-L’appartement allie vie privée et sécurité. A l’extérieur, l’appartement dispose d’un parking, une arrière-cour et un jardin commun. 
+L’appartement allie vie privée et sécurité. A l’extérieur, l’appartement dispose d’un parking, d'une arrière-cour et d'un jardin communs. 
 
-Cet appartement est disponible pour des locations courtes avec un séjour minimal de 1 mois.
+Cet appartement est disponible pour des locations à court terme avec un séjour minimal de 1 mois.
