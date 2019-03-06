@@ -11,10 +11,8 @@ description: >-
   neighborhood. Located only a couple steps away from paved road, this house is
   in walking distance from Kibagabaga Hospital.
 hidesidebar: true
-thumbnail: >-
-  https://raw.githubusercontent.com/alainpatrick/cr-site-natacha/master/static/images/uploads/018-01.jpg?token=ACEwKX7YLN7ckkqOy-1ehpNJ1IN7FIpxks5cf2vlwA%3D%3D
-image: >-
-  https://raw.githubusercontent.com/alainpatrick/cr-site-natacha/master/static/images/uploads/018-01.jpg?token=ACEwKX7YLN7ckkqOy-1ehpNJ1IN7FIpxks5cf2vlwA%3D%3D
+thumbnail: /images/uploads/018-01.jpg
+image: /images/uploads/018-01.jpg
 location: Kibagabaga
 bedrooms: '3'
 baths: '3'
