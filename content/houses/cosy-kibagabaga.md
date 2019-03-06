@@ -68,7 +68,7 @@ price: $ 600/month
 
 Stay in this cosy furnished house located in Kibagabaga, a safe and calm neighborhood. Located only a couple steps away from paved road, this house is in walking distance from Kibagabaga Hospital.
 
-This home has 3 bedrooms and 3 bathrooms including an ensuite master bedroom. It has a spacious lounge with a TV opening and a wide kitchen. Its outside spaces include a large porch, open parking space, outside kitchen and spacious staff’ quarters.
+This home has 3 bedrooms and 3 bathrooms including an ensuite master bedroom. It has a spacious lounge with a TV opening to a dining room and a wide kitchen. Its outside spaces include a large porch, open parking space, outside kitchen and spacious staff’ quarters.
 
 This house is perfect for singles, couples and families. 
 
