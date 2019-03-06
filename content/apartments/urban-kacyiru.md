@@ -28,7 +28,7 @@ pets: 'No'
 parking: '1'
 security: 'Yes'
 minimumstay: 1 Month
-price: from $ 600/month
+price: ' $ 500/month'
 ---
 {{< gallery >}} 
 
@@ -62,13 +62,11 @@ price: from $ 600/month
 
 Stay in this functional 2 bedroom apartment located in Kacyiru, an authentic and quiet neighborhood nearby La Colombière School. Kacyiru is a conveniently central location in a few minutes’ drive from town, Kimihurura or Remera. 
 
-This comfortable apartment is located on the upper floor of a 4-units building. Its bright living room opens to a fully equipped kitchenette with several appliances. It has 2 spacious bedrooms including an en suite and a large terrace with an amazing view on the city center.
+This comfortable apartment is located on the ground floor of a 4-units building. Its bright living room opens to a fully equipped kitchenette with several appliances. It has 2 spacious bedrooms including an en suite and a large terrace with an amazing view on the city center.
 
 Its outside space is warm and welcoming with a colorful garden and an open parking space. 
 
 This is simply a perfect home!
-
-Short term rental (up to 3 months): $650 per month
 
 - - -
 
@@ -76,10 +74,8 @@ Short term rental (up to 3 months): $650 per month
 
 Séjournez dans cet appartement fonctionnel de 2 chambres situé à Kacyiru, un quartier calme et authentique à proximité de l’école La Colombière. Kacyiru est un emplacement très central dans à quelques minutes du centre-ville, de Kimihurura ou de Remera. 
 
-Cet appartement agréable est situé à l’étage d'un immeuble de 4 appartements. Son salon lumineux ouvre sur une kitchenette entièrement équipée avec plusieurs appareils. Il a 2 chambres à coucher spacieuses dont une avec salle de bains privée ainsi qu’une grande terrasse avec une vue époustouflante sur le centre-ville.
+Cet appartement agréable est situé au rez-de-chaussée d'un immeuble de 4 appartements. Son salon lumineux ouvre sur une kitchenette entièrement équipée avec plusieurs appareils. Il a 2 chambres à coucher spacieuses dont une avec salle de bains privée ainsi qu’une grande terrasse avec une vue époustouflante sur le centre-ville.
 
 Son espace extérieur est chaleureux et accueillant avec un jardin coloré et un grand parking. 
 
 C'est simplement une maison parfaite!
-
-Location à court terme (jusqu'à 3 mois): 650 $ par mois
