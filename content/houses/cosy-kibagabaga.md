@@ -12,7 +12,7 @@ description: >-
   in walking distance from Kibagabaga Hospital.
 hidesidebar: true
 thumbnail: >-
-  https://raw.githubusercontent.com/alainpatrick/cr-site-natacha/master/static/images/uploads/018-01.jpg?token=ACEwKX7YLN7ckkqOy-1ehpNJ1IN7FIpxks5cf2vlwA%3D%3D
+  https://raw.githubusercontent.com/alainpatrick/cr-site-natacha/master/static/images/uploads/018-01.jpg?token=ACEwKS1804oMXG_s9c7ousuUeGl9Om-Jks5cf6iFwA%3D%3D
 image: >-
   https://raw.githubusercontent.com/alainpatrick/cr-site-natacha/master/static/images/uploads/018-01.jpg?token=ACEwKX7YLN7ckkqOy-1ehpNJ1IN7FIpxks5cf2vlwA%3D%3D
 location: Kibagabaga
