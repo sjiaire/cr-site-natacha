@@ -74,7 +74,7 @@ This family-sized home is available for short term rentals with minimum stay of 
 
 **Maison meublée 4 chambres à louer à Kicukiro**
 
-Séjournez dans cette splendide maison meublée de 4 chambres située à Kicukiro à proximité de l’église Saint Joseph. Kicukiro est un quartier résidentiel authentique avec plusieurs magasins et restaurants. Cette maison est située dans un domaine très calme surplombant de collines vertes. Facilement accessible du centre-ville et de Remera, elle est seulement à quelques minutes de l'Aéroport.
+Séjournez dans cette splendide maison meublée de 4 chambres située à Kicukiro à proximité de l’église Saint Joseph. Kicukiro est un quartier résidentiel authentique avec plusieurs magasins et restaurants. Cette maison est située dans un domaine très calme surplombant les collines. Facilement accessible du centre-ville et de Remera, elle est seulement à quelques minutes de l'Aéroport.
 
 Cette toute nouvelle résidence de 2 étages est bien conçue avec des pièces spacieuses et joliment meublées. Au rez-de-chaussée, elle a une salle de séjour spacieuse avec des sofas confortables et une grande TV. Sa grande cuisine américaine ouvre sur une salle à manger confortable avoisinant une chambre à coucher. 
 
