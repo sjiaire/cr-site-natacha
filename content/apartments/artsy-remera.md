@@ -75,7 +75,7 @@ In addition, it has high speed Wi-Fi and shared outdoor space including parking 
 
 It is a perfect home for singles or couples!
 
-\- - -
+- - -
 
 **Appartement meublé 2 chambres à louer - Remera**
 
