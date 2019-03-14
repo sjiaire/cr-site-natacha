@@ -19,7 +19,7 @@ bedrooms: '2'
 baths: '2'
 furnished: Furnished
 sleeps: '4'
-garden: 'Yes'
+garden: 'No'
 maid: 'No'
 tv: 'No'
 wifi: 'Yes'
