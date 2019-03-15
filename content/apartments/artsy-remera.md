@@ -85,4 +85,4 @@ Cette unité colorée située au deuxième étage d’un bâtiment de 4 appartem
 
 De plus, elle a une connexion Wi-Fi haute vitesse et un espace extérieur commun dont un parking et un jardin. Le loyer inclut les services d’un gardien permanent.
 
-C’est une maison parfaite pour les célibataires ou les couples!
+C’est un logement parfait pour les célibataires ou les couples!
