@@ -31,6 +31,40 @@ security: 'No'
 minimumstay: 1 Year
 price: 'Rwf 400,000/month '
 ---
+{{< gallery >}} 
+
+{{< figure src="/images/uploads/092-01.jpg" >}} 
+
+{{< figure src="/images/uploads/092-02.jpg" >}}
+
+ {{< figure src="/images/uploads/092-03.jpg" >}} 
+
+{{< figure src="/images/uploads/092-04.jpg" >}}
+
+{{< figure src="/images/uploads/092-05.jpg" >}}
+
+ {{< figure src="/images/uploads/092-06.jpg" >}}
+
+ {{< figure src="/images/uploads/092-07.jpg" >}}
+
+ {{< figure src="/images/uploads/092-08.jpg" >}}
+
+{{< figure src="/images/uploads/092-09.jpg" >}} 
+
+{{< figure src="/images/uploads/092-10.jpg" >}}
+
+ {{< figure src="/images/uploads/092-11.jpg" >}} 
+
+{{< figure src="/images/uploads/092-12.jpg" >}}
+
+{{< figure src="/images/uploads/092-13.jpg" >}}
+
+{{< figure src="/images/uploads/092-14.jpg" >}}
+
+{{< figure src="/images/uploads/092-15.jpg" >}}
+
+ {{< /gallery >}} {{< load-photoswipe >}}
+
 **3 Bedroom House for Rent - Kicukiro**
 
 Stay in this alluring 3-bedroom house located in a quiet residential area of Kicukiro. Kicukiro is an authentic neighborhood with several shops, schools, hospitals. Kicukiro is easily accessible from the airport, Remera and Magerwa. This house is only 2 minutes away from Kagarama stone road. 
