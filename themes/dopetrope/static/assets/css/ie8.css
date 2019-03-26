@@ -6,6 +6,10 @@
 
 /* Basic */
 
+.error {
+	color: #ff0000;
+}
+
 	form input[type=text],
 	form input[type=password],
 	form select,

@@ -47,7 +47,8 @@ collections:
       - {label: "Pets Allowed", name: "pets", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "N° of Parking spots", name: "parking", required: true, widget: "select", options: ["None", "1", "2", "3", "4", "5", "6+"]}
       - {label: "Security", name: "security", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Minimum Stay", name: "minimumstay", required: true, widget: "select", options: ["1 Week", "1 Month", "3 Months", "6 Months", "1 Year"]}
+      - {label: "Minimum Stay", name: "minimumstay", required: true, widget: "select", options: ["1 Week", "1 Month", "3 Months", "6 Months", "1 Year", "3 Years"]}
+      - {label: "Size", name: "size", widget: "string"}
       - {label: "Price", name: "price", required: true, widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
@@ -82,6 +83,7 @@ collections:
       - {label: "Pets Allowed", name: "pets", required: true, widget: "select", options: ["Yes", "No"]}
       - {label: "N° of Parking spots", name: "parking", required: true, widget: "select", options: ["None", "1", "2", "3", "4", "5", "6+"]}
       - {label: "Security", name: "security", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Minimum Stay", name: "minimumstay", required: true, widget: "select", options: ["1 Week", "1 Month", "3 Months", "6 Months", "1 Year"]}
+      - {label: "Minimum Stay", name: "minimumstay", required: true, widget: "select", options: ["1 Week", "1 Month", "3 Months", "6 Months", "1 Year, "3 Years"]}
+      - {label: "Size", name: "size", widget: "string"}
       - {label: "Price", name: "price", required: true, widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}

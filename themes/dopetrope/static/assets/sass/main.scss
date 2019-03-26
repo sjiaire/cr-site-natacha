@@ -49,6 +49,10 @@
 
 /* Basic */
 
+	.error {
+		color: #ff0000;
+	}
+
 	body {
 		background: #252122;
 		background-image: url('images/bg02.png');
@@ -61,6 +65,8 @@
 			@include vendor('animation', 'none !important');
 		}
 	}
+
+
 
 	input, textarea, select {
 		font-family: 'Source Sans Pro';
@@ -131,6 +137,7 @@
 
 /* Form */
 
+
 	form {
 		label {
 			display: block;
@@ -138,6 +145,8 @@
 			font-weight: 400;
 			margin: 0 0 0.5em 0;
 		}
+
+
 
 		input[type=text],
 		input[type=email],
