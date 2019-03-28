@@ -61,8 +61,6 @@ price: '$ 1,200/month'
 
 {{< figure src="/images/uploads/095-14.jpg" >}}
 
-{{< figure src="/images/uploads/095-15.jpg" >}}
-
  {{< /gallery >}} {{< load-photoswipe >}}
 
 **Furnished 3 Bedroom House for Rent - Kagugu**
