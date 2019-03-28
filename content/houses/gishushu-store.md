@@ -27,7 +27,8 @@ closets: 'No'
 pets: 'No'
 parking: 6+
 security: 'No'
-minimumstay: 1 Year
+minimumstay: 3 Years
+size: 36 sqm
 price: $ 500 excl. VAT
 ---
 {{< gallery >}} 
@@ -66,8 +67,8 @@ It is an ideal location for a store!
 
 Louez ce magnifique espace commercial de 36 m² situé au rez-de-chaussée d’un complexe élégant de la zone résidentielle de Gishushu situé à quelques minutes à pied de RDB, Nyarutarama et du quartier d’affaires Kacyiru.
 
-Cet bel espace est privé et accueillant. Idéalement situé sur une route fréquentée, cet espace commercial offre une bonne visibilité. En plus, il bénéficie du voisinage des résidences et des autres commerces du complexe.
+Ce bel espace est privé et accueillant. Idéalement situé sur une route fréquentée, cet espace commercial offre une bonne visibilité. En plus, il bénéficie du voisinage des résidences et des autres commerces du complexe.
 
-A l’extérieur, il dispose de toilettes partagées et d’un parking.
+A l’extérieur, il dispose de toilettes partagés et d’un parking.
 
 C’est un endroit idéal pour un magasin !
