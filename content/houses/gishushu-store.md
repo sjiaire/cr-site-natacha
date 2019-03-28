@@ -27,7 +27,8 @@ closets: 'No'
 pets: 'No'
 parking: 6+
 security: 'No'
-minimumstay: 1 Year
+minimumstay: 3 Years
+size: 36 sqm
 price: $ 500 excl. VAT
 ---
 {{< gallery >}} 
