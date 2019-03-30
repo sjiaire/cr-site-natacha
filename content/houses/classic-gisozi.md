@@ -29,6 +29,7 @@ pets: 'Yes'
 parking: '4'
 security: 'Yes'
 minimumstay: 1 Year
+size: ___
 price: $ 600/month
 ---
 {{< gallery >}} 
