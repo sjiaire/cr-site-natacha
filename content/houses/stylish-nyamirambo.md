@@ -30,6 +30,7 @@ pets: 'Yes'
 parking: 6+
 security: 'Yes'
 minimumstay: 1 Year
+size: __
 price: 'Rwf 750,000/month'
 ---
 {{< gallery >}} 
