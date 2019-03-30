@@ -28,6 +28,7 @@ pets: 'Yes'
 parking: 6+
 security: 'Yes'
 minimumstay: 1 Month
+size: __
 price: '$ 2,500/month'
 ---
 {{< gallery >}} 
