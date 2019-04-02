@@ -29,7 +29,8 @@ pets: 'No'
 parking: 6+
 security: 'Yes'
 minimumstay: 1 Month
-price: 'Rwf 350,000/month'
+size: __
+price: 'Rwf 350,000/month, with garden: Rwf 350,000/day'
 ---
 {{< gallery >}} 
 

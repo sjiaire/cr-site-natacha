@@ -30,6 +30,7 @@ pets: 'Yes'
 parking: '2'
 security: 'No'
 minimumstay: 1 Month
+size: __
 price: 'Rwf 800,000/month'
 ---
 {{< gallery >}} 
