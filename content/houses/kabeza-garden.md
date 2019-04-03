@@ -74,7 +74,7 @@ Outdoor, it has a vast mature garden that can host large gatherings such as wedd
 
 This house is perfect for short stays and ceremonies. 
 
-Fees for ceremonies are charged separately. 
+Fees for ceremonies are charged separately (Rwf 350,000 per day)
 
 - - -
 
@@ -88,4 +88,4 @@ Cette maison neuve est parfaitement fonctionnelle avec un salon confortable, 2 c
 
 Cette maison est parfaite pour les courts séjours et les cérémonies.
 
-Les frais pour les cérémonies sont facturés séparément.
+Les frais pour les cérémonies sont facturés séparément (350,000 frw par jour)
