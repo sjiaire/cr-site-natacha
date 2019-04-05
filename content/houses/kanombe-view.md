@@ -75,7 +75,7 @@ In addition, it has several appliances including  a washing machine and a genera
 
 This home is ideal for couples or families!
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+- - -
 
 **Maison meublée 5 chambres à louer – Kanombe**
 
