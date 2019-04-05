@@ -13,6 +13,7 @@ description: >-
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/078-01.jpg
+image: /images/uploads/078-01.jpg
 location: Kimihurura
 bedrooms: '3'
 baths: '1'
