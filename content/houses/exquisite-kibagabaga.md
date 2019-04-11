@@ -68,7 +68,7 @@ price: '$ 1,200/month'
 
 {{< load-photoswipe >}}
 
-Furnished 3 Bedroom House for Rent - Kibagabaga
+**Furnished 3 Bedroom House for Rent - Kibagabaga**
 
 Stay in this beautiful 3 bedroom furnished house located in the quiet residential area of Kibagabaga. Kibagabaga is a lively a modern residential neighbourhood with several schools and close to Kimironko Market. The house is located nearby Kibagabaga Genocide Memorial.
 
@@ -80,7 +80,7 @@ This house is available for short-term rentals with minimum stay of 1 month.
 
 \- - - 
 
-Maison meublée 3 chambres à louer - Kibagabaga
+**Maison meublée 3 chambres à louer - Kibagabaga**
 
 Séjournez dans cette belle maison meublée de 3 chambres située dans le quartier résidentiel calme de Kibagabaga. Kibagabaga est un quartier résidentiel moderne avec plusieurs écoles et à proximité du marché de Kimironko. La maison est située à proximité du Mémorial du Génocide Kibagabaga.
 
