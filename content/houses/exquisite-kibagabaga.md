@@ -78,7 +78,7 @@ Outdoor, it is has a secure parking, a small garden and staff quarters.
 
 This house is available for short-term rentals with minimum stay of 1 month. 
 
-\- - - 
+- - -
 
 **Maison meublée 3 chambres à louer - Kibagabaga**
 
