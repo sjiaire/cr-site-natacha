@@ -74,10 +74,6 @@ Outdoor, it has a vast mature garden that can host large gatherings such as wedd
 
 This house is perfect for short stays and ceremonies. 
 
-Fees for ceremonies are charged separately (Rwf 350,000 per day)
-
-- - -
-
 **Maison meublée 2 chambres à louer – Kabeza**
 
 Séjournez dans cette maison meublée confortable de 2 chambres située dans un quartier animé de Kabeza. Kabeza est un quartier authentique à proximité de l’aéroport de Kigali, Kicukiro et Remera. Idéalement situé sur une route principale, cette maison est facilement accessible des transports en commun et à proximité de plusieurs commerces.
@@ -87,5 +83,3 @@ Cette maison neuve est parfaitement fonctionnelle avec un salon confortable, 2 c
 À l’extérieur, elle a un vaste jardin verdoyant qui peut accueillir de grands rassemblements tels que les mariages. Toutes les installations pour ces cérémonies sont disponibles, y compris des toilettes séparées pour hommes et femmes et un parking pour plus de 30 voitures. En plus, le jardin offre une vue magnifique!
 
 Cette maison est parfaite pour les courts séjours et les cérémonies.
-
-Les frais pour les cérémonies sont facturés séparément (350,000 frw par jour)
