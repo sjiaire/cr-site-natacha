@@ -30,7 +30,7 @@ parking: 6+
 security: 'Yes'
 minimumstay: 1 Month
 size: __
-price: 'from Rwf 350,000/month'
+price: 'Rwf 350,000/month'
 ---
 {{< gallery >}} 
 
