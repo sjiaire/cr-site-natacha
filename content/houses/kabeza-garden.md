@@ -28,9 +28,9 @@ closets: 'No'
 pets: 'No'
 parking: 6+
 security: 'Yes'
-minimumstay: 1 Month
+minimumstay: 1 Week
 size: __
-price: 'Rwf 350,000/month'
+price: 'Rwf 350,000/day'
 ---
 {{< gallery >}} 
 
