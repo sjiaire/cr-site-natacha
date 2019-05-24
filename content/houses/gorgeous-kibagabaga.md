@@ -12,8 +12,8 @@ description: >-
   Memorial. Kibagabaga is a modern residential neighborhood with several schools
   and close to Kimironko Market. 
 hidesidebar: true
-thumbnail: /images/uploads/098-01.jpeg
-image: /images/uploads/098-01.jpeg
+thumbnail: /images/uploads/098-01.jpg
+image: /images/uploads/098-01.jpg
 location: Kibagabaga
 bedrooms: '4'
 baths: 4+
