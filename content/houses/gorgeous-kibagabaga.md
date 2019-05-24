@@ -72,7 +72,7 @@ Stay in this classy 4-bedroom house located in a quiet area of Kibagabaga nearby
 
 This gorgeous residence is fresh and colorful. Its wide and comfortable lounge opens to a spacious dining room next to its fully-equipped kitchen. It has 4 spacious bedrooms with large closets including 2 en suite and 2 other bathrooms. In addition, it has a fully furnished study. 
 
-Outdoor, there is a large patio with open view, a flat flowery garden perfectly safe for kids’ place, parking space and self-contained staff quarters.
+Outdoor, there is a large patio with open view, a flat flowery garden perfectly safe for kids’ plays, parking space and self-contained staff quarters.
 
 This is a perfect family home!
 
