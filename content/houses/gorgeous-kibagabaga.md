@@ -86,4 +86,4 @@ Cette magnifique résidence est fraîche et colorée. Son vaste salon confortabl
 
 À l’extérieur, il y a un grand patio avec vue dégagée, un jardin fleuri et plat parfaitement sûr pour les enfants, un parking ainsi que des annexes.
 
-C’est une maison de famille parfaite !
+C’est une maison familiale parfaite !
