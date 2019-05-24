@@ -7,13 +7,13 @@ slug: 098-gorgeous-kibagabaga
 date: 2019-05-24T14:57:20.009Z
 draft: false
 description: >-
-  Furnished 4 Bedroom House for Rent - Kibagabaga Stay in this classy 4-bedroom
+  Furnished 4 Bedroom House for Rent - Kibagabaga  Stay in this classy 4-bedroom
   house located in a quiet area of Kibagabaga nearby Kibagabaga Genocide
   Memorial. Kibagabaga is a modern residential neighborhood with several schools
   and close to Kimironko Market. 
 hidesidebar: true
 thumbnail: /images/uploads/098-01.jpeg
-image: /images/uploads/098-07.jpg
+image: /images/uploads/098-01.jpeg
 location: Kibagabaga
 bedrooms: '4'
 baths: 4+
