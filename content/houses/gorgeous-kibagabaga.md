@@ -78,7 +78,7 @@ This is a perfect family home!
 
 - - -
 
-Maison meublé 4 chambres à louer - Kibagabaga
+**Maison meublée de 4 chambres à louer - Kibagabaga**
 
 Séjournez dans cette élégante maison de 4 chambres située dans un quartier calme de Kibagabaga à proximité de son Mémorial du Génocide. Kibagabaga est un quartier résidentiel moderne avec plusieurs écoles et à proximité du marché Kimironko.
 
