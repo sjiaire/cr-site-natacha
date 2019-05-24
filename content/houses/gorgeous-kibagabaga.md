@@ -68,7 +68,7 @@ price: '$ 1,200/month'
 
 **Furnished 4 Bedroom House for Rent - Kibagabaga**
 
-Stay in this classy 4-bedroom house located in a quiet area of Kibagabaga nearby Kibagabaga Genocide Memorial. Kibagabaga is a modern residential neighborhood with several schools and close to Kimironko Market. 
+Stay in this furnished classy 4-bedroom house located in a quiet area of Kibagabaga nearby Kibagabaga Genocide Memorial. Kibagabaga is a modern residential neighborhood with several schools and close to Kimironko Market. 
 
 This gorgeous residence is fresh and colorful. Its wide and comfortable lounge opens to a spacious dining room next to its fully-equipped kitchen. It has 4 spacious bedrooms with large closets including 2 en suite and 2 other bathrooms. In addition, it has a fully furnished study. 
 
