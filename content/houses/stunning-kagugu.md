@@ -33,7 +33,7 @@ price: 'from $ 1,250/month'
 ---
 {{< gallery >}} 
 
-{{< figure src="/images/uploads/034-01.jpg" >}} 
+{{< figure src="/images/uploads/034-01.jpeg" >}} 
 
 {{< figure src="/images/uploads/034-02.jpg" >}}
 
@@ -45,15 +45,15 @@ price: 'from $ 1,250/month'
 
  {{< figure src="/images/uploads/034-06.jpg" >}}
 
- {{< figure src="/images/uploads/034-07.jpg" >}}
+ {{< figure src="/images/uploads/034-07.jpeg" >}}
 
- {{< figure src="/images/uploads/034-08.jpg" >}}
+ {{< figure src="/images/uploads/034-08.jpeg" >}}
 
-{{< figure src="/images/uploads/034-09.jpg" >}} 
+{{< figure src="/images/uploads/034-09.jpeg" >}} 
 
-{{< figure src="/images/uploads/034-10.jpg" >}}
+{{< figure src="/images/uploads/034-10.jpeg" >}}
 
- {{< figure src="/images/uploads/034-11.jpg" >}} 
+ {{< figure src="/images/uploads/034-11.jpeg" >}} 
 
 {{< figure src="/images/uploads/034-12.jpg" >}}
 
