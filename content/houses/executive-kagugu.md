@@ -56,6 +56,14 @@ price: '$ 2,000/month'
 
  {{< figure src="/images/uploads/024-11.jpg" >}} 
 
+ {{< figure src="/images/uploads/024-12.jpg" >}} 
+
+ {{< figure src="/images/uploads/024-13.jpg" >}} 
+
+ {{< figure src="/images/uploads/024-14.jpg" >}} 
+
+ {{< figure src="/images/uploads/024-15.jpg" >}} 
+
  {{< /gallery >}} {{< load-photoswipe >}}
 
 **Furnished 6 Bedroom House for Rent - Kagugu**
