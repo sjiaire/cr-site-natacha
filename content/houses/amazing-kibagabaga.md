@@ -27,9 +27,9 @@ closets: 'Yes'
 pets: 'Yes'
 parking: '2'
 security: 'Yes'
-minimumstay: 1 Year
+minimumstay: 1 Month
 size: __
-price: '$ 1,000/month'
+price: 'from $ 1,000/month'
 ---
 {{< gallery >}} 
 
