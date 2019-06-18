@@ -73,7 +73,7 @@ This amazing semi-detached 2-storey residence is homey and fresh. On the ground 
 
 Its outdoor space includes a small garden, a parking and self-contained staff quarters.
 
-This house makes you feel at home!
+This house is available for short-term rentals with a minimum stay of 1 month (up to 3 months): $ 1,300/month.
 
 - - -
 
@@ -85,4 +85,4 @@ Cette incroyable résidence jumelée de 2 étages est accueillante et fraîche. 
 
 A l’extérieur, elle a un petit jardin, un parking et des annexes.
 
-On s’y sent chez soi !
+Cette maison est disponible pour les locations à court terme avec un séjour minimum de 1 mois (jusqu’à 3 mois): 1,300 $ /mois.
