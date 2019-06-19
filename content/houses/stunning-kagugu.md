@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Available
+availability: Rented
 title: Stunning Kagugu
 slug: 034-stunning-kagugu
 date: 2019-05-27T08:58:26.959Z
