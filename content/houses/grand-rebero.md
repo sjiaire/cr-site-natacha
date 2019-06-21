@@ -63,7 +63,7 @@ price: '$ 1,800/month'
 
 **Furnished 7 Bedroom House for Rent - Rebero**
 
-Stay in this beautiful 7-bedroom furnished house located in the chic residential neighborhood of Rebero. Rebero area is on hill-top and offers a fresh environment at all time as well as Kigali best  views! It is easily accessible from the city center and is only 20 minutes drive away from Remera and Kicukiro business areas.
+Stay in this beautiful 7-bedroom furnished house located in the chic residential neighborhood of Rebero. Rebero area is on a hill-top and offers a fresh environment at all time as well as Kigali best views! It is easily accessible from the city center and is only 20 minutes drive away from Remera and Kicukiro business areas.
 
 This grand residence is colorful and homey. Its magnificent living room opens to a large dining room and a modern kitchen. Its bedrooms are comfortable and have large closets. In addition, it has 2 spacious en suite bedrooms including a master en suite which has a bath tub.
 
@@ -73,7 +73,7 @@ This house makes you feel at home!
 
 - - -
 
-**Maison meublée 7 chambres à louer - Rebero**
+**Maison meublée de 7 chambres à louer - Rebero**
 
 Séjournez dans cette belle maison meublée de 7 chambres située dans le quartier résidentiel chic de Rebero. Rebero est au sommet de la colline et offre un environnement frais ainsi que les meilleures vues Kigali! Facilement accessible depuis le centre-ville, Rebero se trouve à seulement 20 minutes en voiture des quartiers d’affaires de Remera et de Kicukiro.
 
