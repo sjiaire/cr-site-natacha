@@ -28,7 +28,7 @@ closets: 'Yes'
 pets: 'Yes'
 parking: 6+
 security: 'No'
-minimumstay: 1 Year
+minimumstay: 1 Month
 size: __
 price: '$ 2,000/month'
 ---
@@ -76,7 +76,7 @@ Upstairs, it has bright lounge, a spacious master en suite bedroom with a walk-i
 
 Outdoor, it has a beautiful garden, a large open car space with carport, a traditional kitchen and autonomous staff quarters. 
 
-This is a perfect home for executives!
+This house is also available for short-term rentals.
 
 - - -
 
@@ -90,4 +90,4 @@ A l’étage, elle a un salon lumineux, une spacieuse suite principale avec un d
 
 A l’extérieur, elle a un beau jardin, un grand parking avec une partie couverte, une cuisine traditionnelle et des annexes autonomes.
 
-C’est une maison parfaite pour les cadres!
+Cette maison est aussi disponible pour des locations à court-terme.
