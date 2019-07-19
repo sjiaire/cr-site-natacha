@@ -67,8 +67,6 @@ price: '$ 1,500/month'
 
 {{< load-photoswipe >}}
 
-
-
 **3 Bedroom House for Rent - Kiyovu**
 
 Stay in this bright 3-bedroom house located in the quiet residential area of Kiyovu. Kiyovu is a chic area nearby the city center with several shops, restaurants and schools around.
