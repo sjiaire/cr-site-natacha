@@ -63,8 +63,6 @@ price: 'Rwf 750,000/month'
 
 {{< figure src="/images/uploads/084-14.jpg" >}}
 
-{{< figure src="/images/uploads/084-15.jpg" >}}
-
  {{< /gallery >}} {{< load-photoswipe >}}
 
 **4 Bedroom House for Rent - Nyamirambo**
