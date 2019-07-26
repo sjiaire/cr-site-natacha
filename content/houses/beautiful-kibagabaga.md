@@ -20,14 +20,14 @@ baths: '2'
 furnished: Furnished
 sleeps: 6+
 garden: 'Yes'
-maid: 'Yes'
+maid: 'No'
 tv: 'Yes'
 wifi: 'Yes'
 washingmachine: 'Yes'
 closets: 'Yes'
 pets: 'Yes'
 parking: '2'
-security: 'Yes'
+security: 'No'
 minimumstay: 1 Year
 size: __
 price: '$ 1,000/month'
