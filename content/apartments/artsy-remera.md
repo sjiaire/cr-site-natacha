@@ -1,7 +1,7 @@
 ---
 property: Apartment
 type: ''
-availability: Available
+availability: Rented
 title: Artsy Remera
 slug: 091-artsy-remera
 date: 2019-03-14T14:00:01.240Z
