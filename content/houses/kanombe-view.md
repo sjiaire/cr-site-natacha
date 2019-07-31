@@ -7,10 +7,11 @@ slug: 003-kanombe-view
 date: 2019-07-15T09:59:56.153Z
 draft: false
 description: >-
-  Stay in this charming 5-bedroom furnished house located in the residential
-  area of Kanombe. Kanombe is an authentic neighborhood easily accessible from
-  Kigali International Airport and Free Trade Zone. The house is located a
-  couple steps away from the cobble-stone road nearby La Palisse Hotel. 
+  Stay in this charming 5-bedroom semi-furnished house located in the
+  residential area of Kanombe. Kanombe is an authentic neighborhood easily
+  accessible from Kigali International Airport and Free Trade Zone. The house is
+  located a couple steps away from the cobble-stone road nearby La Palisse
+  Hotel. 
 hidesidebar: true
 thumbnail: /images/uploads/003-01.jpg
 image: /images/uploads/003-01.jpg
@@ -62,9 +63,9 @@ price: $ 800/month
 
 {{< load-photoswipe >}}
 
-**Furnished 5 Bedroom House for Rent - Kanombe**
+**Semi-furnished 5 Bedroom House for Rent - Kanombe**
 
-Stay in this charming 5-bedroom furnished house located in the residential area of Kanombe. Kanombe is an authentic neighborhood easily accessible from Kigali International Airport and Free Trade Zone. The house is located a couple steps away from the cobble-stone road nearby La Palisse Hotel. 
+Stay in this charming 5-bedroom semi-furnished house located in the residential area of Kanombe. Kanombe is an authentic neighborhood easily accessible from Kigali International Airport and Free Trade Zone. The house is located a couple steps away from the cobble-stone road nearby La Palisse Hotel. 
 
 This gorgeous residence is spacious and bright. It has a cosy lounge and dining room with TV and a spacious equipped kitchen with several cabinets. Its 4 regular bedrooms share a bathroom with a shower whereas the master en suite bedroom has a bath tub.
 
@@ -76,9 +77,9 @@ This home is ideal for couples or families!
 
 - - -
 
-**Maison meublée 5 chambres à louer – Kanombe**
+**Maison semi-meublée 5 chambres à louer – Kanombe**
 
-Séjournez dans cette charmante maison meublée de 5 chambres située dans le quartier résidentiel de Kanombe. Kanombe est un quartier authentique facilement accessible depuis l’aéroport international de Kigali et la Free Trade Zone. La maison est située à quelques minutes à pied de la route principale à proximité de l’hôtel La Palisse.
+Séjournez dans cette charmante maison semi-meublée de 5 chambres située dans le quartier résidentiel de Kanombe. Kanombe est un quartier authentique facilement accessible depuis l’aéroport international de Kigali et la Free Trade Zone. La maison est située à quelques minutes à pied de la route principale à proximité de l’hôtel La Palisse.
 
 Cette magnifique résidence est spacieuse et lumineuse. Elle dispose d’un salon confortable et d’une salle à manger avec télévision ainsi que d’une cuisine spacieuse équipée avec plusieurs rangements. 4 de ses chambres partagent une salle de bains avec douche tandis que sa chambre principale a une salle de bains autonome avec une baignoire.
 
