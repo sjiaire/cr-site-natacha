@@ -18,8 +18,8 @@ image: /images/uploads/003-01.jpg
 location: Kanombe
 bedrooms: '5'
 baths: '2'
-furnished: Furnished
-sleeps: 6+
+furnished: Unfurnished
+sleeps: None
 garden: 'Yes'
 maid: 'No'
 tv: 'No'
