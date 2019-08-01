@@ -32,8 +32,6 @@ minimumstay: 6 Months
 size: 120 sqm
 price: '$ 2,000/month'
 ---
-
-
 {{< gallery >}} 
 
 {{< figure src="/images/uploads/104-01.jpg" >}} 
@@ -74,7 +72,7 @@ Stay in this neat 2-bedroom apartment, centrally located in the leafy and tranqu
 
 This classy residence is cosy and modern. It has comfortable lounge and dining, an amazing equipped kitchen with washing machine, and 2 charming en suite bedrooms with TVs and private balcony. 
 
-Outdoor, it has a large terrace with to wonderful views! Communal facilities include a generator, parking space and a swimming pool. In addition, there is high-speed Wi-Fi and 24/7 security service. 
+Outdoor, it has a large terrace open to wonderful views! Communal facilities include a generator, parking space and a swimming pool. In addition, there is high-speed Wi-Fi and 24/7 security service. 
 
 This is a perfect home for singles or couples!    
 
@@ -86,6 +84,6 @@ Séjournez dans cet appartement soigné de 2 chambres situé dans le quartier ve
 
 Cette résidence élégante est confortable et moderne. Elle dispose d’un salon et d’une salle à manger confortables, d’une belle cuisine équipée avec une machine à laver, et de 2 charmantes chambres en suite avec télévision et balcon.
 
-A l’extérieur, il y a en plus une grande terrasse avec une vue magnifique ! Les installations communes comprennent un générateur, un parking et une piscine. En plus, il y’a l’internet à haute débit et un service de sécurité 24h/24h.
+A l’extérieur, il dispose d'une grande terrasse avec une vue magnifique ! Les installations communes comprennent un générateur, un parking et une piscine. En plus, il y’a l’internet à haute débit et un service de sécurité 24h/24h.
 
 C’est un logement parfait pour les célibataires ou les couples!
