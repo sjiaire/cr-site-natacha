@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Available
+availability: Rented
 title: Kanombe View
 slug: 003-kanombe-view
 date: 2019-07-15T09:59:56.153Z
