@@ -26,7 +26,7 @@ wifi: 'Yes'
 washingmachine: 'Yes'
 closets: 'Yes'
 pets: 'No'
-parking: 6+
+parking: '2'
 security: 'Yes'
 minimumstay: 6 Months
 size: 120 sqm
