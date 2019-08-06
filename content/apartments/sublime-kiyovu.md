@@ -30,7 +30,7 @@ parking: '2'
 security: 'Yes'
 minimumstay: 1 Year
 size: 120 sqm
-price: '$ 2,000/month'
+price: '$ 1,800/month'
 ---
 {{< gallery >}} 
 
