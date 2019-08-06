@@ -25,7 +25,7 @@ tv: 'No'
 wifi: 'No'
 washingmachine: 'No'
 closets: 'Yes'
-pets: 'No'
+pets: 'Yes'
 parking: '2'
 security: 'No'
 minimumstay: 1 Year
