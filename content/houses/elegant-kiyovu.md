@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Available
+availability: Rented
 title: Elegant Kiyovu
 slug: 074-elegant-kiyovu
 date: 2019-05-30T11:03:33.350Z
