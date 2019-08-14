@@ -62,18 +62,22 @@ price: $ 700/month
 
 **Furnished 4 Bedroom House for rent - Gikondo**
 
-Stay in this welcoming 4 bedroom furnished house located in the authentic area of Gikondo. Gikondo is a lively neighborhood with several shops, bars and restaurants. It is easily accessible from town with motos and buses. The house is located a couple steps away from the paved road. 
+Stay in this cosy 4 bedroom furnished house located in the authentic area of Gikondo. Gikondo is a lively neighborhood easily accessible from the city center and Remera area. This house is conveniently located a few steps away from moto and bus stops. 
 
-This house has spacious living room and dining room. Its kitchen is wide cabinets and is equipped with a stove and fridge. The house has 4 comfortable bedrooms newly furnished as well as 2 bathrooms including an ensuite master bedroom with a bathtub. 
+This authentic residence has a welcoming living room with TV open to a dining room next to  its large equipped kitchen. It has 4 comfortable bedrooms including an en suite master bedroom with a bathtub. 
 
-In addition, the house has a wide compound with parking space and a large front terrace. 
+Outdoor, it has a wide parking space and a large front terrace. 
+
+This house makes you feel at home!
 
 - - -
 
 **Maison meublée de 4 chambres à louer - Gikondo**
 
-Séjournez dans cette confortable maison meublée de 4 chambres à coucher située dans le quartier authentique de Gikondo. Gikondo est un quartier vivant avec plusieurs magasins, restaurants et bars facilement accessible de ville en moto ou en bus. La maison est à quelques pas de la route pavée.
+Séjournez dans cette maison meublée confortable de 4 chambres située dans le quartier authentique de Gikondo. Gikondo est un quartier animé facilement accessible du centre-ville et de Remera. Cette maison est idéalement située à quelques pas des transports en commun.
 
-Cette maison a une salle de séjour et une salle à manger spacieuse. Sa grande cuisine est équipée d'armoires, d’une cuisinière à gaz ainsi que d'un réfrigérateur. La maison a 4 chambres à coucher confortables nouvellement meublées et 2 salles de bains. La suite principale dispose d’une baignoire. 
+Cette résidence authentique dispose d’un salon accueillant avec une TV ouvert sur sa salle à manger à côté de sa grande cuisine équipée. Elle dispose de 4 chambres confortables dont une chambre principale avec une baignoire.
 
-De plus, la maison a un espace extérieur avec plusieurs places de parking et une grande terrasse.
+A l’extérieur, Il y a un grand parking et une grande terrasse.
+
+On s’y sent chez soi !
