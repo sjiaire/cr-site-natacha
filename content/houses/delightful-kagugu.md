@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Available
+availability: Rented
 title: Delightful Kagugu
 slug: 095-delightful-kagugu
 date: 2019-07-30T07:15:22.953Z
