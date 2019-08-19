@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Available
+availability: Rented
 title: Gishushu Store
 slug: 094-gishushu-store
 date: 2019-08-01T09:48:57.528Z
