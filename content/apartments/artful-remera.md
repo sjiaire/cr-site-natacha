@@ -82,7 +82,7 @@ It is a perfect home for singles or couples!
 
 Séjournez dans cet appartement meublé accueillant de 3 chambres situé dans le quartier résidentiel de Remera à proximité du supermarché Sawa Citi. Remera est un quartier animé avec plusieurs magasins, restaurants, banques et autres commodités. L’appartement est au premier étage d’un immeuble de 4 unités.
 
-Cette unité colorée a joli salon et une salle à manger ouvrant sur une grande terrasse avec une vue dégagée. Elle dispose d’une grande cuisine équipée avec un autre balcon spacieux et de 3 chambres dont une grande suite avec une baignoire.
+Cette unité colorée a un joli salon et une salle à manger ouvrant sur une grande terrasse avec une vue dégagée. Elle dispose d’une grande cuisine équipée avec un autre balcon spacieux et de 3 chambres dont une grande suite avec une baignoire.
 
 A l’extérieur, l’appartement est niché dans un beau jardin sauvage et verdoyant et dispose d’un parking. En plus, il y a une connexion Wi-Fi haute débit ainsi qu’un service de sécurité 24h/24.
 
