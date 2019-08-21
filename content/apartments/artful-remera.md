@@ -68,11 +68,11 @@ price: $ 700/month
 
 **Furnished 3 Bedroom Apartment for Rent - Remera**
 
-Stay in this amazing 3-bedroom furnished apartment in the residential neighborhood of Remera. Remera is strategically located nearby the Kisimenti hub in walking distance from Sawa Citi supermarket, Chez Lando Hotel and several other shops. 
+Stay in this welcoming 3-bedroom furnished apartment located in the residential neighborhood of Remera in walking distance from Sawa Citi Supermarket. Remera is a lively neighborhood with several shops, restaurants, banks and other amenities. The apartment is on the first floor of a 4-units building.
 
-This artful unit is nested on the first floor of a 4 units building and is surrounded with wild nature. Its welcoming living room opens to a large terrace with an amazing hill view. It also has 3 comfortable bedrooms with wardrobes, an equipped kitchen and a pretty dining room. 
+This artful unit has pretty living and dining room opening to a large terrace with open hill view. It has a wide equipped kitchen with another spacious balcony and 3 bedrooms including a large master en suite with a bath tub. 
 
-In addition, it has high speed Wi-Fi and shared outdoor space including parking and garden. Rent includes services of a 24⁄7 guard.
+Outdoor, the apartment is nested in a wild mature garden and has a shared parking space. In addition, there is high-speed Wi-Fi and 24/7 security service. 
 
 It is a perfect home for singles or couples!
 
@@ -80,13 +80,10 @@ It is a perfect home for singles or couples!
 
 **Appartement meublé 3 chambres à louer - Remera**
 
-Séjournez dans ce magnifique appartement meublé de 3 chambres dans le quartier résidentiel de Remera. Remera est stratégiquement situé à proximité de Kisimenti, à quelques minutes à pied du supermarché Sawa Citi, de l’hôtel Chez Lando et de plusieurs autres magasins.
+Séjournez dans cet appartement meublé accueillant de 3 chambres situé dans le quartier résidentiel de Remera à proximité du supermarché Sawa Citi. Remera est un quartier animé avec plusieurs magasins, restaurants, banques et autres commodités. L’appartement est au premier étage d’un immeuble de 4 unités.
 
-Cette unité colorée située au premier étage d’un bâtiment de 4 appartements est entourée d’une nature abondante. Son salon accueillant a une grande terrasse offrant une vue magnifique sur les collines. L’appartement dispose de 3 chambres confortables avec garde-robes, d’une cuisine équipée et d’une agréable salle à manger.
+Cette unité colorée a joli salon et une salle à manger ouvrant sur une grande terrasse avec une vue dégagée. Elle dispose d’une grande cuisine équipée avec un autre balcon spacieux et de 3 chambres dont une grande suite avec une baignoire.
 
-De plus, elle a une connexion Wi-Fi haute vitesse et un espace extérieur commun dont un parking et un jardin. Le loyer inclut les services d’un gardien permanent.
+A l’extérieur, l’appartement est niché dans un beau jardin sauvage et verdoyant et dispose d’un parking. En plus, il y a une connexion Wi-Fi haute débit ainsi qu’un service de sécurité 24h/24.
 
 C’est un logement parfait pour les célibataires ou les couples!
-
-
-
