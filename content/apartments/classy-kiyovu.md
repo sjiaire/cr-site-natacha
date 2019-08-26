@@ -1,7 +1,7 @@
 ---
 property: Apartment
 type: ''
-availability: Available
+availability: Rented
 title: Classy Kiyovu
 slug: 104-classy-kiyovu
 date: 2019-07-30T08:50:59.114Z
