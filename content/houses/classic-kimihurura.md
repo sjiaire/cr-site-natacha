@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Available
+availability: Rented
 title: Classic Kimihurura
 slug: 080-classic-kimihurura
 date: 2019-06-03T13:12:45.673Z
