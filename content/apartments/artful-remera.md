@@ -1,7 +1,7 @@
 ---
 property: Apartment
 type: ''
-availability: Available
+availability: Rented
 title: Artful Remera
 slug: 108-artful-remera
 date: 2019-07-30T08:50:59.114Z
