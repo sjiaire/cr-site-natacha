@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Available
+availability: Rented
 title: Restful Kacyiru
 slug: 106-restful-kacyiru
 date: 2019-08-08T08:38:44.334Z
