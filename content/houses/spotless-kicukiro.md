@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Available
+availability: Rented
 title: Spotless Kicukiro
 slug: 059-spotless-kicukiro
 date: 2019-07-18T06:34:42.338Z
