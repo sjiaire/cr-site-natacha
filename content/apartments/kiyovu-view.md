@@ -1,7 +1,7 @@
 ---
 property: Apartment
 type: ''
-availability: Available
+availability: Rented
 title: Kiyovu View
 slug: 056-kiyovu-view
 date: 2019-07-12T09:47:02.259Z
