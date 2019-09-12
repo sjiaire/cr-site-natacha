@@ -67,7 +67,7 @@ price: $ 800/month
 
 Stay in this airy 3-bedroom apartment located on the ground floor of a chic mansion in the residential area of Kiyovu. Kiyovu is a green area nearby the city center with several shops, restaurants and schools around.
 
-This quiet residence is newly refurbished with modern finishing. It has vast living and dining rooms bathed with natural light. Its kitchen is conveniently equipped with cabinets and a stove with oven.  It has 3 spacious bedrooms including an en suite with a shower. Other bedrooms share a bathroom with a bath tub. 
+This quiet residence is newly refurbished with modern finishing. It has vast living and dining rooms bathed with natural light. Its kitchen is conveniently equipped with cabinets and a gas cooker.  It has 3 spacious bedrooms including an en suite with a shower. Other bedrooms share a bathroom with a bath tub. 
 
 Outdoor, it has staff quarters, a spacious parking and a pleasant back garden. In addition, there is a 24/7 security service.
 
@@ -79,8 +79,8 @@ This apartment is perfect for couples or small families!
 
 Séjournez dans cet appartement spacieux de 3 chambres situé au rez-de-chaussée d’une villa chic dans le quartier résidentiel de Kiyovu. Kiyovu est une zone verte à proximité du centre-ville à proximité de plusieurs magasins, restaurants et écoles.
 
-Cette résidence calme est récemment rénovée avec des finitions modernes. Elle dispose d’un vaste salon et d’une salle à manger très lumineux. Sa cuisine est équipée avec beaucoup de rangement et d’une cuisinière. Elle dispose de 3 chambres spacieuses dont une salle de bains privative avec douche. Les autres chambres partagent une salle de bains avec une baignoire.
+Cette résidence calme est récemment rénovée avec des finitions modernes. Elle dispose d’un vaste salon et d’une salle à manger très lumineux. Sa cuisine est équipée de rangements et d’une cuisinière. Elle dispose de 3 chambres spacieuses dont une suite qui dispose d’une salle de bains privative avec une douche. Les autres chambres partagent une salle de bains avec une baignoire.
 
-À l’extérieur, il y a une annexe, un parking spacieux et d’un agréable jardin. En plus, un service de sécurité 24h/24 est disponible.
+À l’extérieur, il y a une annexe, un parking spacieux et un agréable jardin. En plus, un service de sécurité 24h/24 est disponible.
 
 Cet appartement est parfait pour les couples ou les petites familles!
