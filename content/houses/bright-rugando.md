@@ -67,7 +67,7 @@ Outdoor, there is a spacious terrace with an open view and a large garden. In ad
 
 It is a perfect family home!
 
-\- - - 
+- - - 
 
 **Maison meublée 4 chambres à louer – Rugando**
 
