@@ -8,7 +8,7 @@ date: 2019-10-11T08:29:30.813Z
 draft: false
 description: >-
   Stay in this gorgeous 4-bedroom furnished house located in the calm area of
-  Kagugu nearby Airtel Headquarters. Kagugu is a family-friendly residential
+  Kagugu nearby Airtel Data Center. Kagugu is a family-friendly residential
   neighborhood nearby Nyarutarama and Gisozi with easy access to shops and
   international schools.
 hidesidebar: true
@@ -64,11 +64,11 @@ price: '$ 1,200/month'
 
 Stay in this gorgeous 4-bedroom furnished house located in the calm area of Kagugu nearby Airtel Headquarters. Kagugu is a family-friendly residential neighborhood nearby Nyarutarama and Gisozi with easy access to shops and international schools.
 
-This charming semi-detached 2-storey residence is spacious and contemporary. On the ground floor, it has a comfortable living and dining room, a wide equipped kitchen and an ensuite guest bedroom. Upstairs, there are 3 beautiful en suite bedrooms with large closets and balconies.
+This charming semi-detached 2-storey residence is spacious and contemporary. On the ground floor, it has a comfortable living and dining room, a wide equipped kitchen and an es suite bedroom. Upstairs, there are 3 beautiful en suite bedrooms with large closets and balconies.
 
 Outdoor, there is a vast parking space with car port, staff quarters and a back garden.
 
-This house is available for short-term rental (up to 3 months). 
+This house makes you feel at home! 
 
 - - -
 
@@ -76,8 +76,8 @@ This house is available for short-term rental (up to 3 months).
 
 Séjournez dans cette magnifique maison meublée de 4 chambres située dans le quartier calme de Kagugu à quelques minutes de distance du bureau d’Airtel. Kagugu est un quartier résidentiel familial à proximité de Nyarutarama et Gisozi avec un accès facile aux magasins et écoles internationales.
 
-Cette charmante résidence jumelée de 2 étages est spacieuse et contemporaine. Au rez-de-chaussée, elle dispose d’un salon confortable et salle à manger, d’une grande cuisine équipée, et une suite d’hôte. A l’étage, il y a 3 belles suites avec grands placards et balcons.
+Cette charmante résidence jumelée de 2 étages est spacieuse et contemporaine. Au rez-de-chaussée, elle dispose d’un salon confortable et salle à manger, d’une grande cuisine équipée, et d’une chambre avec salle de bains. A l’étage, il y a 3 belles suites avec grands placards et balcons.
 
-À l’extérieur, il y a un vaste parking couvert, des annexes, et un jardin en arrière.
+À l’extérieur, il y a un vaste parking couvert, des annexes, et un jardin à l’arrière.
 
-Cette maison est disponible pour location à court terme (jusqu’à 3 mois).
+On s’y sent chez soi !
