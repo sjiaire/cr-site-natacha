@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Available
+availability: Rented
 title: Beautiful Kibagabaga
 slug: 103-beautiful-kibagabaga
 date: 2019-07-25T08:28:37.791Z
