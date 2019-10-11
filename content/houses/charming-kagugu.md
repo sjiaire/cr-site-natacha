@@ -62,9 +62,9 @@ price: '$ 1,200/month'
 
 **Furnished 4 Bedroom House for Rent - Kagugu**
 
-Stay in this gorgeous 4-bedroom furnished house located in the calm area of Kagugu nearby Airtel Headquarters. Kagugu is a family-friendly residential neighborhood nearby Nyarutarama and Gisozi with easy access to shops and international schools.
+Stay in this gorgeous 4-bedroom furnished house located in the calm area of Kagugu nearby Airtel Data Center. Kagugu is a family-friendly residential neighborhood nearby Nyarutarama and Gisozi with easy access to shops and international schools.
 
-This charming semi-detached 2-storey residence is spacious and contemporary. On the ground floor, it has a comfortable living and dining room, a wide equipped kitchen and an es suite bedroom. Upstairs, there are 3 beautiful en suite bedrooms with large closets and balconies.
+This charming semi-detached 2-storey residence is spacious and contemporary. On the ground floor, it has a comfortable living and dining room, a wide equipped kitchen and an ensuite bedroom. Upstairs, there are 3 beautiful en suite bedrooms with large closets and balconies.
 
 Outdoor, there is a vast parking space with car port, staff quarters and a back garden.
 
