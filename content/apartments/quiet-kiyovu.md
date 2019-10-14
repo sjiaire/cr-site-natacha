@@ -1,7 +1,7 @@
 ---
 property: Apartment
 type: ''
-availability: Available
+availability: Rented
 title: Quiet Kiyovu
 slug: 072-quiet-kiyovu
 date: 2019-09-12T07:01:46.197Z
