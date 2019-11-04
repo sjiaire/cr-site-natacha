@@ -69,7 +69,7 @@ Stay in this remarkable 5-bedroom house centrally located in the leafy and tranq
 
 This prestigious 2-storey residence is vast and airy. On the ground floor, it has bright lounge and dining areas, a spacious high-end kitchen as well as an en suite bedroom. Upstairs, it has another lounge with a large balcony with amazing views and 4 en suite bedrooms including a large master en suite with a walk-in closet and a bathtub! 
 
-Outdoor, there is beautiful garden safe for kids, outdoor parking space and a garage. In addition, it has a vast backyard with a vegetable garden and several staff quarters. 
+Outdoor, there is a beautiful garden safe for kids, outdoor parking space and a garage. In addition, it has a vast backyard with a vegetable garden and several staff quarters. 
 
 This home is a must-see!
 
