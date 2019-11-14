@@ -52,9 +52,9 @@ price: '$ 3,000/month'
 
 {{< figure src="/images/uploads/113-09.jpg" >}} 
 
-{{< figure src="/images/uploads/113-10.jpg" >}}
+{{< figure src="/images/uploads/113-10.png" >}}
 
- {{< figure src="/images/uploads/113-11.jpg" >}} 
+ {{< figure src="/images/uploads/113-11.png" >}} 
 
 {{< figure src="/images/uploads/113-12.jpg" >}}
 
