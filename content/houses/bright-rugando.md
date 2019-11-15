@@ -53,6 +53,8 @@ price: '$ 1,200/month'
 
 {{< figure src="/images/uploads/110-10.jpg" >}}
 
+{{< figure src="/images/uploads/110-11.jpg" >}}
+
 {{< /gallery >}}
 
 {{< load-photoswipe >}}
