@@ -70,7 +70,7 @@ price: '$ 3,000/month'
 
 Stay in this luxurious 5-bedroom furnished house located in the exclusive area of Gacuriro nearby Airtel Data Center. Gacuriro is a quiet residential neighborhood with lots of parks and beautiful views conveniently located nearby Gisozi, Nyarutarama and most international schools.
 
-This private 2-storey mansion is very bright. On the ground floor, it has a vast lounge opening to its large patio, a dining room next to its wide equipped kitchen and an en suite bedroom. Upstairs, it has another lounge and 4 large en suite bedrooms with balconies. In addition, its master en suite bedroom has a bath tub and a walk-in closet! 
+This private 2-storey mansion is very bright. On the ground floor, it has a vast lounge opening to its patio, a dining room next to its wide equipped kitchen and 2 en suite bedrooms. Upstairs, it has another lounge and 3 beautiful en suite bedrooms with balconies. In addition, its master en suite bedroom has a bath tub and a walk-in closet! 
 
 Outdoor, there is a large patio with wonderful views, a huge garden and spacious staff quarters in the back.
 
@@ -82,7 +82,7 @@ This is a welcoming family home!
 
 Séjournez dans cette luxueuse maison meublée de 5 chambres située dans le quartier exclusif de Gacuriro. Gacuriro est un quartier résidentiel calme avec beaucoup de parcs et de belles vues idéalement situé à proximité de Gisozi, Nyarutarama et de la plupart des écoles internationales. 
 
-Cette villa privée de 2 étages est très lumineuse. Au rez-de-chaussée, elle dispose d’un vaste salon ouvrant sur son grand patio, d’une salle à manger à côté de sa grande cuisine équipée et d’une chambre avec salle de bains privative. A l’étage, elle a un autre salon et de 4 grandes chambres autonomes avec balcons. En plus, sa suite principale dispose d’une baignoire et d’un dressing! 
+Cette villa privée de 2 étages est très lumineuse. Au rez-de-chaussée, elle dispose d’un vaste salon ouvrant sur son patio, d’une salle à manger à côté de sa grande cuisine équipée et de 2 chambres avec salles de bains privatives. A l’étage, elle a un autre salon et 3 grandes chambres autonomes avec balcons. En plus, sa suite principale dispose d’une baignoire et d’un dressing! 
 
 A l’extérieur, il y a un grand patio avec une vue magnifique, un immense jardin et des annexes spacieuses à l’arrière. 
 
