@@ -82,7 +82,7 @@ This is a welcoming family home!
 
 Séjournez dans cette luxueuse maison meublée de 5 chambres située dans le quartier exclusif de Gacuriro. Gacuriro est un quartier résidentiel calme avec beaucoup de parcs et de belles vues idéalement situé à proximité de Gisozi, Nyarutarama et de la plupart des écoles internationales. 
 
-Cette villa privée de 2 étages est très lumineuse. Au rez-de-chaussée, elle dispose d’un vaste salon ouvrant sur son patio, d’une salle à manger à côté de sa grande cuisine équipée et de 2 chambres avec salles de bains privatives. A l’étage, elle a un autre salon et 3 grandes chambres autonomes avec balcons. En plus, sa suite principale dispose d’une baignoire et d’un dressing! 
+Cette villa privée de 2 étages est très lumineuse. Au rez-de-chaussée, elle dispose d’un vaste salon ouvrant sur son patio, d’une salle à manger à côté de sa grande cuisine équipée et de 2 chambres avec salles de bains privatives. A l’étage, elle a un autre salon et 3 belles chambres autonomes avec balcons. En plus, sa suite principale dispose d’une baignoire et d’un dressing! 
 
 A l’extérieur, il y a un grand patio avec une vue magnifique, un immense jardin et des annexes spacieuses à l’arrière. 
 
