@@ -76,7 +76,8 @@ This splendid residence is cosy and airy. It has a beautiful lounge and a spacio
 Outdoor, there is a wide terrace overlooking its amazing garden and enjoying a stunning view. It also has a large bar, a barbecue corner, parking space and staff quarters.
 
 It is a perfect family-home!
-- - - 
+
+- - -
 
 **Maison meublée 3 chambres à louer - Kiyovu**
 
