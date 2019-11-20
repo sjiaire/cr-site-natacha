@@ -2,7 +2,7 @@
 property: House
 type: ''
 availability: Available
-title: Splendide Kiyovu
+title: Splendid Kiyovu
 slug: 064-splendide-kiyovu
 date: 2019-11-20T15:50:37.923Z
 draft: false
