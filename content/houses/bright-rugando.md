@@ -31,6 +31,32 @@ minimumstay: 1 Year
 size: __
 price: '$ 1,200/month'
 ---
+{{< gallery >}} 
+
+{{< figure src="/images/uploads/110-01.jpg" >}} 
+
+{{< figure src="/images/uploads/110-02.jpg" >}}
+
+ {{< figure src="/images/uploads/110-03.jpg" >}} 
+
+{{< figure src="/images/uploads/110-04.jpg" >}}
+
+{{< figure src="/images/uploads/110-05.jpg" >}}
+
+ {{< figure src="/images/uploads/110-06.jpg" >}}
+
+ {{< figure src="/images/uploads/110-07.jpg" >}}
+
+ {{< figure src="/images/uploads/110-08.jpg" >}}
+
+{{< figure src="/images/uploads/110-09.jpg" >}} 
+
+{{< figure src="/images/uploads/110-10.jpg" >}}
+
+ {{< figure src="/images/uploads/110-11.jpg" >}} 
+
+ {{< /gallery >}} {{< load-photoswipe >}}
+
 Furnished 4 Bedroom House for Rent – Rugando
 
 Stay in this charming 4-bedroom furnished house located in the residential area of Rugando. Rugando is a calm and leafy neighborhood conveniently located nearby Kacyiru business area, Nyarutarama and international schools.
@@ -40,7 +66,8 @@ This bright residence is newly refurbished. Its cosy lounge opens to a classic d
 Outdoor, there is a spacious terrace with an open view and a large garden. In addition, it has a vast parking space and staff quarters. 
 
 It is a perfect family home!
-- - - 
+
+- - -
 
 Maison meublée 4 chambres à louer – Rugando
 
