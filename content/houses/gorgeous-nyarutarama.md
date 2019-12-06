@@ -61,8 +61,6 @@ price: '$ 2,500/month'
 
 {{< figure src="/images/uploads/114-14.jpg" >}}
 
-{{< figure src="/images/uploads/114-15.jpg" >}}
-
  {{< /gallery >}} {{< load-photoswipe >}}
 
 **Furnished 4 Bedroom House for Rent - Nyarutarama**
