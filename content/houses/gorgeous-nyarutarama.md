@@ -21,7 +21,7 @@ sleeps: 6+
 garden: 'Yes'
 maid: 'No'
 tv: 'Yes'
-wifi: 'No'
+wifi: 'Yes'
 washingmachine: 'No'
 closets: 'Yes'
 pets: 'Yes'
@@ -83,9 +83,9 @@ It is an amazing family home!
 
 Séjournez dans cette belle maison meublée de 4 chambres située dans le quartier exclusif de Nyarutarama à proximité de l’hôtel Manor. Nyarutarama est un quartier calme et chic avec plusieurs écoles internationales, bars et restaurants.
 
-Cette magnifique résidence est fraîche et aérée à l’intérieur comme à l’extérieur. Son séjour et sa salle à manger colorés s’ouvre sur sa magnifique cuisine entièrement équipée. Elle a 3 chambres à coucher confortables, 3 salles de bains et d’un bureau. Sa charmante suite principale dispose d’une douche privée et d’un dressing !
+Cette magnifique résidence est fraîche et aérée à l’intérieur comme à l’extérieur. Son séjour et sa salle à manger colorés s’ouvrent sur sa magnifique cuisine entièrement équipée. Elle a 3 chambres à coucher confortables, 3 salles de bains et un bureau. Sa charmante suite principale dispose d’une douche privée et d’un dressing !
 
-A l’extérieur, sa grande terrasse qui surplombe le lac du golf et offre une vue dégagée sur la ville. En plus, il y a un jardin verdoyant, un grand parking avec une partie couverte ainsi que des annexes.  
+A l’extérieur, sa grande terrasse surplombe le lac du golf et offre une vue dégagée sur la ville. En plus, elle a un jardin verdoyant, un grand parking avec une partie couverte ainsi que des annexes.  
 
 Loyer non meublé : 2,000 $/mois
 
