@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Available
+availability: Rented
 title: Splendid Kiyovu
 slug: 064-splendid-kiyovu
 date: 2019-11-20T15:50:37.923Z
