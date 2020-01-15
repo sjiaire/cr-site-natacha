@@ -64,7 +64,7 @@ It’s a perfect home for single, couples and small families!
 
 - - -
 
-**Appartement semi-meublé à 2 chambres à louer - Nyarutarama**
+**Appartement Semi-Meublé à 2 Chambres à Louer - Nyarutarama**
 
 Séjournez dans ce confortable appartement semi-meublé de 2 chambres situé au rez-de-chaussée, dans le quartier clôturé du DND de Nyarutarama, à proximité de Green Hills Academy. Nyarutarama est un quartier calme et familial avec plusieurs écoles, restaurants et activités récréatives.
 
