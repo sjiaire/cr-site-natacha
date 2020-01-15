@@ -58,7 +58,7 @@ Stay in this cosy 2-bedroom semi-furnished apartment which is on the ground floo
 
 This beautiful apartment is airy and bright. It has a welcoming living rom and dining room opening to an equipped kitchen. It has 2 bedrooms including an ensuite master bedroom with a bathtub and a balcony.
 
-Outdoor, there is[](<>) a parking space.
+Outdoor, there is a parking space.
 
 It’s a perfect home for single, couples and small families!
 
