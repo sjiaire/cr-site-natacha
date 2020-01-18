@@ -52,8 +52,7 @@ price: $ 600/month
 
 {{< /gallery >}} {{< load-photoswipe >}}
 
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Grid 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Grid 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Grid 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Grid 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Table Grid 4"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Table Grid 5"/>
@@ -386,7 +385,7 @@ price: $ 600/month
  </w:LatentStyles>
 </xml><!\\[endif]-->
 
-<!--\\\\\[if gte mso 10]>
+<!--\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
 table.MsoNormalTable
@@ -405,7 +404,7 @@ table.MsoNormalTable
 	mso-ansi-language:EN-US;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\\[endif]-->
+<!\\\\\\[endif]-->
 
 <!--StartFragment-->
 
