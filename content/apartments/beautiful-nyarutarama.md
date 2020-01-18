@@ -5,11 +5,11 @@ availability: Available
 title: Beautiful Nyarutarama
 slug: 117-beautiful-nyarutarama
 date: 2020-01-15T10:48:59.641Z
-description: "Stay in this cosy 2-bedroom semi-furnished apartment which is on the ground floor, located in the DND gated estate of Nyarutarama nearby Green Hills Academy. Nyarutarama is a calm and family-friendly neighbourhood with several schools, restaurants and recreational activities in walking distance. \L"
+description: "Stay in this cosy 2-bedroom furnished apartment located in the exclusive neighbourhood of Nyarutarama nearby Cali Fitness.\_Nyarutarama is a calm and family-friendly neighbourhood with several schools, restaurants and recreational activities. The apartment is on the ground floor of a brand new apartment building."
 draft: false
 hidesidebar: true
-thumbnail: /images/uploads/117-01.jpg
-image: /images/uploads/117-01.jpg
+thumbnail: /images/uploads/117-01.JPG
+image: /images/uploads/117-02.jpg
 location: Nyarutarama
 bedrooms: '2'
 baths: '2'
@@ -24,7 +24,7 @@ closets: 'Yes'
 pets: 'No'
 parking: '2'
 security: 'Yes'
-minimumstay: 1 Year
+minimumstay: 6 Months
 size: __
 price: $ 600/month
 ---
@@ -52,24 +52,24 @@ price: $ 600/month
 
 {{< /gallery >}} {{< load-photoswipe >}}
 
-**Semi-Furnished 2 Bedroom Apartment for Rent - Nyarutarama**
+**Furnished 2 Bedroom Apartment for Rent - Nyarutarama**
 
-Stay in this cosy 2-bedroom semi-furnished apartment which is on the ground floor, located in the DND gated estate of Nyarutarama nearby Green Hills Academy. Nyarutarama is a calm and family-friendly neighbourhood with several schools, restaurants and recreational activities in walking distance.
+Stay in this cosy 2-bedroom furnished apartment located in the exclusive neighbourhood of Nyarutarama nearby Cali Fitness. Nyarutarama is a calm and family-friendly neighbourhood with several schools, restaurants and recreational activities.The apartment is on the ground floor of a brand new apartment building.
 
-This beautiful apartment is airy and bright. It has a welcoming living rom and dining room opening to an equipped kitchen. It has 2 bedrooms including an ensuite master bedroom with a bathtub and a balcony.
+This beautiful apartment is airy and bright. It has welcoming lounge, a functional equipped kitchen and 2 bedrooms including an master en suite bedroom with a bathtub and a balcony.
 
-Outdoor, there is a parking space.
+Outdoor, there is shared back yard and parking space.
 
-It’s a perfect home for single, couples and small families!
+It’s a perfect home for singles and couples!
 
-- - -
+- - - 
 
-**Appartement semi-meublé à 2 chambres à louer - Nyarutarama**
+**Appartement meublé à 2 chambres à louer - Nyarutarama**
 
-Séjournez dans ce confortable appartement semi-meublé de 2 chambres situé au rez-de-chaussée, dans le quartier clôturé du DND de Nyarutarama, à proximité de Green Hills Academy. Nyarutarama est un quartier calme et familial avec plusieurs écoles, restaurants et activités récréatives.
+Séjournez dans ce confortable appartement meublé de 2 chambres situé dans le quartier exclusif de Nyarutarama à proximité Cali Fitness. Nyarutarama est un quartier calme et familial avec plusieurs écoles, restaurants et activités récréatives. L’appartement se trouve au rez-de-chaussée d’un immeuble neuf.
 
-Ce bel appartement est aéré et lumineux. Il dispose d'un salon et d'une salle à manger accueillants ouvrant sur une cuisine équipée. Il dispose de 2 chambres dont une suite principale avec baignoire et balcon.
+Ce bel appartement est spacieux et lumineux. Il dispose d’un salon accueillant, d’une cuisine équipée fonctionnelle et de 2 chambres dont une suite principale avec baignoire et balcon.
 
-A l'extérieur, il y a une place de parking.
+A l’extérieur, il dispose d’un petit jardin et d’un parking partagé.
 
-C'est un foyer parfait pour les célibataires, les couples et les petites familles!
+C’est un logement idéal pour un célibataire ou un couple !
