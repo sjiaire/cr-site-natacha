@@ -29,7 +29,7 @@ parking: '4'
 security: 'Yes'
 minimumstay: 1 Year
 size: __
-price: '$ 2,250/month'
+price: '$ 2,000/month'
 ---
 {{< gallery >}} 
 
@@ -65,13 +65,11 @@ price: '$ 2,250/month'
 
 **Furnished 4 Bedroom House for Rent - Nyarutarama**
 
-Stay in this beautiful 4-bedroom furnished house located in the exclusive area of Nyarutarama nearby the Manor Hotel. Nyarutarama is a calm and fancy area with several international schools, bars and restaurants. 
+Stay in this beautiful 4-bedroom furnished house located in the exclusive area of Nyarutarama nearby the Manor Hotel. Nyarutarama is a calm and fancy area with several international schools, bars and restaurants.
 
-This gorgeous residence is fresh and airy indoor and outdoor. Its wide open floor plan with colorful living and dining rooms opens to its stunning fully-equipped kitchen. It has 3 cosy bedrooms, 3 bathrooms and a study. Its charming master en suite has private shower and walk-in closet!
+This gorgeous residence is fresh and airy indoor and outdoor. Its wide open floor plan with colorful living and dining rooms open to a stunning fully-equipped kitchen. It has 4 cosy bedrooms and 3 bathrooms including charming master en suite with a walk-in closet!
 
-Outdoor, there is a vast terrace overlooking the Golf course lake and offering an open view to the city. In addition, it has a mature garden, staff quarters and a wide parking space with carport. 
-
-Unfurnished rental rate: $ 2,000/month
+Outdoor, there is a vast terrace overlooking the Golf course lake and offering an open city view. In addition, it has a mature garden, staff quarters and a wide parking space with carport.
 
 It is an amazing family home!
 
@@ -81,10 +79,8 @@ It is an amazing family home!
 
 Séjournez dans cette belle maison meublée de 4 chambres située dans le quartier exclusif de Nyarutarama à proximité de l’hôtel Manor. Nyarutarama est un quartier calme et chic avec plusieurs écoles internationales, bars et restaurants.
 
-Cette magnifique résidence est fraîche et aérée à l’intérieur comme à l’extérieur. Son séjour et sa salle à manger colorés s’ouvrent sur sa magnifique cuisine entièrement équipée. Elle a 3 chambres à coucher confortables, 3 salles de bains et un bureau. Sa charmante suite principale dispose d’une douche privée et d’un dressing !
+Cette magnifique résidence est fraîche et aérée à l’intérieur comme à l’extérieur. Son séjour et sa salle à manger colorés s’ouvrent sur sa magnifique cuisine entièrement équipée. Elle a 4 chambres à coucher confortables et 3 salles de bains dont une charmante suite principale disposant d’un dressing !
 
-A l’extérieur, sa grande terrasse surplombe le lac du golf et offre une vue dégagée sur la ville. En plus, elle a un jardin verdoyant, un grand parking avec une partie couverte ainsi que des annexes.  
-
-Loyer non meublé : 2,000 $/mois
+A l’extérieur, sa grande terrasse surplombe le lac du golf et offre une vue dégagée sur la ville. En plus, elle a un jardin verdoyant, un grand parking avec une partie couverte ainsi que des annexes. 
 
 C’est une maison familiale incroyable !
