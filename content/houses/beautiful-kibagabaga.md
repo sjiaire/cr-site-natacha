@@ -86,4 +86,4 @@ Cette résidence moderne de deux étages bénéficie d’une lumière naturelle 
 
 A l’extérieur, elle dispose d’un joli patio et d’un jardin coloré. En plus, la résidence dispose de jardins communs pour les résidents.
 
-Cet environnement calme en fait une maison accueillante pour les célibataires, les couples ou les petites familles.[](<>)
+Cet environnement calme en fait une maison accueillante pour les célibataires, les couples ou les petites familles.
