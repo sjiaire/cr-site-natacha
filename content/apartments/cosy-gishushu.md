@@ -31,7 +31,7 @@ minimumstay: 1 Month
 size: __
 price: $ 800/month
 ---
-{< gallery >}}
+{{< gallery >}}
 
 {{< figure src="/images/uploads/025-01.jpg" >}}
 
@@ -57,7 +57,9 @@ price: $ 800/month
 
 {{< figure src="/images/uploads/025-12.jpg" >}}
 
-{{< /gallery >}} {{< load-photoswipe >}}
+{{< /gallery >}} 
+
+{{< load-photoswipe >}}
 
 **Furnished 1 Bedroom Apartment for Rent - Gishushu**
 
