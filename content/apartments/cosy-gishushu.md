@@ -33,29 +33,29 @@ price: $ 800/month
 ---
 {< gallery >}}
 
-{{< figure src="/images/uploads/117-01.jpg" >}}
+{{< figure src="/images/uploads/25-01.jpg" >}}
 
-{{< figure src="/images/uploads/117-02.jpg" >}}
+{{< figure src="/images/uploads/25-02.jpg" >}}
 
-{{< figure src="/images/uploads/117-03.jpg" >}}
+{{< figure src="/images/uploads/25-03.jpg" >}}
 
-{{< figure src="/images/uploads/117-04.jpg" >}}
+{{< figure src="/images/uploads/25-04.jpg" >}}
 
-{{< figure src="/images/uploads/117-05.jpg" >}}
+{{< figure src="/images/uploads/25-05.jpg" >}}
 
-{{< figure src="/images/uploads/117-06.jpg" >}}
+{{< figure src="/images/uploads/25-06.jpg" >}}
 
-{{< figure src="/images/uploads/117-07.jpg" >}}
+{{< figure src="/images/uploads/25-07.jpg" >}}
 
-{{< figure src="/images/uploads/117-08.jpg" >}}
+{{< figure src="/images/uploads/25-08.jpg" >}}
 
-{{< figure src="/images/uploads/117-09.jpg" >}}
+{{< figure src="/images/uploads/25-09.jpg" >}}
 
-{{< figure src="/images/uploads/117-10.jpg" >}}
+{{< figure src="/images/uploads/25-10.jpg" >}}
 
-{{< figure src="/images/uploads/117-11.jpg" >}}
+{{< figure src="/images/uploads/25-11.jpg" >}}
 
-{{< figure src="/images/uploads/117-12.jpg" >}}
+{{< figure src="/images/uploads/25-12.jpg" >}}
 
 {{< /gallery >}} {{< load-photoswipe >}}
 
