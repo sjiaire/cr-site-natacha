@@ -3,7 +3,7 @@ property: Apartment
 type: ''
 availability: Available
 title: Cosy Gishushu
-slug: 025-cosy-gishushu
+slug: 025-cosy-gishushul
 date: 2020-01-31T08:21:35.013Z
 description: >-
   Stay in this beautiful 1-bedroom furnished apartment located on the second
