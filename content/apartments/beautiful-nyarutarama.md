@@ -3,7 +3,7 @@ property: Apartment
 type: ''
 availability: Available
 title: Beautiful Nyarutarama
-slug: 117-beautiful-nyarutaramaas
+slug: 117-beautiful-nyarutarama
 date: 2020-01-15T10:48:59.641Z
 description: "Stay in this cosy 2-bedroom furnished apartment located in the exclusive neighbourhood of Nyarutarama nearby Cali Fitness.\_Nyarutarama is a calm and family-friendly neighbourhood with several schools, restaurants and recreational activities. The apartment is on the ground floor of a brand new apartment building."
 draft: false
