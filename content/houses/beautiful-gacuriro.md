@@ -85,7 +85,7 @@ Séjournez dans cette élégante maison meublée de 3 chambres dans un quartier 
 
 Cette belle résidence dispose d’un salon spacieux avec télévision à écran plat ouvrant sur sa magnifique salle à manger et sa cuisine américaine équipée d’appareils électroménagers haut de gamme. Elle a 3 chambres accueillantes avec leur propre salle de bains baignées de lumière naturelle. Sa suite principale dispose d’un dressing et d’un balcon privé spacieux avec vue imprenable.
 
-À l’extérieur, il y a un jardin fleuri, [](<>)une annexe autonome et un garage. En plus, le quartier dispose de plusieurs lieux de rencontre pour les résidents : jardins publics, bungalows, terrains de jeux, etc.
+À l’extérieur, il y a un jardin fleuri, une annexe autonome et un garage. En plus, le quartier dispose de plusieurs lieux de rencontre pour les résidents : jardins publics, bungalows, terrains de jeux, etc.
 
 La télévision câblée et l’internet haut débit sont disponibles.
 
