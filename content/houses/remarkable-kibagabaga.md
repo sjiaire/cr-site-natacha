@@ -61,7 +61,7 @@ price: '$ 1,500/month'
 
 **4 Bedroom House for Rent - Kibagabaga**
 
-Stay in this classy 4-bedroom house located in the residential area of Kibagabaga nearby its Adventist Church. Kibagabaga is a modern residential neighbourhood withseveral schools, shops andclose to Kimironko Market.
+Stay in this classy 4-bedroom house located in the residential area of Kibagabaga nearby its Adventist Church. Kibagabaga is a modern residential neighbourhood withseveral schools, shops and close to Kimironko Market.
 
 This remarkable semi-detached 2-storey residence is brand-new and neatly finished. On the ground floor, it has a spacious lounge, a nice kitchen and an en suite bedroom. Upstairs, it has 3 welcoming en suite bedrooms with private balconies offering wonderful views!
 
@@ -75,7 +75,7 @@ It is a perfect family home!
 
 Séjournez dans cette élégante maison de 4 chambres située dans le quartier résidentiel de Kibagabaga près de son Eglise Adventiste. Kibagabaga est un quartier résidentiel moderne avec plusieurs écoles, magasins et à proximité du marché de Kimironko.
 
-Cette remarquable résidence jumelée de 2 étages est toute neuve et soignée. Au rez-de-chaussée, elle dispose d’une salle se séjour spacieuse, d’une cuisine agréable et d’une chambre avec salle de bain privative. A l’étage, elle a de 3 autres chambre accueillantes avec balcon privé offrant une vue magnifique!
+Cette remarquable résidence jumelée en étage est toute neuve et soignée. Au rez-de-chaussée, elle dispose d’une salle se séjour spacieuse, d’une cuisine agréable et d’une chambre avec salle de bain privative. A l’étage, elle a de 3 autres chambres accueillantes avec balcons privés offrant une vue magnifique!
 
 A l’extérieur, il y a un parking et des annexes.
 
