@@ -75,7 +75,7 @@ It is a perfect family home!
 
 Séjournez dans cette élégante maison de 4 chambres située dans le quartier résidentiel de Kibagabaga près de son Eglise Adventiste. Kibagabaga est un quartier résidentiel moderne avec plusieurs écoles, magasins et à proximité du marché de Kimironko.
 
-Cette remarquable résidence jumelée de 2 étages est toute neuve et soignée. Au rez-de-chaussée, elle dispose d’une salle se séjour spacieuse, d’une cuisine agréable et d’une chambre avec salle de bain privative. A l’étage, elle a de 3 autres chambres accueillantes avec balcons privés offrant une vue magnifique!
+Cette remarquable résidence jumelée en étage est toute neuve et soignée. Au rez-de-chaussée, elle dispose d’une salle se séjour spacieuse, d’une cuisine agréable et d’une chambre avec salle de bain privative. A l’étage, elle a de 3 autres chambres accueillantes avec balcons privés offrant une vue magnifique!
 
 A l’extérieur, il y a un parking et des annexes.
 
