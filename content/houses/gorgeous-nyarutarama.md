@@ -1,7 +1,7 @@
 ---
 property: House
 type: ''
-availability: Available
+availability: Rented
 title: Gorgeous Nyarutarama
 slug: 114-gorgeous-nyarutarama
 date: 2019-12-06T08:41:41.763Z
