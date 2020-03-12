@@ -30,7 +30,7 @@ parking: '1'
 security: 'Yes'
 minimumstay: 1 Month
 size: __
-price: $ 800
+price: $ 800/month
 ---
 {{< gallery >}}
 
