@@ -9,8 +9,7 @@ draft: false
 description: >-
   Stay in this luxurious 5-bedroom furnished house located in the exclusive area
   of Gacuriro nearby Airtel Data Center. Gacuriro is a quiet residential
-  neighborhood with lots of parks and beautiful views conveniently located
-  nearby Gisozi, Nyarutarama and most international schools.
+  neighbourhood with lots of parks and beautiful views.
 hidesidebar: true
 thumbnail: /images/uploads/113-01.jpg
 image: /images/uploads/113-01.jpg
@@ -64,26 +63,28 @@ price: '$ 3,000/month'
 
 {{< figure src="/images/uploads/113-15.jpg" >}}
 
- {{< /gallery >}} {{< load-photoswipe >}}
+{{< /gallery >}} 
 
-**Furnished 5 Bedroom House for Rent - Gacuriro**
+{{< load-photoswipe >}}
 
-Stay in this luxurious 5-bedroom furnished house located in the exclusive area of Gacuriro nearby Airtel Data Center. Gacuriro is a quiet residential neighborhood with lots of parks and beautiful views conveniently located nearby Gisozi, Nyarutarama and most international schools.
+**Furnished 5-Bedroom House for Rent - Gacuriro**
 
-This private 2-storey mansion is very bright. On the ground floor, it has a vast lounge opening to its patio, a dining room next to its wide equipped kitchen and 2 en suite bedrooms. Upstairs, it has another lounge and 3 beautiful en suite bedrooms with balconies. In addition, its master en suite bedroom has a bath tub and a walk-in closet! 
+Stay in this luxurious 5-bedroom furnished house located in the exclusive area of Gacuriro nearby Airtel Data Center. Gacuriro is a quiet residential neighbourhood with lots of parks and beautiful views.
 
-Outdoor, there is a large patio with wonderful views, a huge garden and spacious staff quarters in the back.
+This private 2-storey mansion is distinguished and spacious. On the ground floor, it has a vast lounge, a wide equipped kitchen and 2 en suite bedrooms. Upstairs, it has another lounge and 3 beautiful bedrooms including a master en suite with a bath tub, a walk-in closet and a balcony. In addition, it has high speed internet!
 
-This is a welcoming family home!  
+Outdoor, there are large patios with wonderful views, a huge garden and extensive staff quarters in the back.
+
+This is a welcoming family home!
 
 - - -
 
 **Maison meublée de 5 chambres à louer - Gacuriro**
 
-Séjournez dans cette luxueuse maison meublée de 5 chambres située dans le quartier exclusif de Gacuriro. Gacuriro est un quartier résidentiel calme avec beaucoup de parcs et de belles vues idéalement situé à proximité de Gisozi, Nyarutarama et de la plupart des écoles internationales. 
+Séjournez dans cette luxueuse maison meublée de 5 chambres située dans le quartier exclusif de Gacuriro à proximité du Centre de Données d’Airtel. Gacuriro est un quartier résidentiel calme avec beaucoup de parcs et de belles vues.
 
-Cette villa privée de 2 étages est très lumineuse. Au rez-de-chaussée, elle dispose d’un vaste salon ouvrant sur son patio, d’une salle à manger à côté de sa grande cuisine équipée et de 2 chambres avec salles de bains privatives. A l’étage, elle a un autre salon et 3 belles chambres autonomes avec balcons. En plus, sa suite principale dispose d’une baignoire et d’un dressing! 
+Cette villa discrète en étage est distinguée et spacieuse. Au rez-de-chaussée, elle dispose d’un vaste salon, d’une grande cuisine équipée et de 2 chambres. A l’étage, elle a un autre salon et 3 belles chambres dont une suite principale avec une baignoire, un dressing et un balcon ! En plus, l‘internet à grande vitesse est disponible !
 
-A l’extérieur, il y a un grand patio avec une vue magnifique, un immense jardin et des annexes spacieuses à l’arrière. 
+A l’extérieur, il y a une grande terrasse avec une vue magnifique, un grand jardin et plusieurs annexes.
 
-C’est une maison familiale accueillante!
+C’est une maison familiale accueillante !
