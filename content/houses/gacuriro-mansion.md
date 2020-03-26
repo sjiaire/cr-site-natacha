@@ -4,7 +4,7 @@ type: ''
 availability: Available
 title: Gacuriro Mansion
 slug: 113-gacuriro-mansion
-date: 2019-11-14T09:49:36.822Z
+date: 2020-03-26T08:00:00.000Z
 draft: false
 description: >-
   Stay in this luxurious 5-bedroom furnished house located in the exclusive area
@@ -71,20 +71,20 @@ price: '$ 3,000/month'
 
 Stay in this luxurious 5-bedroom furnished house located in the exclusive area of Gacuriro nearby Airtel Data Center. Gacuriro is a quiet residential neighbourhood with lots of parks and beautiful views.
 
-This private 2-storey mansion is distinguished and spacious. On the ground floor, it has a vast lounge, a wide equipped kitchen and 2 en suite bedrooms. Upstairs, it has another lounge and 3 beautiful bedrooms including a master en suite with a bath tub, a walk-in closet and a balcony. In addition, it has high speed internet!
+This private 2-storey mansion is distinguished and spacious. On the ground floor, it has a vast lounge, a wide equipped kitchen and 2 en suite bedrooms. Upstairs, it has another lounge and 3 beautiful bedrooms including a master en suite a bath tub, a walk-in closet and a balcony. In addition, it has high speed internet! 
 
 Outdoor, there are large patios with wonderful views, a huge garden and extensive staff quarters in the back.
 
-This is a welcoming family home!
+This is a welcoming family home! 
 
 - - -
 
-**Maison meublée de 5 chambres à louer - Gacuriro**
+**Maison meublée de 5 chambres à louer - Gacuriro**
 
-Séjournez dans cette luxueuse maison meublée de 5 chambres située dans le quartier exclusif de Gacuriro à proximité du Centre de Données d’Airtel. Gacuriro est un quartier résidentiel calme avec beaucoup de parcs et de belles vues.
+Séjournez dans cette luxueuse maison meublée de 5 chambres située dans le quartier exclusif de Gacuriro à proximité du Centre de Données d’Airtel. Gacuriro est un quartier résidentiel calme avec beaucoup de parcs et de belles vues.
 
-Cette villa discrète en étage est distinguée et spacieuse. Au rez-de-chaussée, elle dispose d’un vaste salon, d’une grande cuisine équipée et de 2 chambres. A l’étage, elle a un autre salon et 3 belles chambres dont une suite principale avec une baignoire, un dressing et un balcon ! En plus, l‘internet à grande vitesse est disponible !
+Cette villa discrète en étage est distinguée et spacieuse. Au rez-de-chaussée, elle dispose d’un vaste salon, d’une grande cuisine équipée et de 2 chambres. A l’étage, elle a un autre salon et 3 belles chambres dont une suite principale avec une baignoire, un dressing et un balcon ! En plus, l‘internet à grande vitesse est disponible !
 
-A l’extérieur, il y a une grande terrasse avec une vue magnifique, un grand jardin et plusieurs annexes.
+A l’extérieur, il y a une grande terrasse avec une vue magnifique, un grand jardin et plusieurs annexes.
 
 C’est une maison familiale accueillante !
