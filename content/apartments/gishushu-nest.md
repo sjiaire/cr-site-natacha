@@ -74,13 +74,13 @@ Outdoor, there is a wide flowery patio open to an amazing hill view and staff qu
 
 It is a perfect home for singles or couples! 
 
-- - - 
+- - -
 
 **Appartement meublé de 2 chambres à louer – Gishushu**
 
-Séjournez dans cet accueillant appartement meublé de 2 chambres situé au troisième étage d’un complexe élégant de Gishushu à proximité RDB. Gishushu est un quartier résidentiel verdoyant au cœur des zones d’affaires de Nyarutarama et Kacyiru. 
+Séjournez dans cet accueillant appartement meublé de 2 chambres situé au troisième étage d’un complexe élégant de Gishushu à proximité de RDB. Gishushu est un quartier résidentiel verdoyant au cœur des zones d’affaires de Nyarutarama et Kacyiru. 
 
-Cette charmante résidence est rustique et raffinée. Elle dispose d’un salon spacieux ouvert sur une belle cuisine équipée avec une machine à laver, de 2 grandes chambres avec de superbes salles de bains. Les services de sécurité, nettoyage et l’internet sont inclus !
+Cette charmante résidence est rustique et raffinée. Elle dispose d’un salon spacieux ouvert sur une belle cuisine équipée avec une machine à laver, de 2 grandes chambres avec de superbes salles de bains. Les services de sécurité, de nettoyage et l’internet sont inclus !
 
 A l’extérieur, il y a une grande terrasse fleurie offrant une vue imprenable ainsi que des annexes.
 
