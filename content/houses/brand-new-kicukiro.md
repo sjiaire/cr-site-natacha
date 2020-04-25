@@ -18,15 +18,15 @@ bedrooms: "4"
 baths: "3"
 furnished: Furnished
 sleeps: 6+
-garden: Yes
-maid: No
-tv: Yes
-wifi: No
-washingmachine: No
-closets: No
-pets: Yes
+garden: true
+maid: false
+tv: true
+wifi: false
+washingmachine: false
+closets: false
+pets: true
 parking: "2"
-security: No
+security: false
 minimumstay: 1 Month
 size: __
 price: Rwf 800,000/month
@@ -71,7 +71,7 @@ Outdoor, it has a pleasant patio, parking space and a flat backyard safe for kid
 
 Itis a perfectfamilyhome !
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+---
 
 **Maisonmeublée de 4 chambres à louer – Kicukiro**
 
