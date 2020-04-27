@@ -1,35 +1,34 @@
 ---
 property: Apartment
-type: ''
-availability: Available
+type: ""
+availability: Rented
 title: Gishushu Nest
 slug: 008-gishushu-nest
 date: 2020-03-31T07:28:51.009Z
-description: >-
-  Stay in this inviting 2-bedroom furnished apartment located on the third floor
-  of a stylish complex of Gishushu nearby RDB. Gishushu is a leafy residential
-  area at the heart of Nyarutarama and Kacyiru business areas.
+description: Stay in this inviting 2-bedroom furnished apartment located on the
+  third floor of a stylish complex of Gishushu nearby RDB. Gishushu is a leafy
+  residential area at the heart of Nyarutarama and Kacyiru business areas.
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/008-01.jpg
 image: /images/uploads/008-01.jpg
 location: Gishushu
-bedrooms: '2'
-baths: '2'
+bedrooms: "2"
+baths: "2"
 furnished: Furnished
-sleeps: '4'
-garden: 'No'
-maid: 'Yes'
-tv: 'Yes'
-wifi: 'Yes'
-washingmachine: 'Yes'
-closets: 'Yes'
-pets: 'No'
-parking: '1'
-security: 'Yes'
+sleeps: "4"
+garden: No
+maid: Yes
+tv: Yes
+wifi: Yes
+washingmachine: Yes
+closets: Yes
+pets: No
+parking: "1"
+security: Yes
 minimumstay: 1 Month
-size: '-'
-price: '$ 1,200/month'
+size: "-"
+price: $ 1,200/month
 ---
 {{< gallery >}}\
 {{< figure src="/images/uploads/008-01.jpg" >}}
