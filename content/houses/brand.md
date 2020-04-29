@@ -18,15 +18,15 @@ bedrooms: "4"
 baths: "3"
 furnished: Furnished
 sleeps: 6+
-garden: Yes
+garden: true
 maid: false
 tv: true
-wifi: No
-washingmachine: No
+wifi: false
+washingmachine: false
 closets: true
 pets: true
 parking: "2"
-security: No
+security: false
 minimumstay: 1 Month
 size: __
 price: Rwf 800,000/month
@@ -77,4 +77,6 @@ Séjournez dans cette splendide maison jumelée meublée de 4 chambres située d
 
 Cette toute nouvelle résidence de 2 étages est moderne et aérée. Au rez-de-chaussée, elle dispose d’une salle de séjour spacieuse,d’une grande cuisine américaine et d‘une chambre à coucher. À l’étage, il y a 2 chambres partageant une salle de bain avec une douche, une chambre en suite avec un dressing et des balcons privés avec une vue magnifique.
 
-A l‘extérieur, il y a une agréable terrasse, donnant sur un jardin verdoyant et un parking. C’est une maison familiale parfaite!
+A l‘extérieur, il y a une agréable terrasse, donnant sur un jardin verdoyant et un parking. 
+
+C’est une maison familiale parfaite!
