@@ -18,15 +18,15 @@ bedrooms: "4"
 baths: "3"
 furnished: Furnished
 sleeps: 6+
-garden: true
-maid: false
-tv: true
-wifi: false
-washingmachine: false
-closets: true
-pets: true
+garden: Yes
+maid: No
+tv: Yes
+wifi: No
+washingmachine: No
+closets: Yes
+pets: Yes
 parking: "2"
-security: false
+security: No
 minimumstay: 1 Month
 size: __
 price: Rwf 800,000/month
