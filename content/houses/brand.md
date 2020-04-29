@@ -18,13 +18,13 @@ bedrooms: "4"
 baths: "3"
 furnished: Furnished
 sleeps: 6+
-garden: Yes
+garden: true
 maid: No
-tv: Yes
+tv: true
 wifi: No
 washingmachine: No
-closets: Yes
-pets: Yes
+closets: true
+pets: No
 parking: "2"
 security: No
 minimumstay: 1 Month
