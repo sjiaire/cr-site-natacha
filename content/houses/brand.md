@@ -2,7 +2,7 @@
 property: House
 type: ""
 availability: Available
-title: Brand-new Kicukiro
+title: Brand-New Kicukiro
 slug: 58-brand-new-kicukiro
 date: 2020-04-29T16:42:28.656Z
 draft: false
@@ -18,15 +18,15 @@ bedrooms: "4"
 baths: "3"
 furnished: Furnished
 sleeps: 6+
-garden: Yes
-maid: No
-tv: Yes
-wifi: No
-washingmachine: No
-closets: Yes
-pets: Yes
+garden: true
+maid: false
+tv: true
+wifi: false
+washingmachine: false
+closets: true
+pets: true
 parking: None
-security: No
+security: false
 minimumstay: 1 Month
 size: __
 price: Rwf 800,000/month
