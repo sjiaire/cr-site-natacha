@@ -18,12 +18,12 @@ bedrooms: "4"
 baths: "3"
 furnished: Furnished
 sleeps: 6+
-garden: true
+garden: No
 maid: No
-tv: true
+tv: Yes
 wifi: No
 washingmachine: No
-closets: true
+closets: No
 pets: No
 parking: "2"
 security: No
