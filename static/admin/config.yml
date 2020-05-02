@@ -7,7 +7,7 @@ backend:
 
 publish_mode: editorial_workflow
 editor:
-     preview: false
+  preview: false
 
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
@@ -15,42 +15,187 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 display_url: https://www.cocoonrwanda.com
 
 collections:
-
   - name: "houses" # Used in routes, e.g., /admin/collections/posts
     label: "Houses" # Used in the UI
     label_singular: "House"
     folder: "content/houses" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
-      - {label: "Property Type", name: "property", required: true, widget: "hidden", default: "House"}
-      - {label: "Type", name: "type", required: true, widget: "hidden", default: ""}
-      - {label: "Availability", name: "availability", required: true, widget: "select", options: ["Available", "Rented"]}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Slug (i.e: xxx-title in small letters)", name: "slug", widget: "string"}
-      - {label: "Publish Date", name: "date", required: false, widget: "datetime"}
-      - {label: "Draft", name: "draft", required: false, widget: "hidden", default: false}
-      - {label: "Short Description 50 characters max", name: "description", widget: "string"}
-      - {label: "Hide sidebar", name: "hidesidebar", required: false, widget: "hidden", default: true}
-      - {label: "Thumbnail Image", name: "thumbnail", required: true, widget: "image"}
-      - {label: "Image", name: "image", required: true, widget: "image"}
-      - {label: "Location", name: "location", required: true, widget: "string"}
-      - {label: "N° of Beds", name: "bedrooms", required: true, widget: "select", options: ["None", "1", "2", "3", "4", "5", "6+"]}
-      - {label: "N° of Bathsrooms", name: "baths", required: true, widget: "select", options: ["None", "1", "2", "3", "4+"]}
-      - {label: "Furnished", name: "furnished", required: true, widget: "select", options: ["Furnished", "Unfurnished"]}
-      - {label: "N° of Sleeps", name: "sleeps", required: true, widget: "select", options: ["None", "1", "2", "3", "4", "5", "6+"]}
-      - {label: "Garden", name: "garden", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Maid Service", name: "maid", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "TV", name: "tv", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Wifi", name: "wifi", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Washing machine", name: "washingmachine", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Closets", name: "closets", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Pets Allowed", name: "pets", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "N° of Parking spots", name: "parking", required: true, widget: "select", options: ["None", "1", "2", "3", "4", "5", "6+"]}
-      - {label: "Security", name: "security", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Minimum Stay", name: "minimumstay", required: true, widget: "select", options: ["1 Week", "1 Month", "3 Months", "6 Months", "1 Year", "3 Years"]}
-      - {label: "Size", name: "size", widget: "string"}
-      - {label: "Price", name: "price", required: true, widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {
+          label: "Property Type",
+          name: "property",
+          required: true,
+          widget: "hidden",
+          default: "House",
+        }
+      - {
+          label: "Type",
+          name: "type",
+          required: true,
+          widget: "hidden",
+          default: "",
+        }
+      - {
+          label: "Availability",
+          name: "availability",
+          required: true,
+          widget: "select",
+          options: ["Available", "Rented"],
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Slug (i.e: xxx-title in small letters)",
+          name: "slug",
+          widget: "string",
+        }
+      - {
+          label: "Publish Date",
+          name: "date",
+          required: false,
+          widget: "datetime",
+        }
+      - {
+          label: "Draft",
+          name: "draft",
+          required: false,
+          widget: "hidden",
+          default: false,
+        }
+      - {
+          label: "Short Description 50 characters max",
+          name: "description",
+          widget: "string",
+        }
+      - {
+          label: "Hide sidebar",
+          name: "hidesidebar",
+          required: false,
+          widget: "hidden",
+          default: true,
+        }
+      - {
+          label: "Thumbnail Image",
+          name: "thumbnail",
+          required: true,
+          widget: "image",
+        }
+      - { label: "Image", name: "image", required: true, widget: "image" }
+      - {
+          label: "Location",
+          name: "location",
+          required: true,
+          widget: "string",
+        }
+      - {
+          label: "N° of Beds",
+          name: "bedrooms",
+          required: true,
+          widget: "select",
+          options: ["None", "1", "2", "3", "4", "5", "6+"],
+        }
+      - {
+          label: "N° of Bathsrooms",
+          name: "baths",
+          required: true,
+          widget: "select",
+          options: ["None", "1", "2", "3", "4+"],
+        }
+      - {
+          label: "Furnished",
+          name: "furnished",
+          required: true,
+          widget: "select",
+          options: ["Furnished", "Unfurnished"],
+        }
+      - {
+          label: "N° of Sleeps",
+          name: "sleeps",
+          required: true,
+          widget: "select",
+          options: ["None", "1", "2", "3", "4", "5", "6+"],
+        }
+      - {
+          label: "Garden",
+          name: "garden",
+          required: true,
+          widget: "select",
+          options: ["No", "Yes"],
+          default: "No",
+        }
+      - {
+          label: "Maid Service",
+          name: "maid",
+          required: true,
+          widget: "select",
+          options: ["Yes", "No"],
+          default: "No",
+        }
+      - {
+          label: "TV",
+          name: "tv",
+          required: true,
+          widget: "select",
+          options: ["Yes", "No"],
+          default: "No",
+        }
+      - {
+          label: "Wifi",
+          name: "wifi",
+          required: true,
+          widget: "select",
+          options: ["Yes", "No"],
+          default: "No",
+        }
+      - {
+          label: "Washing machine",
+          name: "washingmachine",
+          required: true,
+          widget: "select",
+          options: ["Yes", "No"],
+          default: "No",
+        }
+      - {
+          label: "Closets",
+          name: "closets",
+          required: true,
+          widget: "select",
+          options: ["Yes", "No"],
+          default: "No",
+        }
+      - {
+          label: "Pets Allowed",
+          name: "pets",
+          required: true,
+          widget: "select",
+          options: ["Yes", "No"],
+          default: "No",
+        }
+      - {
+          label: "N° of Parking spots",
+          name: "parking",
+          required: true,
+          widget: "select",
+          options: ["None", "1", "2", "3", "4", "5", "6+"],
+        }
+      - {
+          label: "Security",
+          name: "security",
+          required: true,
+          widget: "select",
+          options: ["Yes", "No"],
+          default: "No",
+        }
+      - {
+          label: "Minimum Stay",
+          name: "minimumstay",
+          required: true,
+          widget: "select",
+          options:
+            ["1 Week", "1 Month", "3 Months", "6 Months", "1 Year", "3 Years"],
+        }
+      - { label: "Size", name: "size", widget: "string" }
+      - { label: "Price", name: "price", required: true, widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "apartments" # Used in routes, e.g., /admin/collections/posts
     label: "Apartments" # Used in the UI
@@ -58,32 +203,178 @@ collections:
     folder: "content/apartments" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
-      - {label: "Property Type", name: "property", required: true, widget: "hidden", default: "Apartment"}
-      - {label: "Type", name: "type", required: true, widget: "hidden", default: ""}
-      - {label: "Availability", name: "availability", required: true, widget: "select", options: ["Available", "Rented"]}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Slug (i.e: xxx-title in small letters)", name: "slug", widget: "string"}
-      - {label: "Publish Date", name: "date", required: false, widget: "datetime"}
-      - {label: "Short Description 50 characters max", name: "description", widget: "string"}
-      - {label: "Draft", name: "draft", required: false, widget: "hidden", default: false}
-      - {label: "Hide sidebar", name: "hidesidebar", required: false, widget: "hidden", default: true}
-      - {label: "Thumbnail Image", name: "thumbnail", required: false, widget: "image"}
-      - {label: "Image", name: "image", required: false, widget: "image"}
-      - {label: "Location", name: "location", required: true, widget: "string"}
-      - {label: "N° of Beds", name: "bedrooms", required: true, widget: "select", options: ["None", "1", "2", "3", "4", "5", "6+"]}
-      - {label: "N° of Bathsrooms", name: "baths", required: true, widget: "select", options: ["None", "1", "2", "3", "4+"]}
-      - {label: "Furnished", name: "furnished", required: true, widget: "select", options: ["Furnished", "Unfurnished"]}
-      - {label: "N° of Sleeps", name: "sleeps", required: true, widget: "select", options: ["None", "1", "2", "3", "4", "5", "6+"]}
-      - {label: "Garden", name: "garden", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Maid Service", name: "maid", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "TV", name: "tv", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Wifi", name: "wifi", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Washing machine", name: "washingmachine", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Closets", name: "closets", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Pets Allowed", name: "pets", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "N° of Parking spots", name: "parking", required: true, widget: "select", options: ["None", "1", "2", "3", "4", "5", "6+"]}
-      - {label: "Security", name: "security", required: true, widget: "select", options: ["Yes", "No"]}
-      - {label: "Minimum Stay", name: "minimumstay", required: true, widget: "select", options: ["1 Week", "1 Month", "3 Months", "6 Months", "1 Year", "3 Years"]}
-      - {label: "Size", name: "size", widget: "string"}
-      - {label: "Price", name: "price", required: true, widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {
+          label: "Property Type",
+          name: "property",
+          required: true,
+          widget: "hidden",
+          default: "Apartment",
+        }
+      - {
+          label: "Type",
+          name: "type",
+          required: true,
+          widget: "hidden",
+          default: "",
+        }
+      - {
+          label: "Availability",
+          name: "availability",
+          required: true,
+          widget: "select",
+          options: ["Available", "Rented"],
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Slug (i.e: xxx-title in small letters)",
+          name: "slug",
+          widget: "string",
+        }
+      - {
+          label: "Publish Date",
+          name: "date",
+          required: false,
+          widget: "datetime",
+        }
+      - {
+          label: "Short Description 50 characters max",
+          name: "description",
+          widget: "string",
+        }
+      - {
+          label: "Draft",
+          name: "draft",
+          required: false,
+          widget: "hidden",
+          default: false,
+        }
+      - {
+          label: "Hide sidebar",
+          name: "hidesidebar",
+          required: false,
+          widget: "hidden",
+          default: true,
+        }
+      - {
+          label: "Thumbnail Image",
+          name: "thumbnail",
+          required: false,
+          widget: "image",
+        }
+      - { label: "Image", name: "image", required: false, widget: "image" }
+      - {
+          label: "Location",
+          name: "location",
+          required: true,
+          widget: "string",
+        }
+      - {
+          label: "N° of Beds",
+          name: "bedrooms",
+          required: true,
+          widget: "select",
+          options: ["None", "1", "2", "3", "4", "5", "6+"],
+        }
+      - {
+          label: "N° of Bathsrooms",
+          name: "baths",
+          required: true,
+          widget: "select",
+          options: ["None", "1", "2", "3", "4+"],
+        }
+      - {
+          label: "Furnished",
+          name: "furnished",
+          required: true,
+          widget: "select",
+          options: ["Furnished", "Unfurnished"],
+        }
+      - {
+          label: "N° of Sleeps",
+          name: "sleeps",
+          required: true,
+          widget: "select",
+          options: ["None", "1", "2", "3", "4", "5", "6+"],
+        }
+      - {
+          label: "Garden",
+          name: "garden",
+          required: true,
+          widget: "select",
+          options: ["Yes", "No"],
+          default: "No",
+        }
+      - {
+          label: "Maid Service",
+          name: "maid",
+          required: true,
+          widget: "select",
+          options: ["Yes", "No"],
+          default: "No",
+        }
+      - {
+          label: "TV",
+          name: "tv",
+          required: true,
+          widget: "select",
+          options: ["Yes", "No"],
+          default: "No",
+        }
+      - {
+          label: "Wifi",
+          name: "wifi",
+          required: true,
+          widget: "select",
+          options: ["Yes", "No"],
+          default: "No",
+        }
+      - {
+          label: "Washing machine",
+          name: "washingmachine",
+          required: true,
+          widget: "select",
+          options: ["Yes", "No"],
+          default: "No",
+        }
+      - {
+          label: "Closets",
+          name: "closets",
+          required: true,
+          widget: "select",
+          options: ["Yes", "No"],
+          default: "No",
+        }
+      - {
+          label: "Pets Allowed",
+          name: "pets",
+          required: true,
+          widget: "select",
+          options: ["Yes", "No"],
+          default: "No",
+        }
+      - {
+          label: "N° of Parking spots",
+          name: "parking",
+          required: true,
+          widget: "select",
+          options: ["None", "1", "2", "3", "4", "5", "6+"],
+        }
+      - {
+          label: "Security",
+          name: "security",
+          required: true,
+          widget: "select",
+          options: ["Yes", "No"],
+          default: "No",
+        }
+      - {
+          label: "Minimum Stay",
+          name: "minimumstay",
+          required: true,
+          widget: "select",
+          options:
+            ["1 Week", "1 Month", "3 Months", "6 Months", "1 Year", "3 Years"],
+        }
+      - { label: "Size", name: "size", widget: "string" }
+      - { label: "Price", name: "price", required: true, widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
