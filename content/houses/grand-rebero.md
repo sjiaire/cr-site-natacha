@@ -4,7 +4,7 @@ type: ""
 availability: Available
 title: Grand Rebero
 slug: 100-grand-rebero
-date: 2019-11-28T09:43:17.911Z
+date: 2020-05-07T15:04:45.758Z
 draft: false
 description: Stay in this beautiful 7-bedroom furnished house located in the
   chic residential neighborhood of Rebero. Rebero area is on a hill-top and
@@ -19,15 +19,15 @@ bedrooms: 6+
 baths: "3"
 furnished: Furnished
 sleeps: 6+
-garden: Yes
-maid: No
-tv: Yes
-wifi: Yes
-washingmachine: No
-closets: Yes
-pets: Yes
+garden: true
+maid: false
+tv: true
+wifi: true
+washingmachine: false
+closets: true
+pets: true
 parking: 6+
-security: No
+security: false
 minimumstay: 1 Year
 size: __
 price: Rwf 800,000/month
