@@ -60,24 +60,32 @@ price: Rwf 800,000/month
 
  {{< /gallery >}} {{< load-photoswipe >}}
 
-**Furnished 7 Bedroom House for Rent - Rebero**
 
-Stay in this beautiful 7-bedroom furnished house located in the chic residential neighborhood of Rebero. Rebero area is on a hill-top and offers a fresh environment at all time as well as Kigali best views! It is easily accessible from the city center and is only 20 minutes drive away from Remera and Kicukiro business areas.
 
-This grand residence is colorful and homey. Its magnificent living room opens to a large dining room and a modern kitchen. Its bedrooms are comfortable and have large closets. In addition, it has 2 spacious en suite bedrooms including a master en suite which has a bath tub.
+**Furnished 7-Bedroom House for Rent – Rebero**
 
-Outdoor, it has a large patio with amazing views overlooking its large flowery garden and parking. In the back, it has self-contained staff quarters. 
+Stay in this beautiful 7-bedroom furnished house located in the chic residential area of Rebero nearby ADEPR Kigarama. Rebero is a quiet and hilly neighborhood with easy access from the city center, Remera and Kicukiro.
+
+This grand residence is colorful and homey. It has a magnificent lounge, a modern kitchen, 7 comfortable bedrooms with closets and 3 spacious bathrooms. In addition, high speed internet is available!
+
+Outdoor, there is a large patio overlooking flowery garden,parkingspaceandstaff quarters.
 
 This house makes you feel at home!
 
-- - -
+---
 
-**Maison meublée de 7 chambres à louer - Rebero**
+**Maison meublée de 7 chambres à louer – Rebero**
 
-Séjournez dans cette belle maison meublée de 7 chambres située dans le quartier résidentiel chic de Rebero. Rebero est au sommet de la colline et offre un environnement frais ainsi que les meilleures vues Kigali! Facilement accessible depuis le centre-ville, Rebero se trouve à seulement 20 minutes en voiture des quartiers d’affaires de Remera et de Kicukiro.
 
-Cette résidence impressionnante est colorée et accueillante. Son magnifique salon s’ouvre sur une grande salle à manger et une cuisine moderne. Ses chambres sont confortables et ont de grands placards. En plus, elle dispose de 2 suites spacieuses dont une avec une baignoire. 
+Séjournez dans cette belle maison meublée de 7 chambres située dans le quartier résidentiel chic de Rebero à proximité de ADEPR Kigarama. Rebero est un quartier calme et vallonné avec un accès facile depuis le centre-ville, Remera et Kicukiro.
 
-A l’extérieur, il y a un grand patio qui donne sur le grand jardin fleuri et le parking et offre une vue imprenable sur les collines. À l’arrière, il a des annexes avec plusieurs chambres.
+\
+Cette grande résidence est colorée et accueillante. Elle dispose d’un magnifique salon, d’une cuisine moderne, de 7 chambres confortables avec placards et de 3 salles de bains spacieuses. En plus, l‘internet à grande vitesse est disponible!
 
-On s’y sent chez soi !
+
+
+À l’extérieur, il y aune grande terrasse donnant sur jardin fleuri, un parking et des annexes
+
+
+
+On s’y sent chez soi ![](<>)
