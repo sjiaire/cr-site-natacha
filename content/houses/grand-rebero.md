@@ -60,19 +60,17 @@ price: Rwf 800,000/month
 
  {{< /gallery >}} {{< load-photoswipe >}}
 
-
-
 **Furnished 7-Bedroom House for Rent – Rebero**
 
 Stay in this beautiful 7-bedroom furnished house located in the chic residential area of Rebero nearby ADEPR Kigarama. Rebero is a quiet and hilly neighborhood with easy access from the city center, Remera and Kicukiro.
 
 This grand residence is colorful and homey. It has a magnificent lounge, a modern kitchen, 7 comfortable bedrooms with closets and 3 spacious bathrooms. In addition, high speed internet is available!
 
-Outdoor, there is a large patio overlooking flowery garden,parkingspaceandstaff quarters.
+Outdoor, there is a large patio overlooking flowery garden, parking space and staff quarters.
 
 This house makes you feel at home!
 
----
+- - -
 
 **Maison meublée de 7 chambres à louer – Rebero**
 
