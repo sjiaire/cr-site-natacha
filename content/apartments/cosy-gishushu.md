@@ -1,32 +1,31 @@
 ---
 property: Apartment
-type: ''
-availability: Available
+type: ""
+availability: Rented
 title: Cosy Gishushu
 slug: 025-cosy-gishushu
 date: 2020-01-31T08:45:35.496Z
-description: >-
-  Stay in this beautiful 1-bedroom furnished apartment located on the second
-  floor of a stylish complex in Gishushu. Gishushu is a quiet residential area
-  conveniently located nearby RDB, Nyarutarama and Kacyiru business area.
+description: Stay in this beautiful 1-bedroom furnished apartment located on the
+  second floor of a stylish complex in Gishushu. Gishushu is a quiet residential
+  area conveniently located nearby RDB, Nyarutarama and Kacyiru business area.
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/025-01.jpg
 image: /images/uploads/025-01.jpg
 location: Gishushu
-bedrooms: '1'
-baths: '1'
+bedrooms: "1"
+baths: "1"
 furnished: Furnished
-sleeps: '2'
-garden: 'No'
-maid: 'Yes'
-tv: 'Yes'
-wifi: 'Yes'
-washingmachine: 'Yes'
-closets: 'Yes'
-pets: 'No'
-parking: '1'
-security: 'Yes'
+sleeps: "2"
+garden: No
+maid: Yes
+tv: Yes
+wifi: Yes
+washingmachine: Yes
+closets: Yes
+pets: No
+parking: "1"
+security: Yes
 minimumstay: 1 Month
 size: __
 price: $ 800/month
