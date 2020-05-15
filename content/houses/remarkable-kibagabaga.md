@@ -1,35 +1,34 @@
 ---
 property: House
-type: ''
+type: ""
 availability: Available
 title: Remarkable Kibagabaga
 slug: 118-remarkable-kibagabaga
 date: 2020-02-11T14:29:30.610Z
 draft: false
-description: >-
-  Stay in this classy 4-bedroom house located in the residential area of
-  Kibagabaga nearby its Adventist Church. Kibagabaga is a modern residential
+description: Stay in this classy 4-bedroom house located in the residential area
+  of Kibagabaga nearby its Adventist Church. Kibagabaga is a modern residential
   neighbourhood with several schools, shops and close to Kimironko Market.
 hidesidebar: true
 thumbnail: /images/uploads/118-01.jpg
 image: /images/uploads/118-01.jpg
 location: Kibagabaga
-bedrooms: '4'
+bedrooms: "4"
 baths: 4+
 furnished: Unfurnished
 sleeps: None
-garden: 'No'
-maid: 'No'
-tv: 'No'
-wifi: 'No'
-washingmachine: 'No'
-closets: 'No'
-pets: 'Yes'
-parking: '4'
-security: 'No'
+garden: No
+maid: No
+tv: No
+wifi: No
+washingmachine: No
+closets: No
+pets: Yes
+parking: "4"
+security: No
 minimumstay: 1 Year
 size: __
-price: '$ 1,500/month'
+price: $ 1,100/month
 ---
 {{< gallery >}}
 
