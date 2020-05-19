@@ -30,7 +30,7 @@ parking: 6+
 security: false
 minimumstay: 1 Year
 size: __
-price: Rwf 800,000/month
+price: $1,500/month
 ---
 {{< gallery >}} 
 
