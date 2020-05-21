@@ -17,18 +17,18 @@ bedrooms: "4"
 baths: 4+
 furnished: Unfurnished
 sleeps: None
-garden: No
-maid: No
-tv: No
-wifi: No
-washingmachine: No
-closets: No
-pets: Yes
+garden: false
+maid: false
+tv: false
+wifi: false
+washingmachine: false
+closets: false
+pets: true
 parking: "4"
-security: No
+security: false
 minimumstay: 1 Year
 size: __
-price: $ 1,100/month
+price: $ 1,000/month
 ---
 {{< gallery >}}
 
