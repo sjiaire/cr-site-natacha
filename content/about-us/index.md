@@ -11,7 +11,7 @@ hidesidebar: true
       <img src="/images/uploads/031-01.jpg">
     </div>
   </section>
- <!--  <div class="services-page-box itemb">
+ <div class="services-page-box itemb">
       <h4 style="color:#665a5a;">Services</h4>
       Our agency offers time effective property management services:</br>
       <ul>
@@ -19,7 +19,7 @@ hidesidebar: true
         <li>&#10003; Brokerage services</li>
         <li>&#10003; Rental management</li>
       </ul>
-  </div> -->
+  </div>
   <section class="services-page-box itemc">
     <div class=container-service-02>
       <img src="/images/uploads/046-01.jpg">
@@ -33,7 +33,7 @@ hidesidebar: true
         <li>&#10003; Collecting your request</li>
         <li>&#10003; Suggesting our best matches</li>
         <li>&#10003; Conducting viewings</li>
-        <li>&#10003; Taking you through lease process!</li>
+        <li>&#10003; Taking you through paper work!</li>
       </ul>
 
   </div>
