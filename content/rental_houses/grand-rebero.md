@@ -14,7 +14,7 @@ thumbnail: /images/uploads/100-01.jpg
 image: /images/uploads/100-01.jpg
 area: Rebero
 bedrooms: 6+
-baths: '3'
+baths: "3"
 furnished: Furnished
 sleeps: 6+
 garden: Available
@@ -27,13 +27,12 @@ pets: Allowed
 parking: 6+
 security: NotAvailable
 minimumstay: 1 Year
-road: __
+road: Paved
 size: __
-plot_size: __
 price: $ 1,500/month
 location: Rebero
+plot_size: __
 ---
-
 {{< gallery >}}
 
 {{< figure src="/images/uploads/100-01.jpg" >}}
@@ -70,11 +69,11 @@ Stay in this beautiful 7-bedroom furnished house located in the chic residential
 
 This grand residence is colorful and homey. It has a magnificent lounge, a modern kitchen, 7 comfortable bedrooms with closets and 3 spacious bathrooms. In addition, high speed internet is available!
 
-Outdoor, there is a large patio overlooking flowery garden,parkingspaceandstaff quarters.
+Outdoor, there is a large patio overlooking flowery garden, parking space and staff quarters.
 
 This house makes you feel at home!
 
----
+- - -
 
 **Maison meublée de 7 chambres à louer – Rebero**
 
@@ -82,6 +81,6 @@ Séjournez dans cette belle maison meublée de 7 chambres située dans le quarti
 
 Cette grande résidence est colorée et accueillante. Elle dispose d’un magnifique salon, d’une cuisine moderne, de 7 chambres confortables avec placards et de 3 salles de bains spacieuses. En plus, l‘internet à grande vitesse est disponible!
 
-À l’extérieur, il y aune grande terrasse donnant sur un jardin fleuri,un parking et des annexes.
+À l’extérieur, il y aune grande terrasse donnant sur un jardin fleuri, un parking et des annexes.
 
 On s’y sent chez soi !
