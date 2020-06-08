@@ -19,7 +19,7 @@
     <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}favicon-32x32.png" sizes="32x32" />
     <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}favicon-16x16.png" sizes="16x16" />
     <link rel="icon" type="image/png" href="favicon-128.png" sizes="128x128" />
-    <meta name="application-name" content="Cocoon Rwanda Rental Agency"/>
+    <meta name="application-name" content="Cocoon Rwanda Rental Agency" />
     <meta name="msapplication-TileColor" content="#FFFFFF" />
     <meta name="msapplication-TileImage" content="mstile-144x144.png" />
     <meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
@@ -35,10 +35,11 @@
     <meta property="og:description" content="{{ .Params.description }}">
     {{ else }}
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Rent our stunning accommodations in Kigali : we will make you feel at Home!">
+    <meta property="og:description"
+        content="Rent our stunning accommodations in Kigali : we will make you feel at Home!">
     {{ end }}
 
-    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:url" content="{{ .RelPermalink }}">
     <meta property="og:site_name" content="{{ .Site.Title }}">
     {{ if .Params.image }}
     <meta property="og:image" content="{{ .Site.BaseURL }}{{ replace .Params.image "/image" "image" }}">
@@ -51,7 +52,8 @@
     <meta property="twitter:description" content="{{ .Params.Description }}">
     <meta property="twitter:title" content="{{ .Params.Title }}">
     {{ else }}
-    <meta property="twitter:description" content="Rent our stunning accommodations in Kigali : we will make you feel at Home!">
+    <meta property="twitter:description"
+        content="Rent our stunning accommodations in Kigali : we will make you feel at Home!">
     <meta property="twitter:title" content="{{ .Site.Title }}">
     {{ end }}
     {{ if .Params.thumbnail }}

@@ -1,7 +1,9 @@
 addresslines:
-- line: 'Centre Pastoral Saint Paul'
-- line: '(next to Sainte Famille Church)'
-- line: 'KN 32 Street - Kiyovu'
-- line: 'Kigali - Rwanda'
-email: 'hello@cocoonrwanda.com'
-phone: '+250 784 445 226'
+  - line: "Centre Pastoral Saint Paul"
+  - line: "(next to Sainte Famille Church)"
+  - line: "KN 32 Street - Kiyovu"
+  - line: "Kigali - Rwanda"
+email: "hello@cocoonrwanda.com"
+phone: "+250 784 445 226"
+whatsapp: "250784445226"
+whatsappnum: "250 784 445 226"

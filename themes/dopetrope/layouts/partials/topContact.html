@@ -1,13 +1,19 @@
 <!-- Top Contact -->
 <ul class="topContact">
-    <li>
-      <a style="color:#FAB300; ">Contact Us</a>
-    </li>
-    <li>
-      <a href="tel:{{ .Site.Data.footer.contactinfo.phone }}">{{ .Site.Data.footer.contactinfo.phone }}</a>
-    </li>
-    <li>
-      <a href="mailto:{{ .Site.Data.footer.contactinfo.email }}">{{ .Site.Data.footer.contactinfo.email }}</a>
-    </li>
+  <li>
+    <a style="color:#FAB300;" href="mailto:{{ .Site.Data.footer.contactinfo.email }}">Contact Us</a>
+  </li>
+  <li>
+    <a href="tel:{{ .Site.Data.footer.contactinfo.phone }}">{{ .Site.Data.footer.contactinfo.phone }}</a>
+    <img width="15px" src="/images/telephone.png" />
+  </li>
+  <li>
+    <a
+      href="https://wa.me/{{ .Site.Data.footer.contactinfo.whatsapp }}">+{{ .Site.Data.footer.contactinfo.whatsappnum }}</a>
+    <img width="15px" src="/images/whatsapp.png" />
+  </li>
+  <li>
+    <a href="mailto:{{ .Site.Data.footer.contactinfo.email }}">{{ .Site.Data.footer.contactinfo.email }}</a>
+    <img width="15px" style="margin-bottom: -2px" src="/images/black-back-closed-envelope.png" />
+  </li>
 </ul>
-

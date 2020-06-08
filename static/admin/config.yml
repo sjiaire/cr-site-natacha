@@ -5,20 +5,20 @@ backend:
     - admin
     - editor
 
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 editor:
   preview: false
 
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
-display_url: https://www.cocoonrwanda.com
+display_url: https://cocoonrwanda.com
 
 collections:
-  - name: "houses" # Used in routes, e.g., /admin/collections/posts
-    label: "Houses" # Used in the UI
-    label_singular: "House"
-    folder: "content/houses" # The path to the folder where the documents are stored
+  - name: "rental_houses" # Used in routes, e.g., /admin/collections/posts
+    label: "Houses for Rent" # Used in the UI
+    label_singular: "Rental"
+    folder: "content/rental_houses" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - {
@@ -33,14 +33,15 @@ collections:
           name: "type",
           required: true,
           widget: "hidden",
-          default: "",
+          default: "rentals",
         }
       - {
           label: "Availability",
           name: "availability",
           required: true,
           widget: "select",
-          options: ["Available", "Rented"],
+          options: ["Available", "Rented", "Sold"],
+          default: "Available",
         }
       - { label: "Title", name: "title", widget: "string" }
       - {
@@ -51,7 +52,7 @@ collections:
       - {
           label: "Publish Date",
           name: "date",
-          required: false,
+          required: true,
           widget: "datetime",
         }
       - {
@@ -80,12 +81,7 @@ collections:
           widget: "image",
         }
       - { label: "Image", name: "image", required: true, widget: "image" }
-      - {
-          label: "Location",
-          name: "location",
-          required: true,
-          widget: "string",
-        }
+      - { label: "Area", name: "area", required: true, widget: "string" }
       - {
           label: "N° of Beds",
           name: "bedrooms",
@@ -101,11 +97,11 @@ collections:
           options: ["None", "1", "2", "3", "4+"],
         }
       - {
-          label: "Furnished",
+          label: "Furniture",
           name: "furnished",
           required: true,
           widget: "select",
-          options: ["Furnished", "Unfurnished"],
+          options: ["__", "Semi-furnished", "Furnished"],
         }
       - {
           label: "N° of Sleeps",
@@ -119,56 +115,49 @@ collections:
           name: "garden",
           required: true,
           widget: "select",
-          options: ["No", "Yes"],
-          default: "No",
+          options: ["Available", "NotAvailable"],
         }
       - {
           label: "Maid Service",
           name: "maid",
           required: true,
           widget: "select",
-          options: ["Yes", "No"],
-          default: "No",
+          options: ["Available", "NotAvailable"],
         }
       - {
           label: "TV",
           name: "tv",
           required: true,
           widget: "select",
-          options: ["Yes", "No"],
-          default: "No",
+          options: ["Available", "NotAvailable"],
         }
       - {
           label: "Wifi",
           name: "wifi",
           required: true,
           widget: "select",
-          options: ["Yes", "No"],
-          default: "No",
+          options: ["Available", "NotAvailable"],
         }
       - {
-          label: "Washing machine",
+          label: "Washer",
           name: "washingmachine",
           required: true,
           widget: "select",
-          options: ["Yes", "No"],
-          default: "No",
+          options: ["Available", "NotAvailable"],
         }
       - {
           label: "Closets",
           name: "closets",
           required: true,
           widget: "select",
-          options: ["Yes", "No"],
-          default: "No",
+          options: ["Available", "NotAvailable"],
         }
       - {
-          label: "Pets Allowed",
+          label: "Pets",
           name: "pets",
           required: true,
           widget: "select",
-          options: ["Yes", "No"],
-          default: "No",
+          options: ["Allowed", "NotAllowed"],
         }
       - {
           label: "N° of Parking spots",
@@ -182,8 +171,7 @@ collections:
           name: "security",
           required: true,
           widget: "select",
-          options: ["Yes", "No"],
-          default: "No",
+          options: ["Available", "NotAvailable"],
         }
       - {
           label: "Minimum Stay",
@@ -193,14 +181,23 @@ collections:
           options:
             ["1 Week", "1 Month", "3 Months", "6 Months", "1 Year", "3 Years"],
         }
-      - { label: "Size", name: "size", widget: "string" }
+      - {
+          label: "Road",
+          name: "road",
+          required: true,
+          widget: "select",
+          options: ["__", "Dirt", "Paved"],
+          default: "__",
+        }
+      - { label: "Unit size", name: "size", widget: "string" }
+      - { label: "Plot size", name: "plot_size", widget: "string" }
       - { label: "Price", name: "price", required: true, widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "apartments" # Used in routes, e.g., /admin/collections/posts
-    label: "Apartments" # Used in the UI
-    label_singular: "Apartment"
-    folder: "content/apartments" # The path to the folder where the documents are stored
+  - name: "rental_apartments" # Used in routes, e.g., /admin/collections/posts
+    label: "Apartments for Rent" # Used in the UI
+    label_singular: "Rental"
+    folder: "content/rental_apartments" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - {
@@ -215,14 +212,15 @@ collections:
           name: "type",
           required: true,
           widget: "hidden",
-          default: "",
+          default: "rentals",
         }
       - {
           label: "Availability",
           name: "availability",
           required: true,
           widget: "select",
-          options: ["Available", "Rented"],
+          options: ["Available", "Rented", "Sold"],
+          default: "Available",
         }
       - { label: "Title", name: "title", widget: "string" }
       - {
@@ -233,7 +231,7 @@ collections:
       - {
           label: "Publish Date",
           name: "date",
-          required: false,
+          required: true,
           widget: "datetime",
         }
       - {
@@ -262,12 +260,8 @@ collections:
           widget: "image",
         }
       - { label: "Image", name: "image", required: false, widget: "image" }
-      - {
-          label: "Location",
-          name: "location",
-          required: true,
-          widget: "string",
-        }
+      - { label: "Area", name: "area", required: true, widget: "string" }
+      - { label: "Floor", name: "floor", widget: "string" }
       - {
           label: "N° of Beds",
           name: "bedrooms",
@@ -283,11 +277,11 @@ collections:
           options: ["None", "1", "2", "3", "4+"],
         }
       - {
-          label: "Furnished",
+          label: "Furniture",
           name: "furnished",
           required: true,
           widget: "select",
-          options: ["Furnished", "Unfurnished"],
+          options: ["__", "Semi-furnished", "Furnished"],
         }
       - {
           label: "N° of Sleeps",
@@ -297,60 +291,46 @@ collections:
           options: ["None", "1", "2", "3", "4", "5", "6+"],
         }
       - {
-          label: "Garden",
-          name: "garden",
-          required: true,
-          widget: "select",
-          options: ["Yes", "No"],
-          default: "No",
-        }
-      - {
           label: "Maid Service",
           name: "maid",
           required: true,
           widget: "select",
-          options: ["Yes", "No"],
-          default: "No",
+          options: ["Available", "NotAvailable"],
         }
       - {
           label: "TV",
           name: "tv",
           required: true,
           widget: "select",
-          options: ["Yes", "No"],
-          default: "No",
+          options: ["Available", "NotAvailable"],
         }
       - {
           label: "Wifi",
           name: "wifi",
           required: true,
           widget: "select",
-          options: ["Yes", "No"],
-          default: "No",
+          options: ["Available", "NotAvailable"],
         }
       - {
-          label: "Washing machine",
+          label: "Washer",
           name: "washingmachine",
           required: true,
           widget: "select",
-          options: ["Yes", "No"],
-          default: "No",
+          options: ["Available", "NotAvailable"],
         }
       - {
           label: "Closets",
           name: "closets",
           required: true,
           widget: "select",
-          options: ["Yes", "No"],
-          default: "No",
+          options: ["Available", "NotAvailable"],
         }
       - {
-          label: "Pets Allowed",
+          label: "Pets",
           name: "pets",
           required: true,
           widget: "select",
-          options: ["Yes", "No"],
-          default: "No",
+          options: ["Allowed", "NotAllowed"],
         }
       - {
           label: "N° of Parking spots",
@@ -364,8 +344,7 @@ collections:
           name: "security",
           required: true,
           widget: "select",
-          options: ["Yes", "No"],
-          default: "No",
+          options: ["Available", "NotAvailable"],
         }
       - {
           label: "Minimum Stay",
@@ -375,6 +354,563 @@ collections:
           options:
             ["1 Week", "1 Month", "3 Months", "6 Months", "1 Year", "3 Years"],
         }
-      - { label: "Size", name: "size", widget: "string" }
+      - {
+          label: "Road",
+          name: "road",
+          required: true,
+          widget: "select",
+          options: ["__", "Dirt", "Paved"],
+          default: "__",
+        }
+      - {
+          label: "Plot size",
+          name: "plot_size",
+          default: "__",
+          widget: "hidden",
+        }
+      - { label: "Unit size", name: "size", widget: "string" }
+      - { label: "Price", name: "price", required: true, widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "rental_commercials" # Used in routes, e.g., /admin/collections/posts
+    label: "Commercials for Rent" # Used in the UI
+    label_singular: "Rental"
+    folder: "content/rental_commercials" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {
+          label: "Property Type",
+          name: "property",
+          required: true,
+          widget: "hidden",
+          default: "Commercial",
+        }
+      - {
+          label: "Type",
+          name: "type",
+          required: true,
+          widget: "hidden",
+          default: "rentals",
+        }
+      - {
+          label: "Availability",
+          name: "availability",
+          required: true,
+          widget: "select",
+          options: ["Available", "Rented", "Sold"],
+          default: "Available",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Slug (i.e: xxx-title in small letters)",
+          name: "slug",
+          widget: "string",
+        }
+      - {
+          label: "Publish Date",
+          name: "date",
+          required: true,
+          widget: "datetime",
+        }
+      - {
+          label: "Short Description 50 characters max",
+          name: "description",
+          widget: "string",
+        }
+      - {
+          label: "Draft",
+          name: "draft",
+          required: false,
+          widget: "hidden",
+          default: false,
+        }
+      - {
+          label: "Hide sidebar",
+          name: "hidesidebar",
+          required: false,
+          widget: "hidden",
+          default: true,
+        }
+      - {
+          label: "Thumbnail Image",
+          name: "thumbnail",
+          required: false,
+          widget: "image",
+        }
+      - { label: "Image", name: "image", required: false, widget: "image" }
+      - { label: "Area", name: "area", required: true, widget: "string" }
+      - { label: "Floor", name: "floor", widget: "string" }
+      - {
+          label: "Wifi",
+          name: "wifi",
+          required: true,
+          widget: "select",
+          options: ["Available", "NotAvailable"],
+        }
+      - {
+          label: "N° of Parking spots",
+          name: "parking",
+          required: true,
+          widget: "select",
+          options: ["None", "1", "2", "3", "4", "5", "6+"],
+        }
+      - {
+          label: "Minimum Stay",
+          name: "minimumstay",
+          required: true,
+          widget: "select",
+          options:
+            ["1 Week", "1 Month", "3 Months", "6 Months", "1 Year", "3 Years"],
+        }
+      - {
+          label: "Road",
+          name: "road",
+          required: true,
+          widget: "select",
+          options: ["__", "Dirt", "Paved"],
+          default: "__",
+        }
+      - {
+          label: "Plot size",
+          name: "plot_size",
+          default: "__",
+          widget: "hidden",
+        }
+      - { label: "Unit size", name: "size", widget: "string" }
+      - { label: "Price", name: "price", required: true, widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "sales_apartments" # Used in routes, e.g., /admin/collections/posts
+    label: "Apartments for Sale" # Used in the UI
+    label_singular: "Sales Apartment"
+    folder: "content/sales_apartments" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {
+          label: "Property Type",
+          name: "property",
+          required: true,
+          widget: "hidden",
+          default: "Apartment",
+        }
+      - {
+          label: "Type",
+          name: "type",
+          required: true,
+          widget: "hidden",
+          default: "sales",
+        }
+      - {
+          label: "Availability",
+          name: "availability",
+          required: true,
+          widget: "select",
+          options: ["Available", "Rented", "Sold"],
+          default: "Available",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Slug (i.e: xxx-title in small letters)",
+          name: "slug",
+          widget: "string",
+        }
+      - {
+          label: "Publish Date",
+          name: "date",
+          required: true,
+          widget: "datetime",
+        }
+      - {
+          label: "Short Description 50 characters max",
+          name: "description",
+          widget: "string",
+        }
+      - {
+          label: "Draft",
+          name: "draft",
+          required: false,
+          widget: "hidden",
+          default: false,
+        }
+      - {
+          label: "Hide sidebar",
+          name: "hidesidebar",
+          required: false,
+          widget: "hidden",
+          default: true,
+        }
+      - {
+          label: "Thumbnail Image",
+          name: "thumbnail",
+          required: false,
+          widget: "image",
+        }
+      - { label: "Image", name: "image", required: false, widget: "image" }
+      - { label: "Area", name: "area", required: true, widget: "string" }
+      - { label: "Floor", name: "floor", widget: "string" }
+      - {
+          label: "N° of Beds",
+          name: "bedrooms",
+          required: true,
+          widget: "select",
+          options: ["None", "1", "2", "3", "4", "5", "6+"],
+        }
+      - {
+          label: "N° of Bathsrooms",
+          name: "baths",
+          required: true,
+          widget: "select",
+          options: ["None", "1", "2", "3", "4+"],
+        }
+      - {
+          label: "Wifi",
+          name: "wifi",
+          required: true,
+          widget: "select",
+          options: ["Available", "NotAvailable"],
+        }
+      - {
+          label: "Closets",
+          name: "closets",
+          required: true,
+          widget: "select",
+          options: ["Available", "NotAvailable"],
+        }
+      - {
+          label: "N° of Parking spots",
+          name: "parking",
+          required: true,
+          widget: "select",
+          options: ["None", "1", "2", "3", "4", "5", "6+"],
+        }
+      - {
+          label: "Road",
+          name: "road",
+          required: true,
+          widget: "select",
+          options: ["__", "Dirt", "Paved"],
+          default: "__",
+        }
+      - { label: "Unit size", name: "size", widget: "string" }
+      - { label: "Price", name: "price", required: true, widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "sales_houses" # Used in routes, e.g., /admin/collections/posts
+    label: "Houses for Sale" # Used in the UI
+    label_singular: "Sales House"
+    folder: "content/sales_houses" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {
+          label: "Property Type",
+          name: "property",
+          required: true,
+          widget: "hidden",
+          default: "House",
+        }
+      - {
+          label: "Type",
+          name: "type",
+          required: true,
+          widget: "hidden",
+          default: "sales",
+        }
+      - {
+          label: "Availability",
+          name: "availability",
+          required: true,
+          widget: "select",
+          options: ["Available", "Rented", "Sold"],
+          default: "Available",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Slug (i.e: xxx-title in small letters)",
+          name: "slug",
+          widget: "string",
+        }
+      - {
+          label: "Publish Date",
+          name: "date",
+          required: true,
+          widget: "datetime",
+        }
+      - {
+          label: "Draft",
+          name: "draft",
+          required: false,
+          widget: "hidden",
+          default: false,
+        }
+      - {
+          label: "Short Description 50 characters max",
+          name: "description",
+          widget: "string",
+        }
+      - {
+          label: "Hide sidebar",
+          name: "hidesidebar",
+          required: false,
+          widget: "hidden",
+          default: true,
+        }
+      - {
+          label: "Thumbnail Image",
+          name: "thumbnail",
+          required: true,
+          widget: "image",
+        }
+      - { label: "Image", name: "image", required: true, widget: "image" }
+      - { label: "Area", name: "area", required: true, widget: "string" }
+      - {
+          label: "N° of Beds",
+          name: "bedrooms",
+          required: true,
+          widget: "select",
+          options: ["None", "1", "2", "3", "4", "5", "6+"],
+        }
+      - {
+          label: "N° of Bathsrooms",
+          name: "baths",
+          required: true,
+          widget: "select",
+          options: ["None", "1", "2", "3", "4+"],
+        }
+      - {
+          label: "Garden",
+          name: "garden",
+          required: true,
+          widget: "select",
+          options: ["Available", "NotAvailable"],
+        }
+      - {
+          label: "Wifi",
+          name: "wifi",
+          required: true,
+          widget: "select",
+          options: ["Available", "NotAvailable"],
+        }
+      - {
+          label: "Closets",
+          name: "closets",
+          required: true,
+          widget: "select",
+          options: ["Available", "NotAvailable"],
+        }
+      - {
+          label: "N° of Parking spots",
+          name: "parking",
+          required: true,
+          widget: "select",
+          options: ["None", "1", "2", "3", "4", "5", "6+"],
+        }
+      - {
+          label: "Road",
+          name: "road",
+          required: true,
+          widget: "select",
+          options: ["__", "Dirt", "Paved"],
+          default: "__",
+        }
+      - { label: "Unit size", name: "size", widget: "string" }
+      - { label: "Plot size", name: "plot_size", widget: "string" }
+      - { label: "Price", name: "price", required: true, widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "sales_commercials" # Used in routes, e.g., /admin/collections/posts
+    label: "Commercials for Sale" # Used in the UI
+    label_singular: "Sales Commercial"
+    folder: "content/sales_commercials" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {
+          label: "Property Type",
+          name: "property",
+          required: true,
+          widget: "hidden",
+          default: "Commercial",
+        }
+      - {
+          label: "Type",
+          name: "type",
+          required: true,
+          widget: "hidden",
+          default: "sales",
+        }
+      - {
+          label: "Availability",
+          name: "availability",
+          required: true,
+          widget: "select",
+          options: ["Available", "Rented", "Sold"],
+          default: "Available",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Slug (i.e: xxx-title in small letters)",
+          name: "slug",
+          widget: "string",
+        }
+      - {
+          label: "Publish Date",
+          name: "date",
+          required: true,
+          widget: "datetime",
+        }
+      - {
+          label: "Draft",
+          name: "draft",
+          required: false,
+          widget: "hidden",
+          default: false,
+        }
+      - {
+          label: "Short Description 50 characters max",
+          name: "description",
+          widget: "string",
+        }
+      - {
+          label: "Hide sidebar",
+          name: "hidesidebar",
+          required: false,
+          widget: "hidden",
+          default: true,
+        }
+      - {
+          label: "Thumbnail Image",
+          name: "thumbnail",
+          required: true,
+          widget: "image",
+        }
+      - { label: "Image", name: "image", required: true, widget: "image" }
+      - { label: "Area", name: "area", required: true, widget: "string" }
+      - {
+          label: "Wifi",
+          name: "wifi",
+          required: true,
+          widget: "select",
+          options: ["Available", "NotAvailable"],
+        }
+      - {
+          label: "N° of Parking spots",
+          name: "parking",
+          required: true,
+          widget: "select",
+          options: ["None", "1", "2", "3", "4", "5", "6+"],
+        }
+      - {
+          label: "Road",
+          name: "road",
+          required: true,
+          widget: "select",
+          options: ["__", "Dirt", "Paved"],
+          default: "__",
+        }
+      - { label: "Unit size", name: "size", widget: "string" }
+      - { label: "Plot size", name: "plot_size", widget: "string" }
+      - { label: "Price", name: "price", required: true, widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "sales_lands" # Used in routes, e.g., /admin/collections/posts
+    label: "Land for Sale" # Used in the UI
+    label_singular: "Land for Sale"
+    folder: "content/sales_lands" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {
+          label: "Property Type",
+          name: "property",
+          required: true,
+          widget: "hidden",
+          default: "Land for Sale",
+        }
+      - {
+          label: "Type",
+          name: "type",
+          required: true,
+          widget: "hidden",
+          default: "sales",
+        }
+      - {
+          label: "Availability",
+          name: "availability",
+          required: true,
+          widget: "select",
+          options: ["Available", "Rented", "Sold"],
+          default: "Available",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Slug (i.e: xxx-title in small letters)",
+          name: "slug",
+          widget: "string",
+        }
+      - {
+          label: "Publish Date",
+          name: "date",
+          required: true,
+          widget: "datetime",
+        }
+      - {
+          label: "Draft",
+          name: "draft",
+          required: false,
+          widget: "hidden",
+          default: false,
+        }
+      - {
+          label: "Short Description 50 characters max",
+          name: "description",
+          widget: "string",
+        }
+      - {
+          label: "Hide sidebar",
+          name: "hidesidebar",
+          required: false,
+          widget: "hidden",
+          default: true,
+        }
+      - {
+          label: "Thumbnail Image",
+          name: "thumbnail",
+          required: true,
+          widget: "image",
+        }
+      - { label: "Image", name: "image", required: true, widget: "image" }
+      - { label: "Area", name: "area", required: true, widget: "string" }
+      - {
+          label: "Use",
+          name: "use",
+          required: true,
+          widget: "select",
+          options: ["Residential", "Commercial", "Agricultural"],
+          default: "Residential",
+        }
+      - {
+          label: "Road",
+          name: "road",
+          required: true,
+          widget: "select",
+          options: ["__", "Dirt", "Paved"],
+          default: "__",
+        }
+      - {
+          label: "Water",
+          name: "water",
+          required: true,
+          widget: "select",
+          options: ["Available", "NotAvailable"],
+          default: "Available",
+        }
+      - {
+          label: "Electricity",
+          name: "electricity",
+          required: true,
+          widget: "select",
+          options: ["Available", "NotAvailable"],
+          default: "Available",
+        }
+      - { label: "Unit size", name: "size", widget: "string" }
+      - { label: "Plot size", name: "plot_size", widget: "string" }
       - { label: "Price", name: "price", required: true, widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }

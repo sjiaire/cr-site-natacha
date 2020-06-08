@@ -1,32 +1,154 @@
 <!-- Nav -->
 <nav id="nav">
-    <ul>
-        {{ if findRE .URL "/"}}
-            <li class="current"><a href="{{ .Site.BaseURL }}">Latest</a></li>
-            <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}services/">Services</a></li>
+        <ul>
 
-        {{ else if findRE .URL "/houses/"}}
-            <li><a href="{{ .Site.BaseURL }}">Latest</a></li>
-            <li class="current"><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}services/">Services</a></li>
-        {{ else if findRE .URL "/apartments/"}}
-            <li><a href="{{ .Site.BaseURL }}">Latest</a></li>
-            <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
-            <li class="current"><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}services/">Services</a></li>
-        {{ else if findRE .URL "/services/"}}
-            <li><a href="{{ .Site.BaseURL }}">Latest</a></li>
-            <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>
-            <li class="current"><a href="{{ .Site.BaseURL }}services/">Services</a></li>
-        {{ else }}
-            <li><a href="{{ .Site.BaseURL }}">Latest</a></li>
-            <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Houze.foldername }}">{{ .Site.Params.Houze.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.Appartzment.foldername }}">{{ .Site.Params.Appartzment.title }}</a></li>
-            <li><a href="{{ .Site.BaseURL }}services/">Services</a></li>
-        {{ end }}
-    </ul>
+                {{ if findRE .RelPermalink "/"}}
+                <li class="current"><a href="{{ .Site.BaseURL }}">Latest</a></li>
+                <li><a>Rentals</a>
+                        <ul>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_houses.foldername }}">{{ .Site.Params.rental_houses.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_apartments.foldername }}">{{ .Site.Params.rental_apartments.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_commercials.foldername }}">{{ .Site.Params.rental_commercials.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_lands.foldername }}">{{ .Site.Params.rental_lands.title }}</a>
+                                </li>
+                        </ul>
+                </li>
+                <li>
+                        <a>Sales</a>
+                        <ul>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_houses.foldername }}">{{ .Site.Params.sales_houses.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_apartments.foldername }}">{{ .Site.Params.sales_apartments.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_commercials.foldername }}">{{ .Site.Params.sales_commercials.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_lands.foldername }}">{{ .Site.Params.sales_lands.title }}</a>
+                                </li>
+                        </ul>
+                <li><a href="{{ .Site.BaseURL }}about-us/">About Us</a></li>
+
+
+
+                {{ else if or (findRE .RelPermalink "/rental_houses/") (findRE .RelPermalink "/rental_apartments/") (findRE .RelPermalink "/rental_commercials/") (findRE .RelPermalink "/rental_lands/") (eq .Params.type "rentals") }}
+                <li><a href="{{ .Site.BaseURL }}">Latest</a></li>
+                <li class="current"><a>Rentals</a>
+                        <ul>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_houses.foldername }}">{{ .Site.Params.rental_houses.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_apartments.foldername }}">{{ .Site.Params.rental_apartments.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_commercials.foldername }}">{{ .Site.Params.rental_commercials.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_lands.foldername }}">{{ .Site.Params.rental_lands.title }}</a>
+                                </li>
+                        </ul>
+                </li>
+                <li>
+                        <a>Sales</a>
+                        <ul>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_houses.foldername }}">{{ .Site.Params.sales_houses.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_apartments.foldername }}">{{ .Site.Params.sales_apartments.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_commercials.foldername }}">{{ .Site.Params.sales_commercials.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_lands.foldername }}">{{ .Site.Params.sales_lands.title }}</a>
+                                </li>
+                        </ul>
+                <li><a href="{{ .Site.BaseURL }}about-us/">About Us</a></li>
+
+
+
+                {{ else if or (findRE .RelPermalink "/sales_houses/") (findRE .RelPermalink "/sales_apartments/") (findRE .RelPermalink "/sales_commercials/") (findRE .RelPermalink "/sales_lands/") (eq .Params.type "sales") }}
+                <li><a href="{{ .Site.BaseURL }}">Latest</a></li>
+                <li><a>Rentals</a>
+                        <ul>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_houses.foldername }}">{{ .Site.Params.rental_houses.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_apartments.foldername }}">{{ .Site.Params.rental_apartments.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_commercials.foldername }}">{{ .Site.Params.rental_commercials.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_lands.foldername }}">{{ .Site.Params.rental_lands.title }}</a>
+                                </li>
+                        </ul>
+                </li>
+                <li class="current">
+                        <a>Sales</a>
+                        <ul>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_houses.foldername }}">{{ .Site.Params.sales_houses.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_apartments.foldername }}">{{ .Site.Params.sales_apartments.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_commercials.foldername }}">{{ .Site.Params.sales_commercials.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_lands.foldername }}">{{ .Site.Params.sales_lands.title }}</a>
+                                </li>
+                        </ul>
+                <li><a href="{{ .Site.BaseURL }}about-us/">About Us</a></li>
+
+
+                {{ else if findRE .RelPermalink "/about-us/"}}
+                <li><a href="{{ .Site.BaseURL }}">Latest</a></li>
+                <li><a>Rentals</a>
+                        <ul>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_houses.foldername }}">{{ .Site.Params.rental_houses.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_apartments.foldername }}">{{ .Site.Params.rental_apartments.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_commercials.foldername }}">{{ .Site.Params.rental_commercials.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_lands.foldername }}">{{ .Site.Params.rental_lands.title }}</a>
+                                </li>
+                        </ul>
+                </li>
+                <li>
+                        <a>Sales</a>
+                        <ul>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_houses.foldername }}">{{ .Site.Params.sales_houses.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_apartments.foldername }}">{{ .Site.Params.sales_apartments.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_commercials.foldername }}">{{ .Site.Params.sales_commercials.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_lands.foldername }}">{{ .Site.Params.sales_lands.title }}</a>
+                                </li>
+                        </ul>
+                <li class="current"><a href="{{ .Site.BaseURL }}about-us/">About Us</a></li>
+
+
+
+                {{ else }}
+                <li class="current"><a href="{{ .Site.BaseURL }}">Latest</a></li>
+                <li><a>Rentals</a>
+                        <ul>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_houses.foldername }}">{{ .Site.Params.rental_houses.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_apartments.foldername }}">{{ .Site.Params.rental_apartments.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_commercials.foldername }}">{{ .Site.Params.rental_commercials.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.rental_lands.foldername }}">{{ .Site.Params.rental_lands.title }}</a>
+                                </li>
+                        </ul>
+                </li>
+                <li>
+                        <a>Sales</a>
+                        <ul>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_houses.foldername }}">{{ .Site.Params.sales_houses.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_apartments.foldername }}">{{ .Site.Params.sales_apartments.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_commercials.foldername }}">{{ .Site.Params.sales_commercials.title }}</a>
+                                </li>
+                                <li><a href="{{ .Site.BaseURL }}{{ .Site.Params.sales_lands.foldername }}">{{ .Site.Params.sales_lands.title }}</a>
+                                </li>
+                        </ul>
+                <li><a href="{{ .Site.BaseURL }}about-us/">About Us</a></li>
+
+                {{ end }}
+        </ul>
 </nav>

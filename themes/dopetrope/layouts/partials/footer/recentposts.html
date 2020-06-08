@@ -6,10 +6,10 @@
         </header>
         {{ end }}
         <ul class="dates">
-            {{ range first 5 (where .Site.Pages "Type" .Site.Params.Houze.foldername) }}
+            {{ range first 5 (where .Site.Pages "Type" .Site.Params.rental_house.foldername) }}
             <li>
                 <span class="date">{{ .Date.Format "Jan" }} <strong>{{ .Date.Format "_2" }}</strong></span>
-                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                 <p>{{ .Description }}</p>
             </li>
             {{ end }}

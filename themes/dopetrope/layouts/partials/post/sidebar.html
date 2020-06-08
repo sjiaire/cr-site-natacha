@@ -4,7 +4,8 @@
 <!-- Sidebar -->
 <section class="box">
     {{ if $sidebarsection1.image }}
-    <a href="{{ $sidebarsection1.imagelink }}" class="image featured"><img src="{{ .Site.BaseURL }}{{ $sidebarsection1.image }}" alt="" /></a>
+    <a href="{{ $sidebarsection1.imagelink }}" class="image featured"><img
+            src="{{ .Site.BaseURL }}{{ $sidebarsection1.image }}" alt="" /></a>
     {{ end }}
     <header>
         <h3>{{ $sidebarsection1.title }}</h3>
@@ -20,8 +21,8 @@
     </header>
     <p>{{ $sidebarsection2.description }}</p>
     <ul class="divided">
-        {{ range first 4 (where .Site.Pages "Type" .Site.Params.Houze.foldername) }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ range first 4 (where .Site.Pages "Type" .Site.Params.house.foldername) }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
     </ul>
     <footer>

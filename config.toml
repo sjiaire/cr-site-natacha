@@ -1,18 +1,51 @@
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Cocoon Rwanda"
-baseURL = "https://www.cocoonrwanda.com/"
+baseURL = "https://cocoonrwanda.com/"
 theme = "dopetrope"
 
-[params.houze]
-    title = "Houses"
+[params.rental_houses]
+    title = "Houses for Rent"
     viewalltext = "All Houses"
-    foldername = "houses"
+    foldername = "rental_houses"
 
-[params.appartzment]
-    title = "Apartments"
-    viewalltext = "All Apartments"
-    foldername = "apartments"
+[params.sales_houses]
+    title = "Houses for Sale"
+    viewalltext = "All Houses for Sale"
+    foldername = "sales_houses"
+
+[params.rental_apartments]
+    title = "Apartments for Rent"
+    viewalltext = "All Apartments for Rent"
+    foldername = "rental_apartments"
+
+[params.sales_apartments]
+    title = "Apartments for Sale"
+    viewalltext = "All Apartments for Sale"
+    foldername = "sales_apartments"
+
+[params.rental_commercials]
+    title = "Commercials for Rent"
+    viewalltext = "All Commercials for Rent"
+    foldername = "rental_commercials"
+
+[params.sales_commercials]
+    title = "Commercials for Sale"
+    viewalltext = "All Commercials for Sale"
+    foldername = "sales_commercials"
+
+#[params.rental_lands]
+#    title = "Land for Rent"
+#    viewalltext = "All Land for Rents"
+#    foldername = "rental_lands"
+
+[params.sales_lands]
+    title = "Land for Sale"
+    viewalltext = "All Land for Sales"
+    foldername = "sales_lands"
 
 [params.settings]
     googleanalytics = "UA-119431851-1"
+
+[markup.goldmark.renderer]
+unsafe= true

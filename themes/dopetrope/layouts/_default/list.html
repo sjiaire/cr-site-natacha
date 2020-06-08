@@ -1,62 +1,156 @@
 {{ define "main" }}
-	<div id="page-wrapper">
+<div id="page-wrapper">
 
-		<!-- Header -->
-			<div id="header-wrapper">
-				<div id="header">
+  <!-- Header -->
+  <div id="header-wrapper">
+    <div id="header">
 
-          <div class="topLogoContactBlock">
-            {{ partial "logo.html" . }}
-            {{ partial "topContact.html" . }}
-          </div>
-					{{ partial "nav.html" . }}
-				</div>
-			</div>
+      <div class="topLogoContactBlock">
+        {{ partial "logo.html" . }}
+        {{ partial "topContact.html" . }}
+      </div>
+      {{ partial "nav.html" . }}
+    </div>
+  </div>
 
-			<!-- Main -->
-			<div id="main-wrapper">
-				<div class="container">
-          <!-- Start Houses -->
-            {{ if eq .URL "/houses/" }}
-              {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.Houze.foldername) }}
-              {{ partial "blog.html" (dict "title" .Site.Params.Houze.title "paginator" $paginator) }}
-
-              <footer>
-                <ul class="actions" style="text-align: center">
-                  {{ if $paginator.HasPrev }}
-                  <li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
-                  {{ end }}
-                  {{ if $paginator.HasNext }}
-                  <li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
-                  {{ end }}
-                </ul>
-              </footer>
-            {{ end }}
-          <!-- End Houses -->
-          <!-- Start Apartments -->
-          {{ if eq .URL "/apartments/" }}
-            {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.Appartzment.foldername) }}
-            {{ partial "blog.html" (dict "title" .Site.Params.Appartzment.title "paginator" $paginator) }}
-
-            <footer>
-              <ul class="actions" style="text-align: center">
-                {{ if $paginator.HasPrev }}
-                <li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
-                {{ end }}
-                {{ if $paginator.HasNext }}
-                <li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
-                {{ end }}
-              </ul>
-            </footer>
+  <!-- Main -->
+  <div id="main-wrapper">
+    <div class="container">
+      <!-- Start Houses for Rent -->
+      {{ if eq .RelPermalink "/rental_houses/" }}
+      {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.rental_houses.foldername) }}
+      {{ partial "blog.html" (dict "title" .Site.Params.rental_houses.title "paginator" $paginator) }}
+      <footer>
+        <ul class="actions" style="text-align: center">
+          {{ if $paginator.HasPrev }}
+          <li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
           {{ end }}
-          <!-- End Apartments -->
-				</div>
-			</div>
+          {{ if $paginator.HasNext }}
+          <li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
+          {{ end }}
+        </ul>
+      </footer>
+      {{ end }}
+      <!-- End Houses for Rent -->
+      <!-- Start Houses for Sale -->
+      {{ if eq .RelPermalink "/sales_houses/" }}
+      {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.sales_houses.foldername) }}
+      {{ partial "blog.html" (dict "title" .Site.Params.sales_houses.title "paginator" $paginator) }}
+      <footer>
+        <ul class="actions" style="text-align: center">
+          {{ if $paginator.HasPrev }}
+          <li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
+          {{ end }}
+          {{ if $paginator.HasNext }}
+          <li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
+          {{ end }}
+        </ul>
+      </footer>
+      {{ end }}
+      <!-- End Houses for Sale -->
+      <!-- Start Apartments for Rent -->
+      {{ if eq .RelPermalink "/rental_apartments/" }}
+      {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.rental_apartments.foldername) }}
+      {{ partial "blog.html" (dict "title" .Site.Params.rental_apartments.title "paginator" $paginator) }}
+      <footer>
+        <ul class="actions" style="text-align: center">
+          {{ if $paginator.HasPrev }}
+          <li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
+          {{ end }}
+          {{ if $paginator.HasNext }}
+          <li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
+          {{ end }}
+        </ul>
+      </footer>
+      {{ end }}
+      <!-- End Apartments for Rent -->
+      <!-- Start Apartments for Sale -->
+      {{ if eq .RelPermalink "/sales_apartments/" }}
+      {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.sales_apartments.foldername) }}
+      {{ partial "blog.html" (dict "title" .Site.Params.sales_apartments.title "paginator" $paginator) }}
+      <footer>
+        <ul class="actions" style="text-align: center">
+          {{ if $paginator.HasPrev }}
+          <li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
+          {{ end }}
+          {{ if $paginator.HasNext }}
+          <li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
+          {{ end }}
+        </ul>
+      </footer>
+      {{ end }}
+      <!-- End Apartments for Sale -->
+      <!-- Start Commercials for Rent -->
+      {{ if eq .RelPermalink "/rental_commercials/" }}
+      {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.rental_commercials.foldername) }}
+      {{ partial "blog.html" (dict "title" .Site.Params.rental_commercials.title "paginator" $paginator) }}
+      <footer>
+        <ul class="actions" style="text-align: center">
+          {{ if $paginator.HasPrev }}
+          <li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
+          {{ end }}
+          {{ if $paginator.HasNext }}
+          <li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
+          {{ end }}
+        </ul>
+      </footer>
+      {{ end }}
+      <!-- End Commercials for Rent -->
+      <!-- Start Commercials for Sale -->
+      {{ if eq .RelPermalink "/sales_commercials/" }}
+      {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.sales_commercials.foldername) }}
+      {{ partial "blog.html" (dict "title" .Site.Params.sales_commercials.title "paginator" $paginator) }}
+      <footer>
+        <ul class="actions" style="text-align: center">
+          {{ if $paginator.HasPrev }}
+          <li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
+          {{ end }}
+          {{ if $paginator.HasNext }}
+          <li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
+          {{ end }}
+        </ul>
+      </footer>
+      {{ end }}
+      <!-- End Commercials for Sale -->
+      <!-- Start Rental Plots -->
+      {{ if eq .RelPermalink "/rental_lands/" }}
+      {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.rental_lands.foldername) }}
+      {{ partial "blog.html" (dict "title" .Site.Params.rental_lands.title "paginator" $paginator) }}
+      <footer>
+        <ul class="actions" style="text-align: center">
+          {{ if $paginator.HasPrev }}
+          <li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
+          {{ end }}
+          {{ if $paginator.HasNext }}
+          <li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
+          {{ end }}
+        </ul>
+      </footer>
+      {{ end }}
+      <!-- End Rental Plots -->
+      <!-- Start Sales Plots -->
+      {{ if eq .RelPermalink "/sales_lands/" }}
+      {{ $paginator := .Paginate (where .Data.Pages "Section" .Site.Params.sales_lands.foldername) }}
+      {{ partial "blog.html" (dict "title" .Site.Params.sales_lands.title "paginator" $paginator) }}
+      <footer>
+        <ul class="actions" style="text-align: center">
+          {{ if $paginator.HasPrev }}
+          <li><a href="{{ .Site.BaseURL }}{{ $paginator.Prev.URL }}" class="button big">Prev</a></li>
+          {{ end }}
+          {{ if $paginator.HasNext }}
+          <li><a href="{{ .Site.BaseURL }}{{ $paginator.Next.URL }}" class="button alt big">Next</a></li>
+          {{ end }}
+        </ul>
+      </footer>
+      {{ end }}
+      <!-- End Sales Plots -->
+    </div>
+  </div>
 
-			{{ partial "footer/index.html" . }}
+  {{ partial "footer/index.html" . }}
 
-	</div>
+</div>
 
-	{{ partial "scripts/index.html" . }}
+{{ partial "scripts/index.html" . }}
 
 {{ end }}
