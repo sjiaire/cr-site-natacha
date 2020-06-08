@@ -1,38 +1,38 @@
 ---
 property: House
-type: 'rentals'
+type: rentals
 availability: Available
 title: Green Kimironko
 slug: 115-green-kimironko
 date: 2019-12-09T13:27:22.167Z
 draft: false
-description: >-
-  Stay in this colourful 7-bedroom furnished house located in the residential
-  area of Kimironko a few steps away from the main road. Kimironko is a lively
-  neighbourhood with several amenities such as the central market and easy
-  public transportation.
+description: Stay in this colourful 7-bedroom furnished house located in the
+  residential area of Kimironko a few steps away from the main road. Kimironko
+  is a lively neighbourhood with several amenities such as the central market
+  and easy public transportation.
 hidesidebar: true
 thumbnail: /images/uploads/115-01.jpg
 image: /images/uploads/115-01.jpg
-location: Kimironko
+area: Kimironko
 bedrooms: 6+
 baths: 4+
 furnished: Furnished
 sleeps: 6+
-garden: 'Available'
-maid: 'NotAvailable'
-tv: 'Available'
-wifi: 'NotAvailable'
-washingmachine: 'NotAvailable'
-closets: 'Available'
-pets: 'Available'
-parking: '4'
-security: 'Available'
+garden: Available
+maid: NotAvailable
+tv: Available
+wifi: NotAvailable
+washingmachine: NotAvailable
+closets: Available
+pets: NotAllowed
+parking: "4"
+security: Available
 minimumstay: 3 Months
 road: __
 size: __
+price: Rwf 1,200,000/month
+location: Kimironko
 plot_size: __
-price: 'Rwf 1,800,000/month'
 ---
 
 {{< gallery >}}
