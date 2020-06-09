@@ -29,6 +29,7 @@ pets: 'Available'
 parking: '3'
 security: 'NotAvailable'
 minimumstay: 1 Year
+floor: __
 road: __
 size: 795 sqm
 plot_size: __

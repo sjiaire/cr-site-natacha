@@ -25,9 +25,10 @@ wifi: NotAvailable
 washingmachine: NotAvailable
 closets: Available
 pets: NotAllowed
-parking: "4"
+parking: '4'
 security: Available
 minimumstay: 3 Months
+floor: __
 road: __
 size: __
 price: Rwf 1,200,000/month

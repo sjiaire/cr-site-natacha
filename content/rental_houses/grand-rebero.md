@@ -14,7 +14,7 @@ thumbnail: /images/uploads/100-01.jpg
 image: /images/uploads/100-01.jpg
 area: Rebero
 bedrooms: 6+
-baths: "3"
+baths: '3'
 furnished: Furnished
 sleeps: 6+
 garden: Available
@@ -27,12 +27,14 @@ pets: Allowed
 parking: 6+
 security: NotAvailable
 minimumstay: 1 Year
+floor: __
 road: Paved
 size: __
 price: $ 1,500/month
 location: Rebero
 plot_size: __
 ---
+
 {{< gallery >}}
 
 {{< figure src="/images/uploads/100-01.jpg" >}}
@@ -73,7 +75,7 @@ Outdoor, there is a large patio overlooking flowery garden, parking space and st
 
 This house makes you feel at home!
 
-- - -
+---
 
 **Maison meublée de 7 chambres à louer – Rebero**
 

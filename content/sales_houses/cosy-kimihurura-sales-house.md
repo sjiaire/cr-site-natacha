@@ -27,6 +27,7 @@ closets: Available
 parking: '1'
 security: Available
 minimumstay: 1 Month
+floor: __
 road: __
 size: __
 plot_size: __
