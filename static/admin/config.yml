@@ -102,7 +102,7 @@ collections:
           name: "furnished",
           required: true,
           widget: "select",
-          options: ["__", "Semi-furnished", "Furnished"],
+          options: [" ", "Semi-furnished", "Furnished"],
         }
       - {
           label: "N° of Sleeps",
@@ -282,7 +282,7 @@ collections:
           name: "furnished",
           required: true,
           widget: "select",
-          options: ["__", "Semi-furnished", "Furnished"],
+          options: [" ", "Semi-furnished", "Furnished"],
         }
       - {
           label: "N° of Sleeps",
