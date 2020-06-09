@@ -17,7 +17,7 @@ floor: __
 bedrooms: "5"
 baths: "3"
 furnished: " "
-sleeps: "5"
+sleeps: None
 garden: Available
 maid: NotAvailable
 tv: NotAvailable
