@@ -12,7 +12,7 @@ description: "Stay in this spacious 5-bedroom house located in the residential
 hidesidebar: true
 thumbnail: /images/uploads/122-01.jpg
 image: /images/uploads/122-01.jpg
-area: Kibagabaga
+area: "Kibagabaga "
 floor: __
 bedrooms: "5"
 baths: "3"
