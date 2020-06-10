@@ -879,7 +879,7 @@ collections:
           widget: "image",
         }
       - { label: "Image", name: "image", required: true, widget: "image" }
-      - { label: "Area", name: "area", required: false, widget: "string" }
+      - { label: "Area", name: "area", required: true, widget: "string" }
       - {
           label: "Use",
           name: "use",
