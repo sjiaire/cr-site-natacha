@@ -8,7 +8,7 @@ date: 2020-05-04T13:54:57.493Z
 draft: false
 description: Land for Sale
 thumbnail: /images/uploads/003-12.jpg
-area: Kigali
+area: Kigali Rebero
 use: Residential
 size: __
 tv: false
