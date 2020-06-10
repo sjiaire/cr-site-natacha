@@ -24,7 +24,7 @@ pets: false
 garden: false
 wifi: false
 location: Location Test
-title: Land for Sale
+title: Musanze
 water: Available
 closets: false
 bedrooms: None
