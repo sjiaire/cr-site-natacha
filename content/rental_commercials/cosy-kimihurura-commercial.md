@@ -25,7 +25,7 @@ maid: NotAvailable
 furnished: Furnished
 pets: NotAvailable
 garden: Available
-location: Kimihurura
+area: Kimihurura
 closets: Available
 bedrooms: "2"
 type: rentals
@@ -34,6 +34,7 @@ title: Cosy Kimihurura
 parking: "1"
 sleeps: "4"
 ---
+
 {{< gallery >}}
 
 {{< figure src="/images/uploads/089-01.jpg" >}}

@@ -13,7 +13,7 @@ description: >-
 hidesidebar: true
 thumbnail: /images/uploads/030-01.jpg
 image: /images/uploads/030-01.jpg
-location: Kagugu
+area: Kagugu
 bedrooms: '4'
 baths: 4+
 furnished: Furnished

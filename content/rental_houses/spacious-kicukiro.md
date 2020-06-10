@@ -14,7 +14,7 @@ description: >-
 hidesidebar: true
 thumbnail: /images/uploads/121-01.jpg
 image: /images/uploads/121-01.jpg
-location: Kicukiro
+area: Kicukiro
 bedrooms: '3'
 baths: '2'
 furnished: Furnished

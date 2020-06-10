@@ -14,7 +14,7 @@ draft: false
 hidesidebar: true
 thumbnail: /images/uploads/089-01.jpg
 image: /images/uploads/089-01.jpg
-location: Kimihurura
+area: Kimihurura
 bedrooms: '2'
 baths: '1'
 furnished: Furnished

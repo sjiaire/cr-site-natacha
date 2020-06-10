@@ -10,7 +10,7 @@ draft: false
 hidesidebar: true
 thumbnail: /images/uploads/117-01.JPG
 image: /images/uploads/117-02.jpg
-location: Nyarutarama
+area: Nyarutarama
 bedrooms: '2'
 baths: '2'
 furnished: Furnished

@@ -30,10 +30,11 @@ price: $ 500/month
 maid: NotAvailable
 furnished: Furnished
 garden: Available
-location: Kimihurura
+area: Kimihurura
 parking: "1"
 sleeps: "4"
 ---
+
 {{< gallery >}}
 
 {{< figure src="/images/uploads/089-01.jpg" >}}

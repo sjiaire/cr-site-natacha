@@ -14,7 +14,7 @@ draft: false
 hidesidebar: true
 thumbnail: /images/uploads/091-01.jpg
 image: /images/uploads/091-01.jpg
-location: Remera
+area: Remera
 bedrooms: '2'
 baths: '2'
 furnished: Furnished

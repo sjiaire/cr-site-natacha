@@ -13,7 +13,7 @@ description: Stay in this comfortable 3 bedroom furnished house for rent located
 hidesidebar: true
 thumbnail: /images/uploads/103-01.jpg
 image: /images/uploads/103-01.jpg
-location: Kibagabaga
+area: Kibagabaga
 bedrooms: '3'
 baths: '2'
 furnished: Furnished

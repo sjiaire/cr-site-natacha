@@ -14,7 +14,7 @@ draft: false
 hidesidebar: true
 thumbnail: /images/uploads/097-01.jpg
 image: /images/uploads/097-01.jpg
-location: Kagugu
+area: Kagugu
 bedrooms: '2'
 baths: '2'
 furnished: Furnished

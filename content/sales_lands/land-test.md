@@ -22,7 +22,7 @@ maid: false
 pets: false
 garden: false
 wifi: false
-location: Location Test
+area: Location Test
 availability: Available
 title: Kigali Land
 water: Available

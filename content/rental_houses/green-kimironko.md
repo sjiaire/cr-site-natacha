@@ -32,7 +32,7 @@ floor: __
 road: __
 size: __
 price: Rwf 1,200,000/month
-location: Kimironko
+area: Kimironko
 plot_size: __
 ---
 

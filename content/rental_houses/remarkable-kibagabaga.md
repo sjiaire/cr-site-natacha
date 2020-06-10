@@ -12,7 +12,7 @@ description: Stay in this classy 4-bedroom house located in the residential area
 hidesidebar: true
 thumbnail: /images/uploads/118-01.jpg
 image: /images/uploads/118-01.jpg
-location: Kibagabaga
+area: Kibagabaga
 bedrooms: '4'
 baths: 4+
 furnished: Unfurnished

@@ -13,7 +13,7 @@ description: Stay in this splendid semi-detached 4-bedroom furnished house
 hidesidebar: true
 thumbnail: /images/uploads/058-01.jpg
 image: /images/uploads/058-01.jpg
-location: Kicukiro
+area: Kicukiro
 bedrooms: '4'
 baths: '3'
 furnished: Furnished

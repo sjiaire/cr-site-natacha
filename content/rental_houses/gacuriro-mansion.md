@@ -13,7 +13,7 @@ description: >-
 hidesidebar: true
 thumbnail: /images/uploads/113-01.jpg
 image: /images/uploads/113-01.jpg
-location: Gacuriro
+area: Gacuriro
 bedrooms: '5'
 baths: 4+
 furnished: Furnished

@@ -29,11 +29,12 @@ price: $ 700/month
 maid: NotAvailable
 furnished: Furnished
 garden: NotAvailable
-location: Remera
+area: Remera
 parking: "2"
 sleeps: "4"
 plot_size: __
 ---
+
 {{< gallery >}}
 
 {{< figure src="/images/uploads/091-01.jpg" >}}

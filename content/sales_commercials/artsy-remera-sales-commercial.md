@@ -24,7 +24,7 @@ pets: Available
 garden: NotAvailable
 hidesidebar: true
 wifi: Available
-location: Remera
+area: Remera
 closets: Available
 bedrooms: "2"
 title: Artsy Remera
@@ -33,6 +33,7 @@ parking: "2"
 sleeps: "4"
 plot_size: __
 ---
+
 {{< gallery >}}
 
 {{< figure src="/images/uploads/091-01.jpg" >}}

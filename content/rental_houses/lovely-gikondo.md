@@ -14,7 +14,7 @@ description: >-
 hidesidebar: true
 thumbnail: /images/uploads/061-01.jpg
 image: /images/uploads/061-01.jpg
-location: Gikondo
+area: Gikondo
 bedrooms: '4'
 baths: '3'
 furnished: Furnished

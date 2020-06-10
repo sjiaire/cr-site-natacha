@@ -10,7 +10,7 @@ description: "Stay in this stunning 3-bedroom furnished house located in the exc
 hidesidebar: true
 thumbnail: /images/uploads/116-01.jpg
 image: /images/uploads/116-02.jpg
-location: Nyarutarama
+area: Nyarutarama
 bedrooms: '3'
 baths: 4+
 furnished: Furnished

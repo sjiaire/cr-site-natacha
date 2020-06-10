@@ -12,7 +12,7 @@ draft: false
 hidesidebar: true
 thumbnail: /images/uploads/025-01.jpg
 image: /images/uploads/025-01.jpg
-location: Gishushu
+area: Gishushu
 bedrooms: '1'
 baths: '1'
 furnished: Furnished

@@ -31,7 +31,7 @@ floor: __
 road: Paved
 size: __
 price: $ 1,500/month
-location: Rebero
+area: Rebero
 plot_size: __
 ---
 

@@ -14,7 +14,7 @@ draft: false
 hidesidebar: true
 thumbnail: /images/uploads/119-01.jpg
 image: /images/uploads/119-01.jpg
-location: Gacuriro
+area: Gacuriro
 bedrooms: '2'
 baths: '1'
 furnished: Furnished

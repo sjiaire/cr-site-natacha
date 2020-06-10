@@ -13,7 +13,7 @@ description: >-
 hidesidebar: true
 thumbnail: /images/uploads/110-01.jpg
 image: /images/uploads/110-01.jpg
-location: Rugando
+area: Rugando
 bedrooms: '4'
 baths: '2'
 furnished: Furnished
