@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Rented
+availability: Available
 title: Delightful Kibagabaga
 slug: 122-delightful-kibagabaga
 date: 2020-06-10T12:46:49.993Z
