@@ -24,7 +24,7 @@ garden: false
 wifi: false
 location: Location Test
 availability: Available
-title: Land for Sale
+title: Kigali Land
 water: Available
 closets: false
 bedrooms: None
