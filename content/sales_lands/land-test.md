@@ -8,7 +8,7 @@ slug: 001-land-test
 date: 2020-05-04T13:54:57.493Z
 draft: false
 description: Land for Sale
-thumbnail: /images/uploads/cs-2-1-.jpg
+thumbnail: /images/uploads/003-12.jpg
 area: Kigali
 use: Residential
 size: __
@@ -31,7 +31,7 @@ bedrooms: None
 parking: None
 type: sales
 hidesidebar: true
-image: /images/uploads/cs-2-1-.jpg
+image: /images/uploads/003-12.jpg
 sleeps: None
 plot_size: 600 sqm
 ---
