@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Delightful Kibagabaga
 slug: 122-delightful-kibagabaga
-date: 2020-06-10T12:46:49.993Z
+date: 2020-06-10T12:58:32.560Z
 draft: false
 description: "Stay in this spacious 5-bedroom house located in the residential
   area of Kibagabaga nearby its mosque. Kibagabaga is a modern residential
