@@ -36,6 +36,6 @@ sleeps: "4"
 ---
 {{< gallery >}}
 
-{{< figure src="/images/uploads/commercial-for-rent.jpg>}}
+{{< figure src="/images/uploads/089-01.jpg" >}}
 
 {{< /gallery >}} {{< load-photoswipe >}}
