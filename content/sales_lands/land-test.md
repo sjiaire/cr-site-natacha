@@ -19,7 +19,6 @@ minimumstay: None
 electricity: Available
 price: Rwf 20,000/sqm
 maid: false
-furnished:
 pets: false
 garden: false
 wifi: false
