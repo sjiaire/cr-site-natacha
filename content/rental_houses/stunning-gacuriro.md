@@ -29,7 +29,7 @@ pets: NotAllowed
 parking: "4"
 security: Available
 minimumstay: 1 Year
-road: __
+road: Paved
 size: __
 plot_size: __
 price: $ 1,800/month
