@@ -1,35 +1,38 @@
 ---
 property: House
-type: 'rentals'
+type: rentals
 availability: Available
 title: Nyarutarama Nest
 slug: 116-Nyarutarama-Nest
 date: 2019-12-10T08:36:28.263Z
 draft: false
-description: "Stay in this stunning 3-bedroom furnished house located in the exclusive estate of Nyarutarama nearby Green Hills Academy. Nyarutarama is a calm and family-friendly neighbourhood with several schools, restaurants and recreational activities in walking distance.\L"
+description: Stay in this stunning 3-bedroom furnished house located in the
+  exclusive estate of Nyarutarama nearby Green Hills Academy. Nyarutarama is a
+  calm and family-friendly neighbourhood with several schools, restaurants and
+  recreational activities in walking distance. 
 hidesidebar: true
 thumbnail: /images/uploads/116-01.jpg
 image: /images/uploads/116-02.jpg
 area: Nyarutarama
-bedrooms: '3'
+floor: __
+bedrooms: "3"
 baths: 4+
 furnished: Furnished
 sleeps: 6+
-garden: 'Available'
-maid: 'NotAvailable'
-tv: 'Available'
-wifi: 'Available'
-washingmachine: 'Available'
-closets: 'Available'
-pets: 'NotAvailable'
-parking: '1'
-security: 'NotAvailable'
+garden: Available
+maid: NotAvailable
+tv: Available
+wifi: Available
+washingmachine: Available
+closets: Available
+pets: NotAllowed
+parking: "1"
+security: NotAvailable
 minimumstay: 1 Year
-floor: __
-road: __
+road: Paved
 size: __
 plot_size: __
-price: '$ 2,500/month'
+price: $ 2,500/month
 ---
 
 {{< gallery >}}
