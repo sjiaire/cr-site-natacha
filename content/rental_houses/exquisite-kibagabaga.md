@@ -20,7 +20,7 @@ baths: "3"
 furnished: Furnished
 sleeps: 6+
 garden: Available
-maid: Available
+maid: NotAvailable
 tv: Available
 wifi: NotAvailable
 washingmachine: Available
