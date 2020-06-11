@@ -1,38 +1,37 @@
 ---
 property: House
-type: 'rentals'
+type: rentals
 availability: Available
 title: Charming Kagugu
 slug: 030-charming-kagugu
 date: 2020-03-30T08:48:22.711Z
 draft: false
-description: >-
-  Stay in this gorgeous 4-bedroom furnished house located in the calm area of
-  Kagugu nearby Airtel Data Centre. Kagugu is a family- friendly residential
-  neighbourhood with easy access to shops and international schools.
+description: Stay in this gorgeous 4-bedroom furnished house located in the calm
+  area of Kagugu nearby Airtel Data Centre. Kagugu is a family- friendly
+  residential neighbourhood with easy access to shops and international schools.
 hidesidebar: true
 thumbnail: /images/uploads/030-01.jpg
 image: /images/uploads/030-01.jpg
 area: Kagugu
-bedrooms: '4'
+floor: __
+bedrooms: "4"
 baths: 4+
 furnished: Furnished
 sleeps: 6+
-garden: 'Available'
-maid: 'NotAvailable'
-tv: 'Available'
-wifi: 'Available'
-washingmachine: 'Available'
-closets: 'Available'
-pets: 'Available'
-parking: '3'
-security: 'Available'
+garden: Available
+maid: NotAvailable
+tv: Available
+wifi: Available
+washingmachine: Available
+closets: Available
+pets: Allowed
+parking: "3"
+security: Available
 minimumstay: 3 Months
-floor: __
 road: __
 size: __
 plot_size: __
-price: '$ 1,200/month'
+price: $ 1,200/month
 ---
 
 {{< gallery >}}
