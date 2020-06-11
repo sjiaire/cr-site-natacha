@@ -1,38 +1,37 @@
 ---
 property: House
-type: 'rentals'
+type: rentals
 availability: Available
 title: Beautiful Gacuriro
 slug: 065-beautiful-gacuriro
 date: 2020-03-14T14:46:35.846Z
 draft: false
-description: >-
-  Stay in this classy 3-bedroom furnished house located in an exclusive estate
-  of Gacuriro nearby Great Seasons Hotel. Gacuriro is quiet residential
-  neighborhood with lots of parks and beautiful views.
+description: Stay in this classy 3-bedroom furnished house located in an
+  exclusive estate of Gacuriro nearby Great Seasons Hotel. Gacuriro is quiet
+  residential neighborhood with lots of parks and beautiful views.
 hidesidebar: true
 thumbnail: /images/uploads/065-01.jpg
 image: /images/uploads/065-01.jpg
 area: Gacuriro
-bedrooms: '3'
-baths: '3'
+floor: __
+bedrooms: "3"
+baths: "3"
 furnished: Furnished
 sleeps: 6+
-garden: 'Available'
-maid: 'NotAvailable'
-tv: 'Available'
-wifi: 'Available'
-washingmachine: 'Available'
-closets: 'Available'
-pets: 'NotAvailable'
-parking: '4'
-security: 'Available'
+garden: Available
+maid: NotAvailable
+tv: Available
+wifi: Available
+washingmachine: Available
+closets: Available
+pets: NotAllowed
+parking: "4"
+security: Available
 minimumstay: 1 Month
-floor: __
-road: __
+road: Paved
 size: __
 plot_size: __
-price: '$ 1,800/month'
+price: $ 1,800/month
 ---
 
 {{< gallery >}}
