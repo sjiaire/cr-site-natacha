@@ -1,38 +1,37 @@
 ---
 property: House
-type: 'rentals'
+type: rentals
 availability: Available
 title: Gacuriro Mansion
 slug: 113-gacuriro-mansion
 date: 2020-03-26T08:00:00.000Z
 draft: false
-description: >-
-  Stay in this luxurious 5-bedroom furnished house located in the exclusive area
-  of Gacuriro nearby Airtel Data Center. Gacuriro is a quiet residential
-  neighbourhood with lots of parks and beautiful views.
+description: Stay in this luxurious 5-bedroom furnished house located in the
+  exclusive area of Gacuriro nearby Airtel Data Center. Gacuriro is a quiet
+  residential neighbourhood with lots of parks and beautiful views.
 hidesidebar: true
 thumbnail: /images/uploads/113-01.jpg
 image: /images/uploads/113-01.jpg
 area: Gacuriro
-bedrooms: '5'
+floor: __
+bedrooms: "5"
 baths: 4+
 furnished: Furnished
 sleeps: 6+
-garden: 'Available'
-maid: 'NotAvailable'
-tv: 'Available'
-wifi: 'Available'
-washingmachine: 'NotAvailable'
-closets: 'Available'
-pets: 'Available'
+garden: Available
+maid: NotAvailable
+tv: Available
+wifi: Available
+washingmachine: NotAvailable
+closets: Available
+pets: Allowed
 parking: 6+
-security: 'NotAvailable'
+security: NotAvailable
 minimumstay: 1 Year
-floor: __
-road: __
+road: Paved
 size: __
 plot_size: __
-price: '$ 3,000/month'
+price: $ 3,000/month
 ---
 
 {{< gallery >}}
