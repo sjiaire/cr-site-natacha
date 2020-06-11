@@ -14,8 +14,9 @@ hidesidebar: true
 thumbnail: /images/uploads/058-01.jpg
 image: /images/uploads/058-01.jpg
 area: Kicukiro
-bedrooms: '4'
-baths: '3'
+floor: __
+bedrooms: "4"
+baths: "3"
 furnished: Furnished
 sleeps: 6+
 garden: Available
@@ -24,11 +25,10 @@ tv: Available
 wifi: NotAvailable
 washingmachine: NotAvailable
 closets: Available
-pets: Available
-parking: '2'
+pets: Allowed
+parking: "2"
 security: NotAvailable
 minimumstay: 1 Month
-floor: __
 road: __
 size: __
 plot_size: __
