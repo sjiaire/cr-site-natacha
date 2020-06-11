@@ -1,36 +1,35 @@
 ---
 property: House
-type: 'rentals'
+type: rentals
 availability: Available
 title: Lovely Gikondo
 slug: 061-lovely-gikondo
 date: 2020-04-01T10:08:23.253Z
 draft: false
-description: >-
-  Stay in this pleasant 4-bedroom furnished house located in the authentic
-  residential area of Gikondo nearby Merez 1. Gikondo is a lively neighborhood
-  easily accessible from the city center with several shops, restaurants and
-  public transportation.
+description: Stay in this pleasant 4-bedroom furnished house located in the
+  authentic residential area of Gikondo nearby Merez 1. Gikondo is a lively
+  neighborhood easily accessible from the city center with several shops,
+  restaurants and public transportation.
 hidesidebar: true
 thumbnail: /images/uploads/061-01.jpg
 image: /images/uploads/061-01.jpg
 area: Gikondo
-bedrooms: '4'
-baths: '3'
+floor: __
+bedrooms: "4"
+baths: "3"
 furnished: Furnished
 sleeps: 6+
-garden: 'Available'
-maid: 'NotAvailable'
-tv: 'NotAvailable'
-wifi: 'NotAvailable'
-washingmachine: 'NotAvailable'
-closets: 'Available'
-pets: 'Available'
+garden: Available
+maid: NotAvailable
+tv: NotAvailable
+wifi: NotAvailable
+washingmachine: NotAvailable
+closets: Available
+pets: Allowed
 parking: 6+
-security: 'NotAvailable'
+security: NotAvailable
 minimumstay: 1 Month
-floor: __
-road: __
+road: Paved
 size: 200 sqm
 plot_size: __
 price: $ 700/month
