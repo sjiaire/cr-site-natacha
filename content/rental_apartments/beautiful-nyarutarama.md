@@ -1,34 +1,39 @@
 ---
 property: Apartment
-type: 'rentals'
+type: rentals
 availability: Available
 title: Beautiful Nyarutarama
 slug: 117-beautiful-nyarutarama
 date: 2020-01-15T10:48:59.641Z
-description: "Stay in this cosy 2-bedroom furnished apartment located in the exclusive neighbourhood of Nyarutarama nearby Cali Fitness.\_Nyarutarama is a calm and family-friendly neighbourhood with several schools, restaurants and recreational activities. The apartment is on the ground floor of a brand new apartment building."
+description: Stay in this cosy 2-bedroom furnished apartment located in the
+  exclusive neighbourhood of Nyarutarama nearby Cali Fitness. Nyarutarama is a
+  calm and family-friendly neighbourhood with several schools, restaurants and
+  recreational activities. The apartment is on the ground floor of a brand new
+  apartment building.
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/117-01.JPG
 image: /images/uploads/117-02.jpg
 area: Nyarutarama
-bedrooms: '2'
-baths: '2'
+floor: __
+bedrooms: "2"
+baths: "2"
 furnished: Furnished
-sleeps: '4'
-garden: 'NotAvailable'
-maid: 'NotAvailable'
-tv: 'NotAvailable'
-wifi: 'NotAvailable'
-washingmachine: 'NotAvailable'
-closets: 'Available'
-pets: 'NotAvailable'
-parking: '2'
-security: 'Available'
+sleeps: "4"
+maid: NotAvailable
+tv: NotAvailable
+wifi: NotAvailable
+washingmachine: NotAvailable
+closets: Available
+pets: NotAllowed
+parking: "2"
+security: Available
 minimumstay: 6 Months
-road: __
-size: __
+road: Paved
 plot_size: __
+size: __
 price: $ 600/month
+garden: NotAvailable
 ---
 
 {{< gallery >}}
