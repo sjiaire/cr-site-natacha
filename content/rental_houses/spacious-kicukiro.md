@@ -29,7 +29,7 @@ pets: Allowed
 parking: "3"
 security: NotAvailable
 minimumstay: 1 Year
-road: __
+road: Paved
 size: 795 sqm
 plot_size: __
 price: $ 800/month
