@@ -13,9 +13,10 @@ hidesidebar: true
 thumbnail: /images/uploads/118-01.jpg
 image: /images/uploads/118-01.jpg
 area: Kibagabaga
-bedrooms: '4'
+floor: __
+bedrooms: "4"
 baths: 4+
-furnished: Unfurnished
+furnished: " "
 sleeps: None
 garden: NotAvailable
 maid: NotAvailable
@@ -23,12 +24,11 @@ tv: NotAvailable
 wifi: NotAvailable
 washingmachine: NotAvailable
 closets: NotAvailable
-pets: Available
-parking: '4'
+pets: Allowed
+parking: "4"
 security: NotAvailable
 minimumstay: 1 Year
-floor: __
-road: __
+road: Dirt
 size: __
 plot_size: __
 price: $ 1,000/month
