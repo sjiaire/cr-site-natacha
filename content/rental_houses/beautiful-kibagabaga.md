@@ -25,7 +25,7 @@ tv: Available
 wifi: Available
 washingmachine: Available
 closets: Available
-pets: Available
+pets: Allowed
 parking: "2"
 security: NotAvailable
 minimumstay: 1 Year
