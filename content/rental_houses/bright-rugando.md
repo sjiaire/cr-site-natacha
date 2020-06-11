@@ -1,38 +1,38 @@
 ---
 property: House
-type: 'rentals'
+type: rentals
 availability: Available
 title: Bright Rugando
 slug: 110-bright-rugando
 date: 2020-02-06T08:33:39.416Z
 draft: false
-description: >-
-  Stay in this charming 4-bedroom furnished house located in the residential
-  area of Rugando. Rugando is a calm and leafy neighborhood conveniently located
-  nearby Kacyiru business area, Nyarutarama and international schools.
+description: Stay in this charming 4-bedroom furnished house located in the
+  residential area of Rugando. Rugando is a calm and leafy neighborhood
+  conveniently located nearby Kacyiru business area, Nyarutarama and
+  international schools.
 hidesidebar: true
 thumbnail: /images/uploads/110-01.jpg
 image: /images/uploads/110-01.jpg
 area: Rugando
-bedrooms: '4'
-baths: '2'
+floor: __
+bedrooms: "4"
+baths: "2"
 furnished: Furnished
 sleeps: 6+
-garden: 'Available'
-maid: 'NotAvailable'
-tv: 'Available'
-wifi: 'NotAvailable'
-washingmachine: 'NotAvailable'
-closets: 'Available'
-pets: 'Available'
+garden: Available
+maid: NotAvailable
+tv: Available
+wifi: NotAvailable
+washingmachine: NotAvailable
+closets: Available
+pets: Allowed
 parking: 6+
-security: 'NotAvailable'
+security: NotAvailable
 minimumstay: 1 Year
-floor: __
-road: __
+road: Dirt
 size: __
 plot_size: __
-price: '$ 1,200/month'
+price: $ 1,200/month
 ---
 
 {{< gallery >}}
