@@ -1,35 +1,34 @@
 ---
 property: House
-type: 'rentals'
+type: rentals
 availability: Available
 title: Spacious Kicukiro
 slug: 121-sspacious-kicukiro
 date: 2020-03-23T09:32:26.795Z
 draft: false
-description: >-
-  Stay in this charming 3-bedroom furnished house located in the authentic
-  residential area of Kicukiro nearby Sonatubes. Kicukiro is a quiet
+description: Stay in this charming 3-bedroom furnished house located in the
+  authentic residential area of Kicukiro nearby Sonatubes. Kicukiro is a quiet
   neighbourhood with several shops, schools and easy access from Remera, Magerwa
   and Kigali Airport.
 hidesidebar: true
 thumbnail: /images/uploads/121-01.jpg
 image: /images/uploads/121-01.jpg
 area: Kicukiro
-bedrooms: '3'
-baths: '2'
+floor: __
+bedrooms: "3"
+baths: "2"
 furnished: Furnished
 sleeps: 6+
-garden: 'Available'
-maid: 'NotAvailable'
-tv: 'NotAvailable'
-wifi: 'NotAvailable'
-washingmachine: 'NotAvailable'
-closets: 'Available'
-pets: 'Available'
-parking: '3'
-security: 'NotAvailable'
+garden: Available
+maid: NotAvailable
+tv: NotAvailable
+wifi: NotAvailable
+washingmachine: NotAvailable
+closets: Available
+pets: Allowed
+parking: "3"
+security: NotAvailable
 minimumstay: 1 Year
-floor: __
 road: __
 size: 795 sqm
 plot_size: __
