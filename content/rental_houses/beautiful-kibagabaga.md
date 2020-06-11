@@ -14,8 +14,9 @@ hidesidebar: true
 thumbnail: /images/uploads/103-01.jpg
 image: /images/uploads/103-01.jpg
 area: Kibagabaga
-bedrooms: '3'
-baths: '2'
+floor: __
+bedrooms: "3"
+baths: "2"
 furnished: Furnished
 sleeps: 6+
 garden: Available
@@ -25,11 +26,10 @@ wifi: Available
 washingmachine: Available
 closets: Available
 pets: Available
-parking: '2'
+parking: "2"
 security: NotAvailable
 minimumstay: 1 Year
-floor: __
-road: __
+road: Paved
 size: __
 plot_size: __
 price: $ 800/month
