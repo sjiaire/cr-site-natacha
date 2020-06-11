@@ -1,38 +1,38 @@
 ---
 property: Apartment
-type: 'rentals'
+type: rentals
 availability: Available
 title: Intimate Kagugu
 slug: 097-intimate-kagugu
 date: 2020-02-05T08:42:23.230Z
-description: >-
-  Stay in this delightful 2-bedroom furnished apartment located on the top floor
-  of a contemporary apartment building in Kagugu. Kagugu is a quiet residential
-  neighborhood nearby Nyarutarama and Gisozi. The apartment is located a few
-  steps away from the main road.
+description: Stay in this delightful 2-bedroom furnished apartment located on
+  the top floor of a contemporary apartment building in Kagugu. Kagugu is a
+  quiet residential neighborhood nearby Nyarutarama and Gisozi. The apartment is
+  located a few steps away from the main road.
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/097-01.jpg
 image: /images/uploads/097-01.jpg
 area: Kagugu
-bedrooms: '2'
-baths: '2'
+floor: __
+bedrooms: "2"
+baths: "2"
 furnished: Furnished
-sleeps: '4'
-garden: 'NotAvailable'
-maid: 'Available'
-tv: 'Available'
-wifi: 'NotAvailable'
-washingmachine: 'NotAvailable'
-closets: 'Available'
-pets: 'NotAvailable'
-parking: '2'
-security: 'Available'
+sleeps: "4"
+maid: Available
+tv: Available
+wifi: NotAvailable
+washingmachine: NotAvailable
+closets: Available
+pets: NotAllowed
+parking: "2"
+security: Available
 minimumstay: 1 Month
-road: __
-size: __
+road: Dirt
 plot_size: __
+size: __
 price: $ 850/month
+garden: NotAvailable
 ---
 
 {{< gallery >}}
