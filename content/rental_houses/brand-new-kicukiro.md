@@ -29,7 +29,7 @@ pets: Allowed
 parking: "2"
 security: NotAvailable
 minimumstay: 1 Month
-road: __
+road: Dirt
 size: __
 plot_size: __
 price: Rwf 800,000/month
