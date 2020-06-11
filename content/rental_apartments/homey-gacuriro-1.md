@@ -1,38 +1,38 @@
 ---
 property: Apartment
-type: 'rentals'
+type: rentals
 availability: Available
 title: Homey Gacuriro
 slug: 119-homey-gacuriro
 date: 2020-03-12T09:42:13.509Z
-description: >-
-  Stay in this adorable2-bedroom furnished apartment located on the 4th floor of
-  brand-new building in an exclusive estate of Gacuriro nearby Great Seasons
-  hotel. Gacuriro is a quiet residential neighborhood with lots of parks and
-  beautiful views.
+description: Stay in this adorable 2-bedroom furnished apartment located on the
+  4th floor of brand-new building in an exclusive estate of Gacuriro nearby
+  Great Seasons hotel. Gacuriro is a quiet residential neighborhood with lots of
+  parks and beautiful views.
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/119-01.jpg
 image: /images/uploads/119-01.jpg
 area: Gacuriro
-bedrooms: '2'
-baths: '1'
+floor: "4"
+bedrooms: "2"
+baths: "1"
 furnished: Furnished
-sleeps: '4'
-garden: 'NotAvailable'
-maid: 'NotAvailable'
-tv: 'NotAvailable'
-wifi: 'Available'
-washingmachine: 'Available'
-closets: 'Available'
-pets: 'NotAvailable'
-parking: '1'
-security: 'Available'
+sleeps: "4"
+maid: NotAvailable
+tv: NotAvailable
+wifi: Available
+washingmachine: Available
+closets: Available
+pets: NotAllowed
+parking: "1"
+security: Available
 minimumstay: 1 Month
 road: __
-size: __
 plot_size: __
+size: __
 price: $ 800/month
+garden: NotAvailable
 ---
 
 {{< gallery >}}
