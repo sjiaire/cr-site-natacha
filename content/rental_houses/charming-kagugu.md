@@ -28,7 +28,7 @@ pets: Allowed
 parking: "3"
 security: Available
 minimumstay: 3 Months
-road: __
+road: Dirt
 size: __
 plot_size: __
 price: $ 1,200/month
