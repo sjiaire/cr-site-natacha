@@ -67,7 +67,7 @@ price: __
 
 {{< /gallery >}}
 
-
+{{< load-photoswipe >}}
 
 **Furnished 2-Bedroom Apartment for Rent - Rebero**
 
