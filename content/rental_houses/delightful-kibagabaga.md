@@ -31,7 +31,7 @@ minimumstay: 3 Months
 road: __
 size: __
 plot_size: 1,345 sqm
-price: Rwf 500,000/month
+price: Rwf 600,000/month
 ---
 {{< gallery >}}
 
