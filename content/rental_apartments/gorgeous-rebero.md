@@ -14,7 +14,7 @@ hidesidebar: true
 thumbnail: /images/uploads/124-01.jpg
 image: /images/uploads/124-01.jpg
 area: Rebero
-floor: "1"
+floor: 1-2
 bedrooms: "2"
 baths: "1"
 furnished: Furnished
