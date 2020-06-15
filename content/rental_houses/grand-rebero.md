@@ -33,7 +33,7 @@ minimumstay: 1 Year
 road: Paved
 size: __
 plot_size: __
-price: $1,500
+price: $1,500/month
 ---
 {{< gallery >}}
 
