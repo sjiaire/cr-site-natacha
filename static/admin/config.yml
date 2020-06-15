@@ -369,6 +369,13 @@ collections:
           default: "__",
           widget: "hidden",
         }
+      - {
+          label: "Garden",
+          name: "garden",
+          required: true,
+          widget: "hidden",
+          default: "NotAvailable",
+        }
       - { label: "Unit size", name: "size", widget: "string" }
       - { label: "Price", name: "price", required: true, widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
