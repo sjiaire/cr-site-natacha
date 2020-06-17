@@ -72,17 +72,17 @@ price: $2,500/month
 
 **Furnished 2-Bedroom Apartment for Rent - Rebero**
 
-Stay in thisluxurious2-bedroom furnished apartment locatedon the upper floors of a modern apartment building ofthe chic residential area of Rebero nearby Les Hirondelles School. Rebero is a quiet and hilly neighborhood with easy access from the city center, Remera and Kicukiro.
+Stay in this luxurious 2-bedroom furnished apartment located on the upper floors of a modern apartment building of the chic residential area of Rebero nearby Les Hirondelles School. Rebero is a quiet and hilly neighborhood with easy access from the city center, Remera and Kicukiro.
 
-This gorgeous 2-storey residence is stylish and airy. On the first floor, it has a comfortable lobby, 2 alluring bedrooms with vast closets sharing a beautiful bathroom. Upstairs, there is a brightopen floor plan. Its cosylounge opens to ahigh-end fully equippedkitchen with several appliances and to a wide balcony with panoramic views.
+This gorgeous 2-storey residence is stylish and airy. On the first floor, it has a comfortable lobby, 2 alluring bedrooms with vast closets sharing a beautiful bathroom. Upstairs, there is a bright open floor plan. Its cosy lounge opens to a high-end fully equipped kitchen with several appliances and to a wide balcony with panoramic views.
 
 In addition, high speed internet, security and maid services are available!
 
-Outdoor, there is acommunal swimming pool and parking space.
+Outdoor, there is a communal swimming pool and parking space.
 
 It is a spotless home!
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+---
 
 **Appartement meublé de 2 chambres à louer – Rebero**
 
