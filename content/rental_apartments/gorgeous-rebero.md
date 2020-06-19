@@ -1,7 +1,7 @@
 ---
 property: Apartment
 type: rentals
-availability: Available
+availability: Rented
 title: Gorgeous Rebero
 slug: 124-gorgeous-rebero
 date: 2020-06-12T15:10:46.348Z
