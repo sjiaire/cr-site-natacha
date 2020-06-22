@@ -2,8 +2,8 @@
 property: House
 type: rentals
 availability: Available
-title: Green Kimironko
-slug: 115-green-kimironko
+title: Welcoming Kimironko
+slug: 115-welcoming-kimironko
 date: 2020-06-17T10:22:12.137Z
 draft: false
 description: Stay in this colorful 7-bedroom furnished house located in the
