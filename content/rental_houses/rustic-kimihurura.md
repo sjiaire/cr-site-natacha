@@ -6,10 +6,10 @@ title: Rustic Kimihurura
 slug: 125-rustic-kimihura
 date: 2020-06-19T12:43:44.880Z
 draft: false
-description: "Stay in this charming 3-bedroom furnished house located in the
+description: Stay in this charming 3-bedroom furnished house located in the
   central residential area of Kimihurura. Kimihurura is a family-friendly
   neighborhood with several schools, restaurants and recreational activities in
-  walking distance. "
+  walking distance.
 hidesidebar: true
 thumbnail: /images/uploads/125-01.jpg
 image: /images/uploads/125-01.jpg
@@ -74,24 +74,20 @@ price: $1,700/month
 
 Stay in this charming 3-bedroom furnished house located in the central residential area of Kimihurura. Kimihurura is a family-friendly neighborhood with several schools, restaurants and recreational activities in walking distance.
 
-This rustic residence is bright and airy. It has a cosy lounge, a modern kitchen with washer, 3 spacious bedrooms with closets, 2 bathrooms and a large patio.
+This rustic residence is bright and airy. It has a cosy lounge, a modern kitchen with washer, 3 spacious bedrooms with closets, 2 beautiful bathrooms and a large patio with an amazing view.In addition, high speed internet is available!
 
-In addition, high speed internet is available!
+Outdoor, there is a mature garden, parking space and staff quarters.
 
-Outdoor, there is a beautiful garden and parking space
-
-It is a perfect home for couples or small families!
+It is a welcoming home!
 
 - - -
 
 **Maison meublée de 3 chambres à louer – Kimihurura**
 
-Séjournez dans cette charmante maison meublée de 3 chambres située dans le quartier résidentiel central de Kimihurura. Kimihurura est un quartier familial avec plusieurs écoles, restaurants et loisirs accessibles à pied.
+Séjournez dans cette charmante maison meublée de 3 chambres située dans le quartier résidentiel central de Kimihurura. Kimihurura est un quartier familial avec plusieurs écoles, restaurants et activités récréatives accessibles à pied.
 
-Cette résidence rustique est lumineuse et aérée. Elle a un salon confortable, une cuisine moderne avec une machine à laver, 3 chambres spacieuses avec des garde-robes, 2 salles de bains et une grande terrasse.
+Cette résidence rustique est lumineuse et aérée. Elle a un salon confortable, une cuisine moderne avec une machine à laver, 3 chambres spacieuses avec des garde-robes, 2 belles salles de bains et une grande terrasse avec une vue imprenable. En plus, l’internet à grande vitesse est disponible!
 
-En plus, l’internet à grande vitesse est disponible!
+A l’extérieur, il y a un jardin verdoyant, un parking et une annexe.
 
-A l’extérieur, il y a un beau jardin et un parking
-
-C’est une maison parfaite pour les couples ou les petites familles!
+C’est une maison accueillante!
