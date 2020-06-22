@@ -28,12 +28,12 @@ closets: Available
 pets: NotAllowed
 parking: "2"
 security: Available
-minimumstay: 6 Months
+minimumstay: 1 Month
 road: Paved
 plot_size: __
+garden: NotAvailable
 size: __
 price: $ 600/month
-garden: NotAvailable
 ---
 
 {{< gallery >}}
