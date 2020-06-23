@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Brand-New Kicukiro
 slug: 58-brand-new-kicukiro
-date: 2020-05-11T09:53:57.590Z
+date: 2020-04-25T09:53:57.590Z
 draft: false
 description: Stay in this splendid semi-detached 4-bedroom furnished house
   located in the authentic residential area of Kicukiro nearby St Joseph.
