@@ -70,24 +70,23 @@ price: $1,700/month
 
 {{< load-photoswipe >}}
 
-**Furnished 3-Bedroom House for Rent - Kimihurura**
+**Furnished 3-Bedroom House for Rent - Kimihurura**
 
 Stay in this charming 3-bedroom furnished house located in the central residential area of Kimihurura. Kimihurura is a family-friendly neighborhood with several schools, restaurants and recreational activities in walking distance.
-
-This rustic residence is bright and airy. It has a cosy lounge, a modern kitchen with washer, 3 spacious bedrooms with closets, 2 bathrooms and a large patio with an amazing view.In addition, high speed internet is available!
-
+ 
+This rustic residence is bright and airy. It has a cosy lounge, a modern kitchen with washer, 3 spacious bedrooms with closets, 2 bathrooms and a large patio with an amazing view. In addition, high speed internet is available!
+ 
 Outdoor, there is a large patio overlooking its mature garden, parking space and staff quarters.
 
 It is a welcoming home!
 
-- - -
-
+- - -  
 **Maison meublée de 3 chambres à louer – Kimihurura**
 
 Séjournez dans cette charmante maison meublée de 3 chambres située dans le quartier résidentiel central de Kimihurura. Kimihurura est un quartier familial avec plusieurs écoles, restaurants et activités récréatives accessibles à pied.
 
-Cette résidence rustique est lumineuse et aérée. Elle a un salon confortable, une cuisine moderne avec une machine à laver, 3 chambres spacieuses avec des garde-robes, 2 salles de bains et une grande terrasse avec une vue imprenable. En plus, l’internet à grande vitesse est disponible!
+Cette résidence rustique est lumineuse et aérée. Elle a un salon confortable, une cuisine moderne avec une machine à laver, 3 chambres spacieuses avec des garde-robes, 2 salles de bains et une grande terrasse avec une vue imprenable. En plus, l’internet à grande vitesse est disponible !
 
 A l’extérieur, il y a une grande terrasse qui donne sur son jardin verdoyant, un parking et une annexe.
 
-C’est une maison accueillante!
+C’est une maison accueillante !
