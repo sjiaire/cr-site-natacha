@@ -76,7 +76,7 @@ Stay in this charming 3-bedroom furnished house located in the central residenti
 
 This rustic residence is bright and airy. It has a cosy lounge, a modern kitchen with washer, 3 spacious bedrooms with closets, 2 beautiful bathrooms and a large patio with an amazing view.In addition, high speed internet is available!
 
-Outdoor, there is a mature garden, parking space and staff quarters.
+Outdoor, there is a large patio overlooking its mature garden, parking space and staff quarters.
 
 It is a welcoming home!
 
@@ -88,6 +88,6 @@ Séjournez dans cette charmante maison meublée de 3 chambres située dans le qu
 
 Cette résidence rustique est lumineuse et aérée. Elle a un salon confortable, une cuisine moderne avec une machine à laver, 3 chambres spacieuses avec des garde-robes, 2 belles salles de bains et une grande terrasse avec une vue imprenable. En plus, l’internet à grande vitesse est disponible!
 
-A l’extérieur, il y a un jardin verdoyant, un parking et une annexe.
+A l’extérieur, il y a une grande terrasse qui donne sur son jardin verdoyant, un parking et une annexe.
 
 C’est une maison accueillante!
