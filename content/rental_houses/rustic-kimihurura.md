@@ -70,17 +70,17 @@ price: $1,700/month
 
 {{< load-photoswipe >}}
 
-**Furnished 3-Bedroom House for Rent - Kimihurura**
-
+**Furnished 3-Bedroom House for Rent - Kimihurura**
 Stay in this charming 3-bedroom furnished house located in the central residential area of Kimihurura. Kimihurura is a family-friendly neighborhood with several schools, restaurants and recreational activities in walking distance.
- 
+
 This rustic residence is bright and airy. It has a cosy lounge, a modern kitchen with washer, 3 spacious bedrooms with closets, 2 bathrooms and a large patio with an amazing view. In addition, high speed internet is available!
- 
+
 Outdoor, there is a large patio overlooking its mature garden, parking space and staff quarters.
 
 It is a welcoming home!
 
-- - -  
+- - -
+
 **Maison meublée de 3 chambres à louer – Kimihurura**
 
 Séjournez dans cette charmante maison meublée de 3 chambres située dans le quartier résidentiel central de Kimihurura. Kimihurura est un quartier familial avec plusieurs écoles, restaurants et activités récréatives accessibles à pied.
