@@ -85,8 +85,8 @@ It is a welcoming home!
 
 Séjournez dans cette charmante maison meublée de 3 chambres située dans le quartier résidentiel central de Kimihurura. Kimihurura est un quartier familial avec plusieurs écoles, restaurants et activités récréatives accessibles à pied.
 
-Cette résidence rustique est lumineuse et aérée. Elle a un salon confortable, une cuisine moderne avec une machine à laver, 3 chambres spacieuses avec des garde-robes, 2 salles de bains et une grande terrasse avec une vue imprenable. En plus, l’internet à grande vitesse est disponible !
+Cette résidence rustique est lumineuse et aérée. Elle a un salon confortable, une cuisine moderne avec une machine à laver, 3 chambres spacieuses avec des garde-robes, 2 salles de bains et une grande terrasse avec une vue imprenable. En plus, l’internet à grande vitesse est disponible!
 
 A l’extérieur, il y a une grande terrasse qui donne sur son jardin verdoyant, un parking et une annexe.
 
-C’est une maison accueillante !
+C’est une maison accueillante!
