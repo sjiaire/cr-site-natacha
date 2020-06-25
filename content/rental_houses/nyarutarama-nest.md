@@ -70,24 +70,25 @@ price: $2,500/month
 
 {{< load-photoswipe >}}
 
+
 **Furnished 3-Bedroom House for Rent - Nyarutarama**
 
-Stay in this stunning 3-bedroom furnished house located in the exclusive estate area of Nyarutarama nearby MTN Center. Nyarutarama is a calm and family-friendly neighborhood with several schools, restaurants and recreational activities in walking distance.
+Stay in this stunning 3-bedroom furnished house located in an exclusive estate of Nyarutarama nearby MTN Center. Nyarutarama is a calm and fancy area with several international schools, bars and restaurants.
 
-This cosy residence is stylish and functional. It has a spacious lounge, a beautiful American kitchen with a washer, 3 charming en suite bedrooms including a master bedroom with a terrace and a study. In addition high speed internet is available!
+This cosy residence is stylish and functional. It has a beautiful lounge opens to a fully-equipped American kitchen with a washer, 3 charming en suite bedrooms with closets including one with a terrace and a study. In addition, high speed internet is available!
 
 Outdoor, there is a pleasant patio, a flowery garden, parking space and staff quarters.
 
-It is a cosy home!
+It is a stunning home!
 
 - - -
 
 **Maison meublée de 3 chambres à louer - Nyarutarama**
 
-Séjournez dans cette superbe maison meublée de 3 chambres située dans le domaine exclusif de Nyarutarama à proximité du centre MTN. Nyarutarama est un quartier calme et familial avec plusieurs écoles, restaurants et activités récréatives à distance de marche.
+Séjournez dans cette superbe maison meublée de 3 chambres située dans un quartier exclusif de Nyarutarama à proximité de MTN Center. Nyarutarama est un quartier calme et chic avec plusieurs écoles internationales, bars et restaurants.
 
-Cette résidence confortable est élégante et fonctionnelle. Elle dispose d’un salon spacieux, d’une belle cuisine américaine avec une machine à lave, de 3 charmantes chambres en suite dont une chambre principale avec une terrace et un bureau. En plus, l’internet à haute vitesse est disponible!
+Cette résidence confortable est élégante et fonctionnelle. Elle dispose d’un beau salon ouvert sur une cuisine américaine entièrement équipée avec une machine à lave, de 3 charmantes chambres en suite avec des garde-robes dont une avec terrasse et un bureau. En plus, l’internet à haute vitesse est disponible!
 
-En extérieur, il y a une terrasse agréable, un jardin fleuri, un parking et des annexes.
+A l’extérieur, il y a une terrasse agréable, un jardin fleuri, un parking et des annexes.
 
-C’est une maison confortable !
+C’est une maison magnifique!
