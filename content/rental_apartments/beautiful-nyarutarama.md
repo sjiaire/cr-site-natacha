@@ -32,7 +32,7 @@ road: Dirt
 plot_size: __
 garden: NotAvailable
 size: __
-price: $600
+price: $600/month
 ---
 {{< gallery >}}
 
