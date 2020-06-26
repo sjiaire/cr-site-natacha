@@ -20,12 +20,7 @@
                     style="color:#fab300; border-color: #fab300; border-style: solid; border-width: 2px; border-radius: 4px; padding: 3px; ">
                     {{ .Params.price }}</h3>
             </div>
-            {{ if ne "__" .Params.road}}
-            <div>
-                <img width="40px" src="/images/road.svg" />
-                <h6 style="color: #665a5a;">Road: {{ .Params.road }}</h6>
-            </div>
-            {{end}}
+
             {{ if eq .Params.property "Land for Sale"}}
             <br />
             <div class="list-features">
@@ -61,6 +56,12 @@
 
             </div>
             {{ end }}
+            {{ if ne "__" .Params.road}}
+            <div>
+                <img width="40px" src="/images/road.svg" />
+                <h6 style="color: #665a5a;">Road: {{ .Params.road }}</h6>
+            </div>
+            {{end}}
 
             {{ end }}
         </div>
