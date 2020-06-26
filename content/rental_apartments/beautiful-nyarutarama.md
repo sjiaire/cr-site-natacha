@@ -60,7 +60,7 @@ price: $600
 
 **Apartment for Rent - Nyarutarama**
 
-Stay in this neat 2-bedroom furnished apartment located on the 1st floor of a brand-new apartment building in an exclusive estate of Nyarutarama nearby Cali Fitness. Nyarutarama is a calm and fancy area with several international schools, bars and restaurants.
+Stay in this neat 2-bedroom furnished apartment located on the 1st floor of a new apartment building in an exclusive estate of Nyarutarama nearby Cali Fitness. Nyarutarama is a calm and fancy area with several international schools, bars and restaurants.
 
 This beautiful residence is bright and airy. It has a welcoming lounge, a functional equipped kitchen, a comfortable bedroom and an en suite with a bathtub and a balcony. In addition, estate security service is available!
 
@@ -72,12 +72,10 @@ It is a pleasant home!
 
 **Appartement meublé de 2 chambres à louer – Nyarutarama**
 
-
-
 Séjournez dans cet appartement meublé soigné de 2 chambres situé au 1er étage d’un immeuble neuf dans un quartier exclusif de Nyarutarama à proximité de Cali Fitness. Nyarutarama est un quartier calme et chic avec plusieurs écoles internationales, bars et restaurants.
 
-Cette belle résidence est lumineuse et aérée. Elle dispose d’un salon accueillant, d’une cuisine fonctionnelle équipée, d’une chambre confortable et d’une suite avec une baignoire et un balcon. En plus, un service de sécurité est disponible !
+Cette belle résidence est lumineuse et aérée. Elle dispose d’un salon accueillant, d’une cuisine équipée fonctionnelle, d’une chambre confortable et d’une suite avec une baignoire et un balcon. En plus, un service de sécurité est disponible 
 
-À l’extérieur, il y a une cour commune et un parking.
+À l’extérieur, il y a une cour et un parking communs.
 
 C’est un logement agréable!
