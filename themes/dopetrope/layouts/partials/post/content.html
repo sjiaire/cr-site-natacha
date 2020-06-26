@@ -56,12 +56,7 @@
 
             </div>
             {{ end }}
-            {{ if ne "__" .Params.road}}
-            <div>
-                <img width="40px" src="/images/road.svg" />
-                <h6 style="color: #665a5a;">Road: {{ .Params.road }}</h6>
-            </div>
-            {{end}}
+
 
             {{ end }}
         </div>
@@ -180,6 +175,12 @@
                 <h6 style="color: #665a5a;">Size: {{ .Params.size }}</h6>
             </div>
             {{ end }}
+            {{ if ne "__" .Params.road}}
+            <div>
+                <img width="40px" src="/images/road.svg" />
+                <h6 style="color: #665a5a;">Road: {{ .Params.road }}</h6>
+            </div>
+            {{end}}
 
             {{ if ne "__" .Params.plot_size}}
             <div>
