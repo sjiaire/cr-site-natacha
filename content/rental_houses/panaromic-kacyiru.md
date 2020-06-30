@@ -31,7 +31,7 @@ security: Available
 minimumstay: 3 Months
 road: Dirt
 size: __
-plot_size: ___
+plot_size: __
 price: Rwf 500,000/month
 ---
 {{< gallery >}}
