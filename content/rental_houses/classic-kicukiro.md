@@ -32,7 +32,7 @@ minimumstay: 1 Year
 road: Dirt
 size: __
 plot_size: 1,080 sqm
-price: Rwf 1,100,000/month
+price: Rwf 1,000,000/month
 ---
 {{< gallery >}}
 
