@@ -34,7 +34,7 @@ size: __
 plot_size: __
 price: $ 800 / month
 ---
-_ {{< gallery >}}
+{{< gallery >}}
 
 {{< figure src="/images/uploads/103-01.jpg" >}}
 
@@ -76,7 +76,8 @@ Stay in this comfortable 3-bedroom furnished house located in an exclusive estat
 
 This beautiful 2-storey residence is stylish and functional. On the ground floor, it has a colorful lounge, a fully-equipped kitchen with washer and a laundry room. Upstairs, there are 2 regular bedrooms sharing a bathroom and a spacious en suite bedroom with a bathtub. In addition, high-speed internet is available! 
 
-Outdoor, there is a pleasant patio, a flowery garden, parking space and staff quarters. In addition, the estate has communal garden for residents.\
+Outdoor, there is a pleasant patio, a flowery garden, parking space and staff quarters. In addition, the estate has communal garden for residents.
+
 It is a welcoming home!
 
 - - -
