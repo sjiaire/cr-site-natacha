@@ -88,6 +88,6 @@ Séjournez dans cette confortable maison de 4 chambres située dans le quartier 
 
 Cette résidence de 2 étages est spacieuse et moderne. Au rez-de-chaussée, elle dispose d’un salon lumineux, d’une grande cuisine et d’une belle chambre avec salle de bains privative. A l’étage, il y a 3 autres chambres en suite dont une avec balcon privé offrant une vue magnifique.
 
-A l’extérieur, il y a une grande terrasse agréable, une cour verte et une vaste annexe.
+A l’extérieur, il y a une terrasse agréable, une cour fleurie et une vaste annexe.
 
 C’est une maison paisible!
