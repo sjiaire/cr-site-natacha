@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Panaromic Kacyiru
 slug: 126-panaromic-kacyiru
 date: 2020-06-29T11:07:48.062Z
