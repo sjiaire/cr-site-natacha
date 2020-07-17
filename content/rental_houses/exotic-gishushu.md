@@ -13,7 +13,7 @@ description: "Stay in this welcoming 4-bedroom semi-furnished house located on
 hidesidebar: true
 thumbnail: /images/uploads/107-01.jpg
 image: /images/uploads/107-01.jpg
-area: Kacyiru
+area: Gishushu
 floor: __
 bedrooms: "4"
 baths: "3"
@@ -70,15 +70,13 @@ price: $1,800/month
 
 {{< load-photoswipe >}}
 
-
-
 **Semi-Furnished 4-Bedroom House for Rent - Gishushu**
 
 Stay in this welcoming 4-bedroom semi-furnished house located on the upper level of a stylish complex of Gishushu nearby Gasabo District Office. Gishushu is a quiet residential area conveniently located nearby RDB, Nyarutarama and Kacyiru business area.
 
-This exotic 2-storey residence is modern and refined. On the ground floor, it has a bright lounge bathed with natural light open to a wooden equipped kitchen, an en suite bedroom and a balcony with a great view. Downstairs, there is a 2 spacious bedrooms sharing a bathroom and a beautiful en suite with large closets and an open view. In addition, high-speed internet and security are available!
+This exotic 2-storey residence is modern and refined. On the ground floor, it has a bright lounge bathed with natural light open to a wooden equipped kitchen, an en suite bedroom and a balcony with a great view. Downstairs, there are 2 spacious[](<>) bedrooms sharing a bathroom, a beautiful en suite with large closets and an open view. In addition, high-speed internet and security are available!
 
-Outdoor, there is a patio, a quiet studio, a parking space and staff quarters.
+Outdoor, there is a vast patio on the lower floor, private parking space, taff quarters and a cosy studio apartment.
 
 It is a gorgeous home!
 
@@ -86,10 +84,10 @@ It is a gorgeous home!
 
 **Maison de 4 chambres à louer - Gishushu**
 
-Séjournez dans cette accueillante maison semi-meublée de 4 chambres située à l’étage supérieur d’un complexe élégant de Gishushu à proximité du bureau du district de Gasabo. Gishushu est un quartier résidentiel calme idéalement situé à proximité RDB, Nyarutarama et Kacyiru zone d’affaires.
+Séjournez dans cette accueillante maison semi-meublée de 4 chambres située à l’étage supérieur d’un complexe élégant de Gishushu à proximité du bureau du District de Gasabo. Gishushu est un quartier résidentiel calme idéalement situé à proximité RDB, Nyarutarama et Kacyiru.
 
-Cette résidence exotique de 2 étages est moderne et raffinée. Au rez-de-chaussée, elle dispose de un salon lumineux baigné de lumière naturelle ouvert sur une cuisine équipée en bois, d’une chambre en suite et d’un balcon avec une vue magnifique. En bas, il y a 2 chambres spacieuses partageant une salle de bains, une belle suite avec de grandes garde-robes et une vue dégagée. En plus, l’internet à grande vitesse et la sécurité sont disponibles!
+Cette résidence exotique de 2 étages est moderne et raffinée. Au rez-de-chaussée, elle dispose d’un salon lumineux ouvert sur une cuisine équipée en bois, d’une chambre en suite et un balcon avec une vue magnifique. En bas, il y a 2 chambres spacieuses partageant une salle de bains et une belle suite avec de grandes garde-robes et une vue dégagée. En plus, l’internet à grande vitesse et la sécurité sont disponibles!
 
-En extérieur, il y a une terrasse, un studio calme, un parking et une annexe.
+A l’extérieur, il y a une vaste terrasse à l’étage inférieur ainsi qu’un parking privé, une annexe et un studio confortable à l’étage supérieur.
 
 C’est un logement magnifique!
