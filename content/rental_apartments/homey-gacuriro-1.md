@@ -30,9 +30,9 @@ security: Available
 minimumstay: 1 Month
 road: Paved
 plot_size: __
-size: __
-price: $ 800/month
 garden: NotAvailable
+size: __
+price: $ 600/month
 ---
 
 {{< gallery >}}
