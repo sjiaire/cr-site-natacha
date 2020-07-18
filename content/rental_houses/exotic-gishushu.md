@@ -88,6 +88,6 @@ Séjournez dans cette accueillante maison semi-meublée de 4 chambres située à
 
 Cette résidence exotique de 2 étages est moderne et raffinée. Au rez-de-chaussée, elle dispose d’un salon lumineux ouvert sur une cuisine équipée en bois, d’une chambre en suite et un balcon avec une vue magnifique. En bas, il y a 2 chambres spacieuses partageant une salle de bains et une belle suite avec de grandes garde-robes et une vue dégagée. En plus, l’internet à grande vitesse et la sécurité sont disponibles!
 
-À l’extérieur, il y a un parking privé, des annexes et un agréable studio au rez-de-chaussée ainsi qu'un vaste patio à l’étage inférieur.
+À l’extérieur, il y a un parking privé, des annexes et un agréable studio au rez-de-chaussée ainsi qu'une vaste terrasse à l’étage inférieur.
 
 C’est un logement magnifique!
