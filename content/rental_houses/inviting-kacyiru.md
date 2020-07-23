@@ -15,8 +15,8 @@ thumbnail: /images/uploads/128-01.jpg
 image: /images/uploads/128-01.jpg
 area: Kacyiru
 floor: __
-bedrooms: "3"
-baths: "2"
+bedrooms: "4"
+baths: "3"
 furnished: Furnished
 sleeps: 6+
 garden: Available
@@ -70,24 +70,24 @@ price: Rwf 600,000/month
 
 {{< load-photoswipe >}}
 
-**Furnished 3-Bedroom House for Rent - Kacyiru**
+**Furnished 4-Bedroom House for Rent - Kacyiru**
 
-Stay in this lovely 3-bedroom furnished house located in the residential neighborhood of Kacyiru nearby Police Headquarters. Kacyiru is an authentic residential neighborhood with several schools, shops and restaurants with easy access to the city center.
+Stay in this lovely 4-bedroom furnished house located in the central area of Kacyiru nearby Kacyiru Hospital. Kacyiru is an authentic neighborhood with several schools, shops and restaurants with easy access to the city center.
 
-This inviting residence is comfortable and functional. It has a spacious lounge, an equipped kitchen, 2 quiet bedrooms sharing a bathroom and a charming en suite bedroom.
+This inviting residence is comfortable and functional. It has a spacious lounge, a small kitchen, 4 quiet bedrooms including an en suite and 2 bathrooms.
 
-Outdoor, there is a large patio, a pretty garden, parking space and staff quarters.
+Outdoor, there is a large patio, a pretty garden, parking space and vast staff quarters.
 
 It is an intimate home!
 
 - - -
 
-**Maison meublée de 3 chambres à louer - Kacyiru**
+**Maison meublée de 4 chambres à louer – Kacyiru**
 
-Séjournez dans cette charmante maison meublée de 3 chambres située dans le quartier résidentiel de Kacyiru à proximité du siège de la Police. Kacyiru est un quartier résidentiel authentique avec plusieurs écoles, magasins et restaurants avec un accès facile au centre-ville.
+Séjournez dans cette charmante maison meublée de 4 chambres située dans le quartier central de Kacyiru, près de l’hôpital Kacyiru. Kacyiru est un quartier authentique avec plusieurs écoles, magasins et restaurants avec un accès facile au centre-ville.
 
-Cette résidence accueillante est confortable et fonctionnelle. Elle dispose d’un salon spacieux, d’une cuisine équipée, de 2 chambres calmes partageant une salle de bains et d’une charmante chambre en suite.
+Cette résidence accueillante est confortable et fonctionnelle. Elle dispose d’un salon spacieux, d’une petite cuisine, de 4 chambres calmes dont une suite et de 2 salles de bains.
 
-A l’extérieur, il y a une grande terrasse, un joli jardin, un parking et des annexes.
+A l’extérieur, il y a une grande terrasse, un joli jardin, un parking et des vastes annexes.
 
-C’est une maison intime!
+C’est un logement intime!
