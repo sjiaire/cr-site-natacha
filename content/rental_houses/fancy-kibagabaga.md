@@ -83,10 +83,10 @@ It is a fabulous home!
 
 **Maison meublée de 4 chambres à louer - Kibagabaga**
 
-Séjournez dans cette maison jumelée meublée de 4 chambres située dans le quartier résidentiel de Kibagabaga à proximité de sa mosquée. Kibagabaga est un quartier moderne avec plusieurs écoles et à proximité du marché Kimironko.
+Séjournez dans cette maison jumelée meublée de 4 chambres située dans le quartier résidentiel de Kibagabaga à proximité de sa mosquée. Kibagabaga est un quartier moderne avec plusieurs écoles et à proximité du marché de Kimironko.
 
 Cette résidence de 2 étages est confortable et élégante. Au rez-de-chaussée, elle dispose d’un salon aéré, d’une superbe cuisine avec lave-linge, d’une chambre accueillante et d’une salle de bains. À l’étage, il y a 2 magnifiques chambres partageant une salle de bains et une suite luxueuse avec un dressing et une baignoire. En plus, l’internet à haut débit est disponible!
 
-À l’extérieur, il y a un grand porche et un balcon avec vue dégagée, un parking et des annexes.
+À l’extérieur, il y a un grand porche et un balcon avec une vue dégagée, un parking et des annexes.
 
 C’est un logement fabuleux!
