@@ -28,7 +28,7 @@ closets: Available
 pets: Allowed
 parking: 6+
 security: NotAvailable
-minimumstay: 1 Month
+minimumstay: 1 Year
 road: Paved
 size: 200 sqm
 plot_size: __
