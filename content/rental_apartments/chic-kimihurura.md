@@ -74,9 +74,9 @@ price: $800/month
 
 Stay in this gorgeous 2-bedroom apartment located on the 2nd floor of a commodious building of Kimihurura nearby Zenora Wellness Center. Kimihurura is a family-friendly neighborhood with several schools, restaurants and recreational activities in walking distance.
 
-This chic residence is fresh and quiet. It has a charming lounge, an American kitchen with washer, 2 pleasant en suite bedrooms with closets including one with a bath tub. In addition, high-speed internet and security are available!
+This chic residence is fresh and quiet. It has a charming lounge, an American kitchen with washer and 2 pleasant en suite bedrooms with closets including one with a bath tub. In addition, high-speed internet and security are available!
 
-Outdoor, there is a large balcony with beautiful views, parking space and staff quarters.
+Outdoor, there is a large balcony with beautiful views, shared parking space and staff quarters.
 
 It is an elegant home!
 
@@ -86,8 +86,8 @@ It is an elegant home!
 
 Séjournez dans ce magnifique appartement de 2 chambres situé au 2ème étage d’un immeuble spacieux de Kimihurura à proximité du Zenora Wellness Center. Kimihurura est un quartier familial avec plusieurs écoles, restaurants et activités récréatives accessibles à pied.
 
-Cette résidence chic est fraîche et calme. Elle dispose d’un charmant salon, d’une cuisine américaine avec un lave-linge, de 2 agréables chambres en suite avec garde-robes dont une avec baignoire. En plus, l’Internet haut débit et la sécurité sont disponibles!
+Cette résidence chic est fraîche et calme. Elle dispose d’un charmant salon, d’une cuisine américaine avec un lave-linge et de 2 agréables chambres en suite avec garde-robes dont une avec baignoire. En plus, l’internet haut débit et la sécurité sont disponibles!
 
-À l’extérieur, il y a un grand balcon avec une belle vue, un parking et des annexes.
+À l’extérieur, il y a un grand balcon avec une belle vue, un parking commun et des annexes.
 
 C’est un logement élégant!
