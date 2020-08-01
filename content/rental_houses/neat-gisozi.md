@@ -30,7 +30,7 @@ security: NotAvailable
 minimumstay: 1 Year
 road: __
 size: __
-plot_size: __
+plot_size: 670 sqm
 price: __
 ---
 {< gallery >}}
