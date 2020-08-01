@@ -10,7 +10,7 @@ description: Stay in this modern 4-bedroom house located in the residential area
   of Gisozi nearby Agakinjiro. Gisozi is a quiet neighborhood with several
   international schools and easy access to the City Center.
 hidesidebar: true
-thumbnail: /images/uploads/120-01.jpg
+thumbnail: /images/uploads/120-13.jpg
 image: /images/uploads/120-01.jpg
 area: Gisozi
 floor: __
