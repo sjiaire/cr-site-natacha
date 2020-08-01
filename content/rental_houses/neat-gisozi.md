@@ -31,7 +31,7 @@ minimumstay: 1 Year
 road: __
 size: __
 plot_size: 670 sqm
-price: __
+price: $800/moth
 ---
 {< gallery >}}
 
