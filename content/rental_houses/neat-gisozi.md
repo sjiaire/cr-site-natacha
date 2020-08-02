@@ -28,7 +28,7 @@ pets: Allowed
 parking: "3"
 security: NotAvailable
 minimumstay: 1 Year
-road: __
+road: Dirt
 size: __
 plot_size: 670 sqm
 price: $800/month
