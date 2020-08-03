@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Neat Gisozi
 slug: 120-neat-gisozi
-date: 2020-08-01T08:07:34.337Z
+date: 2020-08-03T04:41:22.238Z
 draft: false
 description: Stay in this modern 4-bedroom house located in the residential area
   of Gisozi nearby Agakinjiro. Gisozi is a quiet neighborhood with several
@@ -75,7 +75,7 @@ Stay in this modern 4-bedroom house located in the residential area of Gisozi ne
 
 This neat 2-storey residence is cosy and stylish. On the ground floor, it has a bright lounge, a classic kitchen and 3 lovely bedrooms with closets. Upstairs, there is a large en suite bedroom with a walk-in closet and a bath tub. In addition, high speed internet is available!
 
-Outdoor, there is a vast rooftop terrace offering a beautiful views, parking space and staff quarters.
+Outdoor, there is a vast rooftop terrace offering beautiful views, parking space and staff quarters.
 
 It is a remarkable home!
 
@@ -85,8 +85,8 @@ It is a remarkable home!
 
 Séjournez dans cette maison moderne de 4 chambres située dans le quartier résidentiel de Gisozi à proximité de l’Agakinjiro. Gisozi est un quartier calme avec plusieurs écoles internationales et un accès facile au centre-ville.
 
-Cette résidence soignée de 2 étages est accueillante et élégante. Au rez-de-chaussée, elle dispose d’un salon lumineux, d’une cuisine classique et de 3 belles chambres avec garde-robes. À l’étage, il y a une grande chambre en suite avec un dressing et une baignoire. En plus, internet haut débit est disponible!
+Cette résidence soignée de 2 étages est accueillante et élégante. Au rez-de-chaussée, elle dispose d’un salon lumineux, d’une cuisine classique et de 3 belles chambres avec garde-robes. À l’étage, il y a une grande chambre en suite avec un dressing et une baignoire. En plus, l'internet haut débit est disponible!
 
-A l’extérieur, il y a un vaste toit offrant une vue magnifique, un parking et des annexes.
+A l’extérieur, il y a une vaste terrasse sur le toit offrant une vue magnifique, un parking et des annexes.
 
 C’est une un logement remarquable!
