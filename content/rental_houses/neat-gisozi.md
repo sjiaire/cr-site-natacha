@@ -14,9 +14,9 @@ thumbnail: /images/uploads/120-01.jpg
 image: /images/uploads/120-01.jpg
 area: Gisozi
 floor: __
-bedrooms: "4"
-baths: "3"
-furnished: " "
+bedrooms: '4'
+baths: '3'
+furnished: ' '
 sleeps: None
 garden: Available
 maid: NotAvailable
@@ -25,7 +25,7 @@ wifi: Available
 washingmachine: NotAvailable
 closets: Available
 pets: Allowed
-parking: "3"
+parking: '3'
 security: NotAvailable
 minimumstay: 1 Year
 road: Dirt
@@ -33,7 +33,8 @@ size: __
 plot_size: 670 sqm
 price: $800/month
 ---
-{< gallery >}}
+
+{{< gallery >}}
 
 {{< figure src="/images/uploads/120-01.jpg" >}}
 
@@ -79,7 +80,7 @@ Outdoor, there is a vast rooftop terrace offering beautiful views, parking space
 
 It is a remarkable home!
 
-- - -
+---
 
 **Maison de 4 chambres à louer - Gisozi**
 
