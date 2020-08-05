@@ -66,6 +66,16 @@ price: $1,800/month
 
 {{< figure src="/images/uploads/107-15.jpg" >}}
 
+{{< figure src="/images/uploads/107-16.jpg" >}}
+
+{{< figure src="/images/uploads/107-17.jpg" >}}
+
+{{< figure src="/images/uploads/107-18.jpg" >}}
+
+{{< figure src="/images/uploads/107-19.jpg" >}}
+
+{{< figure src="/images/uploads/107-20.jpg" >}}
+
 {{< /gallery >}}
 
 {{< load-photoswipe >}}
