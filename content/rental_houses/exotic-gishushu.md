@@ -30,8 +30,8 @@ parking: "2"
 security: Available
 minimumstay: 1 Year
 road: Paved
-size: __
-plot_size: __
+size: 275 sqm
+plot_size: 143 sqm
 price: $1,800/month
 ---
 {{< gallery >}}
