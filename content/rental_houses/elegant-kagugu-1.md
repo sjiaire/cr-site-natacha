@@ -3,7 +3,7 @@ property: House
 type: rentals
 availability: Available
 title: Executive Kagugu
-slug: 24-elegant-kagugu
+slug: 24-executive-kagugu
 date: 2020-08-14T14:07:00.001Z
 draft: false
 description: Stay in this commodious 6-bedroom furnished house located in the
