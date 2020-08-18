@@ -2,7 +2,7 @@
 property: House
 type: rentals
 availability: Available
-title: Elegant Kagugu
+title: Executive Kagugu
 slug: 24-elegant-kagugu
 date: 2020-08-14T14:07:00.001Z
 draft: false
