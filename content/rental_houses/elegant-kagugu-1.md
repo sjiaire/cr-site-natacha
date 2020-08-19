@@ -15,7 +15,7 @@ image: /images/uploads/024-01.jpg
 area: Kagugu
 floor: __
 bedrooms: 6+
-baths: "3"
+baths: 4+
 furnished: Furnished
 sleeps: 6+
 garden: Available
