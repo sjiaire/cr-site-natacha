@@ -86,7 +86,7 @@ Stay in this commodious 6-bedroom furnished house located in the residential are
 
 This executive 2-storey residence is vast and delightful. On the ground floor, it has a well-appointed lounge, a luxurious kitchen, 3 welcoming bedrooms and a bathroom. Upstairs, there is another lounge bathed with natural light and 3 en suite bedrooms with balconies offering an open view including one with a walk-in closet. In addition, high-speed internet is available!
 
-Outdoor, there is a terrace open to a beautiful garden, wide parking space with a carport, and fully-equipped staff quarters.
+Outdoor, there is a terrace open to a beautiful garden, wide parking space with a carport and fully-equipped staff quarters.
 
 It is an ideal home!
 
@@ -94,11 +94,9 @@ It is an ideal home!
 
 **Maison meublée de 6 chambres à louer – Kagugu**
 
-
-
 Séjournez dans cette commode maison meublée de 6 chambres située dans le quartier résidentiel de Kagugu à proximité du Airtel Data Center. Kagugu est un quartier calme et chic proche des magasins et des écoles internationales.
 
-Cette résidence exécutive de 2 étages est vaste et charmante. Au rez-de-chaussée, Elle dispose d’un salon bien aménagé, d’une cuisine luxueuse, de 3 chambres accueillantes et d’une salle de bains. A l’étage, il y a un autre salon lumineux et 3 chambres en suite avec balcons offrant une vue dégagée dont une avec un dressing. En plus, l’internet haut débit est disponible!
+Cette résidence exécutive de 2 étages est vaste et charmante. Au rez-de-chaussée, elle dispose d’un salon bien aménagé, d’une cuisine luxueuse, de 3 chambres accueillantes et d’une salle de bains. A l’étage, il y a un autre salon lumineux et 3 chambres en suite avec balcons offrant une vue dégagée dont une avec un dressing. En plus, l’internet haut débit est disponible!
 
 À l’extérieur, il y a une terrasse qui donne sur un beau jardin, un grand parking partiellement couvert et des annexes entièrement équipées.
 
