@@ -90,7 +90,7 @@ Outdoor, there is a terrace open to a beautiful garden, wide parking space with 
 
 It is an ideal home!
 
-\- - -
+- - -
 
 **Maison meublée de 6 chambres à louer – Kagugu**
 
