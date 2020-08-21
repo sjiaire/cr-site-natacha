@@ -74,7 +74,7 @@ price: $600/month
 
 Stay in this beautiful semi-detached 4-bedroom furnished house located in the residential area of Kimironko nearby Kwa Mushimire. Kimironko is a lively neighborhood with easy access to the central market and public transportation.
 
-This pleasant 2-storey residence is cosy and functional. On the ground floor, it has a bright lounge, a large equipped kitchen and a nice bedroom. Upstairs, there are 2 inviting bedrooms sharing a bathroom and an en suite bedroom with a bath tub and a balcony offering nice views.
+This pleasant 2-storey residence is cosy and functional. On the ground floor, it has a bright lounge, a large equipped kitchen and a comfortable bedroom. Upstairs, there are 2 inviting bedrooms sharing a bathroom and an en suite bedroom with a bath tub and a balcony offering nice views.
 
 Outdoor, there is lovely terrace overlooking a small garden, parking space and staff quarters.
 
@@ -86,8 +86,8 @@ It is a welcoming home!
 
 Séjournez dans cette belle maison jumelée meublée de 4 chambres située dans le quartier résidentiel de Kimironko à proximité de Kwa Mushimire. Kimironko est un quartier animé avec un accès facile au marché central et aux transports publics.
 
-Cette agréable résidence de 2 étages est accueillante et fonctionnelle. Au rez-de-chaussée, elle dispose d’un salon lumineux, d’une grande cuisine équipée et d’une belle chambre. À l’étage, il y a 2 chambres attrayantes partageant une salle de bains et une chambre en suite avec une baignoire et un balcon offrant une belle vue.
+Cette agréable résidence de 2 étages est accueillante et fonctionnelle. Au rez-de-chaussée, elle dispose d’un salon lumineux, d’une grande cuisine équipée et d’une chambre confortable. À l’étage, il y a 2 chambres attrayantes partageant une salle de bains et une chambre en suite avec une baignoire et un balcon offrant une belle vue.
 
-A l’extérieur, il y a une belle terrasse qui donne sur un petit jardin, un parking et des annexes.
+A l’extérieur, il y a une jolie terrasse qui donne sur un petit jardin, un parking et des annexes.
 
 C’est un logement accueillant!
