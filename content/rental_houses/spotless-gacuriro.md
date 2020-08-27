@@ -63,21 +63,21 @@ price: $1,500/month
 
 {{< figure src="/images/uploads/053-14.jpg" >}}
 
-{{< figure src="/images/uploads/053-15.jpg" >}}
-
 {{< /gallery >}}
 
 {{< load-photoswipe >}}
 
+
+
 **Furnished 4-Bedroom House for Rent - Gacuriro**
 
-Stay in this Classic 4-bedroom furnished house located in the family-friendly estate of Vision 2020 in Gacuriro nearby. Gacuriro is a quiet neighborhood with lots of parks and beautiful views. 
+Stay in this classic 4-bedroom furnished house located in the family-friendly estate of Vision 2020 in Gacuriro nearby Airtel Data Centre. Gacuriro is a quiet neighborhood with lots of parks and beautiful views.
 
-This spotless 2-storey residence is vast and neat. On the ground floor, it has a comfortable lounge, a fully-equipped kitchen with a washer and a bright en suite bedroom. Upstairs, there are 3 spacious en suite bedrooms with bath tubs including one with a walk-in closet, a study room and a balcony with a pretty view. In addition, high-speed internet is available!
+This spotless 2-storey residence is vast and neat. On the ground floor, it has a comfortable lounge, a fully-equipped kitchen with a washer and a bright en suite bedroom. Upstairs, there are 3 spacious en suite bedrooms with bath tubs including one with a walk-in closet, a study room and a balcony with a pretty view.
 
-Outdoor, there is a wide terrace, a small garden, large parking space and staff quarters. 
+Outdoor, there is a wide terrace, a small garden, large parking space and staff quarters.
 
-It is a peaceful home! 
+It is a peaceful home!
 
 ---
 
@@ -85,7 +85,7 @@ It is a peaceful home!
 
 Séjournez dans cette maison meublée classique de 4 chambres située dans le quartier familial de Gacuriro Vision 2020, à proximité du Airtel Data Centre. Gacuriro est un quartier calme avec beaucoup de parcs et de belles vues.
 
-Cette résidence impeccable de 2 étages est vaste et soignée. Au rez-de-chaussée, Elle dispose d’un salon confortable, d’une cuisine entièrement équipée avec lave-linge et d’une chambre ensuite lumineuse. A l’étage, il y a 3 chambres ensuite spacieuses avec baignoire dont une avec un dressing, un bureau et un balcon avec une jolie vue. En plus, l’Internet haute débit est disponible !
+Cette résidence impeccable de 2 étages est vaste et soignée. Au rez-de-chaussée, Elle dispose d’un salon confortable, d’une cuisine entièrement équipée avec lave-linge et d’une chambre en suite lumineuse. A l’étage, il y a 3 chambres en suite spacieuses avec baignoire dont une avec un dressing, un bureau et un balcon avec une jolie vue.
 
 A l’extérieur, il y a une grande terrasse, un petit jardin, un large parking et des annexes.
 
