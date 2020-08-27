@@ -80,24 +80,24 @@ price: $1,800/month
 
 {{< load-photoswipe >}}
 
-**Furnished 6-Bedroom House for Rent - Kagugu**
+**Semi-Furnished 4-Bedroom House for Rent - Gishushu**
 
-Stay in this commodious 6-bedroom furnished house located in the residential area of Kagugu nearby Airtel Data Centre. Kagugu is a quiet and fancy neighborhood close to shops and international schools.
+Stay in this welcoming 4-bedroom semi-furnished house located on the upper level of a stylish complex of Gishushu nearby Gasabo District Office. Gishushu is a quiet residential area conveniently located nearby Remera, Nyarutarama and Kacyiru business area.
 
-This executive 2-storey residence is vast and delightful. On the ground floor, it has a well-appointed lounge, a luxurious kitchen, 3 welcoming bedrooms and a bathroom. Upstairs, there is another lounge bathed with natural light and 3 en suite bedrooms with balconies offering an open view including one with a walk-in closet. In addition, high-speed internet is available!
+This exotic 2-storey residence is modern and refined. On the ground floor, it has a bright lounge bathed with natural light open to a wooden equipped kitchen, an en suite bedroom and a balcony with a great view. Downstairs, there are 2 spacious bedrooms sharing a bathroom, a beautiful en suite bedroom with large closets and an open view. In addition, high-speed internet and security are available!
 
-Outdoor, there is a terrace open to a beautiful garden, wide parking space with a carport and fully-equipped staff quarters.
+Outdoor, there is private parking space, staff quarters and a cosy studio apartment on the ground floor as well as a vast patio on the lower floor.
 
-It is an ideal home!
+It is a gorgeous home!
 
 - - -
 
-**Maison meublée de 6 chambres à louer – Kagugu**
+**Maison semi-meublée de 4 chambres à louer - Gishushu**
 
-Séjournez dans cette commode maison meublée de 6 chambres située dans le quartier résidentiel de Kagugu à proximité du Airtel Data Center. Kagugu est un quartier calme et chic proche des magasins et des écoles internationales.
+Séjournez dans cette accueillante maison semi-meublée de 4 chambres située à l’étage supérieur d’un complexe élégant de Gishushu à proximité du bureau du District de Gasabo. Gishushu est un quartier résidentiel calme idéalement situé à proximité de Remera, Nyarutarama et Kacyiru.
 
-Cette résidence exécutive de 2 étages est vaste et charmante. Au rez-de-chaussée, elle dispose d’un salon bien aménagé, d’une cuisine luxueuse, de 3 chambres accueillantes et d’une salle de bains. A l’étage, il y a un autre salon lumineux et 3 chambres en suite avec balcons offrant une vue dégagée dont une avec un dressing. En plus, l’internet haut débit est disponible!
+Cette résidence exotique de 2 étages est moderne et raffinée. Au rez-de-chaussée, elle dispose d’un salon lumineux ouvert sur une cuisine équipée en bois, d’une chambre en suite et un balcon avec une vue magnifique. En bas, il y a 2 chambres spacieuses partageant une salle de bains et une belle chambre suite avec de grandes garde-robes et une vue dégagée. En plus, l’internet à grande vitesse et la sécurité sont disponibles!
 
-À l’extérieur, il y a une terrasse qui donne sur un beau jardin, un grand parking partiellement couvert et des annexes entièrement équipées.
+À l’extérieur, il y a un parking privé, des annexes et un agréable studio au rez-de-chaussée ainsi qu’une vaste terrasse à l’étage inférieur.
 
-C’est un logement idéal!
+C’est un logement superbe!
