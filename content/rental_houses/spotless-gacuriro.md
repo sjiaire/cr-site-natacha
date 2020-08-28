@@ -29,7 +29,7 @@ parking: "4"
 security: NotAvailable
 minimumstay: 1 Month
 road: Paved
-size: 278.35 sqm
+size: 278 sqm
 plot_size: 639 sqm
 price: $1,500/month
 ---
