@@ -80,7 +80,7 @@ Outdoor, there is a flowery terrace with an amazing view and staff quarters.
 
 It is a stunning home!
 
-\- - -
+- - -
 
 **Appartement meublé de 2 chambres à louer – Gishushu**
 
