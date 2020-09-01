@@ -74,21 +74,19 @@ price: $1,100/month
 
 Stay in this cosy 2-bedroom furnished apartment located on the 4th floor of a stylish building of Gishushu nearby Gasabo District Office. Gishushu is a quiet residential area conveniently located nearby Remera, Nyarutarama and Kacyiru.
 
-This artsy residence is rustic and refined. It has a bright lounge, a fully-equipped kitchen with washer and 2 spacious bedrooms sharing a bathroom. In addition, high-speed internet, security and maid services are available!
+This artsy residence is rustic and refined. It has a bright lounge, a fully-equipped kitchen with washer and 2 spacious bedrooms sharing a bathroom. In addition, high-speed internet, security and maid services are complimentary!
 
 Outdoor, there is a flowery terrace with an amazing view and staff quarters.
 
 It is a stunning home!
 
-- - -
+\- - -
 
 **Appartement meublé de 2 chambres à louer – Gishushu**
 
-
-
 Séjournez dans ce confortable appartement meublé de 2 chambres situé au 4ème étage d’un bâtiment élégant de Gishushu à proximité du bureau du district de Gasabo. Gishushu est un quartier résidentiel calme idéalement situé à proximité de Remera, Nyarutarama et Kacyiru.
 
-Cette résidence artistique est rustique et raffinée. Elle dispose d’un salon lumineux, d’une cuisine entièrement équipée avec lave-linge et de 2 chambres spacieuses partageant une salle de bains. En plus, l’internet haut débit et les services de sécurité et nettoyage sont disponibles !
+Cette résidence artistique est rustique et raffinée. Elle dispose d’un salon lumineux, d’une cuisine entièrement équipée avec lave-linge et de 2 chambres spacieuses partageant une salle de bains. En plus, l’internet haut débit et les services de sécurité et de nettoyage sont inclus!
 
 A l’extérieur, il y a une terrasse fleurie avec une vue imprenable et des annexes.
 
