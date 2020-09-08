@@ -32,7 +32,7 @@ road: __
 plot_size: __
 garden: NotAvailable
 size: __
-price: __
+price: $850/month
 ---
 {{< gallery >}}
 
