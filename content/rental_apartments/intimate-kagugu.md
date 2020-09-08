@@ -64,13 +64,9 @@ price: $850/month
 
 {{< figure src="/images/uploads/097-14.jpg" >}}
 
-{{< figure src="/images/uploads/097-15.jpg" >}}
-
 {{< /gallery >}}
 
 {{< load-photoswipe >}}
-
-
 
 **Furnished 2-Bedroom Apartment for Rent - Kagugu**
 
@@ -81,7 +77,7 @@ This intimate residence is spacious and clean. It has a vast lounge, an American
 Outdoor, there is a shared parking space.
 
 It is a perfect home!
-\- - -
+- - -
 
 **Appartement meublé de 2 chambres à louer - Kagugu**
 
