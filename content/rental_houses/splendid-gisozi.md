@@ -86,7 +86,7 @@ price: $2,000/month
 
 Stay in this luxurious 7-bedroom furnished house located in the residential area of Gisozi nearby FAWE Girls School. Gisozi is a quiet neighborhood with several international schools and easy access to the City Center.
 
-This splendid 2-storey residence is colorful and comfortable. On the ground floor, it has a stylish lounge, 3 lovely bedroom and 2 bathrooms. Upstairs, there is an another living room and 4 beautiful bedrooms including an en suite with a bath tub. In addition, high-speed internet, security and maid services are available!
+This splendid 2-storey residence is colorful and comfortable. On the ground floor, it has a stylish lounge, 3 lovely bedrooms and 2 bathrooms. Upstairs, there is another living room and 4 beautiful bedrooms including an en suite with a bath tub. In addition, high-speed internet, security and maid services are complimentary!
 
 Outdoor, there are spacious balconies with a pleasant view, a vast terrace, a tremendous garden with enough space to host large gatherings and wide parking space.
 
@@ -98,7 +98,7 @@ It is a charming home!
 
 Séjournez dans cette luxueuse maison meublée de 7 chambres située dans le quartier résidentiel de Gisozi à proximité FAWE Girls School. Gisozi est un quartier calme avec plusieurs écoles internationales et un accès facile au centre-ville.
 
-Cette splendide résidence de 2 étages est colorée et confortable. Au rez-de-chaussée, elle dispose d’un salon élégant, de 3 belles chambres et de 2 salles de bains. A l’étage, il y a un autre salon et 4 belles chambres dont une en suite avec une baignoire. En plus, l’internet haut débit, les services de sécurité et de nettoyage sont disponibles!
+Cette splendide résidence de 2 étages est colorée et confortable. Au rez-de-chaussée, elle dispose d’un salon élégant, de 3 belles chambres et de 2 salles de bains. A l’étage, il y a un autre salon et 4 belles chambres dont une en suite avec une baignoire. En plus, l’internet haut débit, les services de sécurité et de nettoyage sont inclus!
 
 A l’extérieur, il y a des balcons spacieux avec une vue agréable, une vaste terrasse, un immense jardin avec assez d’espace pour accueillir de grands rassemblements et un grand parking.
 
