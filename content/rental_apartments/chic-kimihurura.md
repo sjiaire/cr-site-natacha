@@ -1,7 +1,7 @@
 ---
 property: Apartment
 type: rentals
-availability: Available
+availability: Rented
 title: Chic Kimihurura
 slug: 129-chic Kimihurura
 date: 2020-07-25T15:22:17.249Z
