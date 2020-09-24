@@ -75,7 +75,7 @@ Stay in this gorgeous semi-detached 4-bedroom furnished house located in the res
 
 This contemporary 2-storey residence is welcoming and functional. On the ground floor, it has a comfortable lounge, a fully equipped kitchen with washer and an en suite bedroom. Upstairs, there are 3 charming en suite bedrooms including one with a bathtub. In addition, high-speed internet is available!
 
-Outdoor, there are beautiful balconies, a wide terrace, parking space with a car port and staff quarters.
+Outdoor, there are large balconies, a wide terrace, parking space with a car port and staff quarters.
 
 It is a beautiful home! 
 
@@ -87,6 +87,6 @@ Séjournez dans cette magnifique maison jumelée meublée de 4 chambres située 
 
 Cette résidence contemporaine de 2 étages est accueillante et fonctionnelle. Au rez-de-chaussée, elle dispose d’un salon confortable, d’une cuisine entièrement équipée avec lave-linge et d’une chambre en suite. A l’étage, il y a 3 charmantes chambres en suite dont une avec baignoire. En plus, l’Internet haut débit est disponible!
 
-A l’extérieur, il y a des beaux balcons, un parking couvert et des annexes.
+A l’extérieur, il y a des grands balcons, un parking couvert et des annexes.
 
 C’est un beau logement !
