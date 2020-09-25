@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Exotic Gishushu
 slug: 107-exotic-gishushu
 date: 2020-07-16T14:54:42.438Z
