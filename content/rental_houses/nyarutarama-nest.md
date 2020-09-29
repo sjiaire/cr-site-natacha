@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Nyarutarama Nest
 slug: 116-nyarutarama-nest
 date: 2020-06-23T12:46:35.729Z
