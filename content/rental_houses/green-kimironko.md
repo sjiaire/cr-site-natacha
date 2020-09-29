@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Green Kimironko
 slug: 115-green-kimironko
 date: 2020-06-17T10:22:12.137Z
