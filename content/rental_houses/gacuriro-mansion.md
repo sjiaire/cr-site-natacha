@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Gacuriro Mansion
 slug: 113-gacuriro-mansion
 date: 2020-03-26T08:00:00.000Z
