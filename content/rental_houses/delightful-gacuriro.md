@@ -12,7 +12,7 @@ description: Stay in this welcoming semi-detached 3-bedroom house located in the
 hidesidebar: true
 thumbnail: /images/uploads/133-01.jpg
 image: /images/uploads/133-01.jpg
-area: Kagugu
+area: Gacuriro
 floor: __
 bedrooms: "3"
 baths: "2"
