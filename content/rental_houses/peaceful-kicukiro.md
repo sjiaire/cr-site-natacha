@@ -29,8 +29,8 @@ parking: "5"
 security: NotAvailable
 minimumstay: 1 Year
 road: Paved
-size: 1,050 sqm
-plot_size: 115 sqm
+size: 115 sqm
+plot_size: 1,050 sqm
 price: $700
 ---
 {{< gallery >}}
