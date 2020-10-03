@@ -65,6 +65,16 @@ price: $700/month
 
 {{< figure src="/images/uploads/136-15.jpg" >}}
 
+{{< figure src="/images/uploads/136-16.jpg" >}}
+
+{{< figure src="/images/uploads/136-17.jpg" >}}
+
+{{< figure src="/images/uploads/136-18.jpg" >}}
+
+{{< figure src="/images/uploads/136-19.jpg" >}}
+
+{{< figure src="/images/uploads/136-20.jpg" >}}
+
 {{< /gallery >}}
 
 {{< load-photoswipe >}}
@@ -75,7 +85,7 @@ Stay in this charming 2-bedroom house located in the residential area of Kicukir
 
 This peaceful residence is bright and airy. On the ground floor, it has a stunning lounge open to a beautiful kitchen, 2 spacious bedrooms with closets including an en suite bedroom and a bathroom.
 
-Outdoor, there is wide terrace with an amazing view, a big garden, parking space and staff quarters.
+Outdoor, there is wide terrace with an amazing view, a mature garden, parking space and staff quarters.
 
 It is an inviting home!
 
@@ -85,8 +95,8 @@ It is an inviting home!
 
 Séjournez dans cette charmante maison de 2 chambres située dans le quartier résidentiel de Kicukiro à proximité du Simba Supermarket. Kicukiro est un quartier calme avec plusieurs magasins, écoles et un accès facile depuis Remera et l’aéroport de Kigali.
 
-Cette résidence paisible est lumineuse et aérée. Au rez-de-chaussée, elle dispose d’un superbe salon ouvert sur une belle cuisine, 2 chambres spacieuses avec garde-robes dont une chambre en suite et une salle de bains.
+Cette résidence paisible est lumineuse et aérée. Elle dispose d’un superbe salon ouvert sur une belle cuisine, de 2 chambres spacieuses avec garde-robes dont une suite avec une terrasse ainsi qu’une salle de bains commune.
 
-A l’extérieur, il y a une grande terrasse avec une vue imprenable, un grand jardin, un parking et des annexes.
+A l’extérieur, il y a une grande terrasse avec une vue imprenable, un jardin verdoyant, un parking et des annexes.
 
-C’est un logement accueillant!
+C’est un logement accueillant !
