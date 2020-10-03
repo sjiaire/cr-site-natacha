@@ -31,7 +31,7 @@ minimumstay: 1 Year
 road: Paved
 size: 115 sqm
 plot_size: 1,050 sqm
-price: $700
+price: $700/month
 ---
 {{< gallery >}}
 
