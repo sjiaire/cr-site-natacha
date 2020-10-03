@@ -87,6 +87,6 @@ Séjournez dans cette accueillante maison jumelée de 3 chambres située dans le
 
 Cette charmante résidence de 2 étages est soignée et fonctionnelle. Au rez-de-chaussée, elle dispose d’un salon lumineux, d’une superbe cuisine, d’une chambre accueillante et d’une salle de bains. A l’étage, il y a 2 belles chambres et une salle de bains avec baignoire.
 
-À l’extérieur, il y a 2 grandes terrasses, un jardin fleuri, un espace de stationnement et des quartiers de personnel.
+À l’extérieur, il y a 2 grandes terrasses, un jardin fleuri, un parking et une annexe.
 
 C’est un logement paisible !
