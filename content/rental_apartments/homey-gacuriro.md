@@ -34,8 +34,6 @@ garden: NotAvailable
 size: __
 price: $500/month
 ---
-
-
 {{< gallery >}}
 
 {{< figure src="/images/uploads/119-01.jpg" >}}
@@ -74,22 +72,22 @@ price: $500/month
 
 **Furnished 2-Bedroom Apartment for Rent - Gacuriro**
 
-Stay in this adorable 2-bedroom furnished apartment located in on the 3rd floor of a brand-new building of an exclusive estate of Gacuriro nearby Great Season Hotel. Gacuriro is a quiet residential neighborhood with lots of parks and beautiful views.
+Stay in this adorable 2-bedroom furnished apartment located in on the 3rd floor of a brand-new building of an exclusive estate of Gacuriro nearby Great Seasons Hotel. Gacuriro is a quiet residential neighborhood with lots of parks and beautiful views.
 
-This homey residence is spacious and fresh. It has a bright lounge open to an American kitchen with washer, 2 comfortable bedrooms, a bathroom and a balcony. In addition, high-speed internet and security are available!
+This homey residence is spacious and fresh. It has a bright lounge open to an American kitchen with washer, 2 comfortable bedrooms, a bathroom and a balcony with an open view. In addition, high-speed internet and security Service are available!
 
-Outdoor, there are shared meeting sports :gardens, bungalows, playgrounds and a spacious rooftop with amazing view.
+Outdoor, the estate has several meeting spots for residents: gardens, bungalows, playgrounds and a spacious rooftop with amazing view.
 
 It is a perfect home!
 
-\- - - 
+- - -
 
 **Appartement meublé de 2 chambres à louer - Gacuriro**
 
-Séjournez dans cet adorable appartement meublé de 2 chambres situé au 3ème étage d’un bâtiment flambant neuf dans un quartier exclusif de Gacuriro à proximité du Great Season Hotel. Gacuriro est un quartier résidentiel calme avec beaucoup de parcs et de belles vues.
+Séjournez dans cet adorable appartement meublé de 2 chambres situé au 3ème étage d’un bâtiment flambant neuf dans un quartier exclusif de Gacuriro à proximité De l’hôtel Great Seasons . Gacuriro est un quartier résidentiel calme avec beaucoup de parcs et de belles vues.
 
 Cette résidence accueillante est spacieuse et fraîche. Elle dispose d’un salon lumineux ouvert sur une cuisine américaine avec lave-linge, 2 chambres confortables, une salle de bains et un balcon. En plus, Internet haut débit et la sécurité sont disponibles !
 
-A l’extérieur, il y a des espaces de réunion communs: jardins, bungalows, aires de jeux et un toit spacieux avec vue imprenable.
+A l’extérieur, le quartier dispose de plusieurs espaces communs pour les résidents : jardins, bungalows, terrains de jeux et un toit spacieux avec vue imprenable.
 
 C’est un logement parfait !
