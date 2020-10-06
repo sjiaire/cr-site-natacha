@@ -83,7 +83,7 @@ price: $700/month
 
 Stay in this charming 2-bedroom house located in the residential area of Kicukiro nearby Simba Supermarket. Kicukiro is a quiet neighborhood with several shops, schools and easy access from Remera and Kigali Airport.
 
-This peaceful residence is bright and airy. On the ground floor, it has a stunning lounge open to a beautiful kitchen, 2 spacious bedrooms with closets including an en suite bedroom and a bathroom.
+This peaceful residence is bright and airy. It has a stunning lounge open to a beautiful kitchen, 2 spacious bedrooms with closets including an en suite bedroom and a bathroom.
 
 Outdoor, there is wide terrace with an amazing view, a mature garden, parking space and staff quarters.
 
