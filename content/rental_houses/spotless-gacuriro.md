@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Spotless Gacuriro
 slug: 53-spotless-gacuriro
 date: 2020-08-26T13:01:54.562Z
