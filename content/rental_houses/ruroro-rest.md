@@ -2,7 +2,7 @@
 property: House
 type: rentals
 availability: Available
-title: Ruroro Rest
+title: Rusororo Rest
 slug: 6-rusororo-rest
 date: 2020-10-09T16:20:02.877Z
 draft: false
@@ -71,7 +71,7 @@ price: $1,200/month
 
 **Furnished 4-Bedroom House for Rent - Rusororo**
 
-Stay in this welcoming 4-bedroom furnished house located in an exclusive estate of Rusororo nearby RPF Headquarters. Rusororo is an authentic neighborhood surrounded by green hills and close to Mulindi Market.
+Stay in this welcoming 4-bedroom furnished house located in an exclusive estate of Rusororo nearby RPF Headquarters. Rusororo is an authentic neighborhood surrounded by green hills and beautiful views.
 
 This cosy residence is bright and functional. It has a comfortable lounge open to a fully equipped kitchen, 2 inviting bedrooms sharing a bathroom and 2 charming en suite bedrooms including one with a bathtub. In addition, high-speed internet, estate security and maid services are available!
 
@@ -79,13 +79,13 @@ Outdoor, there is a spacious terrace, a beautiful garden, parking space and staf
 
 It is a peaceful home!
 
-\- - -
+- - -
 
 **Maison meublée de 4 chambres à louer - Rusororo**
 
-Séjournez dans cette accueillante maison meublée de 4 chambres située dans un domaine exclusif de Rusororo à proximité du siège du FPR. Rusororo est un quartier authentique entouré de collines verdoyantes et à proximité du marché de Mulindi.
+Séjournez dans cette accueillante maison meublée de 4 chambres située dans un domaine exclusif de Rusororo à proximité du siège du FPR. Rusororo est un quartier authentique entouré de collines verdoyantes et de belles vues.
 
-Cette résidence agréable est lumineuse et fonctionnelle. Elle dispose d’un salon confortable ouvert sur une cuisine entièrement équipée, de 2 chambres accueillantes partageant une salle de bains et de 2 suites charmantes dont une avec baignoire. En plus, l’internet haut débit, les services de sécurité et de nettoyage sont disponibles !
+Cette résidence agréable est lumineuse et fonctionnelle. Elle dispose d’un salon confortable ouvert sur une cuisine entièrement équipée, de 2 chambres accueillantes partageant une salle de bains et de 2 suites charmantes dont une avec baignoire. En plus, l’internet haut débit ainsi que les services de sécurité et de nettoyage sont disponibles !
 
 A l’extérieur, il y a une terrasse spacieuse, un beau jardin, un parking et des annexes.
 
