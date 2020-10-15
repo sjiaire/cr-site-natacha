@@ -1,7 +1,7 @@
 ---
 property: Apartment
 type: rentals
-availability: Available
+availability: Rented
 title: Artsy Gishushu
 slug: 66-artsy-gishushu
 date: 2020-08-31T12:53:50.275Z
