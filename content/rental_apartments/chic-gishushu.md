@@ -5,7 +5,7 @@ availability: Available
 title: Chic Gishushu
 slug: 25B-chic-gishushu
 date: 2020-10-15T15:36:31.423Z
-description: Stay in this Inviting 1-bedroom furnished apartment located on the
+description: Stay in this inviting 1-bedroom furnished apartment located on the
   3rd floor of a stylish building of Gishushu nearby Gasabo District Office.
   Gishushu is a quiet residential area conveniently located nearby Remera,
   Nyarutarama and Kacyiru.
