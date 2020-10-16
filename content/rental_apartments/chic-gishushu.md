@@ -66,22 +66,22 @@ price: $800/month
 
 **Furnished 1-Bedroom Apartment for Rent - Gishushu**
 
-Stay in this Inviting 1-bedroom furnished apartment located on the 3rd floor of a stylish building of Gishushu nearby Gasabo District Office. Gishushu is a quiet residential area conveniently located nearby Remera, Nyarutarama and Kacyiru.
+Stay in this beautiful 1-bedroom furnished apartment located on the 2nd floor of a stylish building of Gishushu nearby RDB. Gishushu is a quiet residential area conveniently located nearby Remera, Nyarutarama and Kacyiru.
 
-This chic residence is refined and functional. It has a bright lounge, a fully-equipped kitchen with washer, a cosy bedroom and a bathroom. In addition, high-speed internet, security and maid services are available!
+This chic residence is refined and functional. It has a bright lounge, an American kitchen with washer, a cosy bedroom and a bathroom. In addition, high-speed internet, security and maid services are complimentary!
 
-Outdoor, there is a flowery terrace with an amazing view and staff quarters.
+Outdoor, there is a flowery terrace with an amazing view.
 
-It is a perfect home!
+It is a delightful home!
 
 - - -
 
 **Appartement meublé de 1 chambre à louer - Gishushu**
 
-Séjournez dans cet accueillant appartement meublé d’une chambre situé au 3ème étage d’un bâtiment élégant de Gishushu à proximité du bureau du district de Gasabo. Gishushu est un quartier résidentiel calme idéalement situé à proximité de Remera, Nyarutarama et Kacyiru.
+Séjournez dans cet accueillant appartement meublé d’une chambre situé au 2ème étage d’un bâtiment élégant de Gishushu à proximité de RDB. Gishushu est un quartier résidentiel calme idéalement situé à proximité de Remera, Nyarutarama et Kacyiru.
 
-Cette résidence chic est raffinée et fonctionnelle. Elle dispose d’un salon lumineux, d’une cuisine entièrement équipée avec lave-linge, d’une chambre confortable et d’une salle de bains. En plus, l’internet haut débit, les services de sécurité et de nettoyage sont disponibles!
+Cette résidence élégante est raffinée et fonctionnelle. Elle dispose d’un salon lumineux, d’une cuisine américaine avec lave-linge, d’une chambre confortable et d’une salle de bains. En plus, l’internet haut débit, les services de sécurité et de nettoyage sont inclus !
 
-A l’extérieur, il y a une terrasse fleurie avec une vue imprenable et des annexes.
+A l’extérieur, il y a une terrasse fleurie avec une vue imprenable.
 
-C’est un logement parfait!
+C’est un logement charmant !
