@@ -14,7 +14,7 @@ hidesidebar: true
 thumbnail: /images/uploads/025-01.jpg
 image: /images/uploads/025-01.jpg
 area: Gishushu
-floor: "3"
+floor: "2"
 bedrooms: "1"
 baths: "1"
 furnished: Furnished
