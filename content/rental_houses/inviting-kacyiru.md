@@ -32,7 +32,7 @@ minimumstay: 1 Year
 road: Dirt
 size: 106 sqm
 plot_size: 625 sqm
-price: Rwf 600,000/month
+price: $ 600,000/month
 ---
 {{< gallery >}}
 
