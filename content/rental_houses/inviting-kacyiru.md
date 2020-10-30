@@ -70,21 +70,21 @@ price: $600/month
 
 {{< load-photoswipe >}}
 
-**Furnished 4-Bedroom House for Rent - Kicukiro**
+**Furnished 4-Bedroom House for Rent - Kacyiru**
 
-Stay in this lovely 4-bedroom semi-furnished house located in the central area of  Kacyiru nearby Kacyiru Hospital. Kacyiru is an authentic neighborhood with several school, shops and restaurant with easy access to the city center.
+Stay in this lovely 4-bedroom furnished house located in the central area of Kacyiru nearby its Hospital. Kacyiru is a residential neighborhood with several schools, shops and restaurants with easy access to the city center.
 
 This inviting residence is comfortable and functional. It has a spacious lounge, a beautiful kitchen, 4 quiet bedrooms including an en suite and 2 bathrooms.
 
-Outdoor, there is a large terrace, a pretty garden, parking space and vast staff quarters.…
+Outdoor, there is a large terrace, a pretty garden, parking space and vast staff quarters.
 
 It is an intimate home!
 
 ---
 
-**Maison meublée de 4 chambres à louer - Kicukiro**
+**Maison meublée de 4 chambres à louer - Kacyiru**
 
-Séjournez dans cette maison charmante semi-meublée de 4 chambres située dans le quartier central de Kacyiru à proximité de l’hôpital de Kacyiru. Kacyiru est un quartier authentique avec plusieurs écoles, magasins et restaurant avec un accès facile au centre-ville.
+Séjournez dans cette charmante maison meublée de 4 chambres située dans le quartier central de Kacyiru à proximité de son hôpital. Kacyiru est un quartier authentique avec plusieurs écoles, magasins et restaurant avec un accès facile au centre-ville.
 
 Cette résidence accueillante est confortable et fonctionnelle. Elle dispose d’un salon spacieux, d’une belle cuisine, de 4 chambres calmes dont une suite et de 2 salles de bains.
 
