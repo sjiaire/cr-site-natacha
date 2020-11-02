@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Beautiful Gacuriro
 slug: 065-beautiful-gacuriro
 date: 2020-03-14T14:46:35.846Z
