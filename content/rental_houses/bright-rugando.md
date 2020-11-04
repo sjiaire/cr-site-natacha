@@ -29,9 +29,9 @@ pets: Allowed
 parking: 6+
 security: NotAvailable
 minimumstay: 6 Months
-road: __
-size: __
-plot_size: __
+road: Dirt
+size: 1,121.8 sqm
+plot_size: 185.4 sqm
 price: $1,200/month
 ---
 {{< gallery >}}
@@ -72,11 +72,11 @@ Outdoor, there is a spacious terrace with an open view, a large garden, parking 
 
 It is an ideal home!
 
----
+- - -
 
 **Maison meublée de 4 chambres à louer - Rugando**
 
-Séjournez dans cette charmante maison meublée de 4 chambres située dans le quartier résidentiel de Rugando à proximité de RDB. Rugando est un quartier calme idéalement situé à proximité de la zone commerciale de Kacyiru, Nyarutarama et des écoles internationales.
+Séjournez dans cette charmante maison meublée de 4 chambres située dans le quartier résidentiel de Rugando à proximité de RDB. Rugando est un quartier calme idéalement situé à proximité, Nyarutarama et des écoles internationales.
 
  Cette résidence lumineuse est confortable et soignée. Elle dispose d’un salon classique, d’une jolie cuisine, de 4 chambres intimes dont une suite et d’une salle de bains.
 
