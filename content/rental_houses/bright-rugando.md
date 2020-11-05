@@ -30,8 +30,8 @@ parking: 6+
 security: NotAvailable
 minimumstay: 6 Months
 road: Dirt
-size: 1,122 sqm
-plot_size: 185 sqm
+size: 185 sqm
+plot_size: 1,122 sqm
 price: $1,200/month
 ---
 {{< gallery >}}
