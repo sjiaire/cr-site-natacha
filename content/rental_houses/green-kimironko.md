@@ -79,7 +79,7 @@ Outdoor, there is a wide terrace, a mature garden, parking and staff quarters.
 
 It is a perfect home!
 
-\- - -  
+---
 
 **Meublé de 7 chambres à louer - Kimironko**
 
