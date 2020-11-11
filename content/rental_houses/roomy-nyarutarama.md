@@ -32,7 +32,7 @@ minimumstay: 1 Year
 road: Paved
 size: __
 plot_size: __
-price: $2,500/moth
+price: $2,500/month
 ---
 {{< gallery >}}
 
@@ -88,14 +88,14 @@ Outdoor, there is a large terrace overlooking a beautiful garden, vast parking s
 
 It is a fabulous home!
 
----
+- - -
 
 **Maison meublée de 4 chambres à louer - Nyarutarama**
 
 Séjournez dans cette élégante maison jumelée meublée de 4 chambres située dans le quartier résidentiel de Nyarutarama à proximité de MTN Centre. Nyarutarama est un quartier calme et chic avec plusieurs écoles, bars et restaurants internationaux.
 
-Cette spacieuse résidence de 2 étages est soignée et ravissante. Au rez-de-chaussée, Elle dispose d’un salon confortable, d’une superbe cuisine avec lave-linge et d’une accueillante chambre en suite. A l’étage, il y a un autre salon et 3 magnifiques chambres en suite avec de grands placards, baignoires de bain et balcons avec vue dégagée. En plus, une connexion Internet haut débit et la climatisation sont disponibles !
+Cette spacieuse résidence de 2 étages est soignée et agréable. Au rez-de-chaussée, Elle dispose d’un salon confortable, d’une superbe cuisine avec lave-linge et d’une accueillante chambre en suite. A l’étage, il y a un autre salon et 3 magnifiques chambres en suite avec de grandes garde-robes, des baignoires et des balcons avec une vue dégagée. En plus, l’internet haut débit et la climatisation sont disponibles !
 
 A l’extérieur, il y a une grande terrasse donnant sur un beau jardin, un vaste parking couvert et des annexes.
 
-C’est une maison fabuleuse !
+C’est un logement fabuleux !
