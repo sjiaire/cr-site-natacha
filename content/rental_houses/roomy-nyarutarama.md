@@ -88,6 +88,8 @@ Outdoor, there is a large terrace overlooking a beautiful garden, vast parking s
 
 It is a fabulous home!
 
+Minimum stay: 2 years
+
 - - -
 
 **Maison meublée de 4 chambres à louer - Nyarutarama**
@@ -99,3 +101,5 @@ Cette spacieuse résidence de 2 étages est soignée et agréable. Au rez-de-cha
 A l’extérieur, il y a une grande terrasse donnant sur un beau jardin, un vaste parking couvert et des annexes.
 
 C’est un logement fabuleux !
+
+Séjour minimum : 2 ans
