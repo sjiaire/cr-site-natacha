@@ -3,7 +3,7 @@ property: Apartment
 type: rentals
 availability: Available
 title: Chic Gishushu
-slug: 25B-chic-gishushu
+slug: 139-chic-gishushu
 date: 2020-10-15T15:36:31.423Z
 description: Stay in this inviting 1-bedroom furnished apartment located on the
   3rd floor of a stylish building of Gishushu nearby Gasabo District Office.
@@ -11,8 +11,8 @@ description: Stay in this inviting 1-bedroom furnished apartment located on the
   Nyarutarama and Kacyiru.
 draft: false
 hidesidebar: true
-thumbnail: /images/uploads/025-01.jpg
-image: /images/uploads/025-01.jpg
+thumbnail: /images/uploads/139-01.jpg
+image: /images/uploads/139-01.jpg
 area: Gishushu
 floor: "2"
 bedrooms: "1"
@@ -36,29 +36,29 @@ price: $800/month
 ---
 {{< gallery >}}
 
-{{< figure src="/images/uploads/025-01.jpg" >}}
+{{< figure src="/images/uploads/139-01.jpg" >}}
 
-{{< figure src="/images/uploads/025-02.jpg" >}}
+{{< figure src="/images/uploads/139-02.jpg" >}}
 
-{{< figure src="/images/uploads/025-03.jpg" >}}
+{{< figure src="/images/uploads/139-03.jpg" >}}
 
-{{< figure src="/images/uploads/025-04.jpg" >}}
+{{< figure src="/images/uploads/139-04.jpg" >}}
 
-{{< figure src="/images/uploads/025-05.jpg" >}}
+{{< figure src="/images/uploads/139-05.jpg" >}}
 
-{{< figure src="/images/uploads/025-06.jpg" >}}
+{{< figure src="/images/uploads/139-06.jpg" >}}
 
-{{< figure src="/images/uploads/025-07.jpg" >}}
+{{< figure src="/images/uploads/139-07.jpg" >}}
 
-{{< figure src="/images/uploads/025-08.jpg" >}}
+{{< figure src="/images/uploads/139-08.jpg" >}}
 
-{{< figure src="/images/uploads/025-09.jpg" >}}
+{{< figure src="/images/uploads/139-09.jpg" >}}
 
-{{< figure src="/images/uploads/025-10.jpg" >}}
+{{< figure src="/images/uploads/139-10.jpg" >}}
 
-{{< figure src="/images/uploads/025-11.jpg" >}}
+{{< figure src="/images/uploads/139-11.jpg" >}}
 
-{{< figure src="/images/uploads/025-12.jpg" >}}
+{{< figure src="/images/uploads/139-12.jpg" >}}
 
 {{< /gallery >}}
 
