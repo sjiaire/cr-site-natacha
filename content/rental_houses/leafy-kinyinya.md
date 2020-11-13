@@ -100,7 +100,9 @@ Outdoor, there is a cosy terrace with beautiful hill view, a tremendous garden, 
 
 It is a peaceful home!
 
----
+Minimum stay: 2 years
+
+\- - - 
 
 **Maison meublée de 3 chambres à louer – Kinyinya**
 
@@ -111,3 +113,5 @@ Cette résidence verdoyante est moderne et lumineuse. Elle dispose d’un salon 
 A l’extérieur, il y a une terrasse confortable avec une belle vue sur la colline, un jardin immense, un parking couvert et des annexes.
 
 C’est un logement paisible !
+
+Séjour minimum : 2 ans
