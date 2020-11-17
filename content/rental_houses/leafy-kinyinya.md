@@ -90,8 +90,6 @@ price: $ 2,600/month
 
 {{< load-photoswipe >}}
 
-
-
 **Furnished 3-Bedroom House for Rent – Kinyinya**
 
 Stay in this stunning 3-bedroom furnished house located in an exclusive estate of Kinyinya nearby College Amis des Enfants. Kinyinya is a chic neighborhood with wonderful views and easy access to international schools.
@@ -104,7 +102,7 @@ It is a peaceful home!
 
 Minimum stay: 2 years
 
-\- - - 
+--- 
 
 **Maison meublée de 3 chambres à louer – Kinyinya**
 
