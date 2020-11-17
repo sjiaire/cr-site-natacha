@@ -102,7 +102,7 @@ It is a peaceful home!
 
 Minimum stay: 2 years
 
---- 
+---
 
 **Maison meublée de 3 chambres à louer – Kinyinya**
 
