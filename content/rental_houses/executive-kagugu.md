@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Executive Kagugu
 slug: 024-executive-kagugu
 date: 2020-08-20T07:42:40.202Z
