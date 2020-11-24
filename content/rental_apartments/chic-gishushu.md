@@ -80,7 +80,7 @@ It is a delightful home!
 
 **Appartement meublé de 1 chambre à louer - Gishushu**
 
-Séjournez dans cet accueillant appartement meublé d’une chambre situé au 2ème étage d’un bâtiment élégant de Gishushu à proximité de RDB. Gishushu est un quartier résidentiel calme idéalement situé à proximité de Remera, Nyarutarama et Kacyiru.
+Séjournez dans ce bel appartement meublé d’une chambre situé au 2ème étage d’un bâtiment élégant de Gishushu à proximité de RDB. Gishushu est un quartier résidentiel calme idéalement situé à proximité de Remera, Nyarutarama et Kacyiru.
 
 Cette résidence élégante est raffinée et fonctionnelle. Elle dispose d’un salon lumineux, d’une cuisine américaine avec lave-linge, d’une chambre confortable et d’une salle de bains. En plus, l’internet haut débit, les services de sécurité et de nettoyage sont inclus !
 
