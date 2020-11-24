@@ -80,7 +80,7 @@ Outdoor, there is a small garden, parking space and staff quarters.
 
 It is an ideal home!
 
-\- - - 
+---
 
 **Maison meublée de 3 chambres à louer - Kacyiru**
 
