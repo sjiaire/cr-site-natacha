@@ -85,8 +85,8 @@ It is a perfect home!
 
 Séjournez dans cette maison meublée colorée de 7 chambres située dans le quartier résidentiel de Kimironko à proximité de Kwa Mushimire. Kimironko est un quartier animé avec un accès facile au marché central et aux transports en commun.
 
-Cette résidence accueillante de 2 étages est confortable et aérée. Au rez-de-chaussée, Elle dispose d’un salon élégant, d’une belle cuisine, de 4 grandes chambres et de 2 salles de bains. A l’étage, il y a un autre salon, 3 chambres confortables dont une suite avec un bureau et un balcon avec une vue magnifique. En plus, l’internet haut débit est disponible!
+Cette résidence accueillante de 2 étages est confortable et aérée. Au rez-de-chaussée, Elle dispose d’un salon élégant, d’une belle cuisine, de 4 grandes chambres et de 2 salles de bains. A l’étage, il y a un autre salon, 3 chambres confortables dont une suite avec un bureau et un balcon avec une vue superbe. En plus, l’internet haut débit est disponible !
 
-A l’extérieur, il y a une grande terrasse, un jardin arboré, un parking et des annexes.
+A l’extérieur, il y a une grande terrasse, un jardin verdoyant, un parking et des annexes.
 
 C’est un logement parfait!
