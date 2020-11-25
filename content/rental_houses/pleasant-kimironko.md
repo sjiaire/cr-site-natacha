@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Pleasant Kimironko
 slug: 132-pleasant-kimironko
 date: 2020-08-20T13:57:51.176Z
