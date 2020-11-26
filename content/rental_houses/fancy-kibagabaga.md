@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Fancy Kibagabaga
 slug: 130-fancy-kibagabaga
 date: 2020-07-22T15:56:07.410Z
