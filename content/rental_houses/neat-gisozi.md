@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Neat Gisozi
 slug: 120-neat-gisozi
 date: 2020-08-03T04:41:22.238Z
@@ -14,9 +14,9 @@ thumbnail: /images/uploads/120-01.jpg
 image: /images/uploads/120-01.jpg
 area: Gisozi
 floor: __
-bedrooms: '4'
-baths: '3'
-furnished: ' '
+bedrooms: "4"
+baths: "3"
+furnished: " "
 sleeps: None
 garden: Available
 maid: NotAvailable
@@ -25,7 +25,7 @@ wifi: Available
 washingmachine: NotAvailable
 closets: Available
 pets: Allowed
-parking: '3'
+parking: "3"
 security: NotAvailable
 minimumstay: 1 Year
 road: Dirt
