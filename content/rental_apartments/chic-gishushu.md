@@ -1,7 +1,7 @@
 ---
 property: Apartment
 type: rentals
-availability: Available
+availability: Rented
 title: Chic Gishushu
 slug: 139-chic-gishushu
 date: 2020-10-15T15:36:31.423Z
