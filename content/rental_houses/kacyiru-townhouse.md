@@ -22,8 +22,8 @@ sleeps: 6+
 garden: Available
 maid: NotAvailable
 tv: NotAvailable
-wifi: NotAvailable
-washingmachine: NotAvailable
+wifi: Available
+washingmachine: Available
 closets: Available
 pets: Allowed
 parking: "2"
@@ -72,11 +72,11 @@ price: $850/month
 
 **Furnished 3-Bedroom House for Rent - Kacyiru**
 
-Stay in this lovely semi-detached 3-bedroom furnished house located in the exclusive estate of Kacyiru nearby Minagri. Kacyiru is a residential neighborhood with several schools, shops and restaurants with easy access to the city center.
+Stay in this cosy semi-detached 3-bedroom furnished house located in a residential estate of Kacyiru nearby MINAGRI. Kacyiru is a central neighborhood with several schools, shops and restaurants with easy access to the city center.
 
-This comfortable 2-storey residence is bright and airy. On the ground floor, it has a welcoming lounge, a beautiful kitchen, a storage room and a bathroom.  Upstairs, there are 3 pretty bedrooms and a wide bathroom. 
+This lovely 2-storey residence is bright and airy. On the ground floor, it has a welcoming lounge, an equipped kitchen with a large storage room and a toilet. Upstairs, there are 3 pretty bedrooms and a wide bathroom with bathtub and washer.
 
-Outdoor, there is a small garden, parking space and staff quarters.
+Outdoor, there is a flowery garden, parking space and staff quarters.
 
 It is an ideal home!
 
@@ -84,10 +84,10 @@ It is an ideal home!
 
 **Maison meublée de 3 chambres à louer - Kacyiru**
 
-Séjournez dans cette belle maison jumelée meublée de 3 chambres située dans le quartier exclusif de Kacyiru à proximité de Minagri. Kacyiru est un quartier résidentiel avec plusieurs écoles, magasins et restaurants avec un accès facile au centre-ville.
+Séjournez dans cette confortable maison jumelée meublée de 3 chambres située dans un domaine résidentiel de Kacyiru à proximité de MINAGRI. Kacyiru est un quartier central avec plusieurs écoles, magasins et restaurants avec un accès facile au centre-ville.
 
-Cette confortable résidence de 2 étages est lumineuse et aérée. Au rez-de-chaussée, elle dispose d’un salon accueillant, d’une belle cuisine, d’un magasin et d’une grande salle de bain. A l’étage, il y a 3 jolies chambres et une grande salle de bain. 
+Cette belle résidence de 2 étages est lumineuse et aérée. Au rez-de-chaussée, elle dispose d’un salon accueillant, d’une cuisine équipée avec un grand magasin et d’une toilette. A l’étage, il y a 3 jolies chambres et une grande salle de bain avec baignoire et lave-linge.
 
-À l’extérieur, il y a un petit jardin, un parking et des annexes.
+A l’extérieur, il y a un jardin fleuri, un parking et des annexes.
 
-C’est un logement idéal!
+C’est un logement idéal !
