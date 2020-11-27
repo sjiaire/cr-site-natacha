@@ -80,7 +80,7 @@ Outdoor, there is a flowery garden, parking space and staff quarters.
 
 It is an ideal home!
 
----
+- - -
 
 **Maison meublée de 3 chambres à louer - Kacyiru**
 
@@ -90,4 +90,4 @@ Cette belle résidence de 2 étages est lumineuse et aérée. Au rez-de-chaussé
 
 A l’extérieur, il y a un jardin fleuri, un parking et des annexes.
 
-C’est un logement idéal !
+C’est un logement idéal!
