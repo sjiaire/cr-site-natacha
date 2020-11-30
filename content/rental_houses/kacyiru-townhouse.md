@@ -84,10 +84,10 @@ It is an ideal home!
 
 **Maison meublée de 3 chambres à louer - Kacyiru**
 
-Séjournez dans cette confortable maison jumelée meublée de 3 chambres située dans un domaine résidentiel de Kacyiru à proximité de MINAGRI. Kacyiru est un quartier central avec plusieurs écoles, magasins et restaurants avec un accès facile au centre-ville.
+Séjournez dans cette confortable maison jumelée meublée de 3 chambres située dans un quartier résidentiel de Kacyiru à proximité de MINAGRI. Kacyiru est un quartier central avec plusieurs écoles, magasins et restaurants avec un accès facile au centre-ville.
 
-Cette belle résidence de 2 étages est lumineuse et aérée. Au rez-de-chaussée, elle dispose d’un salon accueillant, d’une cuisine équipée avec un grand magasin et d’une toilette. A l’étage, il y a 3 jolies chambres et une grande salle de bain avec baignoire et lave-linge.
+Cette belle résidence de 2 étages est lumineuse et aérée. Au rez-de-chaussée, elle dispose d’un salon accueillant, d’une cuisine équipée avec un grand stock et d’une toilette. A l’étage, il y a 3 jolies chambres et une grande salle de bain avec baignoire et lave-linge.
 
 A l’extérieur, il y a un jardin fleuri, un parking et des annexes.
 
-C’est un logement idéal!
+C’est un logement idéal !
