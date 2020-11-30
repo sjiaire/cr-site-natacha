@@ -11,7 +11,7 @@ description: Stay in this adorable 2-bedroom furnished apartment located in on
   lots of parks and beautiful views.
 draft: false
 hidesidebar: true
-thumbnail: /images/uploads/119-01.jpg
+thumbnail: /images/uploads/119-11.jpg
 image: /images/uploads/119-01.jpg
 area: Gacuriro
 floor: "3"
