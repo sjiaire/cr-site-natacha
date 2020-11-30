@@ -11,7 +11,7 @@ description: Stay in this adorable 2-bedroom furnished apartment located in on
   lots of parks and beautiful views.
 draft: false
 hidesidebar: true
-thumbnail: /images/uploads/119-11.jpg
+thumbnail: /images/uploads/119-01.jpg
 image: /images/uploads/119-01.jpg
 area: Gacuriro
 floor: "3"
@@ -63,8 +63,6 @@ price: $600/month
 {{< figure src="/images/uploads/119-13.jpg" >}}
 
 {{< figure src="/images/uploads/119-14.jpg" >}}
-
-{{< figure src="/images/uploads/119-15.jpg" >}}
 
 {{< /gallery >}}
 
