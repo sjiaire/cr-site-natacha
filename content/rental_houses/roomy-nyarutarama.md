@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Roomy Nyarutarama
 slug: 137-roomy-nyarutarama
 date: 2020-11-10T14:25:00.106Z
