@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Inviting Kacyiru
 slug: 128-inviting-kacyiru
 date: 2020-10-27T14:52:28.916Z
