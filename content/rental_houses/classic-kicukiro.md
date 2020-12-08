@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Classic Kicukiro
 slug: 123-classic-kicukiro
 date: 2020-07-01T07:25:59.505Z
