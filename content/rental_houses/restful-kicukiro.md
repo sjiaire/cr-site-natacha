@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Restful Kicukiro
 slug: 127-restful-kicukiro
 date: 2020-07-09T06:31:14.603Z
