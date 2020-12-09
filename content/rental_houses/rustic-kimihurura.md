@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Rustic Kimihurura
 slug: 125-rustic-kimihura
 date: 2020-06-19T12:43:44.880Z
