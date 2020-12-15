@@ -72,21 +72,21 @@ price: $600/month
 
 **Furnished 3-Bedroom Apartment for Rent - Kimihurura**
 
-Stay in this pleasant 3-bedroom furnished apartment located on the1st floor of a beautiful building of Kimihurura nearby Zenora Wellness Center. Kimihurura is a family-friendly neighborhood with several schools, restaurants and recreational activities in walking distance.
+Stay in this pleasant 3-bedroom furnished apartment located on the 1st floor of a vast building of Kimihurura nearby Zenora Wellness Center. Kimihurura is a family-friendly neighborhood with several schools, restaurants and recreational activities in walking distance.
 
-This homey residence is bright and refined. It has lovely lounge, a fully-equipped kitchen and 3 delightful bedrooms sharing a bathroom. In addition, high-speed internet and security services are available!
+This homey residence is bright and cosy. It has lovely lounge, a functional kitchen and 3 classic bedrooms sharing a bathroom. In addition, high-speed internet and security services are available!
 
-Outdoor, there is a large balcony with a wonderful view, a small garden and shared parking space.
+Outdoor, there is a large balcony with a wonderful view, a small garden and shared parking space. 
 
-It is a welcoming home!
+It is a welcoming home! 
 
 - - -
 
 **Appartement meublé de 3 chambres à louer - Kimihurura**
 
-Séjournez dans cet agréable appartement meublé de 3 chambres situé au 1er étage d’un bel immeuble de Kimihurura à proximité du Zenora Wellness Center. Kimihurura est un quartier familial avec plusieurs écoles, restaurants et activités récréatives accessibles à pied.
+Séjournez dans cet agréable appartement meublé de 3 chambres situé au 1er étage d’un vaste immeuble de Kimihurura à proximité du Zenora Wellness Center. Kimihurura est un quartier familial avec plusieurs écoles, restaurants et activités récréatives accessibles à pied.
 
-Cette résidence accueillante est lumineuse et raffinée. Elle dispose d’un beau salon, d’une cuisine entièrement équipée et de 3 délicieuses chambres partageant une salle de bains. En plus, Internet haute vitesse et le service de sécurité sont disponibles !
+Cette résidence accueillante est lumineuse et confortable. Elle dispose d’un beau salon, d’une cuisine fonctionnelle et de 3 chambres classiques partageant une salle de bains. En plus, Internet haute vitesse et le service de sécurité sont disponibles!
 
 À l’extérieur, il y a un grand balcon avec une vue magnifique, un petit jardin et un parking commun.
 
