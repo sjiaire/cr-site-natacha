@@ -74,7 +74,7 @@ price: $850/month
 
 Stay in this cosy semi-detached 3-bedroom furnished house located in a residential estate of Kacyiru nearby MINAGRI. Kacyiru is a central neighborhood with several schools, shops and restaurants with easy access to the city center.
 
-This lovely 2-storey residence is bright and airy. On the ground floor, it has a welcoming lounge, an equipped kitchen with a large storage room and a toilet. Upstairs, there are 3 pretty bedrooms and a wide bathroom with bathtub and washer.
+This lovely 2-storey residence is bright and airy. On the ground floor, it has a welcoming lounge, an equipped kitchen with a large storage room and a toilet. Upstairs, there are 3 pretty bedrooms and a wide bathroom with bathtub and washer. In addition, high-speed internet and security and gardening services are available!
 
 Outdoor, there is a flowery garden, parking space and staff quarters.
 
@@ -86,7 +86,7 @@ It is an ideal home!
 
 Séjournez dans cette confortable maison jumelée meublée de 3 chambres située dans un quartier résidentiel de Kacyiru à proximité de MINAGRI. Kacyiru est un quartier central avec plusieurs écoles, magasins et restaurants avec un accès facile au centre-ville.
 
-Cette belle résidence de 2 étages est lumineuse et aérée. Au rez-de-chaussée, elle dispose d’un salon accueillant, d’une cuisine équipée avec un grand stock et d’une toilette. A l’étage, il y a 3 jolies chambres et une grande salle de bain avec baignoire et lave-linge.
+Cette belle résidence de 2 étages est lumineuse et aérée. Au rez-de-chaussée, elle dispose d’un salon accueillant, d’une cuisine équipée avec un grand stock et d’une toilette. A l’étage, il y a 3 jolies chambres et une grande salle de bain avec baignoire et lave-linge. En plus, l’Internet haut débit et les services de sécurité et de jardinage sont disponibles!
 
 A l’extérieur, il y a un jardin fleuri, un parking et des annexes.
 
