@@ -76,9 +76,9 @@ Stay in this pleasant 3-bedroom furnished apartment located on the 1st floor of 
 
 This homey residence is bright and cosy. It has lovely lounge, a functional kitchen and 3 classic bedrooms sharing a bathroom. In addition, high-speed internet and security services are available!
 
-Outdoor, there is a large balcony with a wonderful view, a small garden and shared parking space. 
+Outdoor, there is a large balcony with a wonderful view and shared parking space.
 
-It is a welcoming home! 
+ It is a welcoming home! 
 
 - - -
 
@@ -86,8 +86,8 @@ It is a welcoming home!
 
 Séjournez dans cet agréable appartement meublé de 3 chambres situé au 1er étage d’un vaste immeuble de Kimihurura à proximité du Zenora Wellness Center. Kimihurura est un quartier familial avec plusieurs écoles, restaurants et activités récréatives accessibles à pied.
 
-Cette résidence accueillante est lumineuse et confortable. Elle dispose d’un beau salon, d’une cuisine fonctionnelle et de 3 chambres classiques partageant une salle de bains. En plus, Internet haute vitesse et le service de sécurité sont disponibles!
+Cette résidence accueillante est lumineuse et confortable. Elle dispose d’un beau salon, d’une cuisine fonctionnelle et de 3 chambres classiques partageant une salle de bains. En plus, l’internet haut débit et le service de sécurité sont disponibles!
 
-À l’extérieur, il y a un grand balcon avec une vue magnifique, un petit jardin et un parking commun.
+À l’extérieur, il y a un grand balcon avec une vue magnifique et un parking commun.
 
 C’est un logement accueillant !
