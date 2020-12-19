@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Exquisite Kibagabaga
 slug: 36-exquisite-kibagabaga
 date: 2020-06-10T14:53:10.604Z
