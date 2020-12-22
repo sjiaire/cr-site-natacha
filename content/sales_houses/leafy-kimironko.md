@@ -23,7 +23,7 @@ parking: 6+
 road: Paved
 size: __
 plot_size: 2,300 sqm
-price: __
+price: Rwf 400,000,000
 ---
 {{< gallery >}}
 {{< figure src="/images/uploads/140-01.jpg" >}}
