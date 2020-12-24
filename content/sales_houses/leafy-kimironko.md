@@ -2,8 +2,8 @@
 property: House
 type: sales
 availability: Available
-title: Leafy Kimironko
-slug: 140-leafy-kimironko
+title: Spacious Kimironko
+slug: 140-spacious-kimironko
 date: 2020-12-22T14:12:30.027Z
 draft: false
 description: Buy this pleasant 4-bedroom house within a 2,300 sqm plot located
@@ -46,7 +46,7 @@ price: Rwf 400,000,000
 
 Buy this pleasant 4-bedroom house within a 2,300 sqm plot located in residential area of Kimironko nearby Olympic Hotel. Kimironko is a lively neighborhood with easy access to the central market and public transportation.
 
-This leafy residence is neat and welcoming. It has a bright lounge, a wide kitchen, 4 charming  bedrooms including an en suite, a washroom and a store room. 
+This spacious residence is neat and welcoming. It has a bright lounge, a wide kitchen, 4 charming  bedrooms including an en suite, a washroom and a store room. 
 
 Outdoor, there is a large terrace, a tremendous garden, parking space and staff quarters. 
 
@@ -58,7 +58,7 @@ It is a beautiful home!
 
 Acheter cette agréable maison de 4 chambres dans une parcelle de 2300 m² situé dans le quartier résidentiel de Kimironko à proximité de l’Hôtel Olympic. Kimironko est un quartier animé avec un accès facile au marché central et aux transports en commun.
 
-Cette résidence verdoyante est soignée et accueillante. Elle dispose d’un salon lumineux, d’une grande cuisine, de 4 chambres charmantes dont une en suite, d’une douche et un grand stock.
+Cette résidence spacieuse est soignée et accueillante. Elle dispose d’un salon lumineux, d’une grande cuisine, de 4 chambres charmantes dont une en suite, d’une douche et un grand stock.
 
 À l’extérieur, il y a une grande terrasse, un jardin magnifique, un parking et des annexes.
 
