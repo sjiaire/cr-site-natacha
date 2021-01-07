@@ -60,7 +60,7 @@ price: $800/month
 
 {{< figure src="/images/uploads/25-12.jpg" >}}
 
-{{< /gallery >}}{{< load-photoswipe >}}
+{{< /gallery >}} {{< load-photoswipe >}}
 
 **Furnished 1-Bedroom Apartment for Rent - Gishushu**
 
