@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Cosy Gishushu
 slug: 25-cosy-gishushu
-date: 2021-01-07T14:00:00.000Z
+date: 2021-01-07T06:00:00.000Z
 description: Stay in this beautiful 1-bedroom furnished apartment located on the
   2nd floor of a stylish building of Gishushu nearby RDB. Gishushu is a quiet
   residential neighborhood conveniently located nearby Remera, Nyarutarama and
