@@ -36,9 +36,6 @@ price: Rwf 400,000,000
 {{< figure src="/images/uploads/140-08.jpg" >}}
 {{< figure src="/images/uploads/140-09.jpg" >}}
 {{< figure src="/images/uploads/140-10.jpg" >}}
-{{< figure src="/images/uploads/140-11.jpg" >}}
-{{< figure src="/images/uploads/140-12.jpg" >}}
-{{< figure src="/images/uploads/140-13.jpg" >}}
 {{< /gallery >}}
 {{< load-photoswipe >}}
 
