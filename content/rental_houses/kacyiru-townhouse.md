@@ -19,7 +19,7 @@ bedrooms: "3"
 baths: "1"
 furnished: Furnished
 sleeps: 6+
-garden: NotAvailable
+garden: Available
 maid: NotAvailable
 tv: NotAvailable
 wifi: Available
@@ -90,4 +90,4 @@ Cette belle résidence de 2 étages est lumineuse et aérée. Au rez-de-chaussé
 
 A l’extérieur, il y a un jardin fleuri, un parking et des annexes.
 
-C’est un logement idéal !
+C’est un logement idéal!
