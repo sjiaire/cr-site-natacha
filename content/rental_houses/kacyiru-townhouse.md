@@ -19,7 +19,7 @@ bedrooms: "3"
 baths: "1"
 furnished: Furnished
 sleeps: 6+
-garden: Available
+garden: NotAvailable
 maid: NotAvailable
 tv: NotAvailable
 wifi: Available
