@@ -86,7 +86,7 @@ It is an ideal home!
 
 Séjournez dans cette confortable maison jumelée meublée de 3 chambres située dans un quartier résidentiel de Kacyiru à proximité de MINAGRI. Kacyiru est un quartier central avec plusieurs écoles, magasins et restaurants avec un accès facile au centre-ville.
 
-Cette belle résidence de 2 étages est lumineuse et aérée. Au rez-de-chaussée, elle dispose d’un salon accueillant, d’une cuisine équipée avec un grand stock et d’une toilette. A l’étage, il y a 3 jolies chambres et une grande salle de bain avec baignoire et lave-linge. En plus, l’Internet haut débit et le service de sécurité sont disponibles!
+Cette belle résidence de 2 étages est lumineuse et aérée. Au rez-de-chaussée, elle dispose d’un salon accueillant, d’une cuisine équipée avec un grand stock et d’une toilette. A l’étage, il y a 3 jolies chambres et une grande salle de bain avec baignoire et lave-linge. En plus, l’internet haut débit et le service de sécurité sont disponibles!
 
 A l’extérieur, il y a un jardin fleuri, un parking et des annexes.
 
