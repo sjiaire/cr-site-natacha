@@ -74,7 +74,7 @@ Outdoor, there is a flowery terrace with an amazing view.
 
 It is a delightful home!
 
-- - -
+---
 
 **Appartement meublé de 1 chambre à louer - Gishushu**
 
