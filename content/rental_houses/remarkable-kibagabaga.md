@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Rented
+availability: Available
 title: Remarkable Kibagabaga
 slug: 118-remarkable-kibagabaga
 date: 2021-01-21T15:15:05.800Z
