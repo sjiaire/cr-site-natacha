@@ -21,7 +21,7 @@ sleeps: 6+
 garden: NotAvailable
 maid: NotAvailable
 tv: Available
-wifi: NotAvailable
+wifi: Available
 washingmachine: NotAvailable
 closets: Available
 pets: Allowed
