@@ -12,7 +12,7 @@ description: Stay in this classy semi-detached 4-bedroom furnished house located
 hidesidebar: true
 thumbnail: /images/uploads/118-01.jpg
 image: /images/uploads/118-01.jpg
-area: Kimironko
+area: Kibagabaga
 floor: __
 bedrooms: "4"
 baths: 4+
