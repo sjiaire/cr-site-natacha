@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Neat Kibagabaga
 slug: 141-neat-kibagabaga
 date: 2021-02-05T14:15:06.166Z
