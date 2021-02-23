@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Contemporary Kagugu
 slug: 135-contemporary-kagugu
 date: 2020-09-23T12:31:34.374Z
