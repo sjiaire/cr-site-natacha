@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Charming Kagugu
 slug: 030-charming-kagugu
 date: 2020-03-30T08:48:22.711Z
