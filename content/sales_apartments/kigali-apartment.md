@@ -4,7 +4,7 @@ type: sales
 availability: Available
 title: Kigali Apartment
 slug: 0-kigali-apartment
-date: 2021-02-24T14:30:42.167Z
+date: 2019-03-05T14:30:42.167Z
 description: However, it is too early to book an accommodation for your stay as
   bookings are confirmed one month before arrival at the earliest.
 draft: false
