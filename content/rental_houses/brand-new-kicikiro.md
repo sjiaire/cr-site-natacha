@@ -59,7 +59,7 @@ Outdoor, there is a pleasant terrace overlooking a mature garden and parking spa
 
 It is a perfect home!
 
----  
+---
 
 **Maison meublée de 4 chambres à louer - Kicukiro**
 
