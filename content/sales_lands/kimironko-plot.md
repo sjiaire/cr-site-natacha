@@ -41,7 +41,7 @@ price: Rwf 450,000,000
 
 **Plot for Sale - Kimironko**
 
-Buy this beautiful plot located in the commercial area Kimironko nearby Kwa Mushimire. Kimironko is a lively neighborhood with easy access to the Kimironko business area.
+Buy this beautiful plot located in the commercial area of Kimironko nearby Kwa Mushimire. Kimironko is a lively neighborhood with easy access to the Kimironko business area.
 
 This 2,321 sqm plot zoned in C1 (Mixed use zone) includes a 4-bedroom house with a vast and mature garden and has access to 2 roads.
 
@@ -51,7 +51,7 @@ It is a prime property!
 
 **Une parcelle à vendre - Kimironko**
 
-Acheter cette belle parcelle située dans la zone commerciale Kimironko à proximité de Kwa Mushimire. Kimironko est un quartier animé avec un accès facile au quartier d’affaires de Kimironko.
+Acheter cette belle parcelle située dans la zone commerciale de Kimironko à proximité de Kwa Mushimire. Kimironko est un quartier animé avec un accès facile au quartier d’affaires de Kimironko.
 
 Ce terrain de 2.321 m² zoné en C1 (Zone d’usage mixte) comprend une maison de 4 chambres avec un jardin vaste et mature et a accès à 2 routes.
 
