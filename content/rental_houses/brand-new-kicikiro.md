@@ -2,7 +2,7 @@
 property: House
 type: rentals
 availability: Available
-title: Brand-new Kicikiro
+title: Brand-new Kicukiro
 slug: 58-brand-new-kicukiro
 date: 2021-03-05T13:44:33.629Z
 draft: false
