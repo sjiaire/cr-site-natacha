@@ -63,7 +63,7 @@ It is a perfect home!
 
 **Maison meublée de 4 chambres à louer - Kicukiro**
 
-Séjournez dans cette magnifique maison jumelée de 4 chambres située dans le quartier résidentiel de Kicukiro à proximité de St Joseph. Kicukiro est un quartier calme avec plusieurs magasins, écoles et un accès facile depuis Remera et l’aéroport de Kigali.
+Séjournez dans cette magnifique maison jumelée meublée de 4 chambres située dans le quartier résidentiel de Kicukiro à proximité de St Joseph. Kicukiro est un quartier calme avec plusieurs magasins, écoles et un accès facile depuis Remera et l’aéroport de Kigali.
 
 Cette toute nouvelle résidence de 2 étages est moderne et aérée. Au rez-de-chaussée, elle dispose d’un grand salon, d’une cuisine américaine, d’une chambre confortable et une salle de bains. A l’étage, il y a 2 belles chambres partageant une salle de bains, une chambre en suite avec un dressing et des balcons privés avec une vue imprenable.
 
