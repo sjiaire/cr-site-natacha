@@ -72,7 +72,7 @@ price: $ 1,300/month
 
 **Furnished 3-Bedroom Apartment for Rent - Gacuriro**
 
-Stay in this stylish 3-bedroom furnished apartment located on the 4th floor of a high-end building in an exclusive estate of Vision City. Gacuriro is a quiet residential neighborhood with lots of parks and beautiful views.
+Stay in this stylish 3-bedroom furnished apartment located on the 4th floor of a high-end building in Vision City, an exclusive estate of Gacuriro. Gacuriro is a quiet residential neighborhood with lots of parks and beautiful views.
 
 This modern residence is spacious and neat. It has a bright lounge, an American kitchen, an en suite bedroom, 2 bedrooms sharing a bathroom and balconies. In addition, high-speed internet and security service are available!
 
@@ -80,11 +80,11 @@ Outdoor, the estate has several meeting spots for residents: gardens, bungalows,
 
 It is a comfortable home! 
 
---- 
+- - -
 
 **Appartement meublé de 3 chambres à louer - Gacuriro**
 
-Séjournez dans cet élégant appartement meublé de 3 chambres situé au 4ème étage d’un bâtiment haut de gamme dans un quartier exclusif de Vision City. Gacuriro est un quartier résidentiel calme avec beaucoup de parcs et de belles vues.
+Séjournez dans cet élégant appartement meublé de 3 chambres situé au 4ème étage d’un bâtiment haut de gamme de Vision City, un quartier exclusif de Gacuriro. Gacuriro est un quartier résidentiel calme avec beaucoup de parcs et de belles vues.
 
 Cette résidence moderne est spacieuse et soignée. Elle dispose d’un salon lumineux, d’une cuisine américaine, d’une chambre en suite, de 2 chambres partageant une salle de bains et de balcons. En plus, l’internet haut débit et la sécurité sont disponibles !
 
