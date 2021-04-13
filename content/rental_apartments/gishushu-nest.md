@@ -53,22 +53,24 @@ price: $ 1,100/month
 
 **Furnished 2-Bedroom Apartment for Rent - Gishushu**
 
-Stay in this inviting 2-bedroom furnished apartment located on the 3rd floor of stylish building of Gishushu nearby Gasabo District Office. Gishushu is a quiet residential area conveniently located nearby RDB, Nyarutarama and Kacyiru business area.
+Stay in this inviting 2-bedroom furnished apartment located on the 3rd floor of a [](<>)stylish building of Gishushu nearby Gasabo District Office. Gishushu is an active neighborhood with several restaurants conveniently located nearby Kacyiru, Nyarutarama and Remera business area.  
 
 This delightful residence is rustic and refined. It has a spacious lounge, a fully-equipped kitchen with a washer, 2 large bedrooms including an en suite and a bathroom. In addition, high-speed internet, security and maid services are complementary!
 
-Outdoor, there is a flowery terrace, amazing view, shared parking space and staff quarters.
+Outdoor, there is a flowery terrace with an amazing view, shared parking space and staff quarters.
 
-It is a perfect home! 
+It is a perfect home!
 
-- - -
+---
 
-**Appartement meublé de 2 chambres à louer - Gishushu**
+**Appartement meublé de 2 chambres à louer – Gishushu**
 
-Séjournez dans cet accueillant appartement meublé de 2 chambres situé au 3ème étage d’un élégant bâtiment de Gishushu à proximité du bureau de Gasabo. Gishushu est un quartier résidentiel calme idéalement situé à proximité RDB, Nyarutarama et Kacyiru zone d’affaires.
 
-Cette charmante résidence est rustique et raffinée. Elle dispose d’un salon spacieux, d’une cuisine entièrement équipée avec lave-linge, de 2 grandes chambres dont une en suite et d’une salle de bains. En plus, l’internet haut débit, les services la sécurité et de nettoyage sont inclus!
 
-A l’extérieur, il y a une terrasse fleurie, une vue imprenable, un parking partagé et des annexes.
+Séjournez dans cet appartement meublé accueillant de 2 chambres situé au 3ème étage d’un élégant bâtiment de Gishushu à proximité du bureau du district de Gasabo. Gishushu est un quartier actif avec plusieurs restaurants situés à proximité de Kacyiru, Nyarutarama et Remera zone d’affaires.
+
+Cette charmante résidence est rustique et raffinée. Elle dispose d’un salon spacieux, d’une cuisine entièrement équipée avec lave-linge, de 2 grandes chambres dont une en suite et d’une salle de bains. En plus, l’internet haut débit, les services la sécurité et de nettoyage sont inclus !
+
+A l’extérieur, il y a une terrasse fleurie avec une vue imprenable, un parking partagé et des annexes.
 
 C’est un logement parfait!
