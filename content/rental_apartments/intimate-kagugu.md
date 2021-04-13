@@ -13,7 +13,7 @@ draft: false
 hidesidebar: true
 thumbnail: /images/uploads/097-01.jpg
 image: /images/uploads/097-01.jpg
-area: Area
+area: Kagugu
 floor: "2"
 bedrooms: "2"
 baths: "2"
