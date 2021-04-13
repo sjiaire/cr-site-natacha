@@ -78,7 +78,7 @@ Outdoor, there is large balcony with a panoramic view and shared parking space.
 
 It is a pleasant home!
 
-\- - - 
+---
 
 **Appartement meublé de 2 chambres à louer - Kagugu**
 
