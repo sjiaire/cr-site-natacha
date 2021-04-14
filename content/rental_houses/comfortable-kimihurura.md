@@ -11,8 +11,8 @@ description: Stay in this stylish semi-detached 3-bedroom furnished house
   family-friendly neighborhood with several schools, restaurants and
   recreational activities in walking distance.
 hidesidebar: true
-thumbnail: /images/uploads/0001.jpg
-image: /images/uploads/0001.jpg
+thumbnail: /images/uploads/146-01.jpg
+image: /images/uploads/146-01.jpg
 area: Kimihurura
 floor: __
 bedrooms: "3"
