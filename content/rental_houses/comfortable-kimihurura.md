@@ -3,7 +3,7 @@ property: House
 type: rentals
 availability: Available
 title: Comfortable Kimihurura
-slug: 148-comfortable-Kimihurura
+slug: 146-comfortable-Kimihurura
 date: 2021-04-14T12:24:46.058Z
 draft: false
 description: Stay in this stylish semi-detached 3-bedroom furnished house
