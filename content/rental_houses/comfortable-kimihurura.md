@@ -32,7 +32,7 @@ minimumstay: 1 Year
 road: __
 size: __
 plot_size: __
-price: __
+price: $ 1,400/month
 ---
 {{< gallery >}}
 
