@@ -70,9 +70,9 @@ price: $ 850/month
 
 **Furnished 2-Bedroom Apartment for Rent - Kagugu**
 
-Stay in this delightful 2-bedroom furnished apartment located on the top floor of a contemporary building of Kagugu nearby Kinyinya Sector Office. Kagugu is a quiet and fancy neighborhood close to shops and international schools.
+Stay in this delightful 2-bedroom furnished apartment located on the 2nd floor of a contemporary building of Kagugu nearby Kinyinya Sector Office. Kagugu is a fancy neighborhood close to shops and international schools.
 
-This intimate residence is specious and clean. It has a vast lounge, an American kitchen, 2 comfortable bedrooms including an en suite and a bathroom. In addition, security and maid services are complimentary!
+This intimate residence is spacious and clean. It has a vast lounge, an American kitchen, 2 comfortable bedrooms including an en suite and a bathroom. In addition, security and maid services are complimentary!
 
 Outdoor, there is large balcony with a panoramic view and shared parking space.
 
@@ -82,9 +82,9 @@ It is a pleasant home!
 
 **Appartement meublé de 2 chambres à louer - Kagugu**
 
-Séjournez dans ce charmant appartement meublé de 2 chambres situé au dernier étage d’un immeuble contemporain de Kagugu, à proximité du bureau du secteur de Kinyinya. Kagugu est un quartier calme et chic proche des commerces et des écoles internationales.
+Séjournez dans ce charmant appartement meublé de 2 chambres situé au 2ème étage d’un immeuble contemporain de Kagugu à proximité du bureau du secteur de Kinyinya. Kagugu est un quartier chic proche des commerces et des écoles internationales.
 
-Cette résidence intime est spécieuse et propre. Elle dispose d’un vaste salon, d’une cuisine américaine, de 2 chambres confortables dont une en suite et d’une salle de bains. En plus, les services de sécurité et de nettoyage sont inclus !
+Cette résidence intime est spacieuse et propre. Elle dispose d’un vaste salon, d’une cuisine américaine, de 2 chambres confortables dont une en suite et d’une salle de bains. En plus, les services de sécurité et de nettoyage sont inclus !
 
 À l’extérieur, il y a un grand balcon avec une vue panoramique et un parking commun.
 
