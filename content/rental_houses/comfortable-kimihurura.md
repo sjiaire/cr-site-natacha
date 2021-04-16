@@ -66,22 +66,22 @@ price: $ 1,400/month
 
 **Furnished 3-Bedroom House for Rent - Kimihurura**
 
-Stay in this stylish semi-detached 3-bedroom furnished house located in the exclusive area of Kimihurura nearby NIDA. Kimihurura is a family-friendly neighborhood with several schools, restaurants and recreational activities in walking distance.
+Stay in this stylish semi-detached 3-bedroom furnished house located in the exclusive area of Kimihurura nearby National Identification Agency (NIDA). Kimihurura is a family-friendly neighborhood with several schools, restaurants and recreational activities in walking distance.
 
-This comfortable 2-storey residence is calm and functional. On the ground floor, it has a colorful  lounge open to a fully-equipped kitchen with washer and a toilet. Upstairs, there is an en suite bedroom with a bath tub and a balcony offering an open view, and 2 bedrooms sharing a bathroom. In addition, high-speed internet is available!
+This comfortable 2-storey residence is calm and functional. On the ground floor, it has a colorful  lounge open to a fully-equipped kitchen with washer and a toilet. Upstairs, there is an en suite bedroom with a bath tub and a balcony offering an open view as well as 2 bedrooms sharing a bathroom. In addition, high-speed internet is available!
 
 Outdoor, there is a wide terrace, parking space and staff quarters.
 
 It is a peaceful home!
 
-- - -
+---
 
 **Maison meublée de 3 chambres à louer - Kimihurura**
 
-Séjournez dans cette élégante maison jumelée meublée de 3 chambres située dans le quartier exclusif de Kimihurura à proximité de NIDA. Kimihurura est un quartier familial avec plusieurs écoles, restaurants et activités récréatives accessibles à pied.
+Séjournez dans cette élégante maison jumelée meublée de 3 chambres située dans le quartier exclusif de Kimihurura à proximité du National Identification Agency (NIDA). Kimihurura est un quartier familial avec plusieurs écoles, restaurants et activités récréatives accessibles à pied.
 
-Cette confortable résidence de 2 étages est calme et fonctionnelle. Au rez-de-chaussée, elle dispose d’un salon coloré ouvert sur une cuisine entièrement équipée avec lave-linge et une toilette. A l’étage, il y a une chambre en suite avec une baignoire et un balcon offrant une vue dégagée, et 2 chambres partageant une salle de bains. En plus, l’internet haut débit est disponible!
+Cette confortable résidence de 2 étages est calme et fonctionnelle. Au rez-de-chaussée, elle dispose d’un salon coloré ouvert sur une cuisine entièrement équipée avec lave-linge et [](<>)d’une toilette. A l’étage, il y a une chambre en suite avec une baignoire et un balcon offrant une vue dégagée ainsi que 2 chambres partageant une salle de bains. En plus, l’internet haut débit est disponible !
 
 À l’extérieur, il y a une grande terrasse, un parking et des annexes.
 
-C’est un logement paisibl
+C’est un logement paisible !
