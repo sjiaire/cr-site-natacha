@@ -55,7 +55,7 @@ price: $ 1,100/month
 
 Stay in this inviting 2-bedroom furnished apartment located on the 3rd floor of a stylish building of Gishushu nearby Gasabo District Office. Gishushu is a leafy neighborhood with restaurants, shops and sports facilities in walking distance.
 
-This delightful residence is rustic and refined. It has a spacious lounge, a fully-equipped kitchen with a washer, 2 large bedrooms including an en suite and a bathroom. In addition, high-speed internet, security and maid services are complementary!
+This delightful residence is rustic and refined. It has a spacious lounge, a fully-equipped kitchen with a washer, 2 large bedrooms including an en suite and a bathroom. In addition, high-speed internet, security and maid services are complimentary!
 
 Outdoor, there is a flowery terrace with an amazing view, shared parking space and staff quarters.
 
