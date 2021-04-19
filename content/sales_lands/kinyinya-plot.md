@@ -36,12 +36,12 @@ This 1,380 sqm R1 plot is reserved for low density residential buildings.
 
 It is an ideal property!
 
----
+- - -
 
 **Une parcelle à vendre - Kinyinya**
 
-Acheter cette parcelle spacieuse situé dans le quartier résidentiel de Kinyinya à proximité du Deutsche Welle. Kinyinya est un quartier chic avec des vues magnifiques et un accès facile aux écoles internationales.
+Acheter cette parcelle spacieuse située dans le quartier résidentiel de Kinyinya à proximité du Deutsche Welle. Kinyinya est un quartier chic avec des vues magnifiques et un accès facile aux écoles internationales.
 
-Ce terrain R1 de 1380 m² est destinée aux bâtiments résidentiels de faible densité.
+Ce terrain R1 de 1380 m² est destiné aux bâtiments résidentiels à faible densité.
 
 C’est une propriété idéale !
