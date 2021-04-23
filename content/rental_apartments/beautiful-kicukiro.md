@@ -59,7 +59,7 @@ Stay in this elegant 2-bedroom furnished apartment located in the residential ar
 
 This beautiful residence is neat and functional. It has a cosy lounge, an American kitchen with washer and 2 lovely bedrooms including an en suite. In addition, high-speed internet is complimentary!
 
-Outdoor, there is a intimate terrace, a shared garden and shared parking space. 
+Outdoor, there is an intimate terrace, a shared garden and shared parking space. 
 
 It is a charming home! 
 
