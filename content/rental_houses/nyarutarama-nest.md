@@ -52,24 +52,24 @@ price: $2,500/month
 {{< /gallery >}}
 {{< load-photoswipe >}}
 
-**Furnished 4-Bedroom House for Rent - Nyarutarama**
+**Furnished 3-Bedroom House for Rent - Nyarutarama**
 
 Stay in this stunning 3-bedroom furnished house located in an exclusive estate Nyarutarama nearby MTN Centre. Nyarutarama is a calm and fancy area with several international schools, bars and restaurants.
 
-This cosy residence is stylish and functional. It has a beautiful lounge opens to a fully-equipped kitchen with washer, 3 charming en suite bedrooms including one with a terrace and a study. In addition, high speed internet is available!
+This cosy residence is stylish and functional. It has a beautiful lounge, a fully-equipped kitchen with washer, 3 charming en suite bedrooms including one with a terrace and a study. In addition, high speed internet is available!
 
-Outdoor, there is a pleasant terrace, a flowery garden, a parking space and staff quarters. 
+Outdoor, there is a pleasant terrace, a flowery garden, a parking space and staff quarters.
 
-It is a lovely home! 
+It is a lovely home!
 
-- - -
+---
 
-**Maison meublée de 4 chambres à louer - Nyarutarama**
+**Maison meublée de 3 chambres à louer - Nyarutarama**
 
 Séjournez dans cette superbe maison meublée de 3 chambres située dans un quartier exclusif Nyarutarama à proximité du MTN Centre. Nyarutarama est un quartier calme et chic avec plusieurs écoles, bars et restaurants internationaux.
 
-Cette résidence confortable est élégante et fonctionnelle. Elle dispose d’un salon magnifique ouvrant sur une cuisine entièrement équipée avec lave-linge, 3 chambres charmantes en suite dont une avec terrasse et un bureau. En plus, l’internet haut débit est disponible !
+Cette résidence confortable est élégante et fonctionnelle. Elle dispose d’un salon magnifique, une cuisine entièrement équipée avec lave-linge, 3 chambres charmantes en suite dont une avec terrasse et un bureau. En plus, l’internet haut débit est disponible !
 
-À l’extérieur, il y a une agréable terrasse, un jardin fleuri, un parking et des annexes.
+À l’extérieur, il y a une terrasse agréable, un jardin fleuri, un parking et des annexes.
 
 C’est un beau logement !
