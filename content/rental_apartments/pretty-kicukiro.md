@@ -74,7 +74,7 @@ price: $500/month
 
 Stay in this lovely 1-bedroom furnished apartment located the residential area of Kicukiro nearby Simba Supermarket. Kicukiro is a lively neighborhood with several shops, schools and easy access from the city center and Kigali Airport.
 
-This pretty residence is bright and clean. It has a spacious lounge, an American kitchen with washer, a welcoming bedroom and a bathroom*.* In addition, high-speed internet is complimentary!
+This pretty residence is bright and clean. It has a spacious lounge, an American kitchen with washer, a welcoming bedroom and a bathroom. In addition, high-speed internet is complimentary!
 
 Outdoor, there is a small terrace, a shared garden and shared parking space.
 
