@@ -15,7 +15,7 @@ thumbnail: /images/uploads/151-01.jpg
 image: /images/uploads/151-01.jpg
 area: Gisozi
 floor: Ground Floor
-bedrooms: "4"
+bedrooms: "3"
 baths: "2"
 wifi: NotAvailable
 closets: NotAvailable
