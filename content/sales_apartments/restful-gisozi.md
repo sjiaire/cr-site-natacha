@@ -4,7 +4,7 @@ type: sales
 availability: Available
 title: Restful Gisozi
 slug: 151-restful-gisozi
-date: 2021-05-04T09:22:14.635Z
+date: 2021-03-29T09:22:14.635Z
 description: Buy this beautiful 3-bedroom apartment located on the ground floor
   of a brand-new building of Gisozi nearby Kigali Independent University. Gisozi
   is a quiet neighborhood with several international schools and easy access to
