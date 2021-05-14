@@ -2,7 +2,7 @@
 property: Land for Sale
 type: sales
 availability: Available
-title: Kinyinya Plot II
+title: "Green Kinyinya "
 slug: 149-kinyinya-plot-ii
 date: 2021-04-26T13:31:37.262Z
 draft: false
