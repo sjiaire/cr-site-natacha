@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Comfortable Kimihurura
 slug: 146-comfortable-Kimihurura
 date: 2021-04-14T12:24:46.058Z
