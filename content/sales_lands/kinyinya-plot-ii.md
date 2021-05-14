@@ -29,18 +29,18 @@ price: Rwf 50,000,000
 
 **Plot for Sale - Kinyinya**
 
-Buy this green plot located in Kinyinya nearby Deutsche Welle. Kinyinya is a chic neighborhood with wonderful views and easy access to international schools.
+Buy this green plot of 1,520 sqm located in a low density residential area (R1) of Kinyinya nearby Deutsche Welle. Kinyinya is a prime location with wonderful views and several high-end estate developments ongoing.
 
-This 1,520 sqm R1 plot is reserved for low density residential buildings.
+In addition, the plot has a direct access to a dirt road. Water and electricity are available!
 
 It is a beautiful property!
 
----
+- - -
 
-**Une parcelle à vendre - Kinyinya**
+**Parcelle à vendre - Kinyinya**
 
-Achetez cette parcelle verdoyante située à Kinyinya proximité du Deutsche Welle. Kinyinya est un quartier chic avec des vues magnifiques et un accès facile aux écoles internationales.
+Achetez cette parcelle verdoyante de 1.520 m² située dans un quartier résidentiel à faible densité (R1) de Kinyinya à proximité du Deutsche Welle. Kinyinya est un emplacement de choix avec des vues magnifiques et plusieurs domaines haut de gamme en cours de développement.
 
-Ce terrain R1 de 1.520 m² est destiné aux bâtiments résidentiels de faible densité.
+En plus, la parcelle a un accès direct à une route non goudronnée. L’eau et l’électricité sont disponibles !
 
-C’est une belle propriété!
+C’est une belle propriété !
