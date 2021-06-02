@@ -2,7 +2,7 @@
 property: Apartment
 type: rentals
 availability: Available
-title: HOMEY REBERO
+title: Homey Rebero
 slug: 152-homey rebero
 date: 2021-06-02T14:01:24.541Z
 description: Stay in this stunning 1-bedroom furnished apartment located on the
