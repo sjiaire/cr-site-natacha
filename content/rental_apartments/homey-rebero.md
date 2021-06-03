@@ -76,7 +76,7 @@ This homey residence is stylish and neat. It has a nice lounge open to an Americ
 
 Outdoor, there is a shared swimming pool and a shared parking.
 
-It is a Pretty home!
+It is a pretty home!
 
 ---
 
@@ -84,7 +84,7 @@ It is a Pretty home!
 
 Séjournez dans ce superbe appartement meublé d’une chambre situé au rez-de-chaussée d’un immeuble moderne de Rebero à proximité de l’école Les Hirondelles. Rebero est un quartier chic avec des vues magnifiques et un accès facile depuis le centre-ville, Remera et Kicukiro.
 
-Cette résidence accueillante est élégante et soignée. Elle dispose d’un joli salon ouvert sur une cuisine américaine équipée, d’une charmante chambre et d’une salle de bains. De plus, l’internet haut débit, les services de sécurité et de ménage sont inclus dans le loyer!
+Cette résidence accueillante est élégante et soignée. Elle dispose d’un joli salon ouvert sur une cuisine américaine équipée, d’une charmante chambre et d’une toilette. En plus, l’internet haut débit, les services de sécurité et de nettoyage sont inclus !
 
 A l’extérieur, il y a une piscine et un parking communs.
 
