@@ -28,11 +28,11 @@ pets: NotAllowed
 parking: "1"
 security: Available
 minimumstay: 1 Week
-road: Dirt
+road: Paved
 plot_size: __
 garden: NotAvailable
 size: __
-price: $1200/month
+price: $1,200/month
 ---
 {{< gallery >}}
 
