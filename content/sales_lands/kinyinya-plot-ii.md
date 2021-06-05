@@ -18,7 +18,7 @@ road: Dirt
 water: Available
 electricity: Available
 size: __
-plot_size: 1,520 sqm
+plot_size: 1,000 sqm
 price: Rwf 50,000,000
 ---
 {{< gallery >}}
