@@ -11,7 +11,7 @@ description: Stay in this inviting 2-bedroom furnished apartment located on the
   Nyarutarama and Kacyiru business area.
 draft: false
 hidesidebar: true
-thumbnail: /images/uploads/008-02.jpg
+thumbnail: /images/uploads/008-01.jpg
 image: /images/uploads/008-01.jpg
 area: Gishushu
 floor: "3"
