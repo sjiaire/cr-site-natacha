@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Chic Kimihurura
 slug: 129-chic kimihurura
-date: 2021-05-12T09:14:32.942Z
+date: 2021-05-03T08:06:39.746Z
 description: Stay in this gorgeous 2-bedroom apartment located on the 2nd  floor
   of a commodious building of Kimihurura nearby Zenora Wellness Center.
   Kimihurura is a family-friendly neighborhood with several schools, restaurants
