@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Gishushu Nest
 slug: 8-Gishushu-Nest
-date: 2021-04-10T14:52:42.457Z
+date: 2021-06-11T08:05:12.775Z
 description: Stay in this inviting 2-bedroom furnished apartment located on the
   3rd floor of stylish building of Gishushu nearby Gasabo District Office.
   Gishushu is a quiet residential area conveniently located nearby RDB,
