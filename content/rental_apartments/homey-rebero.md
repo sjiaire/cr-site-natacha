@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Homey Rebero
 slug: 152-homey rebero
-date: 2021-06-02T14:01:24.541Z
+date: 2021-05-25T14:01:24.541Z
 description: Stay in this stunning 1-bedroom furnished apartment located on the
   ground floor of a modern building of Rebero nearby Les Hirondelles School.
   Rebero is a chic neighborhood with  wonderful views and easy access from the
