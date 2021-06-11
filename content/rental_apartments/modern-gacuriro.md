@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Modern Gacuriro
 slug: 143-modern-gacuriro
-date: 2021-06-09T13:59:47.150Z
+date: 2021-06-04T13:59:47.150Z
 description: Stay in this stylish 3-bedroom furnished apartment located on the
   4th floor of a high-end building in an exclusive estate of Vision City.
   Gacuriro is a quiet residential neighborhood with lots of parks and beautiful
