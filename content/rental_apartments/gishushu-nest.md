@@ -1,7 +1,7 @@
 ---
 property: Apartment
 type: rentals
-availability: Available
+availability: Rented
 title: Gishushu Nest
 slug: 8-Gishushu-Nest
 date: 2021-06-11T08:05:12.775Z
