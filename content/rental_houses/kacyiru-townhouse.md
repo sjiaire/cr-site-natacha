@@ -28,7 +28,7 @@ closets: Available
 pets: Allowed
 parking: "2"
 security: NotAvailable
-minimumstay: 1 Year
+minimumstay: 1 Week
 road: Paved
 size: __
 plot_size: __
