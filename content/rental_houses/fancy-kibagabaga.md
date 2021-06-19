@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Fancy Kibagabaga
 slug: 130-fancy-kibagabaga
-date: 2021-02-16T14:06:46.011Z
+date: 2021-06-05T14:06:46.011Z
 draft: false
 description: Stay in this spotless semi-detached 4-bedroom furnished house
   located in the residential area of Kibagabaga nearby its mosque. Kibagabaga is
