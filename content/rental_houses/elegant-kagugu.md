@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Elegant Kagugu
 slug: 131-elegant-kagugu
-date: 2021-03-12T14:57:23.265Z
+date: 2021-06-13T14:57:23.265Z
 draft: false
 description: Stay in this pleasant 5-bedroom house located in the residential
   area of Kagugu nearby Great Seasons Hotel. Kagugu is a quiet and fancy
