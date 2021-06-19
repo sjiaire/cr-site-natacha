@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Neat Rebero
 slug: 154-neat-rebero
-date: 2021-06-04T13:37:04.047Z
+date: 2021-06-01T09:12:24.547Z
 description: Stay in this pleasant furnished 1-bedroom studio apartment located
   on the ground floor of a modern building of Rebero nearby Les Hirondelles
   School. Rebero is a chic neighborhood with wonderful views and easy access
