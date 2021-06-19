@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Classy Rebero
 slug: 153-classy rebero
-date: 2021-06-06T14:00:25.953Z
+date: 2021-06-15T14:00:25.953Z
 description: Stay in this beautiful 1-bedroom furnished apartment located in the
   residential area of Rebero nearby Les Hirondelles School. Rebero is a chic
   neighborhood with wonderful views and easy access from the city center, Remera
