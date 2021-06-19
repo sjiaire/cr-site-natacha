@@ -4,7 +4,7 @@ type: sales
 availability: Available
 title: "Green Kinyinya "
 slug: 149-green kinyinya
-date: 2021-05-30T13:31:37.262Z
+date: 2021-06-02T13:31:37.262Z
 draft: false
 description: Buy this green plot located in Kinyinya nearby Deutsche Welle.
   Kinyinya is a chic neighborhood with wonderful views and easy access to
