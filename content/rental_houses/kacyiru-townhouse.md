@@ -27,7 +27,7 @@ washingmachine: Available
 closets: Available
 pets: Allowed
 parking: "2"
-security: NotAvailable
+security: Available
 minimumstay: 1 Week
 road: Paved
 size: __
