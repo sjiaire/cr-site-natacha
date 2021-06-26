@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Kacyiru Townhouse
 slug: 023-kacyiru-townhouse
-date: 2020-11-21T15:32:01.838Z
+date: 2021-06-26T11:36:53.660Z
 draft: false
 description: Stay in this lovely semi-detached 3-bedroom furnished house located
   in the exclusive estate of Kacyiru nearby Minagri. Kacyiru is a residential
@@ -21,7 +21,7 @@ furnished: Furnished
 sleeps: 6+
 garden: Available
 maid: NotAvailable
-tv: NotAvailable
+tv: Available
 wifi: Available
 washingmachine: Available
 closets: Available
@@ -32,7 +32,7 @@ minimumstay: 1 Week
 road: Paved
 size: __
 plot_size: __
-price: $600/month
+price: $ 600/month
 ---
 {{< gallery >}}
 
@@ -89,6 +89,7 @@ It is an ideal home!
 Séjournez dans cette confortable maison jumelée meublée de 3 chambres située dans un quartier résidentiel de Kacyiru à proximité de MINAGRI. Kacyiru est un quartier central avec plusieurs écoles, magasins et restaurants avec un accès facile au centre-ville.
 
 Cette belle résidence de 2 étages est lumineuse et aérée. Au rez-de-chaussée, elle dispose d’un salon accueillant, d’une cuisine équipée avec un grand stock et d’une toilette. A l’étage, il y a 3 jolies chambres et une grande salle de bain avec baignoire et lave-linge. En plus, l’internet haut débit est disponible et le service de sécurité est inclus!
+
 A l’extérieur, il y a un jardin fleuri, un parking et des annexes.
 
 Pour les locations de moins de 1 mois, demandez nos tarifs court-terme!
