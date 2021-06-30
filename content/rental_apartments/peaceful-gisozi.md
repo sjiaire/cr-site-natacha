@@ -66,21 +66,21 @@ price: $ 300/month
 
 **Furnished 1-Bedroom Apartment for Rent - Gisozi**
 
-Stay in this nice 1-bedroom furnished apartment located on the ground floor of a brand-new building of Gisozi nearby Kigali Independent University. Gisozi is a quiet neighborhood with several international schools and easy access to the City Center.
+Stay in this roomy 1-bedroom furnished apartment located on the ground floor of an ecological 6-apartments’ building of Gisozi nearby Kigali Independent University (ULK). Gisozi is a prosperous neighborhood with several international schools and easy access to the City Center.
 
-This peaceful residence is bright and fresh. It has welcoming lounge, a pleasant bedroom and a bathroom. In addition, security and maid services are complimentary!
+This peaceful residence is neat and airy. It has a bright lounge, a cosy bedroom and a bathroom. In addition, security and maid services are complimentary!
 
-Outdoor, there is shared garden and shared parking space.
+Outdoor, there is a shared garden and shared parking space.
 
-It is a charming home!
+It is a charming home! 
 
----
+- - -
 
 **Appartement meublé de 1 chambre à louer - Gisozi**
 
-Séjournez dans ce bel appartement meublé de 1 chambre situé au rez-de-chaussée d’un tout nouveau bâtiment de Gisozi à proximité de l’Université Libre de Kigali. Gisozi est un quartier calme avec plusieurs écoles internationales et un accès facile au centre-ville.
+Séjournez dans ce spacieux appartement meublé d’une chambre situé au rez-de-chaussée d’un bâtiment écologique de 6 appartements de Gisozi à proximité de l’Université Libre de Kigali (ULK). Gisozi est un quartier prospère avec plusieurs écoles internationales et un accès facile au centre-ville.
 
-Cette résidence paisible est lumineuse et fraîche. Elle dispose d’un salon accueillant, d’une chambre agréable et d’une salle de bains. En plus, les services de sécurité et de nettoyage sont inclus !
+Cette résidence paisible est soignée et aérée. Elle dispose d’un salon lumineux, d’une chambre confortable et d’une salle de bains. En plus, les services de sécurité et de nettoyage sont inclus !
 
 À l’extérieur, il y a un jardin et un parking communs.
 
