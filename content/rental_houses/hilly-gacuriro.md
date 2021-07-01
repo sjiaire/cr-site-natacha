@@ -81,22 +81,22 @@ price: $ 1,800/month
 
 **Furnished 4-Bedroom House for Rent - Gacuriro**
 
-Stay in this 2-storey charming 4-bedroom furnished house located in a welcoming estate of Gacuriro nearby Airtel Data Centre. Gacuriro is a family-friendly neighborhood with lots of parks and beautiful views.
+Stay in this charming 2-storey 4-bedroom furnished house located in a welcoming estate of Gacuriro nearby Airtel Data Centre. Gacuriro is a family-friendly neighborhood with lots of parks and beautiful views.
 
-This attractive semi-detached residence is classic and cosy. On the ground floor, it has a refined  lounge, an American kitchen with washer, a dishwasher and an en suite bedroom. Upstairs, there are 3 vast en suite bedrooms including one with a private balcony offering a hilly view. In addition, high-speed internet is available!
+This attractive semi-detached residence is classic and cosy. On the ground floor, it has a refined lounge, an American kitchen with washer, a dishwasher and an en suite bedroom. Upstairs, there are 3 vast en suite bedrooms including one with a balcony offering a hilly view. In addition, high-speed internet is available!
 
-Outdoor, there is a delightful terrace, a flowery garden, parking space and staff quarters.
+Outdoor, there is a nice terrace, a flowery garden, parking space and staff quarters.
 
 It is a must-see home!
 
 ---
- 
+
 **Maison meublée de 4 chambres à louer - Gacuriro**
 
-Séjournez dans cette maison charmante meublée de 4 chambres de 2 étages située dans un domaine accueillant de Gacuriro à proximité du Airtel Data Centre. Gacuriro est un quartier familial avec beaucoup de parcs et de belles vues.
+Séjournez dans cette charmante maison meublée de 4 chambres de 2 étages située dans une propriété accueillante de Gacuriro à proximité du Airtel Data Centre. Gacuriro est un quartier familial avec beaucoup de parcs et de belles vues.
 
-Cette belle résidence jumelée est classique et accueillante. Au rez-de-chaussée, elle dispose d’un salon raffiné, d’une cuisine américaine avec lave-linge, d’un lave-vaisselle et d’une chambre en suite. A l’étage, il y a 3 chambres vastes en suite dont une avec un balcon privé offrant une vue vallonnée. En plus, l’internet haut débit est disponible !
+Cette belle résidence jumelée est classique et confortable. Au rez-de-chaussée, elle dispose d’un salon raffiné, d’une cuisine américaine avec lave-linge, d’un lave-vaisselle et d’une chambre en suite. A l’étage, il y a 3 vastes chambres en suite dont une avec un balcon offrant une vue vallonnée. En plus, l’internet haut débit est disponible !
 
-A l’extérieur, il y a une terrasse charmante, un jardin fleuri, un parking et des annexes.
+A l’extérieur, il y a une belle terrasse, un jardin fleuri, un parking et des annexes.
 
 C’est un logement à voir !
