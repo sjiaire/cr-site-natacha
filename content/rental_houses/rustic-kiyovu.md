@@ -61,13 +61,13 @@ price: $ 2,000/month
 
 Stay in this inviting 4-bedroom furnished house located in the leafy area of Kiyovu nearby Park Inn Hotel. Kiyovu is a chic area with several shops, restaurants and schools in walking distance from the city center.
 
-This rustic residence is spacious and airy. It has a bright lounge, a pleasant kitchen with a washer, a storage room, 4 beautiful bedrooms including an en suite with a bathtub and a bathroom. In addition, high speed internet is available.
+This rustic residence is spacious and airy. It has a bright lounge, a pleasant kitchen with a washer, a storage room, 4 beautiful bedrooms including an en suite with a bathtub and a shower. In addition, high speed internet is available.
 
-Outdoor, there is a large terrace, a flowery garden, parking space, a garage and staff quarters.
+Outdoor, there is a large terrace, a flowery garden, parking space, a garage and staff quarters. 
 
-This unit can be rented unfurnished at USD 1,500
+This unit can be rented unfurnished at USD 1,500.
 
-It is a peaceful home!
+It is a peaceful home! 
 
 - - -
 
@@ -75,10 +75,10 @@ It is a peaceful home!
 
 Séjournez dans cette accueillante maison meublée de 4 chambres située dans le quartier verdoyant du Kiyovu, à proximité du Park Inn Hotel. Kiyovu est un quartier chic avec plusieurs boutiques, restaurants et écoles accessible à pied du centre-ville.
 
-Cette résidence rustique est spacieuse et aérée. Elle dispose d’un salon lumineux, d’une agréable cuisine avec lave-linge, d’un stock, de 4 belles chambres dont une en suite avec une baignoire et une salle de bains. En plus, l’internet haut débit est disponible.
+Cette résidence rustique est spacieuse et aérée. Elle dispose d’un salon lumineux, d’une agréable cuisine avec lave-linge, d’un stock, de 4 belles chambres dont une en suite avec une baignoire et une douche. En plus, l’internet haut débit est disponible.
 
 A l’extérieur, il y a une grande terrasse, un jardin fleuri, un parking, un garage et des annexes.
 
-Cette unité peut être louée non meublée à 1500 USD
+Cette unité peut être louée non meublée à 1,500 USD.
 
 C’est un logement paisible !
