@@ -2,7 +2,7 @@
 property: House
 type: rentals
 availability: Available
-title: Rustic KIyovu
+title: Rustic Kiyovu
 slug: 155-rustic-kiyovu
 date: 2021-07-01T14:22:22.500Z
 draft: false
@@ -20,15 +20,15 @@ furnished: Furnished
 sleeps: 6+
 garden: Available
 maid: NotAvailable
-tv: NotAvailable
+tv: Available
 wifi: Available
-washingmachine: NotAvailable
+washingmachine: Available
 closets: Available
 pets: Allowed
 parking: "4"
 security: NotAvailable
 minimumstay: 1 Year
-road: __
+road: Paved
 size: __
 plot_size: 1,131 sqm
 price: $ 2,000/month
