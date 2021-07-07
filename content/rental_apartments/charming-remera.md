@@ -58,9 +58,9 @@ price: $800/month
 
 **Furnished 1-Bedroom Apartment for Rent - Remera**
 
-Stay in this authentic 1-bedroom furnished apartment located on the 1st floor of an vast 14-units’ complex of Remera nearby RDB. Remera is a lively neighborhood with several shops, restaurants, banks and other amenities.
+Stay in this authentic 1-bedroom furnished apartment located on the 1st floor of a vast 14-units’ complex of Remera nearby RDB. Remera is a lively neighborhood with several shops, restaurants, banks and other amenities.
 
-This charming residence is neat and functional. It has pleasant lounge, a small kitchen, a welcoming en suite bedroom and balconies with an panoramic view. In addition, high-speed internet, security and housekeeping services are complimentary!
+This charming residence is neat and functional. It has pleasant lounge, a small kitchen, a welcoming en suite bedroom and balconies with a panoramic view. In addition, high-speed internet, security and housekeeping services are complimentary!
 
 Outdoor, there is a shared pool and shared parking space.
 
