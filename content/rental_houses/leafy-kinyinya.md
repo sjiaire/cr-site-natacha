@@ -1,7 +1,7 @@
 ---
 property: House
 type: rentals
-availability: Available
+availability: Rented
 title: Leafy Kinyinya
 slug: 138-leafy-kinyinya
 date: 2020-11-11T14:42:12.910Z
