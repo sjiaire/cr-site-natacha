@@ -55,28 +55,28 @@ price: $500/month
 {{< /gallery >}}
 {{< load-photoswipe >}}
 
-**Furnished 1-Bedroom Studio Apartment for Rent - Remera**
+**Furnished Studio Apartment for Rent - Remera**
 
-Stay in this peaceful furnished 1-bedroom studio apartment located on the 1st floor of a vast 14-units’ complex of Remera nearby RDB. Remera is a lively neighborhood with several shops, restaurants, banks and other amenities.
+Stay in this peaceful furnished studio apartment located on the 1st floor of a vast 14-units’ complex of Remera nearby RDB. Remera is a lively neighborhood with several shops, restaurants, banks and other services.
 
-This spotless residence is bright and quiet. It has a comfortable lounge, an American kitchen, a beautiful bedroom, a bathroom with a bathtub and a balcony with a panoramic view. In addition, high-speed internet, security and housekeeping services are complimentary!
+This spotless residence is bright and quiet. It has a comfortable lounge, a kitchen corner, a beautiful bedroom, a bathroom with a bathtub and a balcony with a panoramic view. In addition, high-speed internet, security and housekeeping services are complimentary!
 
 Outdoor, there is a shared pool and shared parking space. 
 
 For rentals under 1 month, request our short-term rates!
 
-It is a delightful home! 
+It is an enjoyable home! 
 
 - - -
 
-**Studio meublé de 1 chambre à louer - Remera**
+**Studio meublé à louer - Remera**
 
-Séjournez dans ce paisible studio meublé d’une chambre situé au 1er étage d’un vaste complexe de 14 unités de Remera à proximité de RDB. Remera est un quartier animé avec plusieurs magasins, restaurants, banques et autres commodités.
+Séjournez dans ce paisible studio meublé situé au 1er étage d’un vaste complexe de 14 unités de Remera à proximité de RDB. Remera est un quartier animé avec plusieurs magasins, restaurants, banques et autres services.
 
-Cette résidence impeccable est lumineuse et calme. Elle dispose d’un salon confortable, d’une cuisine américaine, d’une belle chambre, d’une salle de bains avec baignoire et d’un balcon avec vue panoramique. En plus, l’Internet haut début, les services de sécurité et de nettoyage sont inclus !
+Cette résidence impeccable est lumineuse et calme. Elle dispose d’un salon confortable, Un coin cuisine, d’une belle chambre, d’une salle de bains avec baignoire et d’un balcon avec vue panoramique. En plus, l’Internet haut début, les services de sécurité et de nettoyage sont inclus !
 
 À l’extérieur, il y a une piscine et un parking communs.
 
 Pour les locations de moins de 1 mois, demandez nos tarifs court-terme !
 
-C’est un charmant logement !
+C’est un logement Agréable !
