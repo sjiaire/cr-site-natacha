@@ -71,6 +71,7 @@ It is a cosy home!
 - - -
 
 **Appartement meublé de 1 chambre à louer - Remera**
+
 Séjournez dans cet authentique appartement meublé d’une chambre situé au 1er étage d’un vaste complexe de 14 unités de Remera à proximité de RDB. Remera est un quartier animé avec plusieurs magasins, restaurants, banques et autres commodités.
 
 Cette charmante résidence est soignée et fonctionnelle. Elle dispose d’un agréable salon, d’une petite cuisine, d’une chambre en suite accueillante et de balcons avec vue panoramique. En plus, Internet haute vitesse, les services de sécurité et de nettoyage sont inclus !
