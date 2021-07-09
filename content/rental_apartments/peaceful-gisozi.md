@@ -68,7 +68,7 @@ price: $ 300/month
 
 Stay in this roomy 1-bedroom furnished apartment located on the ground floor of an ecological 6-apartments’ building of Gisozi nearby Kigali Independent University (ULK). Gisozi is a prosperous neighborhood with several international schools and easy access to the City Center.
 
-This peaceful residence is neat and airy. It has a bright lounge, a cosy bedroom and a bathroom. In addition, security and maid services are complimentary!
+This peaceful residence is neat and airy. It has a bright lounge, a functional kitchen, a cosy bedroom and a bathroom. In addition, security and maid services are complimentary!
 
 Outdoor, there is a shared garden and shared parking space.
 
@@ -80,7 +80,7 @@ It is a charming home!
 
 Séjournez dans ce spacieux appartement meublé d’une chambre situé au rez-de-chaussée d’un bâtiment écologique de 6 appartements de Gisozi à proximité de l’Université Libre de Kigali (ULK). Gisozi est un quartier prospère avec plusieurs écoles internationales et un accès facile au centre-ville.
 
-Cette résidence paisible est soignée et aérée. Elle dispose d’un salon lumineux, d’une chambre confortable et d’une salle de bains. En plus, les services de sécurité et de nettoyage sont inclus !
+Cette résidence paisible est soignée et aérée. Elle dispose d’un salon lumineux, d’une cuisine fonctionnelle, d’une chambre confortable et d’une salle de bains. En plus, les services de sécurité et de nettoyage sont inclus !
 
 À l’extérieur, il y a un jardin et un parking communs.
 
