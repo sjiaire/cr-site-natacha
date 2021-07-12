@@ -73,7 +73,7 @@ It is an enjoyable home!
 
 Séjournez dans ce paisible studio meublé situé au 1er étage d’un vaste complexe de 14 unités de Remera à proximité de RDB. Remera est un quartier animé avec plusieurs magasins, restaurants, banques et autres services.
 
-Cette résidence impeccable est lumineuse et calme. Elle dispose d’un salon confortable, Un coin cuisine, d’une belle chambre, d’une salle de bains avec baignoire et d’un balcon avec vue panoramique. En plus, l’Internet haut début, les services de sécurité et de nettoyage sont inclus !
+Cette résidence impeccable est lumineuse et calme. Elle dispose d’un salon confortable, Un coin cuisine, d’une belle chambre, d’une salle de bains avec baignoire et d’un balcon avec vue panoramique. En plus, l’Internet haut débit, les services de sécurité et de nettoyage sont inclus !
 
 À l’extérieur, il y a une piscine et un parking communs.
 
