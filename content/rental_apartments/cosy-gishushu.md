@@ -27,7 +27,7 @@ closets: Available
 pets: NotAllowed
 parking: "1"
 security: Available
-minimumstay: 1 Year
+minimumstay: 1 Week
 road: Paved
 plot_size: __
 garden: NotAvailable
