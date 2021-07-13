@@ -74,7 +74,7 @@ It is a cosy home!
 
 Séjournez dans cet appartement meublé authentique d’une chambre situé au 1er étage d’un vaste complexe de 14 unités de Remera à proximité de RDB. Remera est un quartier animé avec plusieurs magasins, restaurants, banques et autres services.
 
-Cette charmante résidence est soignée et fonctionnelle. Elle dispose d’un agréable salon, d’une petite cuisine, d’une chambre en suite accueillante et de balcons avec vue panoramique. En plus, l'Internet haute débit, les services de sécurité et de nettoyage sont inclus !
+Cette charmante résidence est soignée et fonctionnelle. Elle dispose d’un agréable salon, d’une petite cuisine, d’une chambre en suite accueillante et de balcons avec vue panoramique. En plus, l'Internet haut débit, les services de sécurité et de nettoyage sont inclus !
 
 À l’extérieur, il y a une piscine et un parking communs.
 
