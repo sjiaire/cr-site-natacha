@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Rustic Kiyovu
 slug: 155-rustic-kiyovu
-date: 2021-07-01T14:22:22.500Z
+date: 2021-07-03T14:22:22.500Z
 draft: false
 description: Stay in this inviting 4-bedroom furnished house located in the
   leafy area of Kiyovu nearby Park Inn Hotel. Kiyovu is a chic area with several
