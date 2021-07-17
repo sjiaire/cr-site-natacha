@@ -66,22 +66,24 @@ price: $2,000/month
 
 **Furnished 1-Bedroom Apartment for Rent - Rebero**
 
-Stay in this beautiful 1-bedroom furnished apartment located in the residential area of Rebero nearby Les Hirondelles School. Rebero is a chic neighborhood with wonderful views and easy access from the city center, Remera and Kicukiro.
+Stay in this beautiful 1-bedroom furnished apartment located in a modern 4-apartments’ complex of Rebero nearby Les Hirondelles School. Rebero is a chic neighborhood with wonderful views and easy access from the city center, Remera and Kicukiro.
 
-This classy 2-storey residence is bright and airy. On the ground floor, it has a bright lounge open to an American equipped kitchen and a toilet. Upstairs, there is an en suite bedroom and a wide balcony with an amazing view. In addition, high-speed internet, security and maid services are complimentary!
+This classy 2-storey residence is bright and airy. On the ground floor, it has a delightful  lounge open to an American equipped kitchen and a toilet. Upstairs, there is an en suite bedroom and a wide balcony with an amazing view. In addition, high-speed internet, security and maid services are complimentary!
 
 Outdoor, there is a shared swimming pool and a shared parking.
 
-It is a perfect home!
+For rentals under 1 month, request our short-term rates!
 
----
+It is a wonderful home! 
+
+- - -
 
 **Appartement meublé de 1 chambre à louer - Rebero**
 
 Séjournez dans ce bel appartement meublé d’une chambre situé dans le quartier résidentiel de Rebero à proximité de l’école Les Hirondelles. Rebero est un quartier chic avec des vues magnifiques et un accès facile depuis le centre-ville, Remera et Kicukiro.
 
-Cette résidence de 2 étages est est lumineuse et aérée. Au rez-de-chaussée, elle dispose d’un salon lumineux ouvert sur une cuisine américaine équipée et de toilette. À l’étage, il y a une chambre en suite et un grand balcon avec une vue imprenable. En plus, l’internet haut débit, les services de sécurité et de nettoyage sont inclus !
+Cette résidence de 2 étages est lumineuse et aérée. Au rez-de-chaussée, elle dispose d’un charmant salon ouvert sur une cuisine américaine équipée et d’une toilette. À l’étage, il y a une chambre en suite et un grand balcon avec une vue imprenable. En plus, l’internet haut débit, les services de sécurité et de nettoyage sont inclus !
 
 A l’extérieur, il y a une piscine et un parking communs.
 
-C’est un logement parfaite!
+C’est un logement magnifique!
