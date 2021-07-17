@@ -70,15 +70,17 @@ price: $1,200/month
 
 **Furnished 1-Bedroom Apartment for Rent - Rebero**
 
-Stay in this stunning 1-bedroom furnished apartment located on the ground floor of a modern building of Rebero nearby Les Hirondelles School. Rebero is a chic neighborhood with  wonderful views and easy access from the city center, Remera and Kicukiro.
+Stay in this stunning 1-bedroom furnished apartment located on the ground floor of a modern 4-apartments’ complex of Rebero nearby Les Hirondelles School. Rebero is a chic neighborhood with wonderful views and easy access from the city center, Remera and Kicukiro.
 
 This homey residence is stylish and neat. It has a nice lounge open to an American equipped kitchen, a charming bedroom and a bathroom. In addition, high-speed internet, security and maid services are complimentary!
 
-Outdoor, there is a shared swimming pool and a shared parking.
+Outdoor, there is a shared swimming pool and a shared parking. 
 
-It is a pretty home!
+For rentals under 1 month, request our short-term rates!
 
----
+It is a pretty home! 
+
+- - -
 
 **Appartement meublé de 1 chambre à louer - Rebero**
 
@@ -88,4 +90,6 @@ Cette résidence accueillante est élégante et soignée. Elle dispose d’un jo
 
 A l’extérieur, il y a une piscine et un parking communs.
 
-C’est un logement magnifique !
+Pour les locations de moins de 1 mois, demandez nos tarifs court-terme!
+
+C’est un joli logement !
