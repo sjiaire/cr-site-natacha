@@ -60,13 +60,11 @@ price: Rwf 40,000,000
 
 {{< load-photoswipe >}}
 
-
-
 **3-Bedroom Apartment for Sale - Gisozi**
 
-Buy this beautiful 3-bedroom apartment located on the ground floor of a brand-new building of Gisozi nearby Kigali Independent University. Gisozi is a quiet neighborhood with several international schools and easy access to the City Center.
+Buy this unique 3-bedroom apartment located on both floors of an ecological 6-apartments’ building of Gisozi nearby Kigali Independent University (ULK). Gisozi is a prosperous neighborhood with several international schools and easy access to the City Center.
 
-This restful 2-storey residence is nice and fresh. On the ground floor, it has a spacious lounge, a small kitchen, an inviting bedroom and a bathroom. Upstairs, there are 2 charming bedrooms including an en suite.In addition, security service is available!
+This restful 2-storey residence is rustic and functional. On the ground floor, it has an inviting lounge, a small kitchen, a beautiful bedroom and bathroom. Upstairs, there are two bright bedrooms including an en suite.
 
 Outdoor, there is shared garden and shared parking space.
 
@@ -76,10 +74,10 @@ It is a pleasant home!
 
 **Appartement de 3 chambres à vendre - Gisozi**
 
-Achetez ce bel appartement de 3 chambres situé au rez-de-chaussée d’un tout nouveau bâtiment de Gisozi à proximité de l’Université Libre de Kigali. Gisozi est un quartier calme avec plusieurs écoles internationales et un accès facile au centre-ville.
+Achetez cet appartement unique de 3 chambres situé sur les deux étages d’un bâtiment écologique de 6 appartements de Gisozi à proximité de l’Université Libre de Kigali (ULK). Gisozi est un quartier prospère avec plusieurs écoles internationales et un accès facile au centre-ville.
 
-Cette résidence de 2 étages est jolie et fraîche. Au rez-de-chaussée, elle dispose d’un salon spacieux, d’une petite cuisine, d’une chambre accueillante et d’une salle de bains. A l’étage, il y a 2 chambres charmantes dont une en suite. En plus, les services de sécurité et de nettoyage sont inclus !
+Cette résidence de 2 étages est rustique et fonctionnelle. Au rez-de-chaussée, elle dispose d’un salon accueillant, d’une petite cuisine, d’une belle chambre et d’une salle de bains. A l’étage, il y a deux chambres lumineuses dont une en suite.
 
-À l’extérieur, il y a un jardin commun et un parking commun.
+À l’extérieur, il y a un jardin et un parking communs.
 
 C’est un logement agréable!
