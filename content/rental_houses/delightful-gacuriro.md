@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Delightful Gacuriro
 slug: 133-delightful-gacuriro
-date: 2020-10-02T13:17:28.636Z
+date: 2021-07-20T18:40:50.607Z
 draft: false
 description: Stay in this welcoming semi-detached 3-bedroom house located in the
   family-friendly estate of Vision 2020 in Gacuriro nearby Airtel Data Centre.
@@ -30,8 +30,8 @@ security: NotAvailable
 minimumstay: 1 Year
 road: Paved
 size: __
-plot_size: __
-price: $1,500/month
+plot_size: 376 sqm
+price: $1,200/month
 ---
 {{< gallery >}}
 
@@ -71,22 +71,22 @@ price: $1,500/month
 
 **3-Bedroom House for Rent - Gacuriro**
 
-Stay in this welcoming semi-detached 3-bedroom house located in the family-friendly estate of Vision 2020 in Gacuriro nearby Airtel Data Centre. Gacuriro is a quiet neighborhood with lots of parks and beautiful views.
+Stay in this welcoming 2-storey  3-bedroom house located in the quiet estate of Gacuriro nearby Airtel Data Centre. Gacuriro is a family-friendly neighborhood with lots of parks and beautiful views.
 
-This delightful 2-storey residence is neat and functional. On the ground floor, it has a bright lounge, a stunning kitchen, an inviting bedroom and a bathroom. Upstairs, there are 2 beautiful bedrooms and a bathroom with a bathtub.
+This delightful semi-detached residence is neat and functional*.* On the ground floor, it has a bright lounge, a stunning kitchen, a pleasant bedroom and a bathroom. Upstairs, there are 2 beautiful bedrooms and a bathroom with a bathtub.
 
 Outdoor, there are 2 large terraces, a flowery garden, parking space and staff quarters.
 
 It is a peaceful home!
 
-- - -
+---
 
-**Maison de 3 chambres à louer – Gacuriro**
+**Maison de 3 chambres à louer - Gacuriro**
 
-Séjournez dans cette accueillante maison jumelée de 3 chambres située dans le quartier familial de Vision 2020 à Gacuriro, à proximité du Airtel Data Centre. Gacuriro est un quartier calme avec beaucoup de parcs et de belles vues.
+Séjournez dans cette accueillante maison de 2 étages de 3 chambres située dans une propriété calme de Gacuriro, à proximité Airtel Data Centre. Gacuriro est un quartier familial avec beaucoup de parcs et de belles vues.
 
-Cette charmante résidence de 2 étages est soignée et fonctionnelle. Au rez-de-chaussée, elle dispose d’un salon lumineux, d’une superbe cuisine, d’une chambre accueillante et d’une salle de bains. A l’étage, il y a 2 belles chambres et une salle de bains avec baignoire.
+Cette charmante résidence jumelée est soignée et fonctionnelle. Au rez-de-chaussée, elle dispose d’un salon lumineux, d’une superbe cuisine, d’une agréable chambre et d’une salle de bains. A l’étage, il y a 2 belles chambres et une salle de bains avec baignoire.
 
-À l’extérieur, il y a 2 grandes terrasses, un jardin fleuri, un parking et une annexe.
+A l’extérieur, il y a 2 grandes terrasses, un jardin fleuri, un parking et des annexes.
 
-C’est un logement paisible !
+C’est une maison paisible !
