@@ -6,9 +6,9 @@ title: Delightful Gacuriro
 slug: 133-delightful-gacuriro
 date: 2021-07-20T18:40:50.607Z
 draft: false
-description: Stay in this welcoming semi-detached 3-bedroom house located in the
-  family-friendly estate of Vision 2020 in Gacuriro nearby Airtel Data Centre.
-  Gacuriro is a quiet neighborhood with lots of parks and beautiful views.
+description: Stay in this welcoming 2-storey  3-bedroom house located in the
+  quiet estate of Gacuriro nearby Airtel Data Centre. Gacuriro is a
+  family-friendly neighborhood with lots of parks and beautiful views.
 hidesidebar: true
 thumbnail: /images/uploads/133-01.jpg
 image: /images/uploads/133-01.jpg
