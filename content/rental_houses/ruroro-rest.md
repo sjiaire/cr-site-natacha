@@ -4,11 +4,11 @@ type: rentals
 availability: Available
 title: Rusororo Rest
 slug: 6-rusororo-rest
-date: 2020-10-09T16:20:02.877Z
+date: 2021-07-21T14:17:49.975Z
 draft: false
-description: Stay in this welcoming 4-bedroom furnished house located in an
+description: Stay in this welcoming 4-bedroom furniture house located in an
   exclusive estate of Rusororo nearby RPF Headquarters. Rusororo is an authentic
-  neighborhood surrounded by green hills and close to Mulindi Market.
+  neighborhood surrounded by green hills and beautiful views.
 hidesidebar: true
 thumbnail: /images/uploads/006-01.jpg
 image: /images/uploads/006-01.jpg
@@ -71,22 +71,26 @@ price: $1,200/month
 
 **Furnished 4-Bedroom House for Rent - Rusororo**
 
-Stay in this welcoming 4-bedroom furnished house located in an exclusive estate of Rusororo nearby RPF Headquarters. Rusororo is an authentic neighborhood surrounded by green hills and beautiful views.
+Stay in this welcoming 4-bedroom furniture house located in an exclusive estate of Rusororo nearby RPF Headquarters. Rusororo is an authentic neighborhood surrounded by green hills and beautiful views.
 
-This cosy residence is bright and functional. It has a comfortable lounge open to a fully equipped kitchen, 2 inviting bedrooms sharing a bathroom and 2 charming en suite bedrooms including one with a bathtub. In addition, high-speed internet, estate security and maid services are available!
+This pleasant residence is bright and functional. It has a comfortable lounge open to a fully equipped kitchen with a washer, 2 charming bedrooms sharing a bathroom and 2 en suite bedrooms including one with a bathtub. In addition, high-speed internet, security, housekeeping, and gardening services are complimentary!
 
 Outdoor, there is a spacious terrace, a beautiful garden, parking space and staff quarters.
 
+For rentals under 1 month, request our short-term rates!
+
 It is a peaceful home!
 
-- - -
+---
 
 **Maison meublée de 4 chambres à louer - Rusororo**
 
-Séjournez dans cette accueillante maison meublée de 4 chambres située dans un domaine exclusif de Rusororo à proximité du siège du FPR. Rusororo est un quartier authentique entouré de collines verdoyantes et de belles vues.
+Séjournez dans cette accueillante maison de 4 chambres située dans un propriété exclusif de Rusororo à proximité du siège du FPR. Rusororo est un quartier authentique entouré de collines verdoyantes et de belles vues.
 
-Cette résidence agréable est lumineuse et fonctionnelle. Elle dispose d’un salon confortable ouvert sur une cuisine entièrement équipée, de 2 chambres accueillantes partageant une salle de bains et de 2 suites charmantes dont une avec baignoire. En plus, l’internet haut débit ainsi que les services de sécurité et de nettoyage sont disponibles !
+Cette résidence agréable est lumineuse et fonctionnelle. Elle dispose d’un salon confortable ouvert sur une cuisine entièrement équipée avec un lave-linge, 2 chambres de charme partageant une salle de bains et 2 chambres en suite dont une avec baignoire. En plus, Internet haut débit, les services de sécurité, de nettoyage et de jardinage sont inclus!
 
 A l’extérieur, il y a une terrasse spacieuse, un beau jardin, un parking et des annexes.
 
-C’est une maison paisible !
+Pour les locations de moins de 1 mois, demandez nos tarifs court-terme!
+
+C’est un logement paisible !
