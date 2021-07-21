@@ -14,13 +14,13 @@ hidesidebar: true
 thumbnail: /images/uploads/151-01.jpg
 image: /images/uploads/151-01.jpg
 area: Gisozi
-floor: Ground Floor
+floor: Ground
 bedrooms: "3"
 baths: "2"
 wifi: NotAvailable
 closets: NotAvailable
 parking: "1"
-road: Paved
+road: Dirt
 size: 80 sqm
 price: Rwf 40,000,000
 ---
