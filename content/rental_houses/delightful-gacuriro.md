@@ -79,7 +79,7 @@ Outdoor, there are 2 large terraces, a flowery garden, parking space and staff q
 
 It is a peaceful home!
 
----
+- - -
 
 **Maison de 3 chambres à louer - Gacuriro**
 
@@ -89,4 +89,4 @@ Cette charmante résidence jumelée est soignée et fonctionnelle. Au rez-de-cha
 
 A l’extérieur, il y a 2 grandes terrasses, un jardin fleuri, un parking et des annexes.
 
-C’est une maison paisible !
+C’est un logement paisible !
