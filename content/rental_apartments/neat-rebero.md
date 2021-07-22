@@ -68,24 +68,27 @@ price: $ 1,000/month
 
 {{< load-photoswipe >}}
 
-**Furnished 1-Bedroom Studio Apartment for Rent - Rebero**
+**Furnished Studio Apartment for Rent - Rebero**
 
-Stay in this pleasant furnished 1-bedroom studio apartment located on the ground floor of a modern building of Rebero nearby Les Hirondelles School. Rebero is a chic neighborhood with wonderful views and easy access from the city center, Remera and Kicukiro.
+Stay in this pleasant furnished studio apartment located on the ground floor modern 4-units’ complex of Rebero nearby Les Hirondelles School. Rebero is a chic neighborhood with wonderful views and easy access from the city center, Remera and Kicukiro.
 
-This neat residence is cosy and refined*.* It has an American equipped kitchen open to a nice bedroom and a bathroom. In addition, high-speed internet, security and maid services are complimentary!
+This neat residence is cosy and refined. It has an equipped kitchen open to a nice bedroom and a bathroom. In addition, high-speed internet, security and maid services are complimentary!
 
 Outdoor, there is a shared swimming pool and a shared parking.
 
-It is a lovely home!
+For rentals under 1 month, request our short-term rates!
+
+It is a lovely home! 
 
 - - -
 
-**Studio meublé de 1 chambre à louer - Rebero**
+**Studio meublé à louer - Rebero**
 
-Séjournez dans cet agréable studio meublé de 1 chambre situé au rez-de-chaussée d’un immeuble moderne de Rebero à proximité de l’école Les Hirondelles. Rebero est un quartier chic avec des vues magnifiques et un accès facile depuis le centre-ville, Remera et Kicukiro.
+Séjournez dans cet agréable studio meublé situé au rez-de-chaussée du complexe moderne de 4 unités de Rebero à proximité de l’école Les Hirondelles. Rebero est un quartier chic avec des vues magnifiques et un accès facile depuis le centre-ville, Remera et Kicukiro.
 
-Cette résidence soignée est cosy et raffinée. Elle dispose d’une cuisine américaine équipée ouverte sur une belle chambre et une salle de bains. En plus, l’internet haut débit, les services de sécurité et de nettoyage sont inclus !
-
+Cette résidence soignée est cosy et raffinée. Elle dispose d’une cuisine équipée ouverte sur une belle chambre et une salle de bains. En plus, l’internet haut débit, les services de sécurité et de nettoyage sont inclus !
 A l’extérieur, il y a une piscine et un parking communs.
 
-C’est un logement charment !
+Pour les locations de moins de 1 mois, demandez nos tarifs court-terme !
+
+C’est un beau logement !
