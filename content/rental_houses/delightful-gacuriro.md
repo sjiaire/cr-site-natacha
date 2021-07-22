@@ -71,7 +71,7 @@ price: $1,200/month
 
 **3-Bedroom House for Rent - Gacuriro**
 
-Stay in this welcoming 2-storey  3-bedroom house located in the quiet estate of Gacuriro nearby Airtel Data Centre. Gacuriro is a family-friendly neighborhood with lots of parks and beautiful views.
+Stay in this welcoming 3-bedroom storey house located in the quiet estate of Gacuriro nearby Airtel Data Centre. Gacuriro is a family-friendly neighborhood with lots of parks and beautiful views.
 
 This delightful semi-detached residence is neat and functional*.* On the ground floor, it has a bright lounge, a stunning kitchen, a pleasant bedroom and a bathroom. Upstairs, there are 2 beautiful bedrooms and a bathroom with a bathtub.
 
@@ -83,7 +83,7 @@ It is a peaceful home!
 
 **Maison de 3 chambres à louer - Gacuriro**
 
-Séjournez dans cette accueillante maison de 2 étages de 3 chambres située dans une propriété calme de Gacuriro, à proximité Airtel Data Centre. Gacuriro est un quartier familial avec beaucoup de parcs et de belles vues.
+Séjournez dans cette accueillante maison en étage de 3 chambres située dans une propriété calme de Gacuriro, à proximité Airtel Data Centre. Gacuriro est un quartier familial avec beaucoup de parcs et de belles vues.
 
 Cette charmante résidence jumelée est soignée et fonctionnelle. Au rez-de-chaussée, elle dispose d’un salon lumineux, d’une superbe cuisine, d’une agréable chambre et d’une salle de bains. A l’étage, il y a 2 belles chambres et une salle de bains avec baignoire.
 
