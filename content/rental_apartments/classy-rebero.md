@@ -14,7 +14,7 @@ hidesidebar: true
 thumbnail: /images/uploads/153-01.jpg
 image: /images/uploads/153-01.jpg
 area: Rebero
-floor: Ground Floor
+floor: Ground
 bedrooms: "1"
 baths: "1"
 furnished: Furnished
@@ -102,10 +102,10 @@ It is a wonderful home!
 
 Séjournez dans ce bel appartement meublé d’une chambre situé dans un complexe moderne de 4 unités de Rebero à proximité de l’école Les Hirondelles. Rebero est un quartier chic avec des vues magnifiques et un accès facile depuis le centre-ville, Remera et Kicukiro.
 
-Cette résidence de 2 étages est lumineuse et spacieuse. Au rez-de-chaussée, elle dispose d’un charmant salon ouvert sur une cuisine américaine et d’une toilette. A l’étage, il y a une chambre en suite et un grand balcon avec une vue imprenable. En plus, l’internet haut débit, les services de sécurité et de nettoyage sont inclus !
+Cette résidence de 2 étages est lumineuse et aérée. Au rez-de-chaussée, elle dispose d’un charmant salon ouvert sur une cuisine américaine et d’une toilette. A l’étage, il y a une chambre en suite et un grand balcon avec une vue imprenable. En plus, l’internet haut débit, les services de sécurité et de nettoyage sont inclus !
 
 A l’extérieur, il y a une piscine et un parking communs.
 
 Pour les locations de moins de 1 mois, demandez nos tarifs court-terme !
 
-C’est un logement merveille !
+C’est un logement merveilleux !
