@@ -11,7 +11,7 @@ description: Stay in this pleasant furnished 1-bedroom studio apartment located
   from the city center, Remera and Kicukiro.
 draft: false
 hidesidebar: true
-thumbnail: /images/uploads/152-01.jpg
+thumbnail: /images/uploads/154-01.jpg
 image: /images/uploads/152-01.jpg
 area: Rebero
 floor: Ground Floor
