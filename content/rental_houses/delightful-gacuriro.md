@@ -83,7 +83,7 @@ It is a peaceful home!
 
 **Maison de 3 chambres à louer - Gacuriro**
 
-Séjournez dans cette accueillante maison en étage de 3 chambres située dans une propriété calme de Gacuriro, à proximité Airtel Data Centre. Gacuriro est un quartier familial avec beaucoup de parcs et de belles vues.
+Séjournez dans cette accueillante maison à étage de 3 chambres située dans une propriété calme de Gacuriro, à proximité Airtel Data Centre. Gacuriro est un quartier familial avec beaucoup de parcs et de belles vues.
 
 Cette charmante résidence jumelée est soignée et fonctionnelle. Au rez-de-chaussée, elle dispose d’un salon lumineux, d’une superbe cuisine, d’une agréable chambre et d’une salle de bains. A l’étage, il y a 2 belles chambres et une salle de bains avec baignoire.
 
