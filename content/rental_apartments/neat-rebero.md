@@ -86,9 +86,9 @@ It is a lovely home!
 
 **Studio meublé à louer - Rebero**
 
-Séjournez dans cet agréable studio meublé situé au rez-de-chaussée du complexe moderne de 4 unités de Rebero à proximité de l’école Les Hirondelles. Rebero est un quartier chic avec des vues magnifiques et un accès facile depuis le centre-ville, Remera et Kicukiro.
+Séjournez dans cet agréable studio meublé situé au rez-de-chaussée d'un complexe moderne de 4 unités de Rebero à proximité de l’école Les Hirondelles. Rebero est un quartier chic avec des vues magnifiques et un accès facile depuis le centre-ville, Remera et Kicukiro.
 
-Cette résidence soignée est cosy et raffinée. Elle dispose d’une cuisine équipée ouverte sur une belle chambre et une salle de bains. En plus, l’internet haut débit, les services de sécurité et de nettoyage sont inclus !
+Cette résidence soignée est confortable et raffinée. Elle dispose d’une cuisine équipée ouverte sur une belle chambre et d'une salle de bains. En plus, l’internet haut débit, les services de sécurité et de nettoyage sont inclus !
 A l’extérieur, il y a une piscine et un parking communs.
 
 Pour les locations de moins de 1 mois, demandez nos tarifs court-terme !
