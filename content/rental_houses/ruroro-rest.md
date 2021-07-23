@@ -71,26 +71,26 @@ price: $1,200/month
 
 **Furnished 4-Bedroom House for Rent - Rusororo**
 
-Stay in this welcoming 4-bedroom furniture house located in an exclusive estate of Rusororo nearby RPF Headquarters. Rusororo is an authentic neighborhood surrounded by green hills and beautiful views.
+Stay in this welcoming 4-bedroom furnished house located in an exclusive estate of Rusororo nearby RPF Headquarters. Rusororo is an authentic neighborhood surrounded by green hills and beautiful views.
 
-This pleasant residence is bright and functional. It has a comfortable lounge open to a fully equipped kitchen with a washer, 2 charming bedrooms sharing a bathroom and 2 en suite bedrooms including one with a bathtub. In addition, high-speed internet, security, housekeeping, and gardening services are complimentary!
+ This pleasant residence is bright and functional. It has a comfortable lounge open to a fully equipped kitchen with a washer, 2 charming bedrooms sharing a bathroom and 2 en suite bedrooms including one with a bathtub. In addition, high-speed internet, security, housekeeping, and gardening services are complimentary!
 
-Outdoor, there is a spacious terrace, a beautiful garden, parking space and staff quarters.
+Outdoor, there is a spacious terrace, a beautiful garden, parking space and staff quarters. 
 
 For rentals under 1 month, request our short-term rates!
 
-It is a peaceful home!
+It is a peaceful home! 
 
----
+- - -
 
 **Maison meublée de 4 chambres à louer - Rusororo**
 
-Séjournez dans cette accueillante maison de 4 chambres située dans un propriété exclusif de Rusororo à proximité du siège du FPR. Rusororo est un quartier authentique entouré de collines verdoyantes et de belles vues.
+Séjournez dans cette accueillante maison de 4 chambres située dans un propriété exclusive de Rusororo à proximité du siège du FPR. Rusororo est un quartier authentique entouré de collines verdoyantes et de belles vues.
 
-Cette résidence agréable est lumineuse et fonctionnelle. Elle dispose d’un salon confortable ouvert sur une cuisine entièrement équipée avec un lave-linge, 2 chambres de charme partageant une salle de bains et 2 chambres en suite dont une avec baignoire. En plus, Internet haut débit, les services de sécurité, de nettoyage et de jardinage sont inclus!
+Cette résidence agréable est lumineuse et fonctionnelle. Elle dispose d’un salon confortable ouvert sur une cuisine entièrement équipée avec un lave-linge, de 2 chambres charmantes partageant une salle de bains et 2 chambres en suite dont une avec baignoire. En plus, l’internet haut débit, les services de sécurité, de nettoyage et de jardinage sont inclus !
 
 A l’extérieur, il y a une terrasse spacieuse, un beau jardin, un parking et des annexes.
 
-Pour les locations de moins de 1 mois, demandez nos tarifs court-terme!
+Pour les locations de moins de 1 mois, demandez nos tarifs court-terme !
 
 C’est un logement paisible !
