@@ -4,7 +4,7 @@ type: sales
 availability: Available
 title: Spacious Kimironko
 slug: 140-spacious-kimironko
-date: 2020-12-22T14:12:30.027Z
+date: 2021-07-27T14:13:13.122Z
 draft: false
 description: Buy this pleasant 4-bedroom house within a 2,300 sqm plot located
   in residential area of Kimironko nearby Kwa Mushimire. Kimironko is a lively
@@ -39,24 +39,24 @@ price: Rwf 450,000,000
 {{< /gallery >}}
 {{< load-photoswipe >}}
 
-**4-Bedroom house for Sale - Kimironko**
+**4-Bedroom House for Sale - Kimironko**
 
-Buy this pleasant 4-bedroom house on a 2,321 sqm plot located in residential area of Kimironko nearby Kwa Mushimire. Kimironko is a lively neighborhood with easy access to the central market and public transportation.
+Buy this pleasant 4-bedroom house on a 2,321 sqm plot located in the residential area of Kimironko nearby Kwa Mushimire. Kimironko is a lively neighborhood with easy access to the central market and public transportation.
 
-This spacious residence is neat and welcoming. It has a bright lounge, a wide kitchen with a storage room, 4 charming bedrooms including an en suite, a bathroom and a toilet. 
+This spacious residence is neat and welcoming. It has a bright lounge, a wide kitchen with a storage room, 4 charming bedrooms including an en suite, a bathroom and a toilet.
 
-Outdoor, there is a terrace with a nice view, a vast garden, a large parking space and staff quarters. 
+Outdoor, there is a terrace with a nice view, a vast garden, a large parking space and staff quarters.
 
-It is a beautiful property! 
+It is a beautiful property home!
 
-- - -
+---
 
-**Maison de 4 chambres à vendre – Kimironko**
+**Maison de 4 chambres à vendre - Kimironko**
 
-Achetez cette agréable maison de 4 chambres sur un terrain de 2.321 m² située dans le quartier résidentiel de Kimironko à proximité de Kwa Mushimire. Kimironko est un quartier animé avec un accès facile au marché central et aux transports en commun.
+Achetez cette agréable maison de 4 chambres sur un terrain de 2.321 m² situé dans le quartier résidentiel de Kimironko à proximité de Kwa Mushimire. Kimironko est un quartier animé avec un accès facile au marché central et aux transports en commun.
 
-Cette résidence spacieuse est soignée et accueillante. Elle dispose d’un salon lumineux, d’une grande cuisine avec un stock, de 4 chambres charmantes dont une en suite, d’une salle de bains et d’une toilette.
+Cette résidence spacieuse est soignée et accueillante. Elle dispose d’un salon lumineux, d’une grande cuisine avec un débarras, de 4 chambres de charme dont une en suite, d’une salle de bains et d’une toilette.
 
-À l’extérieur, il y a une terrasse avec une jolie vue, un vaste jardin, un grand parking et des annexes.
+A l’extérieur, il y a une terrasse avec une belle vue, un vaste jardin, un grand parking et des annexes.
 
 C’est une belle propriété !
