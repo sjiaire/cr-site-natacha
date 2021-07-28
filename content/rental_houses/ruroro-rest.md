@@ -87,7 +87,7 @@ It is a peaceful home!
 
 Séjournez dans cette accueillante maison de 4 chambres située dans un propriété exclusive de Rusororo à proximité du siège du FPR. Rusororo est un quartier authentique entouré de collines verdoyantes et de belles vues.
 
-Cette résidence agréable est lumineuse et fonctionnelle. Elle dispose d’un salon confortable ouvert sur une cuisine entièrement équipée avec un lave-linge, de 2 chambres charmantes partageant une salle de bains et 2 chambres en suite dont une avec baignoire. En plus, l’internet haut débit, les services de sécurité, de nettoyage et de jardinage sont inclus !
+Cette résidence agréable est lumineuse et fonctionnelle. Elle dispose d’un salon confortable ouvert sur une cuisine entièrement équipée avec un lave-linge, de 2 chambres charmantes partageant une salle de bains et de 2 chambres en suite dont une avec baignoire. En plus, l’internet haut débit ainsi que les services de sécurité, de nettoyage et de jardinage sont inclus !
 
 A l’extérieur, il y a une terrasse spacieuse, un beau jardin, un parking et des annexes.
 
