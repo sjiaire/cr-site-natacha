@@ -64,22 +64,22 @@ price: $1,200/month
 
 **Furnished 4-Bedroom House for Rent - Rugando**
 
-Stay in this charming 4-bedroom furnished house located in the residential area of Rugando nearby RDB. Rugando is a calm neighborhood with many restaurants, open views and easy access to Kacyiru, Nyarutarama and international schools.
+Stay in this charming 4-bedroom furnished house located in the central area of Rugando nearby RDB. Rugando is a calm neighborhood with many restaurants, schools and easy access to Kacyiru, Nyarutarama and Remera.
 
-This bright residence is comfortable and neat. It has It has a classic lounge, a pretty kitchen, 4 intimate bedrooms including an en suite and a bathroom.
+This bright residence is comfortable and neat. It has a classic lounge, a pretty kitchen, 4 charming bedrooms including an en suite and a bathroom
 
-Outdoor, there is a spacious terrace with a great view, a large garden, parking space and staff quarters.
+Outdoor, there is a spacious terrace with a panoramic view, a large garden, vast parking space and staff quarters. 
 
-It is an ideal home!
+It is an ideal home! 
 
----
+- - -
 
 **Maison meublée de 4 chambres à louer - Rugando**
 
-Séjournez dans cette charmante maison meublée de 4 chambres située dans le quartier résidentiel de Rugando à proximité de RDB. Rugando est un quartier calme avec de nombreux restaurants, des vues dégagées et un accès facile à Kacyiru, Nyarutarama et les écoles internationales.
+Séjournez dans cette charmante maison meublée de 4 chambres située dans le quartier central de Rugando à proximité de RDB. Rugando est un quartier calme avec de nombreux restaurants, écoles et un accès facile à Kacyiru, Nyarutarama et Remera.
 
-Cette résidence lumineuse est confortable et soignée. Elle dispose d’un salon classique, une jolie cuisine, 4 chambres intimes dont une en suite et une salle de bains.
+Cette résidence lumineuse est confortable et soignée. Elle dispose d’un salon classique, d’une jolie cuisine, de 4 chambres charmantes dont une en suite et d’une salle de bains.
 
-A l’extérieur, il y a une terrasse spacieuse avec une vue magnifique, un grand jardin, un parking et des annexes.
+A l’extérieur, il y a une terrasse spacieuse avec une vue panoramique, un grand jardin, un vaste parking et des annexes.
 
 C’est un logement idéal !
