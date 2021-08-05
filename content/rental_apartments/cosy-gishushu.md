@@ -68,7 +68,7 @@ price: $700/month
 
 Stay in this beautiful 1-bedroom furnished apartment located on the 2nd floor of a stylish 8-units’ complex of Gishushu nearby RDB. Gishushu is a leafy neighborhood with restaurants, shops and sports facilities in walking distance.
 
-This cosy residence is refined and functional. It has a bright lounge, an American kitchen with washer, an spacious bedroom and a bathroom. In addition, high-speed internet, security, housekeeping and gardening services are complimentary!
+This cosy residence is refined and functional. It has a bright lounge, an American kitchen with washer, a spacious bedroom and a bathroom. In addition, high-speed internet, security, housekeeping and gardening services are complimentary!
 
 Outdoor, there is flowery terrace with an amazing view and shared parking space.
 
