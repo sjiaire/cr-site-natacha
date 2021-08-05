@@ -68,24 +68,24 @@ price: $700/month
 
 Stay in this beautiful 1-bedroom furnished apartment located on the 2nd floor of a stylish 8-units’ complex of Gishushu nearby RDB. Gishushu is a leafy neighborhood with restaurants, shops and sports facilities in walking distance.
 
-This cosy residence is refined and functional. It has a bright lounge, an American kitchen with washer, an elegant bedroom and a bathroom. In addition, high-speed internet, security, housekeeping and gardening services are complimentary!
+This cosy residence is refined and functional. It has a bright lounge, an American kitchen with washer, an spacious bedroom and a bathroom. In addition, high-speed internet, security, housekeeping and gardening services are complimentary!
 
 Outdoor, there is flowery terrace with an amazing view and shared parking space.
 
 For rentals under 1 month, request our short-term rates!
 
-It is a delightful home!
+It is a pleasant home! 
 
----
+- - -
 
 **Appartement meublé de 1 chambre à louer - Gishushu**
 
 Séjournez dans ce bel appartement meublé d’une chambre situé au 2ème étage d’un élégant complexe de 8 unités de Gishushu à proximité du RDB. Gishushu est un quartier verdoyant avec des restaurants, des boutiques et des installations sportives accessibles à pied.
 
-Cette résidence confortable est raffinée et fonctionnelle. Elle dispose d’un salon lumineux, d’une cuisine américaine avec lave-linge, d’une chambre élégante et d’une salle de bains. En plus, l’internet haut débit ainsi que les services de sécurité, de ménage et de jardinage sont inclus !
+Cette résidence confortable est raffinée et fonctionnelle. Elle dispose d’un salon lumineux, d’une cuisine américaine avec lave-linge, d’une chambre spacieuse et d’une salle de bains. En plus, l’internet haut débit ainsi que les services de sécurité, de ménage et de jardinage sont inclus !
 
 A l’extérieur, il y a une terrasse fleurie avec une vue imprenable et un parking commun.
 
 Pour les locations de moins de 1 mois, demandez nos tarifs court-terme !
 
-C’est un logement charmant !
+C’est un logement agréable !
