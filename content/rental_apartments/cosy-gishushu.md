@@ -66,7 +66,7 @@ price: $700/month
 
 **Furnished 1-Bedroom Apartment for Rent - Gishushu**
 
-Stay in this beautiful 1-bedroom furnished apartment located on the 2nd floor of a stylish 8-units’ complex of Gishushu nearby RDB. Gishushu is a leafy neighborhood with restaurants, shops and sports facilities in walking distance.
+Stay in this beautiful 1-bedroom furnished apartment located on the 2nd floor of a stylish 8-units’ complex of Gishushu nearby Rwanda Development Board (RDB). Gishushu is a leafy neighborhood with restaurants, stores and sports facilities in walking distance.
 
 This cosy residence is refined and functional. It has a bright lounge, an American kitchen with washer, a spacious bedroom and a bathroom. In addition, high-speed internet, security, housekeeping and gardening services are complimentary!
 
@@ -80,7 +80,7 @@ It is a pleasant home!
 
 **Appartement meublé de 1 chambre à louer - Gishushu**
 
-Séjournez dans ce bel appartement meublé d’une chambre situé au 2ème étage d’un élégant complexe de 8 unités de Gishushu à proximité du RDB. Gishushu est un quartier verdoyant avec des restaurants, des boutiques et des installations sportives accessibles à pied.
+Séjournez dans ce bel appartement meublé d’une chambre situé au 2ème étage d’un élégant complexe de 8 unités de Gishushu à proximité du Rwanda Development Board (RDB). Gishushu est un quartier verdoyant avec des restaurants, des magasins et des installations sportives accessibles à pied.
 
 Cette résidence confortable est raffinée et fonctionnelle. Elle dispose d’un salon lumineux, d’une cuisine américaine avec lave-linge, d’une chambre spacieuse et d’une salle de bains. En plus, l’internet haut débit ainsi que les services de sécurité, de ménage et de jardinage sont inclus !
 
