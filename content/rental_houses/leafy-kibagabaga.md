@@ -31,7 +31,7 @@ minimumstay: 1 Year
 road: Dirt
 size: 355 sqm
 plot_size: 1,850 sqm
-price: $ 1,000 sqm
+price: $ 1,000/month
 ---
 {{< gallery >}}
 {{< figure src="/images/uploads/079-01.jpg" >}}
