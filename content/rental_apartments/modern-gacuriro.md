@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Modern Gacuriro
 slug: 143-modern-gacuriro
-date: 2021-05-30T13:59:47.150Z
+date: 2021-08-10T14:01:03.796Z
 description: Stay in this stylish 3-bedroom furnished apartment located on the
   4th floor of a high-end building in an exclusive estate of Vision City.
   Gacuriro is a quiet residential neighborhood with lots of parks and beautiful
@@ -72,22 +72,22 @@ price: $ 1,300/month
 
 **Furnished 3-Bedroom Apartment for Rent - Gacuriro**
 
-Stay in this stylish 3-bedroom furnished apartment located on the 4th floor of a high-end building in Vision City, an exclusive estate of Gacuriro. Gacuriro is a quiet residential neighborhood with lots of parks and beautiful views.
+Stay in this stylish 3-bedroom furnished apartment located on the 4th  floor of a high-end building of Gacuriro Vision City, an exclusive estate nearby Airtel Data Centre. Gacuriro is a quiet residential neighborhood with lots of parks and beautiful views.
 
-This modern residence is spacious and neat. It has a bright lounge, an American kitchen, an en suite bedroom, 2 bedrooms sharing a bathroom and balconies. In addition, high-speed internet and security service are available!
+This modern residence is spacious and neat. It has a bright lounge, an American kitchen, 3 charming bedrooms including an en suite, a bathroom and balconies. In addition, high-speed internet is available and security is complimentary!
 
 Outdoor, the estate has several meeting spots for residents: gardens, bungalows, playgrounds and a spacious rooftop with amazing view.
 
-It is a comfortable home! 
+It is a comfortable home!
 
 - - -
 
 **Appartement meublé de 3 chambres à louer - Gacuriro**
 
-Séjournez dans cet élégant appartement meublé de 3 chambres situé au 4ème étage d’un bâtiment haut de gamme de Vision City, un quartier exclusif de Gacuriro. Gacuriro est un quartier résidentiel calme avec beaucoup de parcs et de belles vues.
+Séjournez dans cet élégant appartement meublé de 3 chambres situé au 4ème étage d’un immeuble haut de gamme de Gacuriro Vision City, une propriété exclusive à proximité du Airtel Data Centre. Gacuriro est un quartier résidentiel calme avec beaucoup de parcs et de belles vues.
 
-Cette résidence moderne est spacieuse et soignée. Elle dispose d’un salon lumineux, d’une cuisine américaine, d’une chambre en suite, de 2 chambres partageant une salle de bains et de balcons. En plus, l’internet haut débit et la sécurité sont disponibles !
+Cette résidence moderne est spacieuse et soignée. Elle dispose d’un salon lumineux, d’une cuisine américaine, de 3 chambres charmantes dont une en suite, d’une salle de bains et des balcons. En plus, l’internet haut débit est disponible et la sécurité est inclus !
 
-A l’extérieur, le quartier dispose de plusieurs espaces communs pour les résidents : jardins, bungalows, terrains de jeux et d’un toit spacieux avec vue imprenable.
+A l’extérieur, la propriété dispose de plusieurs espaces communs pour les résidents : jardins, bungalows, terrains de jeux et un toit spacieux avec vue imprenable.
 
-C’est un logement confortable!
+C’est un logement confortable !
