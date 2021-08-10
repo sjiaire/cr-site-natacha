@@ -3,7 +3,7 @@ property: House
 type: rentals
 availability: Available
 title: Leafy Kibagabaga
-slug: 79-leafy-KIbagabag
+slug: 79-leafy-kibagabaga
 date: 2021-08-09T13:25:52.681Z
 draft: false
 description: Stay in this restful 5-bedroom furnished house located in the
