@@ -6,8 +6,8 @@ title: Spacious Kimironko
 slug: 140-spacious-kimironko
 date: 2021-07-27T14:13:13.122Z
 draft: false
-description: Buy this pleasant 4-bedroom house within a 2,300 sqm plot located
-  in residential area of Kimironko nearby Kwa Mushimire. Kimironko is a lively
+description: Buy this pleasant 4-bedroom house on 2,321 sqm located in a
+  mixed-use area of Kimironko nearby Kwa Mushimire. Kimironko is a lively
   neighborhood with easy access to the central market and public transportation.
 hidesidebar: true
 thumbnail: /images/uploads/140-01.jpg
