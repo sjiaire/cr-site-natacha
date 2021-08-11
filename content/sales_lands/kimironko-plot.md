@@ -47,11 +47,11 @@ In addition, the land includes a 4-bedroom house with a vast and mature garden a
 
 It is a prime property!
 
----
+- - -
 
 **Terrain à vendre - Quartier**
 
-Achetez ce beau terrain de 321 m² situé dans un quartier mixte de Kimironko à proximité de Kwa Mushimire. Kimironko est un quartier animé avec un accès facile au quartier d’affaires de Kimironko.
+Achetez ce beau terrain de 321 m² situé dans un quartier à usage mixte de Kimironko à proximité de Kwa Mushimire. Kimironko est un quartier animé avec un accès facile au quartier d’affaires de Kimironko.
 
 En plus, le terrain comprend une maison de 4 chambres avec un jardin vaste et mature et a accès à 2 routes, l’eau et l’électricité.
 
