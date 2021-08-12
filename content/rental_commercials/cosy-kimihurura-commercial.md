@@ -1,7 +1,7 @@
 ---
 availability: Rented
 title: Test
-slug: 002-test
+slug: 0002-test
 date: 2021-08-12T08:15:44.643Z
 description: ghhjddddddddddkkdddd
 thumbnail: /images/uploads/0002.jpg
@@ -17,7 +17,7 @@ price: "000"
 ---
 {{< gallery >}}
 
-{{< figure src="/images/uploads/121-01.jpg" >}}
+{{< figure src="/images/uploads/0002.jpg" >}}
 
 {{< /gallery >}}
 
