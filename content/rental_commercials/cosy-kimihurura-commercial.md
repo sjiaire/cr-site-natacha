@@ -1,42 +1,24 @@
 ---
-road: __
-security: Available
-baths: "1"
-property: Commercial
-slug: 089-cosy-kimihurura-commercial
-date: 2019-02-27T09:09:15.544Z
-description: Rent this pleasant 2-bedroom apartment conveniently located in a
-  lively area of Kimihurura in 5 minutes’ walk from the paved road. Kimihurura
-  neighborhood is central to Kigali City and hosts many shops, restaurants and
-  recreational activities.
-draft: false
-hidesidebar: true
-thumbnail: /images/uploads/commercial-for-rent.jpg
-image: /images/uploads/commercial-for-rent.jpg
-area: Kimihurura
-floor: none
-size: __
-tv: Available
-washingmachine: NotAvailable
+availability: Rented
+title: Test
+slug: 002-test
+date: 2021-08-12T08:15:44.643Z
+description: ghhjddddddddddkkdddd
+thumbnail: /images/uploads/0002.jpg
+image: /images/uploads/0002.jpg
+area: Test
+floor: "1"
 wifi: NotAvailable
-minimumstay: 1 Month
-price: $ 500/month
-maid: NotAvailable
-furnished: Furnished
-pets: NotAvailable
-garden: Available
-area: Kimihurura
-closets: Available
-bedrooms: "2"
-type: rentals
-availability: Available
-title: Cosy Kimihurura
-parking: "1"
-sleeps: "4"
+parking: None
+minimumstay: 1 Week
+road: Dirt
+size: "000"
+price: "000"
 ---
-
 {{< gallery >}}
 
-{{< figure src="/images/uploads/089-01.jpg" >}}
+{{< figure src="/images/uploads/121-01.jpg" >}}
 
-{{< /gallery >}} {{< load-photoswipe >}}
+{{< /gallery >}}
+
+{{< load-photoswipe >}}
