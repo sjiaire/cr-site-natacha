@@ -1,7 +1,7 @@
 ---
 availability: Rented
 title: Test
-slug: 003-test
+slug: 0003-test
 date: 2021-08-12T12:08:30.656Z
 description: ghdklfjlkjgkdfsks
 thumbnail: /images/uploads/0003.jpg
