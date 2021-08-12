@@ -11,9 +11,9 @@ floor: "1"
 wifi: NotAvailable
 parking: None
 minimumstay: 1 Week
-road: Dirt
-size: "000"
-price: "000"
+road: __
+size: __
+price: __
 ---
 {{< gallery >}}
 
