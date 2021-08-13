@@ -2,7 +2,7 @@
 availability: Rented
 title: Commercial for Rent
 slug: 02-commercial-for-rent
-date: 2021-08-12T08:15:44.643Z
+date: 2020-09-01T08:15:44.643Z
 description: Test commercial for rent
 thumbnail: /images/uploads/000-02.jpg
 image: /images/uploads/000-02.jpg
