@@ -4,7 +4,7 @@ type: rentals
 availability: Rented
 title: Spacious Warehouse
 slug: 002-commercial-rental
-date: 2021-07-01T08:35:25.413Z
+date: 2021-02-28T08:35:25.413Z
 description: Spacious warehouse for rent
 draft: false
 hidesidebar: true
