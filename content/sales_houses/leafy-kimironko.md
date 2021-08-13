@@ -41,9 +41,9 @@ price: Rwf 450,000,000
 
 **4-Bedroom House for Sale - Kimironko**
 
-Buy this pleasant 4-bedroom house on 2,321 sqm located in a mixed-use area of Kimironko nearby Kwa Mushimire. Kimironko is a lively neighborhood with easy access to the central market and public transportation.
+Buy this pleasant 4-bedroom house on a 2,321 sqm plot located in a mixed-use area of Kimironko nearby Kwa Mushimire. Kimironko is a lively neighborhood with easy access to the central market and public transportation.
 
-This spacious residence is neat and welcoming. It has a bright lounge, a wide kitchen with a storage room, 4 elegant bedrooms including an en suite, a bathroom and a toilet. In addition, the house has access to 2 roads, water and electricity.
+This spacious residence is neat and welcoming. It has a bright lounge, a wide kitchen with a storage room, 4 elegant bedrooms including an en suite, a bathroom and a toilet. 
 
 Outdoor, there is a terrace with a nice view, a vast garden, a large parking space and staff quarters.
 
@@ -53,9 +53,9 @@ Outdoor, there is a terrace with a nice view, a vast garden, a large parking spa
 
 **Maison de 4 chambres à vendre - Kimironko**
 
-Achetez cette agréable maison de 4 chambres sur 2.321 m² située dans un quartier à usage mixte de Kimironko à proximité de Kwa Mushimire. Kimironko est un quartier animé avec un accès facile au marché central et aux transports en commun.
+Achetez cette agréable maison de 4 chambres sur un terrain de 2.321 m² située dans un quartier à usage mixte de Kimironko à proximité de Kwa Mushimire. Kimironko est un quartier animé avec un accès facile au marché central et aux transports en commun.
 
-Cette résidence spacieuse est soignée et accueillante. Elle dispose d’un salon lumineux, d’une grande cuisine avec un stock, de 4 chambres élégantes dont une en suite, d’une salle de bains et d’une toilette. En plus, la maison a accès à 2 routes, l’eau et l’électricité.
+Cette résidence spacieuse est soignée et accueillante. Elle dispose d’un salon lumineux, d’une grande cuisine avec un stock, de 4 chambres élégantes dont une en suite, d’une salle de bains et d’une toilette.
 
 A l’extérieur, il y a une terrasse avec un jolie vue, un vaste jardin, un grand parking et des annexes.
 
