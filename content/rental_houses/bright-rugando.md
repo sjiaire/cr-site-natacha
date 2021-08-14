@@ -66,7 +66,7 @@ price: $1,200/month
 
 Stay in this charming 4-bedroom furnished house located in the central area of Rugando nearby RDB. Rugando is a calm neighborhood with many restaurants, schools and easy access to Kacyiru, Nyarutarama and Remera.
 
-This bright residence is  comfortable and neat. It has a classic lounge, a pretty kitchen, 4 charming bedrooms including an en suite and a bathroom
+This bright residence is omfortable and neat. It has a classic lounge, a pretty kitchen, 4 charming bedrooms including an en suite and a bathroom
 
 Outdoor, there is a spacious terrace with a panoramic view, a large garden, vast parking space and staff quarters. 
 
