@@ -43,7 +43,7 @@ price: Rwf 450,000,000
 
 Buy this pleasant 4-bedroom house on a 2,321 sqm plot located in amixed use area of Kimironko nearby Kwa Mushimire. Kimironko is a lively neighborhood with easy access to the central market and public transportation.
 
-This spacious residence is neat and welcoming.  It has a bright lounge, a wide kitchen with a storage room, 4 elegant bedrooms including an en suite, a bathroom and a toilet.
+This spacious residence is neat and welcoming. It has a bright lounge, a wide kitchen with a storage room, 4 elegant bedrooms including an en suite, a bathroom and a toilet.
 
 Outdoor, there is a terrace with a nice view, a vast garden, a large parking space and staff quarters.
 
