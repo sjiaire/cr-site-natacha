@@ -1,7 +1,7 @@
 ---
 availability: Sold
-title: Kigali Warehouse
-slug: 003-kigali-warehouse
+title: Spacious Warehouse
+slug: 003-spacious-warehouse
 date: 2021-08-12T12:08:30.656Z
 description: Spacious Warehouse for Sale
 thumbnail: /images/uploads/000-03.jpg
@@ -10,7 +10,7 @@ area: Kigali
 wifi: NotAvailable
 parking: 6+
 road: Paved
-size: 100 sqm
+size: 250 sqm
 plot_size: 500 sqm
 price: Rwf 100,000,000
 ---
@@ -21,3 +21,5 @@ price: Rwf 100,000,000
 {{< /gallery >}}
 
 {{< load-photoswipe >}}
+
+**Spacious Warehouse for Sale - Kigali**
