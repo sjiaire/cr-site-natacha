@@ -23,3 +23,5 @@ price: Rwf 100,000,000
 {{< load-photoswipe >}}
 
 **Spacious Warehouse for Sale - Kigali**
+
+Buy this spacious 250 sqm warehouse located in Kigali
