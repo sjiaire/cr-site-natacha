@@ -1,5 +1,5 @@
 ---
-availability: Rented
+availability: Sold
 title: Kigali Warehouse
 slug: 003-kigali-warehouse
 date: 2021-08-12T12:08:30.656Z
