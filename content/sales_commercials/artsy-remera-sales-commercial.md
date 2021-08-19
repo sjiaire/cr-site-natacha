@@ -2,7 +2,7 @@
 availability: Sold
 title: Spacious Warehouse
 slug: 003-spacious-warehouse
-date: 2021-08-12T12:08:30.656Z
+date: 2020-08-30T12:08:30.656Z
 description: Spacious Warehouse for Sale
 thumbnail: /images/uploads/000-03.jpg
 image: /images/uploads/000-03.jpg
