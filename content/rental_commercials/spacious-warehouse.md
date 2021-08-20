@@ -22,7 +22,7 @@ price: "Rwf 500,000/month "
 ---
 {{< gallery >}}
 
-{{< figure src="/images/uploads/000-03.jpg" >}}
+{{< figure src="/images/uploads/000-02.jpg" >}}
 
 {{< /gallery >}}
 
