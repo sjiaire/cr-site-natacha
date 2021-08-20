@@ -8,8 +8,8 @@ date: 2021-02-28T08:35:25.413Z
 description: Spacious warehouse for rent
 draft: false
 hidesidebar: true
-thumbnail: /images/uploads/000-03.jpg
-image: /images/uploads/000-03.jpg
+thumbnail: /images/uploads/000-02.jpg
+image: /images/uploads/000-02.jpg
 area: Kigali
 floor: Ground
 wifi: NotAvailable
@@ -18,7 +18,7 @@ minimumstay: 3 Years
 road: Paved
 plot_size: __
 size: 300 sqm
-price: "Rwf - /month "
+price: "Rwf 500,000/month "
 ---
 {{< gallery >}}
 
