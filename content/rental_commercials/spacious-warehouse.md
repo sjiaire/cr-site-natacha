@@ -2,10 +2,10 @@
 property: Commercial
 type: rentals
 availability: Rented
-title: Spacious Warehouse
+title: Spacious Shop
 slug: 002-commercial-rental
 date: 2021-02-28T08:35:25.413Z
-description: Spacious warehouse for rent
+description: Spacious shop for rent
 draft: false
 hidesidebar: true
 thumbnail: /images/uploads/000-02.jpg
@@ -17,7 +17,7 @@ parking: 6+
 minimumstay: 3 Years
 road: Paved
 plot_size: __
-size: 300 sqm
+size: 50 sqm
 price: "Rwf 500,000/month "
 ---
 {{< gallery >}}
@@ -28,4 +28,4 @@ price: "Rwf 500,000/month "
 
 {{< load-photoswipe >}}
 
-**Spacious Warehouse for Rent - Kigali**
+**Spacious Shop for Rent - Kigali**
