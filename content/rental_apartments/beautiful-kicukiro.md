@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Beautiful Kicukiro
 slug: 148-beautiful-kicukiro
-date: 2021-04-21T14:37:43.904Z
+date: 2021-08-28T14:32:49.948Z
 description: Stay in this elegant 2-bedroom furnished apartment located in the
   residential area of Kicukiro nearby Simba Supermarket. Kicukiro is a lively
   neighborhood with several shops, schools and easy access from the city center
@@ -57,20 +57,24 @@ price: $600/month
 
 Stay in this elegant 2-bedroom furnished apartment located in the residential area of Kicukiro nearby Simba Supermarket. Kicukiro is a lively neighborhood with several shops, schools and easy access from the city center and Kigali Airport.
 
-This beautiful residence is neat and functional. It has a cosy lounge, an American kitchen with washer and 2 lovely bedrooms including an en suite. In addition, high-speed internet is complimentary!
+This beautiful residence is neat and functional. It has a cosy lounge, an American kitchen with washer, 2 lovely bedrooms including an en suite and a bathroom. In addition, high-speed internet and gardening service are complimentary!
 
-Outdoor, there is an intimate terrace, a shared garden and shared parking space. 
+Outdoor, here is an intimate terrace, a shared garden and shared parking space.
 
-It is a charming home! 
+For rentals under 1 month, request our short-term rates!
 
-- - -
+It is a charming home!
+
+---
 
 **Appartement meublé de 2 chambres à louer - Kicukiro**
 
 Séjournez dans cet élégant appartement meublé de 2 chambres situé dans le quartier résidentiel de Kicukiro à proximité du supermarché Simba. Kicukiro est un quartier animé avec plusieurs magasins, écoles et un accès facile depuis le centre-ville et l’aéroport de Kigali.
 
-Cette belle résidence est soignée et fonctionnelle. Elle dispose d’un salon confortable, d’une cuisine américaine avec lave-linge et de 2 belles chambres dont une suite. En plus, l’internet haut débit est inclus !
+Cette belle résidence est soignée et fonctionnelle. Elle dispose d’un salon confortable, d’une cuisine américaine avec lave-linge, de 2 belles chambres dont une en suite et une salle de bains. En plus, l’internet haut débit et le service de jardinage sont inclus !
 
-À l’extérieur, il y a une terrasse intime, un jardin et un parking communs.
+A l’extérieur, il y a une terrasse intime, un jardin et un parking communs.
+
+Pour les locations de moins de 1 mois, demandez nos tarifs court-terme !
 
 C’est un logement charmant !
