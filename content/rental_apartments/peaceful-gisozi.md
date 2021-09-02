@@ -4,7 +4,7 @@ type: rentals
 availability: Available
 title: Peaceful Gisozi
 slug: 150-peaceful-gisozi
-date: 2021-05-03T10:09:28.300Z
+date: 2021-09-02T15:02:04.323Z
 description: Stay in this nice 1-bedroom furnished apartment located on the
   ground floor of a brand-new building of Gisozi nearby Kigali Independent
   University. Gisozi is a quiet neighborhood with several international schools
@@ -64,6 +64,15 @@ price: $ 300/month
 
 {{< load-photoswipe >}}
 
+<!--\[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<!\[endif]-->
+
 **Furnished 1-Bedroom Apartment for Rent - Gisozi**
 
 Stay in this roomy 1-bedroom furnished apartment located on the ground floor of an ecological 6-units’ building of Gisozi nearby Kigali Independent University (ULK). Gisozi is a prosperous neighborhood with several international schools and easy access to the city center.
@@ -72,9 +81,9 @@ This peaceful residence is neat and airy. It has a bright lounge, a functional k
 
 Outdoor, there is a shared garden and shared parking space.
 
-It is a charming home! 
+It is a charming home!
 
-- - -
+---
 
 **Appartement meublé de 1 chambre à louer - Gisozi**
 
